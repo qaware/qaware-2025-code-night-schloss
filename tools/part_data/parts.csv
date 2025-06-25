@@ -1,0 +1,361 @@
+Part,Category,Description
+Engine Block,Engine System,Main structure housing cylinders and other components.
+Cylinder Head,Engine System,"Sits on top of the engine block, holds valves and spark plugs."
+Pistons,Engine System,Move up and down in cylinders to compress and combust fuel.
+Crankshaft,Engine System,Converts piston movement into rotational motion.
+Camshaft,Engine System,Operates the engine’s valves via lobes.
+Timing Belt / Chain,Engine System,Synchronizes rotation of the crankshaft and camshaft.
+Spark Plugs,Engine System,Ignite air/fuel mixture in combustion chamber.
+Oil Filter,Engine System,Removes contaminants from engine oil.
+Air Filter,Engine System,Filters air before it enters the engine.
+Fuel Injectors,Fuel System,Spray fuel into the engine's cylinders.
+Fuel Tank,Fuel System,Stores fuel used by the vehicle.
+Fuel Pump,Fuel System,Delivers fuel from the tank to the engine.
+Radiator,Cooling & HVAC System,Dissipates heat from engine coolant.
+Thermostat,Cooling & HVAC System,Regulates engine coolant temperature.
+Heater Core,Cooling & HVAC System,Heats cabin air using engine coolant.
+A/C Compressor,Cooling & HVAC System,Compresses refrigerant for air conditioning.
+Battery,Electrical and Ignition,Provides electrical power to start the engine.
+Alternator,Electrical and Ignition,Charges the battery and powers electrical systems.
+Starter Motor,Electrical and Ignition,Cranks the engine to start it.
+Fuse Box,Electrical and Ignition,Houses fuses that protect circuits.
+ECU,Electrical and Ignition,Controls various engine and car functions.
+Brake Pads,Braking System,Press against rotors to slow down the vehicle.
+Brake Rotors,Braking System,Discs that brake pads clamp onto.
+Brake Calipers,Braking System,Houses the brake pads and pistons.
+Brake Lines,Braking System,Carry brake fluid to braking components.
+Shock Absorbers,Suspension and Steering,Dampen spring movement for smoother ride.
+Coil Springs,Suspension and Steering,Support vehicle weight and absorb shocks.
+Control Arms,Suspension and Steering,Connect wheel hub to vehicle frame.
+Tie Rods,Suspension and Steering,Transmit steering input to wheels.
+Steering Wheel,Suspension and Steering,Allows driver to steer the vehicle.
+Transmission,Transmission System,Transfers power from engine to wheels.
+Clutch Plate,Transmission System,Engages and disengages power to transmission.
+Gearbox,Transmission System,Changes vehicle speed and torque.
+Drive Shaft,Transmission System,Transfers torque from transmission to wheels.
+Differential,Transmission System,Distributes engine torque to drive wheels.
+Dashboard,Interior Components,Houses instruments and controls in front of driver.
+Seats,Interior Components,Provide seating for vehicle occupants.
+Seatbelts,Interior Components,Secure passengers to reduce injury risk.
+Glove Box,Interior Components,Compartment for storing small items.
+Speakers,Control and Comfort Features,Output sound for entertainment or alerts.
+Infotainment System,Control and Comfort Features,"Central interface for audio, navigation, etc."
+Cruise Control System,Control and Comfort Features,Maintains a constant vehicle speed.
+Headlights,Electrical and Ignition,Illuminate the road ahead at night.
+Tail Lights,Electrical and Ignition,Signal braking and presence to rear traffic.
+Turn Signals,Electrical and Ignition,Indicate direction of intended turns.
+Bumpers,Body and Exterior,Protects car front and rear from impacts.
+Doors,Body and Exterior,Allow entry and exit from the vehicle.
+Hood,Body and Exterior,Covers the engine compartment.
+Trunk,Body and Exterior,Storage compartment at rear of vehicle.
+Side Mirrors,Body and Exterior,Allow driver to view rear/side traffic.
+Windshield,Body and Exterior,Front glass panel for visibility and protection.
+Engine Block,Engine System,Main structure housing cylinders and other components.
+Cylinder Head,Engine System,"Sits on top of the engine block, holds valves and spark plugs."
+Pistons,Engine System,Move up and down in cylinders to compress and combust fuel.
+Crankshaft,Engine System,Converts piston movement into rotational motion.
+Camshaft,Engine System,Operates the engine’s valves via lobes.
+Timing Belt,Engine System,Synchronizes rotation of the crankshaft and camshaft.
+Timing Chain,Engine System,Metal chain version of timing belt.
+Timing Cover,Engine System,Protects the timing belt or chain.
+Rocker Arms,Engine System,Transfer movement from camshaft to valves.
+Valves,Engine System,Control intake and exhaust of air/fuel mixture.
+Valve Springs,Engine System,Ensure valves close properly.
+Pushrods,Engine System,Transfer motion in OHV engines.
+Tappets,Engine System,Link camshaft with pushrods.
+Lifters,Engine System,Transmit camshaft motion to valves.
+Oil Pan,Engine System,Holds engine oil.
+Oil Pump,Engine System,Circulates oil through the engine.
+Oil Filter,Engine System,Removes contaminants from engine oil.
+Oil Cooler,Engine System,Cools the engine oil.
+Dipstick,Engine System,Measures oil level.
+Spark Plugs,Engine System,Ignite air/fuel mixture in combustion chamber.
+Glow Plugs,Engine System,Preheat air in diesel engines.
+Ignition Coils,Engine System,Generate high voltage for spark plugs.
+Distributor,Engine System,Distributes spark to the correct cylinder.
+Fuel Injectors,Engine System,Spray fuel into the engine's cylinders.
+Throttle Body,Engine System,Controls airflow into the engine.
+Intake Manifold,Engine System,Distributes air to the engine cylinders.
+Exhaust Manifold,Engine System,Collects exhaust gases from cylinders.
+Turbocharger,Engine System,Forces more air into the engine.
+Supercharger,Engine System,Boosts engine power via air compression.
+Intercooler,Engine System,Cools air from turbocharger.
+Air Filter,Engine System,Filters air before it enters the engine.
+Engine Mounts,Engine System,Secure engine to frame and absorb vibration.
+Serpentine Belt,Engine System,Drives multiple engine accessories.
+Drive Belt,Engine System,"Drives alternator, AC compressor, etc."
+Harmonic Balancer,Engine System,Reduces engine vibration.
+ECU,Engine System,Controls engine performance.
+Fuel Tank,Fuel System,Stores fuel used by the vehicle.
+Fuel Pump,Fuel System,Delivers fuel from tank to engine.
+Fuel Lines,Fuel System,Carry fuel to the engine.
+Fuel Filter,Fuel System,Filters impurities from fuel.
+Fuel Rail,Fuel System,Distributes fuel to injectors.
+Fuel Pressure Regulator,Fuel System,Maintains correct fuel pressure.
+Gas Cap,Fuel System,Seals the fuel tank.
+Radiator,Cooling & HVAC System,Dissipates heat from engine coolant.
+Radiator Cap,Cooling & HVAC System,Seals radiator and maintains pressure.
+Radiator Hoses,Cooling & HVAC System,Carry coolant to and from radiator.
+Thermostat,Cooling & HVAC System,Regulates engine coolant temperature.
+Thermostat Housing,Cooling & HVAC System,Encases the thermostat.
+Water Pump,Cooling & HVAC System,Circulates coolant through engine.
+Cooling Fan,Cooling & HVAC System,Assists in radiator cooling.
+Fan Clutch,Cooling & HVAC System,Engages fan as needed.
+Heater Core,Cooling & HVAC System,Heats cabin air using coolant.
+Heater Blower Motor,Cooling & HVAC System,Drives air through HVAC system.
+A/C Compressor,Cooling & HVAC System,Compresses refrigerant for air conditioning.
+A/C Condenser,Cooling & HVAC System,Releases heat from compressed refrigerant.
+A/C Dryer,Cooling & HVAC System,Removes moisture from refrigerant.
+Expansion Valve,Cooling & HVAC System,Controls refrigerant flow.
+A/C Lines,Cooling & HVAC System,Transport refrigerant.
+Cabin Air Filter,Cooling & HVAC System,Filters air inside the car.
+Battery,Electrical and Ignition,Powers vehicle electronics and starts engine.
+Alternator,Electrical and Ignition,Charges battery and powers electronics.
+Starter Motor,Electrical and Ignition,Turns engine to initiate operation.
+Voltage Regulator,Electrical and Ignition,Controls alternator output.
+Fuse Box,Electrical and Ignition,Protects circuits with fuses.
+Relays,Electrical and Ignition,Electrically operated switches.
+Wiring Harness,Electrical and Ignition,Bundle of wires for electrical connections.
+Ignition Switch,Electrical and Ignition,Starts the vehicle.
+Key Fob,Electrical and Ignition,Remote key with lock/unlock functions.
+O2 Sensor,Electrical and Ignition,Monitors oxygen levels in exhaust.
+MAF Sensor,Electrical and Ignition,Measures air intake for engine.
+MAP Sensor,Electrical and Ignition,Monitors air pressure in intake manifold.
+Knock Sensor,Electrical and Ignition,Detects engine knock.
+TPS Sensor,Electrical and Ignition,Measures throttle position.
+Speedometer Sensor,Electrical and Ignition,Measures vehicle speed.
+Camshaft Position Sensor,Electrical and Ignition,Tracks camshaft position.
+Crankshaft Position Sensor,Electrical and Ignition,Tracks crankshaft position.
+"Cylinder Head","Engine System","Generic Cylinder Head"
+"Pistons","Engine System","Generic Pistons"
+"Crankshaft","Engine System","Generic Crankshaft"
+"Camshaft","Engine System","Generic Camshaft"
+"Timing Belt / Chain","Engine System","Generic Timing Belt / Chain"
+"Timing Cover","Engine System","Generic Timing Cover"
+"Rocker Arms","Engine System","Generic Rocker Arms"
+"Valves (Intake, Exhaust)","Engine System","Generic Valves (Intake, Exhaust)"
+"Valve Springs","Engine System","Generic Valve Springs"
+"Pushrods","Engine System","Generic Pushrods"
+"Tappets / Lifters","Engine System","Generic Tappets / Lifters"
+"Oil Pan","Engine System","Generic Oil Pan"
+"Oil Pump","Engine System","Generic Oil Pump"
+"Oil Filter","Engine System","Generic Oil Filter"
+"Oil Cooler","Engine System","Generic Oil Cooler"
+"Dipstick","Engine System","Generic Dipstick"
+"Spark Plugs","Engine System","Generic Spark Plugs"
+"Glow Plugs (Diesel)","Engine System","Generic Glow Plugs (Diesel)"
+"Ignition Coils","Engine System","Generic Ignition Coils"
+"Distributor","Engine System","Generic Distributor"
+"Fuel Injectors","Engine System","Generic Fuel Injectors"
+"Carburetor (older models)","Engine System","Generic Carburetor (older models)"
+"Throttle Body","Engine System","Generic Throttle Body"
+"Intake Manifold","Engine System","Generic Intake Manifold"
+"Exhaust Manifold","Engine System","Generic Exhaust Manifold"
+"Turbocharger / Supercharger","Engine System","Generic Turbocharger / Supercharger"
+"Intercooler","Engine System","Generic Intercooler"
+"Air Filter","Engine System","Generic Air Filter"
+"Engine Mounts","Engine System","Generic Engine Mounts"
+"Serpentine Belt","Engine System","Generic Serpentine Belt"
+"Drive Belt","Engine System","Generic Drive Belt"
+"Harmonic Balancer","Engine System","Generic Harmonic Balancer"
+"Engine Control Unit (ECU)","Engine System","Generic Engine Control Unit (ECU)"
+"Transmission (Manual / Automatic)","Transmission System","Generic Transmission (Manual / Automatic)"
+"Torque Converter","Transmission System","Generic Torque Converter"
+"Clutch Plate","Transmission System","Generic Clutch Plate"
+"Pressure Plate","Transmission System","Generic Pressure Plate"
+"Flywheel","Transmission System","Generic Flywheel"
+"Gearbox","Transmission System","Generic Gearbox"
+"Synchromesh Gears","Transmission System","Generic Synchromesh Gears"
+"Transmission Mount","Transmission System","Generic Transmission Mount"
+"Drive Shaft","Transmission System","Generic Drive Shaft"
+"CV Joints","Transmission System","Generic CV Joints"
+"Differential","Transmission System","Generic Differential"
+"Axles","Transmission System","Generic Axles"
+"Shift Linkage","Transmission System","Generic Shift Linkage"
+"Transmission Cooler","Transmission System","Generic Transmission Cooler"
+"Clutch Master Cylinder","Transmission System","Generic Clutch Master Cylinder"
+"Clutch Slave Cylinder","Transmission System","Generic Clutch Slave Cylinder"
+"Shock Absorbers / Struts","Suspension and Steering","Generic Shock Absorbers / Struts"
+"Coil Springs","Suspension and Steering","Generic Coil Springs"
+"Leaf Springs","Suspension and Steering","Generic Leaf Springs"
+"Torsion Bar","Suspension and Steering","Generic Torsion Bar"
+"Sway Bar / Anti-roll Bar","Suspension and Steering","Generic Sway Bar / Anti-roll Bar"
+"Control Arms","Suspension and Steering","Generic Control Arms"
+"Ball Joints","Suspension and Steering","Generic Ball Joints"
+"Tie Rods","Suspension and Steering","Generic Tie Rods"
+"Steering Rack","Suspension and Steering","Generic Steering Rack"
+"Steering Column","Suspension and Steering","Generic Steering Column"
+"Power Steering Pump","Suspension and Steering","Generic Power Steering Pump"
+"Steering Wheel","Suspension and Steering","Generic Steering Wheel"
+"Wheel Bearings","Suspension and Steering","Generic Wheel Bearings"
+"Bushings","Suspension and Steering","Generic Bushings"
+"Wheel Hub","Suspension and Steering","Generic Wheel Hub"
+"Alignment Shims","Suspension and Steering","Generic Alignment Shims"
+"Brake Pads","Braking System","Generic Brake Pads"
+"Brake Rotors / Discs","Braking System","Generic Brake Rotors / Discs"
+"Brake Calipers","Braking System","Generic Brake Calipers"
+"Brake Drums","Braking System","Generic Brake Drums"
+"Brake Shoes","Braking System","Generic Brake Shoes"
+"Brake Lines","Braking System","Generic Brake Lines"
+"Brake Master Cylinder","Braking System","Generic Brake Master Cylinder"
+"Brake Booster","Braking System","Generic Brake Booster"
+"ABS Sensors","Braking System","Generic ABS Sensors"
+"Brake Fluid Reservoir","Braking System","Generic Brake Fluid Reservoir"
+"Proportioning Valve","Braking System","Generic Proportioning Valve"
+"Handbrake / Parking Brake","Braking System","Generic Handbrake / Parking Brake"
+"Brake Pedal","Braking System","Generic Brake Pedal"
+"Fuel Tank","Fuel System","Generic Fuel Tank"
+"Fuel Pump","Fuel System","Generic Fuel Pump"
+"Fuel Lines","Fuel System","Generic Fuel Lines"
+"Fuel Filter","Fuel System","Generic Fuel Filter"
+"Fuel Injectors","Fuel System","Generic Fuel Injectors"
+"Fuel Rail","Fuel System","Generic Fuel Rail"
+"Fuel Pressure Regulator","Fuel System","Generic Fuel Pressure Regulator"
+"Gas Cap","Fuel System","Generic Gas Cap"
+"Radiator","Cooling & HVAC System","Generic Radiator"
+"Radiator Cap","Cooling & HVAC System","Generic Radiator Cap"
+"Radiator Hoses","Cooling & HVAC System","Generic Radiator Hoses"
+"Thermostat","Cooling & HVAC System","Generic Thermostat"
+"Thermostat Housing","Cooling & HVAC System","Generic Thermostat Housing"
+"Water Pump","Cooling & HVAC System","Generic Water Pump"
+"Cooling Fan","Cooling & HVAC System","Generic Cooling Fan"
+"Fan Clutch","Cooling & HVAC System","Generic Fan Clutch"
+"Heater Core","Cooling & HVAC System","Generic Heater Core"
+"Heater Blower Motor","Cooling & HVAC System","Generic Heater Blower Motor"
+"A/C Compressor","Cooling & HVAC System","Generic A/C Compressor"
+"A/C Condenser","Cooling & HVAC System","Generic A/C Condenser"
+"A/C Dryer","Cooling & HVAC System","Generic A/C Dryer"
+"Expansion Valve","Cooling & HVAC System","Generic Expansion Valve"
+"A/C Lines","Cooling & HVAC System","Generic A/C Lines"
+"Cabin Air Filter","Cooling & HVAC System","Generic Cabin Air Filter"
+"Battery","Electrical and Ignition","Generic Battery"
+"Alternator","Electrical and Ignition","Generic Alternator"
+"Starter Motor","Electrical and Ignition","Generic Starter Motor"
+"Voltage Regulator","Electrical and Ignition","Generic Voltage Regulator"
+"Fuse Box","Electrical and Ignition","Generic Fuse Box"
+"Relays","Electrical and Ignition","Generic Relays"
+"Wiring Harness","Electrical and Ignition","Generic Wiring Harness"
+"Spark Plugs","Electrical and Ignition","Generic Spark Plugs"
+"Ignition Coils","Electrical and Ignition","Generic Ignition Coils"
+"Ignition Switch","Electrical and Ignition","Generic Ignition Switch"
+"Key Fob","Electrical and Ignition","Generic Key Fob"
+"Sensors (O2, MAF, MAP, Knock, TPS, etc.)","Electrical and Ignition","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)"
+"Speedometer Sensor","Electrical and Ignition","Generic Speedometer Sensor"
+"Camshaft Position Sensor","Electrical and Ignition","Generic Camshaft Position Sensor"
+"Crankshaft Position Sensor","Electrical and Ignition","Generic Crankshaft Position Sensor"
+"ECU / PCM / BCM","Electrical and Ignition","Generic ECU / PCM / BCM"
+"Headlights","Electrical and Ignition","Generic Headlights"
+"Tail Lights","Electrical and Ignition","Generic Tail Lights"
+"Turn Signals","Electrical and Ignition","Generic Turn Signals"
+"Interior Lights","Electrical and Ignition","Generic Interior Lights"
+"Fog Lights","Electrical and Ignition","Generic Fog Lights"
+"Light Bulbs","Electrical and Ignition","Generic Light Bulbs"
+"Electric Window Motors","Electrical and Ignition","Generic Electric Window Motors"
+"Electric Mirror Motors","Electrical and Ignition","Generic Electric Mirror Motors"
+"Horn","Electrical and Ignition","Generic Horn"
+"Dashboard","Interior Components","Generic Dashboard"
+"Gauges (Speedometer, Tachometer, Fuel, Temp)","Interior Components","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)"
+"Center Console","Interior Components","Generic Center Console"
+"Glove Box","Interior Components","Generic Glove Box"
+"Seats","Interior Components","Generic Seats"
+"Seatbelts","Interior Components","Generic Seatbelts"
+"Seat Motors","Interior Components","Generic Seat Motors"
+"Carpet","Interior Components","Generic Carpet"
+"Floor Mats","Interior Components","Generic Floor Mats"
+"Sun Visors","Interior Components","Generic Sun Visors"
+"Headliner","Interior Components","Generic Headliner"
+"Rearview Mirror","Interior Components","Generic Rearview Mirror"
+"Gear Shift Knob","Interior Components","Generic Gear Shift Knob"
+"Handbrake Lever","Interior Components","Generic Handbrake Lever"
+"Interior Trim Panels","Interior Components","Generic Interior Trim Panels"
+"Hood / Bonnet","Body and Exterior","Generic Hood / Bonnet"
+"Trunk / Boot","Body and Exterior","Generic Trunk / Boot"
+"Doors","Body and Exterior","Generic Doors"
+"Fenders","Body and Exterior","Generic Fenders"
+"Bumpers (Front, Rear)","Body and Exterior","Generic Bumpers (Front, Rear)"
+"Spoiler","Body and Exterior","Generic Spoiler"
+"Grille","Body and Exterior","Generic Grille"
+"Roof Rack","Body and Exterior","Generic Roof Rack"
+"Windshield","Body and Exterior","Generic Windshield"
+"Side Windows","Body and Exterior","Generic Side Windows"
+"Rear Window","Body and Exterior","Generic Rear Window"
+"Window Seals","Body and Exterior","Generic Window Seals"
+"Side Mirrors","Body and Exterior","Generic Side Mirrors"
+"Wiper Arms","Body and Exterior","Generic Wiper Arms"
+"Wiper Blades","Body and Exterior","Generic Wiper Blades"
+"Windshield Washer Pump","Body and Exterior","Generic Windshield Washer Pump"
+"Antenna","Body and Exterior","Generic Antenna"
+"Emblems / Badges","Body and Exterior","Generic Emblems / Badges"
+"License Plate Holder","Body and Exterior","Generic License Plate Holder"
+"Frame / Chassis","Structural and Chassis","Generic Frame / Chassis"
+"Subframe","Structural and Chassis","Generic Subframe"
+"Crossmember","Structural and Chassis","Generic Crossmember"
+"Floor Pan","Structural and Chassis","Generic Floor Pan"
+"Pillars (A, B, C)","Structural and Chassis","Generic Pillars (A, B, C)"
+"Rocker Panels","Structural and Chassis","Generic Rocker Panels"
+"Wheel Wells","Structural and Chassis","Generic Wheel Wells"
+"Rims / Wheels","Wheels and Tires","Generic Rims / Wheels"
+"Tires","Wheels and Tires","Generic Tires"
+"Valve Stems","Wheels and Tires","Generic Valve Stems"
+"Hubcaps","Wheels and Tires","Generic Hubcaps"
+"Wheel Bolts / Lug Nuts","Wheels and Tires","Generic Wheel Bolts / Lug Nuts"
+"Tire Pressure Monitoring Sensors (TPMS)","Wheels and Tires","Generic Tire Pressure Monitoring Sensors (TPMS)"
+"Airbags (Front, Side, Curtain, Knee)","Safety Systems","Generic Airbags (Front, Side, Curtain, Knee)"
+"Crash Sensors","Safety Systems","Generic Crash Sensors"
+"Seatbelt Pretensioners","Safety Systems","Generic Seatbelt Pretensioners"
+"Roll Cage (in racing cars)","Safety Systems","Generic Roll Cage (in racing cars)"
+"Crumple Zones","Safety Systems","Generic Crumple Zones"
+"Cruise Control System","Control and Comfort Features","Generic Cruise Control System"
+"Infotainment System","Control and Comfort Features","Generic Infotainment System"
+"Navigation System (GPS)","Control and Comfort Features","Generic Navigation System (GPS)"
+"Speakers","Control and Comfort Features","Generic Speakers"
+"Climate Control Unit","Control and Comfort Features","Generic Climate Control Unit"
+"Heated Seats","Control and Comfort Features","Generic Heated Seats"
+"Power Windows Switches","Control and Comfort Features","Generic Power Windows Switches"
+"Mirror Adjustment Switches","Control and Comfort Features","Generic Mirror Adjustment Switches"
+"Parking Sensors","Control and Comfort Features","Generic Parking Sensors"
+"Backup Camera","Control and Comfort Features","Generic Backup Camera"
+"Lane Assist System","Control and Comfort Features","Generic Lane Assist System"
+"Blind Spot Monitor","Control and Comfort Features","Generic Blind Spot Monitor"
+"Adaptive Cruise Control","Control and Comfort Features","Generic Adaptive Cruise Control"
+"Electronic Stability Control","Control and Comfort Features","Generic Electronic Stability Control"
+Cold Air Intake,Performance Parts,Increases engine airflow for better combustion.
+Performance Exhaust,Performance Parts,Reduces backpressure and improves exhaust flow.
+High-Flow Catalytic Converter,Performance Parts,Improves emissions flow for tuned engines.
+Turbocharger Kit,Performance Parts,Forces extra air into combustion for more power.
+Supercharger Kit,Performance Parts,Compresses intake air for increased engine power.
+Blow-Off Valve,Performance Parts,Releases excess turbo pressure to prevent damage.
+Intercooler,Performance Parts,Cools compressed air before it enters the engine.
+ECU Tuner,Performance Parts,Modifies engine parameters for higher performance.
+Aftermarket Camshaft,Performance Parts,Alters valve timing for performance tuning.
+Performance Radiator,Cooling System,Increased cooling capacity for high performance.
+Oil Catch Can,Engine Care,Traps oil vapor and prevents intake fouling.
+High-Performance Spark Plugs,Ignition System,Provide better combustion efficiency.
+Upgraded Fuel Injectors,Fuel System,Deliver more fuel for high-performance engines.
+Performance Fuel Pump,Fuel System,Increased fuel delivery rate for tuned engines.
+Adjustable Coilovers,Suspension,Allow height and damping adjustment.
+Lowering Springs,Suspension,Lowers ride height and improves handling.
+Strut Tower Brace,Suspension,Improves chassis rigidity and cornering.
+Sway Bars,Suspension,Reduces body roll in aggressive turns.
+Big Brake Kit,Braking System,Larger brakes for better stopping power.
+Slotted Brake Rotors,Braking System,Improves heat dissipation under hard braking.
+Performance Brake Pads,Braking System,Designed for high-temperature stopping.
+Lightweight Wheels,Wheels & Tires,Reduce unsprung mass for quicker acceleration.
+Low Profile Tires,Wheels & Tires,Better grip and handling performance.
+Short Throw Shifter,Transmission,Reduces shift distance for quicker gear changes.
+Limited Slip Differential,Drivetrain,Distributes torque more efficiently to wheels.
+Lightweight Flywheel,Drivetrain,Improves throttle response.
+Carbon Fiber Hood,Exterior,Reduces weight and improves aerodynamics.
+Widebody Kit,Exterior,Allows wider tires and improves stance.
+Rear Diffuser,Exterior,Improves underbody airflow and downforce.
+Front Splitter,Exterior,Adds front-end downforce.
+Carbon Fiber Spoiler,Exterior,Increases rear downforce.
+Aero Canards,Exterior,Enhance airflow and cornering stability.
+Roll Cage,Interior,Improves safety and chassis rigidity.
+Bucket Seats,Interior,Provide support for high-G driving.
+Racing Harness,Interior,Keeps driver securely in seat.
+Quick Release Steering Wheel,Interior,Allows faster entry/exit and theft prevention.
+Digital Gauges,Interior,"Monitor boost, oil pressure, and air/fuel ratio."
+Launch Control Module,Electronics,Optimizes power delivery off the line.
+Performance Clutch Kit,Drivetrain,Handles more torque from tuned engines.
+Aftermarket LSD,Drivetrain,Improves grip in cornering and acceleration.
