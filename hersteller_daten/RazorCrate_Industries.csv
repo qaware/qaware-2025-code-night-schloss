@@ -1,0 +1,500 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,recalled,requiresCalibration,hazardousMaterial,used,aftermarket,digitallyTracked,safetyCritical,ecoFriendly
+Cooling System,Performance Radiator SFQ,Increased cooling capacity for high performance.,RCI-D899-42C1-4E84,2018-05-03,1353.32,CHF,True,False,"BMV,Feramborghini,Mecentley",True,False,True,True,False,False,True,True
+Interior,Roll Cage 7AK,Improves safety and chassis rigidity.,RCI-C34B-105E-E18A,2022-07-31,1803.25,CHF,True,False,"Feramborghini,BMV,Nord",True,False,True,True,False,True,True,True
+Interior,Digital Gauges PPQ,"Monitor boost, oil pressure, and air/fuel ratio.",RCI-CDC4-0A73-BE15,2025-06-29,1155.92,CHF,True,False,"WV,BMV,Mecentley",True,True,True,False,False,False,False,True
+Interior,Quick Release Steering Wheel MO7,Allows faster entry/exit and theft prevention.,RCI-27B4-6924-6E8F,2024-08-26,1215.08,CHF,True,False,"Feramborghini,Mecentley,Nord,BMV,WV",True,False,True,True,True,True,False,True
+Interior,Racing Harness HW0,Keeps driver securely in seat.,RCI-1E11-BB3B-8E98,2015-02-25,1302.17,CHF,True,False,"BMV,Mecentley",True,False,False,False,True,True,True,False
+Interior,Digital Gauges 5HB,"Monitor boost, oil pressure, and air/fuel ratio.",RCI-C559-8477-3BBD,2023-01-20,1680.87,CHF,True,False,"Mecentley,Nord,Feramborghini,BMV",False,False,True,False,True,True,False,False
+Interior,Digital Gauges KFD,"Monitor boost, oil pressure, and air/fuel ratio.",RCI-745B-68F1-30CE,2024-07-22,745.74,CHF,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",False,True,True,True,False,True,True,True
+Interior,Digital Gauges QD1,"Monitor boost, oil pressure, and air/fuel ratio.",RCI-C1FB-4683-0990,2024-09-01,1620.05,CHF,True,True,"Mecentley,Nord,BMV,Feramborghini",True,True,True,False,True,True,False,True
+Interior,Racing Harness 9WF,Keeps driver securely in seat.,RCI-4C11-46AC-44C2,2018-07-12,269.6,CHF,False,True,WV,False,False,True,True,False,True,False,False
+Interior,Racing Harness V0Z,Keeps driver securely in seat.,RCI-1367-13F1-023B,2019-05-22,1182.75,CHF,True,False,"BMV,Feramborghini,WV",True,True,False,True,True,True,True,True
+Interior,Bucket Seats HFZ,Provide support for high-G driving.,RCI-EC17-C52A-84DB,2016-03-14,441.5,CHF,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,False,True,True,True,True,True,True
+Transmission,Short Throw Shifter WN2,Reduces shift distance for quicker gear changes.,RCI-51F4-91ED-CDD4,2022-08-07,333.41,CHF,True,True,"WV,BMV,Mecentley,Feramborghini",False,True,False,True,True,False,True,True
+Transmission,Short Throw Shifter BSN,Reduces shift distance for quicker gear changes.,RCI-17B9-9A81-6696,2016-02-18,1233.57,CHF,True,True,"Mecentley,BMV",True,False,True,True,True,True,False,True
+Transmission,Short Throw Shifter XVT,Reduces shift distance for quicker gear changes.,RCI-4CA8-AB96-A6F4,2020-08-05,1110.35,CHF,True,True,"BMV,WV,Mecentley,Feramborghini",True,True,False,False,True,True,False,False
+Transmission,Short Throw Shifter KK0,Reduces shift distance for quicker gear changes.,RCI-1F93-337A-CCB8,2021-05-29,346.89,CHF,True,True,"Feramborghini,BMV,Mecentley,WV,Nord",True,True,False,True,False,False,True,False
+Performance Parts,ECU Tuner G9E,Modifies engine parameters for higher performance.,RCI-7A97-B92F-94F7,2018-01-28,1274.72,CHF,False,True,"BMV,Nord,Feramborghini",False,True,False,True,False,True,True,False
+Performance Parts,Performance Exhaust 0JR,Reduces backpressure and improves exhaust flow.,RCI-ADC2-8042-41CB,2019-09-26,1347.88,CHF,True,False,"Feramborghini,WV",False,True,True,False,True,True,True,True
+Performance Parts,Aftermarket Camshaft B5S,Alters valve timing for performance tuning.,RCI-A70C-9DC4-7FA6,2025-06-18,906.85,CHF,True,True,"Mecentley,Nord",True,True,False,True,False,False,True,True
+Performance Parts,ECU Tuner KN3,Modifies engine parameters for higher performance.,RCI-3B7E-169F-B002,2023-06-08,137.35,CHF,True,True,"BMV,WV,Nord,Mecentley",True,True,False,False,True,True,True,True
+Performance Parts,Intercooler VO0,Cools compressed air before it enters the engine.,RCI-A43A-857A-0942,2022-02-07,72.73,CHF,True,True,WV,True,False,True,True,True,True,False,True
+Performance Parts,High-Flow Catalytic Converter 9SL,Improves emissions flow for tuned engines.,RCI-7ED3-FBF2-B6F8,2022-04-06,838.44,CHF,True,True,"Nord,WV,Mecentley,BMV",True,True,False,True,True,False,True,False
+Performance Parts,Intercooler N4S,Cools compressed air before it enters the engine.,RCI-8524-D167-2260,2020-08-06,1912.11,CHF,True,True,"Mecentley,Nord,Feramborghini",True,True,True,True,False,True,False,True
+Braking System,Brake Shoes ONG,Generic Brake Shoes,RCI-7A37-A4A3-C7AB,2024-11-30,1569.55,CHF,True,False,BMV,False,True,False,True,True,True,True,True
+Braking System,Brake Calipers 3I6,Houses the brake pads and pistons.,RCI-E6C3-FA78-72DF,2023-04-15,1895.29,CHF,True,True,"Mecentley,Feramborghini,Nord",True,True,True,True,True,True,True,True
+Braking System,Brake Booster GZU,Generic Brake Booster,RCI-AC3F-0797-5307,2015-10-14,1785.06,CHF,False,True,"Nord,Mecentley,WV,BMV",False,True,False,False,False,False,True,True
+Braking System,Brake Pads 8QE,Generic Brake Pads,RCI-E228-D942-7937,2017-03-30,279.87,CHF,True,True,"Feramborghini,WV,Mecentley",True,True,True,True,True,False,True,True
+Braking System,Brake Lines 0FH,Generic Brake Lines,RCI-2CDE-72B7-BF8E,2018-04-07,122.09,CHF,True,False,"BMV,Nord,Mecentley",False,False,True,True,False,True,True,False
+Braking System,Brake Calipers G7E,Generic Brake Calipers,RCI-56CB-5BE3-4A86,2023-10-29,1521.91,CHF,False,False,"Nord,WV,BMV,Mecentley,Feramborghini",True,True,True,True,False,True,True,True
+Braking System,Proportioning Valve VL7,Generic Proportioning Valve,RCI-21FE-7CA1-6B6C,2021-10-19,1070.63,CHF,True,True,"Feramborghini,Mecentley,WV",True,True,False,True,False,True,False,False
+Fuel System,Fuel Tank 3FQ,Stores fuel used by the vehicle.,RCI-4130-26F8-5F6E,2015-01-24,457.04,CHF,True,True,"Feramborghini,BMV,WV,Mecentley,Nord",True,False,True,True,False,False,True,False
+Fuel System,Fuel Pressure Regulator IK4,Generic Fuel Pressure Regulator,RCI-4475-AB1E-975B,2018-05-13,154.03,CHF,False,True,Mecentley,False,True,False,False,True,False,True,True
+Fuel System,Fuel Pump S60,Delivers fuel from the tank to the engine.,RCI-026C-CF08-4DE1,2019-01-13,1451.2,CHF,True,True,"Nord,BMV,Mecentley,WV",True,False,False,False,False,True,True,False
+Fuel System,Fuel Injectors AHT,Generic Fuel Injectors,RCI-04B5-F530-B4BB,2021-03-10,24.35,CHF,True,False,"Feramborghini,BMV,WV,Mecentley,Nord",True,False,True,True,False,True,True,True
+Fuel System,Fuel Lines 3TH,Carry fuel to the engine.,RCI-5E59-B0FF-5569,2017-10-16,17.27,CHF,True,False,"Feramborghini,WV,Nord,BMV",True,False,True,False,True,True,False,False
+Fuel System,Fuel Rail PAE,Distributes fuel to injectors.,RCI-CA71-150F-347E,2019-06-08,481.64,CHF,True,True,"Nord,Feramborghini,WV,Mecentley,BMV",True,False,True,True,True,False,True,True
+Fuel System,Upgraded Fuel Injectors RCL,Deliver more fuel for high-performance engines.,RCI-1D30-F46B-0E1D,2017-08-01,802.15,CHF,True,True,BMV,False,True,False,False,True,True,False,True
+Fuel System,Fuel Pump 35F,Generic Fuel Pump,RCI-C592-D605-D33D,2022-05-27,1771.28,CHF,True,True,"Feramborghini,BMV,Mecentley",True,True,True,True,False,False,False,False
+Fuel System,Fuel Tank HQP,Stores fuel used by the vehicle.,RCI-6C2E-1825-079E,2021-03-30,617.51,CHF,True,True,"BMV,Feramborghini,Mecentley,Nord",False,True,False,False,False,False,False,False
+Fuel System,Fuel Tank C6W,Stores fuel used by the vehicle.,RCI-B042-EC45-D83E,2023-12-27,318.28,CHF,True,False,"WV,Nord",True,False,True,False,True,True,False,False
+Fuel System,Fuel Pump JAL,Delivers fuel from tank to engine.,RCI-6AF9-1D62-526D,2020-10-25,1789.17,CHF,True,True,"BMV,Feramborghini",True,False,True,True,False,False,False,True
+Fuel System,Fuel Rail SYL,Distributes fuel to injectors.,RCI-DDBE-E82F-6B63,2016-02-14,914.08,CHF,False,True,"Nord,BMV,WV,Mecentley,Feramborghini",True,True,False,False,False,True,False,False
+Fuel System,Fuel Filter 9BG,Filters impurities from fuel.,RCI-FDD0-60E7-8A56,2020-01-24,1002.14,CHF,True,False,"BMV,Nord,WV,Mecentley",True,False,True,True,True,True,False,True
+Fuel System,Gas Cap 5SQ,Seals the fuel tank.,RCI-560F-9D9C-149C,2025-04-16,65.18,CHF,True,True,"Nord,WV,Feramborghini,Mecentley",True,False,False,True,False,False,True,True
+Fuel System,Fuel Pressure Regulator WPH,Maintains correct fuel pressure.,RCI-66F1-CE04-D7EE,2017-04-19,812.96,CHF,True,True,"Nord,Feramborghini,BMV",False,True,True,True,False,False,False,True
+Fuel System,Fuel Filter A2V,Filters impurities from fuel.,RCI-D8CC-F5B8-2647,2020-04-22,1740.23,CHF,True,True,"Mecentley,BMV,WV",True,True,True,False,True,True,False,True
+Fuel System,Fuel Lines WTO,Generic Fuel Lines,RCI-9280-B08C-B8EE,2020-07-09,713.59,CHF,True,True,"WV,Feramborghini",True,True,True,False,False,False,False,True
+Fuel System,Fuel Pressure Regulator VM1,Maintains correct fuel pressure.,RCI-71DF-9ED2-2981,2016-10-02,954.19,CHF,False,True,Mecentley,True,True,True,True,False,True,True,True
+Fuel System,Fuel Injectors 6HG,Spray fuel into the engine's cylinders.,RCI-41E9-4A90-D49C,2023-06-28,821.6,CHF,True,False,"BMV,Feramborghini",False,False,True,True,False,False,False,True
+Fuel System,Fuel Pump X5Y,Delivers fuel from the tank to the engine.,RCI-DF37-4DEF-482D,2022-03-15,726.43,CHF,True,True,"Feramborghini,WV,BMV,Nord,Mecentley",True,False,True,True,True,True,True,True
+Fuel System,Performance Fuel Pump VVM,Increased fuel delivery rate for tuned engines.,RCI-090E-C275-01CA,2023-07-23,1076.17,CHF,True,True,"BMV,Mecentley,Nord,WV,Feramborghini",False,True,False,True,True,False,True,True
+Fuel System,Gas Cap 5SB,Generic Gas Cap,RCI-54E0-D8CB-6F2A,2021-06-15,1939.67,CHF,True,False,"Feramborghini,BMV,Nord,WV",True,False,False,False,False,False,False,True
+Fuel System,Fuel Rail YM7,Distributes fuel to injectors.,RCI-1189-2B19-81AE,2018-01-19,1280.04,CHF,True,True,"BMV,Feramborghini",True,True,False,True,False,True,False,False
+Fuel System,Fuel Pump ZWE,Delivers fuel from tank to engine.,RCI-649E-D171-35FF,2015-08-22,1260.39,CHF,True,False,"Feramborghini,WV",False,False,True,False,True,True,True,True
+Fuel System,Fuel Lines 3GK,Generic Fuel Lines,RCI-DE7C-C7E3-48AD,2020-10-02,831.28,CHF,True,True,"Mecentley,BMV,Feramborghini,WV",False,True,True,True,True,False,True,True
+Fuel System,Fuel Filter FOF,Filters impurities from fuel.,RCI-55BE-4024-B89B,2015-07-13,1553.46,CHF,True,False,"Feramborghini,Mecentley,BMV,Nord",False,True,True,False,True,False,True,True
+Fuel System,Fuel Lines 2Z0,Generic Fuel Lines,RCI-C155-4300-18FA,2024-01-13,1128.65,CHF,True,True,"BMV,Feramborghini,Mecentley,Nord",False,False,False,True,False,True,True,False
+Fuel System,Fuel Lines LZM,Carry fuel to the engine.,RCI-C964-2610-C08E,2020-04-11,689.68,CHF,True,False,"Mecentley,Feramborghini",True,True,False,False,True,True,True,True
+Fuel System,Fuel Tank FL0,Stores fuel used by the vehicle.,RCI-5643-66AE-EF3C,2025-09-20,1210.46,CHF,True,True,"Nord,BMV,Mecentley,Feramborghini",True,True,False,True,False,True,True,False
+Fuel System,Fuel Lines TYI,Carry fuel to the engine.,RCI-0DE0-26D9-7B20,2024-08-19,1557.28,CHF,True,True,"Feramborghini,BMV",True,True,False,True,False,True,True,False
+Fuel System,Fuel Rail E2Q,Distributes fuel to injectors.,RCI-7C58-A5B1-E54B,2022-01-27,1890.48,CHF,True,True,"WV,Mecentley,Feramborghini",True,False,False,True,True,True,True,True
+Fuel System,Fuel Tank 108,Generic Fuel Tank,RCI-D5F9-84F4-26E7,2018-12-31,212.0,CHF,True,True,Nord,True,True,True,True,True,True,True,True
+Fuel System,Gas Cap 9H1,Generic Gas Cap,RCI-F130-55F1-0F08,2016-07-10,1497.01,CHF,True,True,"Mecentley,Feramborghini,WV",False,True,True,False,True,True,False,True
+Fuel System,Fuel Rail GM0,Generic Fuel Rail,RCI-EBD7-7EE9-FAAE,2021-02-26,226.69,CHF,True,True,Feramborghini,True,True,True,False,True,True,False,True
+Fuel System,Fuel Filter 524,Filters impurities from fuel.,RCI-22C3-4067-271A,2015-03-08,897.43,CHF,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",False,False,True,True,True,True,True,False
+Fuel System,Fuel Pressure Regulator UL9,Generic Fuel Pressure Regulator,RCI-0A18-3CEB-97C9,2023-10-21,874.44,CHF,False,True,"Nord,WV",False,True,True,False,True,True,True,True
+Fuel System,Upgraded Fuel Injectors P2Y,Deliver more fuel for high-performance engines.,RCI-8637-6E6F-AE62,2023-01-06,1267.7,CHF,True,True,BMV,True,True,False,False,False,True,False,False
+Fuel System,Fuel Pressure Regulator PVI,Generic Fuel Pressure Regulator,RCI-3854-877E-DF0E,2018-04-11,49.88,CHF,False,True,"BMV,WV,Mecentley,Nord",False,True,False,False,False,False,True,True
+Fuel System,Fuel Lines ZYG,Generic Fuel Lines,RCI-0709-3B3A-AD15,2017-12-18,1518.62,CHF,True,True,"Feramborghini,Mecentley",True,True,True,False,False,False,False,True
+Fuel System,Fuel Filter T0V,Filters impurities from fuel.,RCI-2DD6-09EF-636F,2019-01-15,1996.22,CHF,True,True,"Nord,Mecentley,Feramborghini,BMV",True,True,False,True,False,True,False,True
+Fuel System,Fuel Pump 333,Delivers fuel from the tank to the engine.,RCI-4BD1-2AA3-C032,2021-05-21,721.79,CHF,True,True,"Mecentley,WV,Feramborghini,Nord,BMV",True,True,True,True,False,False,False,False
+Fuel System,Fuel Pump D7W,Delivers fuel from the tank to the engine.,RCI-92DC-17F3-61B3,2016-05-16,1551.54,CHF,False,True,"Mecentley,BMV,Feramborghini",True,True,True,True,True,False,False,True
+Fuel System,Fuel Lines RO5,Carry fuel to the engine.,RCI-0D42-E343-08C9,2024-01-26,715.63,CHF,True,True,"Nord,Mecentley,Feramborghini,WV",True,True,False,False,True,True,True,False
+Fuel System,Fuel Injectors 7LW,Spray fuel into the engine's cylinders.,RCI-2428-0B30-C02F,2022-09-22,634.9,CHF,False,True,"Mecentley,BMV,Feramborghini,WV",True,False,True,False,False,True,False,False
+Fuel System,Fuel Filter IGQ,Filters impurities from fuel.,RCI-254A-FE6F-38D7,2025-09-16,1084.72,CHF,True,True,"BMV,Mecentley,Nord",False,False,True,True,True,True,True,False
+Fuel System,Fuel Lines GHB,Generic Fuel Lines,RCI-7683-316D-9FEE,2023-06-11,1852.38,CHF,True,True,BMV,True,False,True,False,True,True,True,True
+Fuel System,Fuel Injectors HE6,Generic Fuel Injectors,RCI-B60B-9053-F6D6,2019-10-29,902.23,CHF,True,False,"BMV,Feramborghini,WV,Mecentley,Nord",False,True,True,True,False,False,True,True
+Fuel System,Gas Cap L5R,Generic Gas Cap,RCI-2B1D-57FF-BAE1,2022-02-11,1458.79,CHF,True,True,"Feramborghini,BMV",True,True,True,False,True,True,True,False
+Fuel System,Performance Fuel Pump 5KS,Increased fuel delivery rate for tuned engines.,RCI-E75A-830D-12B4,2019-02-01,1339.58,CHF,True,True,"WV,Feramborghini",True,True,True,True,False,True,False,True
+Fuel System,Gas Cap 3HE,Generic Gas Cap,RCI-4E7A-025D-3E20,2024-04-25,1860.11,CHF,True,True,"Feramborghini,Nord,WV,Mecentley",False,True,True,False,False,True,False,True
+Fuel System,Fuel Tank BLC,Stores fuel used by the vehicle.,RCI-6CF8-A675-F1A9,2024-10-26,647.35,CHF,True,False,"Nord,Mecentley,Feramborghini,BMV,WV",True,False,True,True,True,True,True,True
+Fuel System,Fuel Lines EA1,Carry fuel to the engine.,RCI-AA66-5753-2D5D,2023-01-18,61.05,CHF,True,True,"Nord,Mecentley,Feramborghini",False,True,True,True,False,False,True,True
+Fuel System,Fuel Rail 68R,Distributes fuel to injectors.,RCI-10AB-D3FD-2500,2019-04-16,997.15,CHF,False,True,BMV,False,True,True,True,False,True,False,True
+Fuel System,Fuel Injectors 8VD,Generic Fuel Injectors,RCI-11C0-EBA6-4BE8,2025-04-15,1771.1,CHF,True,True,"Feramborghini,Mecentley",False,True,True,False,True,False,False,False
+Fuel System,Fuel Tank F8N,Stores fuel used by the vehicle.,RCI-E6F5-05B0-86F4,2021-04-17,371.38,CHF,False,False,"Mecentley,BMV,Feramborghini,WV,Nord",True,True,True,False,True,False,False,False
+Fuel System,Fuel Filter BZE,Filters impurities from fuel.,RCI-47C1-014E-641B,2024-01-19,426.83,CHF,True,True,"Mecentley,WV",True,True,True,True,True,False,True,True
+Fuel System,Fuel Pump K7V,Generic Fuel Pump,RCI-D32E-2172-AB9A,2017-10-08,1664.76,CHF,True,True,"WV,Nord,Feramborghini,Mecentley",True,True,False,True,False,False,True,False
+Fuel System,Fuel Rail ABR,Distributes fuel to injectors.,RCI-43E0-11F2-C6EE,2020-01-27,668.67,CHF,True,True,"Nord,Feramborghini,BMV",True,False,True,True,True,True,False,True
+Fuel System,Fuel Rail A2Q,Distributes fuel to injectors.,RCI-75A0-DE2E-0508,2015-09-30,1430.39,CHF,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",False,True,True,True,False,True,True,True
+Fuel System,Fuel Tank TY8,Generic Fuel Tank,RCI-C523-01A2-94FC,2022-03-20,830.89,CHF,True,True,WV,True,True,True,True,True,True,True,True
+Fuel System,Fuel Injectors 4FO,Spray fuel into the engine's cylinders.,RCI-BE85-2419-1451,2019-09-28,388.74,CHF,True,False,"Feramborghini,Mecentley",False,False,True,False,True,False,True,True
+Fuel System,Fuel Pump 8XU,Delivers fuel from tank to engine.,RCI-A888-5604-F2C3,2015-09-02,756.01,CHF,True,False,WV,True,True,False,True,True,True,False,False
+Fuel System,Performance Fuel Pump 6IV,Increased fuel delivery rate for tuned engines.,RCI-64C9-3711-83EC,2022-11-05,122.82,CHF,True,True,Feramborghini,False,True,False,True,False,False,True,False
+Fuel System,Performance Fuel Pump 962,Increased fuel delivery rate for tuned engines.,RCI-C79F-1487-C65A,2016-09-25,465.06,CHF,True,True,"Mecentley,Nord,BMV",False,True,True,False,False,True,False,True
+Fuel System,Fuel Tank KPA,Stores fuel used by the vehicle.,RCI-8274-FFAA-A7B4,2025-02-01,873.25,CHF,False,False,"BMV,WV,Mecentley,Nord,Feramborghini",False,False,False,True,True,False,True,False
+Fuel System,Gas Cap CJT,Generic Gas Cap,RCI-B084-726A-9BC0,2021-10-14,1391.42,CHF,True,True,"Feramborghini,Nord,Mecentley,WV,BMV",True,True,False,True,True,False,True,False
+Fuel System,Fuel Pressure Regulator E09,Maintains correct fuel pressure.,RCI-0926-F37A-3BE1,2017-05-09,501.86,CHF,True,True,"WV,Feramborghini,BMV",True,True,True,False,True,False,False,False
+Fuel System,Fuel Tank 6B9,Stores fuel used by the vehicle.,RCI-AC76-3205-8CF7,2016-03-03,706.02,CHF,True,False,"WV,Nord",True,False,True,False,True,True,False,True
+Fuel System,Fuel Rail 4RH,Generic Fuel Rail,RCI-4ED2-DAE5-DF14,2024-12-04,1898.02,CHF,True,True,Nord,False,True,True,False,False,True,True,False
+Fuel System,Fuel Injectors N6T,Spray fuel into the engine's cylinders.,RCI-ADE4-1423-3526,2017-09-20,1433.15,CHF,True,True,Nord,True,False,True,True,True,True,True,True
+Fuel System,Fuel Pump KLR,Delivers fuel from the tank to the engine.,RCI-E69B-626D-68C1,2016-12-18,308.19,CHF,True,True,"WV,Nord,Mecentley,Feramborghini,BMV",True,True,False,True,True,True,False,False
+Fuel System,Fuel Pump PSS,Delivers fuel from tank to engine.,RCI-A35D-1ABE-C19E,2016-01-06,778.34,CHF,True,False,"WV,Nord,Mecentley",False,False,True,True,True,True,True,True
+Fuel System,Gas Cap AX9,Seals the fuel tank.,RCI-8C04-74A7-F51C,2017-12-08,110.54,CHF,True,True,"Mecentley,BMV,WV",False,True,True,True,True,False,False,True
+Fuel System,Fuel Pressure Regulator IUW,Maintains correct fuel pressure.,RCI-9516-6766-25FC,2025-03-01,1318.73,CHF,True,True,"WV,Mecentley,Feramborghini,BMV,Nord",True,False,False,False,True,True,True,True
+Fuel System,Upgraded Fuel Injectors M3C,Deliver more fuel for high-performance engines.,RCI-A25A-450D-4F8E,2017-10-10,607.08,CHF,True,True,BMV,False,False,True,True,True,True,True,False
+Fuel System,Upgraded Fuel Injectors 3U0,Deliver more fuel for high-performance engines.,RCI-0220-B0A9-86C2,2024-11-20,1625.39,CHF,True,True,"Nord,BMV,Mecentley",True,False,True,True,True,False,False,False
+Fuel System,Fuel Injectors H11,Spray fuel into the engine's cylinders.,RCI-5FD6-27F6-D019,2017-02-20,312.43,CHF,True,True,"Mecentley,BMV,Nord",True,True,True,False,False,False,False,True
+Fuel System,Fuel Pump 4IM,Delivers fuel from the tank to the engine.,RCI-695D-535E-8F75,2023-03-22,1301.5,CHF,False,False,"Nord,Feramborghini,Mecentley,WV,BMV",True,True,True,True,False,True,False,False
+Fuel System,Fuel Tank JRP,Stores fuel used by the vehicle.,RCI-4EE1-14D8-233F,2018-08-09,1092.21,CHF,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,False,True,False,False,True,True,True
+Fuel System,Gas Cap LAV,Seals the fuel tank.,RCI-DAAF-076A-01DA,2019-03-30,431.25,CHF,True,True,"BMV,Nord,Feramborghini,WV",False,False,True,False,False,False,True,True
+Fuel System,Fuel Lines L28,Carry fuel to the engine.,RCI-4168-E357-7A20,2015-02-12,904.1,CHF,False,True,"WV,Feramborghini",False,True,False,True,True,False,False,False
+Fuel System,Fuel Pump U60,Generic Fuel Pump,RCI-F084-7E8B-D4BE,2025-07-30,998.46,CHF,True,False,"Mecentley,Nord",True,True,False,True,False,True,True,True
+Fuel System,Fuel Lines KN6,Generic Fuel Lines,RCI-0191-C943-734C,2023-02-06,1223.74,CHF,True,False,Nord,True,False,False,True,False,True,True,False
+Fuel System,Fuel Lines GF0,Generic Fuel Lines,RCI-7C14-C895-1745,2017-08-01,1053.72,CHF,True,False,"Feramborghini,BMV",False,False,True,True,True,False,False,False
+Fuel System,Fuel Tank R7T,Generic Fuel Tank,RCI-CE24-B301-21D8,2025-08-22,1841.04,CHF,True,False,"Mecentley,BMV,WV",True,False,True,False,True,True,True,True
+Fuel System,Fuel Filter E8D,Filters impurities from fuel.,RCI-62E5-2639-4462,2019-09-01,919.44,CHF,True,True,Nord,True,False,False,True,True,True,True,False
+Fuel System,Performance Fuel Pump ECN,Increased fuel delivery rate for tuned engines.,RCI-ED02-816B-76E0,2017-05-15,983.57,CHF,True,False,Mecentley,True,True,True,True,True,True,True,False
+Fuel System,Fuel Tank 8S0,Generic Fuel Tank,RCI-9BB1-8AA0-BCCD,2023-06-27,1856.13,CHF,True,False,"Feramborghini,Nord",True,True,True,False,False,False,True,True
+Fuel System,Fuel Lines U9V,Generic Fuel Lines,RCI-8FD8-CDF8-EBF4,2015-11-17,228.72,CHF,False,True,"Mecentley,BMV,Nord,Feramborghini,WV",True,False,True,False,True,True,True,True
+Fuel System,Fuel Lines 656,Carry fuel to the engine.,RCI-26FD-8189-EC2D,2015-08-24,924.61,CHF,True,False,"Mecentley,Nord,WV",False,True,False,True,False,True,True,True
+Fuel System,Fuel Injectors 3O5,Spray fuel into the engine's cylinders.,RCI-79BB-C36E-7593,2017-09-23,1330.02,CHF,False,True,BMV,True,False,True,False,True,False,True,True
+Fuel System,Fuel Filter 8O1,Generic Fuel Filter,RCI-4943-11E6-00B7,2024-11-01,1310.04,CHF,True,True,"Mecentley,BMV,Feramborghini",False,False,True,True,True,False,False,False
+Fuel System,Fuel Injectors RH2,Spray fuel into the engine's cylinders.,RCI-ADA6-5DF4-738C,2025-03-18,1896.39,CHF,True,True,"Nord,WV,Mecentley",True,True,False,True,True,True,True,True
+Fuel System,Performance Fuel Pump 9V5,Increased fuel delivery rate for tuned engines.,RCI-E27C-2B86-4A1E,2015-12-25,308.05,CHF,True,False,"BMV,Mecentley",False,False,True,False,True,True,False,False
+Engine System,Spark Plugs NNZ,Ignite air/fuel mixture in combustion chamber.,RCI-4A48-E647-0843,2020-05-31,609.64,CHF,True,True,"Mecentley,BMV,WV,Nord",False,True,False,True,True,True,True,True
+Engine System,Pistons FV3,Generic Pistons,RCI-FEF2-9276-7357,2020-12-19,1826.11,CHF,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",True,True,True,True,True,False,True,False
+Engine System,Oil Cooler 103,Cools the engine oil.,RCI-6BC2-CBCF-0182,2023-05-19,1039.59,CHF,True,True,"Nord,Mecentley,BMV",True,True,False,True,False,False,True,False
+Engine System,Serpentine Belt E5V,Generic Serpentine Belt,RCI-D054-120E-30B0,2015-09-24,392.56,CHF,True,True,"BMV,Feramborghini,Mecentley",True,False,False,True,False,True,False,False
+Engine System,Intake Manifold V8Y,Distributes air to the engine cylinders.,RCI-4015-A5BF-0F11,2022-09-09,713.48,CHF,True,False,WV,True,True,False,False,True,True,True,True
+Engine System,Engine Block 5TR,Main structure housing cylinders and other components.,RCI-2962-8542-6AB2,2019-07-22,1004.98,CHF,True,True,"BMV,Mecentley,Nord",True,False,True,True,False,True,True,True
+Engine System,Crankshaft P5H,Generic Crankshaft,RCI-25E0-6306-131D,2021-11-29,1444.44,CHF,True,True,"Feramborghini,Nord,WV,Mecentley,BMV",False,True,True,False,True,True,False,True
+Engine System,Harmonic Balancer 54J,Reduces engine vibration.,RCI-0BF1-2F3B-D887,2024-06-29,1766.07,CHF,True,True,"Mecentley,Nord,Feramborghini",True,False,False,True,True,True,False,True
+Engine System,Glow Plugs RXO,Preheat air in diesel engines.,RCI-9E6F-1240-E0D2,2017-03-28,282.48,CHF,True,True,WV,False,True,False,True,True,True,False,True
+Engine System,Intake Manifold LA5,Generic Intake Manifold,RCI-1872-98A3-A08D,2019-06-07,716.56,CHF,False,True,"Nord,WV,Feramborghini",True,True,True,True,True,False,True,True
+Engine System,Engine Block I7G,Main structure housing cylinders and other components.,RCI-89DF-684D-A941,2016-10-26,170.07,CHF,True,True,"BMV,Mecentley,WV",False,True,True,True,False,True,False,True
+Engine System,Dipstick JLA,Measures oil level.,RCI-5843-5F17-21DA,2025-01-23,894.39,CHF,True,False,"Mecentley,Nord",False,False,False,True,True,True,True,True
+Engine System,Harmonic Balancer M3L,Reduces engine vibration.,RCI-167E-DCA8-AF73,2018-01-26,1648.09,CHF,True,True,"BMV,Mecentley",True,True,True,False,True,True,False,True
+Engine System,Pistons V0V,Generic Pistons,RCI-FA1C-7A12-EA78,2017-06-12,382.79,CHF,False,True,"WV,Mecentley",False,True,False,True,True,True,False,False
+Engine System,Engine Block 86I,Main structure housing cylinders and other components.,RCI-D5A6-ADE8-7E48,2022-02-10,1907.55,CHF,False,True,"Feramborghini,Mecentley",False,False,True,False,False,False,True,False
+Engine System,Oil Pump 3F1,Generic Oil Pump,RCI-516B-6030-6AF9,2015-01-14,1393.44,CHF,True,True,"BMV,Feramborghini,Nord",True,True,True,False,True,True,True,True
+Engine System,Oil Pump GRY,Circulates oil through the engine.,RCI-6C1A-CFDA-058B,2018-09-04,1600.27,CHF,False,True,"WV,Mecentley",False,False,True,True,False,False,True,True
+Engine System,Pushrods 21H,Transfer motion in OHV engines.,RCI-B65A-FBCA-3F03,2023-09-28,738.05,CHF,False,False,"Nord,WV,Mecentley",True,True,True,True,True,True,False,False
+Engine System,Timing Belt T7J,Synchronizes rotation of the crankshaft and camshaft.,RCI-76E0-936A-5884,2025-01-24,1513.01,CHF,True,True,"Feramborghini,WV,Nord",True,True,True,False,True,True,False,False
+Engine System,Spark Plugs Y3N,Ignite air/fuel mixture in combustion chamber.,RCI-FB89-8E31-FF8B,2019-12-08,1529.61,CHF,True,True,BMV,False,True,False,False,True,True,True,False
+Engine System,Oil Pump 87I,Circulates oil through the engine.,RCI-A5BC-F037-79C2,2022-01-22,151.67,CHF,True,True,"BMV,Feramborghini",True,True,False,True,True,False,False,True
+Engine System,Spark Plugs FQS,Generic Spark Plugs,RCI-009A-2903-1FDC,2017-09-29,528.42,CHF,True,False,"Feramborghini,Nord,BMV",True,False,True,True,True,True,True,True
+Engine System,Valve Springs MNZ,Generic Valve Springs,RCI-9D94-8154-0E04,2019-01-25,1496.93,CHF,True,True,BMV,False,False,False,True,True,False,False,True
+Engine System,Throttle Body OFZ,Generic Throttle Body,RCI-925F-6BED-BC6F,2024-12-02,1742.66,CHF,False,True,"Feramborghini,Mecentley,Nord,BMV,WV",False,False,False,True,False,False,True,False
+Engine System,Timing Belt / Chain ZSF,Synchronizes rotation of the crankshaft and camshaft.,RCI-36B4-8B98-656D,2025-06-10,259.48,CHF,True,True,"BMV,Nord,Feramborghini,WV,Mecentley",True,False,True,True,True,False,True,False
+Engine System,Harmonic Balancer UCZ,Generic Harmonic Balancer,RCI-07D7-3B2B-2584,2021-09-01,1243.24,CHF,True,False,BMV,True,False,False,False,True,True,False,True
+Engine System,Intake Manifold XVZ,Distributes air to the engine cylinders.,RCI-0A54-3B91-74EC,2017-04-08,523.0,CHF,False,True,"BMV,Mecentley",True,False,True,True,True,False,False,True
+Engine System,Lifters VDS,Transmit camshaft motion to valves.,RCI-7197-F74B-D52A,2020-08-08,1582.94,CHF,True,True,"Nord,Mecentley",True,True,True,True,True,True,True,True
+Engine System,Distributor AZ3,Distributes spark to the correct cylinder.,RCI-9EC0-8396-60B1,2015-12-07,965.55,CHF,True,True,"Nord,BMV,Feramborghini",False,True,True,True,True,True,True,False
+Engine System,Glow Plugs MCG,Preheat air in diesel engines.,RCI-B340-8367-7B15,2021-03-09,210.68,CHF,True,False,"WV,Nord,Feramborghini,BMV",True,True,True,True,True,True,True,True
+Engine System,Intake Manifold 3AX,Distributes air to the engine cylinders.,RCI-6DAE-9D10-2479,2018-08-24,1484.65,CHF,False,False,BMV,False,False,True,False,False,True,True,True
+Engine System,Tappets 4GQ,Link camshaft with pushrods.,RCI-6DE8-89EE-9899,2019-02-28,904.24,CHF,True,False,"Mecentley,Nord,BMV,WV",True,True,True,True,True,True,True,False
+Engine System,Valve Springs 4VS,Ensure valves close properly.,RCI-3DF2-B0B7-5025,2016-07-29,1402.11,CHF,True,True,Mecentley,True,True,True,True,False,False,False,True
+Engine System,Engine Block 628,Main structure housing cylinders and other components.,RCI-9960-3E3D-646A,2020-02-28,149.07,CHF,True,True,WV,False,True,False,True,True,True,False,True
+Engine System,"Valves (Intake, Exhaust) NE7","Generic Valves (Intake, Exhaust)",RCI-674E-0803-43C2,2015-12-04,1460.32,CHF,True,False,"Feramborghini,Mecentley",False,True,True,True,True,False,True,True
+Engine System,Pistons 58J,Move up and down in cylinders to compress and combust fuel.,RCI-4EE2-2811-DAC5,2025-09-03,1500.25,CHF,True,False,"Feramborghini,Mecentley,BMV,Nord,WV",False,False,False,False,False,False,False,True
+Engine System,Camshaft JNW,Operates the engine’s valves via lobes.,RCI-664E-7E09-F36B,2016-02-19,1411.61,CHF,True,True,"BMV,WV,Mecentley",True,True,True,False,True,False,False,False
+Engine System,Throttle Body 2G7,Controls airflow into the engine.,RCI-D6A6-95AB-4B15,2018-01-04,1497.87,CHF,True,False,BMV,True,True,False,False,True,False,True,True
+Engine System,Spark Plugs G4F,Generic Spark Plugs,RCI-31BA-3CDA-C144,2017-11-02,1201.94,CHF,True,True,"BMV,WV",True,True,True,True,True,False,True,False
+Engine System,Cylinder Head F1O,"Sits on top of the engine block, holds valves and spark plugs.",RCI-D92F-FDEA-AA28,2023-07-04,344.55,CHF,True,True,BMV,True,True,True,False,True,True,True,False
+Engine System,Drive Belt BWI,Generic Drive Belt,RCI-CC48-90E6-3ACF,2017-09-14,552.64,CHF,True,True,"Feramborghini,WV",True,False,True,True,False,True,False,False
+Engine System,Ignition Coils 8UO,Generic Ignition Coils,RCI-C5CF-CA94-D1F2,2022-09-21,959.67,CHF,False,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,True,True,False,True,True,False,True
+Engine System,Ignition Coils Z8X,Generic Ignition Coils,RCI-3D9C-4ED7-08AD,2019-07-20,1480.27,CHF,True,False,"Feramborghini,BMV,Nord,WV",True,False,False,False,True,True,True,True
+Engine System,Intercooler OSN,Generic Intercooler,RCI-3735-202F-D403,2022-05-20,1523.62,CHF,False,True,"Mecentley,BMV,WV,Feramborghini",True,True,True,True,False,False,False,True
+Engine System,Glow Plugs AOR,Preheat air in diesel engines.,RCI-1886-5058-35CD,2021-01-03,218.43,CHF,False,True,"WV,Mecentley,BMV,Feramborghini",False,True,False,True,False,True,True,True
+Engine System,Air Filter 3X1,Filters air before it enters the engine.,RCI-755D-D271-1A95,2018-04-13,743.36,CHF,True,True,"Nord,BMV",False,True,True,False,False,True,False,True
+Engine System,Dipstick E0A,Measures oil level.,RCI-AC50-68B2-4EC4,2025-02-03,685.39,CHF,False,True,BMV,True,True,False,True,False,True,False,False
+Engine System,Intake Manifold HZ1,Generic Intake Manifold,RCI-39D2-E24D-31E2,2016-05-16,311.58,CHF,True,True,"Nord,WV,Mecentley,BMV,Feramborghini",False,True,True,False,False,True,True,False
+Engine System,Oil Pump N3U,Generic Oil Pump,RCI-DC71-78AA-B2BB,2025-12-26,184.07,CHF,False,False,"Mecentley,Feramborghini",False,True,True,True,False,False,True,False
+Engine System,Turbocharger 2RN,Forces more air into the engine.,RCI-1FBA-CE00-1D07,2023-08-21,388.84,CHF,True,True,"WV,BMV",False,False,False,True,False,False,True,False
+Engine System,Ignition Coils C6D,Generate high voltage for spark plugs.,RCI-0697-52FB-116E,2021-05-11,332.64,CHF,True,False,"WV,BMV",True,False,True,False,True,False,True,False
+Engine System,Oil Cooler PGO,Cools the engine oil.,RCI-337F-C283-C55E,2022-04-22,284.22,CHF,True,True,"Mecentley,Nord",True,True,True,True,False,True,True,False
+Engine System,Timing Chain FEZ,Metal chain version of timing belt.,RCI-455D-8A89-AC87,2017-09-03,1399.87,CHF,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",False,False,False,False,True,True,False,True
+Engine System,Distributor TWO,Distributes spark to the correct cylinder.,RCI-10EC-7A43-8558,2015-04-24,818.64,CHF,True,True,BMV,True,False,False,True,True,False,False,False
+Engine System,Intake Manifold VK2,Generic Intake Manifold,RCI-B8CD-0688-050D,2020-08-14,617.57,CHF,True,True,Feramborghini,True,False,False,False,False,False,True,True
+Engine System,Tappets IYQ,Link camshaft with pushrods.,RCI-A542-C363-73E8,2023-04-21,1295.41,CHF,True,False,"Nord,Mecentley,WV,Feramborghini,BMV",False,True,True,True,True,False,True,False
+Engine System,Camshaft 4HI,Generic Camshaft,RCI-584A-413A-5340,2024-04-20,1267.16,CHF,True,True,"Nord,WV",False,False,False,True,False,True,False,False
+Engine System,Intake Manifold GAV,Generic Intake Manifold,RCI-D817-4203-B51F,2015-09-15,428.86,CHF,False,True,"Mecentley,BMV,WV",True,True,False,False,True,True,True,False
+Engine System,Air Filter 7ZK,Generic Air Filter,RCI-F608-7233-983C,2020-02-13,1471.29,CHF,True,True,"WV,Feramborghini,Nord,BMV",True,False,True,False,False,False,False,False
+Engine System,Oil Filter WKD,Removes contaminants from engine oil.,RCI-A683-53D6-A16E,2019-11-13,474.52,CHF,True,True,"Mecentley,Nord,WV",True,False,False,False,True,True,False,True
+Engine System,Camshaft K8M,Operates the engine’s valves via lobes.,RCI-4B41-4D4B-1C03,2015-02-03,940.04,CHF,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,True,True,True,True,True,True
+Engine System,Camshaft PFB,Generic Camshaft,RCI-99F7-4F00-AFDF,2016-08-22,1945.61,CHF,True,True,Feramborghini,True,False,True,False,True,True,False,False
+Engine System,Drive Belt UHE,Generic Drive Belt,RCI-9B7D-9C72-7902,2022-12-02,1837.16,CHF,False,True,"WV,Nord",True,True,False,True,False,False,False,True
+Engine System,Turbocharger / Supercharger SXJ,Generic Turbocharger / Supercharger,RCI-F55A-0F9A-7566,2021-01-05,1554.29,CHF,True,True,Feramborghini,False,False,True,True,True,True,True,False
+Engine System,Exhaust Manifold AZ8,Collects exhaust gases from cylinders.,RCI-4155-1B84-CEC6,2018-12-01,1539.28,CHF,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,False,True,False,False,False,False,True
+Engine System,Turbocharger HKV,Forces more air into the engine.,RCI-FF85-4456-2796,2025-07-12,1545.73,CHF,True,True,"Feramborghini,WV,Mecentley",True,True,False,False,True,True,True,True
+Engine System,Air Filter 6IG,Filters air before it enters the engine.,RCI-488E-C975-99F7,2023-07-18,501.29,CHF,True,True,Feramborghini,True,False,True,False,True,False,True,False
+Engine System,Drive Belt 2ZH,"Drives alternator, AC compressor, etc.",RCI-D49F-41D9-5483,2020-10-14,66.1,CHF,True,True,"Nord,Mecentley,BMV,Feramborghini",False,True,True,False,True,True,True,True
+Engine System,Carburetor (older models) 6MY,Generic Carburetor (older models),RCI-5B46-77F9-9ACF,2021-10-31,309.55,CHF,True,True,WV,True,True,True,True,True,False,True,False
+Engine System,Dipstick AKF,Generic Dipstick,RCI-9617-3C18-F7D6,2021-12-31,1654.27,CHF,True,True,"Feramborghini,BMV,Nord,WV,Mecentley",True,True,True,True,False,True,True,True
+Engine System,Timing Belt / Chain EGS,Synchronizes rotation of the crankshaft and camshaft.,RCI-E8BC-20FC-7862,2021-05-18,292.45,CHF,True,False,"Feramborghini,Nord,BMV,WV,Mecentley",True,False,True,True,True,False,False,False
+Engine System,Valve Springs RJJ,Ensure valves close properly.,RCI-3271-46CD-208E,2016-12-21,373.44,CHF,False,True,"BMV,Mecentley,WV,Feramborghini",True,True,False,True,True,True,False,False
+Engine System,Timing Cover T35,Generic Timing Cover,RCI-37F8-1204-8566,2023-02-02,1617.24,CHF,True,False,"Mecentley,Nord,WV",False,False,False,False,True,False,False,True
+Engine System,Turbocharger / Supercharger PST,Generic Turbocharger / Supercharger,RCI-90A1-4980-C11A,2025-04-10,805.64,CHF,True,True,"BMV,Feramborghini,Nord,Mecentley",True,True,True,False,False,True,True,True
+Engine System,Throttle Body GXN,Controls airflow into the engine.,RCI-E14E-368A-ACAB,2017-09-07,1278.83,CHF,False,True,"Feramborghini,BMV",True,True,True,True,True,False,True,True
+Engine System,Rocker Arms END,Generic Rocker Arms,RCI-4815-4301-BA2B,2017-08-23,505.11,CHF,False,True,Feramborghini,True,True,True,True,False,True,False,True
+Engine System,Ignition Coils MWB,Generate high voltage for spark plugs.,RCI-CEF5-2365-4EF6,2023-09-13,438.66,CHF,True,True,"WV,Feramborghini,Mecentley,Nord",True,False,True,True,True,True,False,True
+Engine System,Serpentine Belt MCC,Generic Serpentine Belt,RCI-F506-0690-8C10,2021-06-05,865.63,CHF,True,False,BMV,True,True,False,True,True,True,True,True
+Engine System,Dipstick 8FT,Generic Dipstick,RCI-924A-BBEF-CC5C,2022-05-11,1406.81,CHF,True,True,"Mecentley,Feramborghini,BMV",True,False,False,True,False,True,True,True
+Engine System,Engine Mounts HS8,Generic Engine Mounts,RCI-1779-9AF9-5610,2018-02-28,1781.91,CHF,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",False,False,True,True,False,True,True,True
+Engine System,Engine Block 13H,Main structure housing cylinders and other components.,RCI-499B-04E7-CA90,2023-04-14,583.15,CHF,True,True,"Mecentley,WV,BMV,Feramborghini,Nord",True,True,True,False,True,True,True,True
+Engine System,"Valves (Intake, Exhaust) XUU","Generic Valves (Intake, Exhaust)",RCI-D409-0EFA-D2C9,2024-01-26,517.98,CHF,True,True,"BMV,Mecentley",True,True,False,False,False,True,True,True
+Engine System,Intercooler 70A,Cools air from turbocharger.,RCI-20B2-DEF2-7E32,2022-10-29,620.19,CHF,True,True,"Mecentley,WV,Nord,BMV",True,False,False,False,True,False,False,True
+Engine System,Cylinder Head E9T,Generic Cylinder Head,RCI-8485-C2A2-23F4,2018-09-29,1903.61,CHF,False,True,Mecentley,True,False,False,True,True,True,False,True
+Engine System,Timing Belt NLQ,Synchronizes rotation of the crankshaft and camshaft.,RCI-2DD1-9ADF-6FB7,2022-06-15,455.86,CHF,True,False,"BMV,Mecentley,WV,Nord",True,True,True,True,True,True,False,False
+Engine System,Crankshaft FX9,Generic Crankshaft,RCI-78DF-EEE4-434F,2020-12-25,1022.42,CHF,True,True,"Feramborghini,Mecentley,Nord,WV",False,True,True,False,True,False,True,False
+Engine System,Glow Plugs (Diesel) U7E,Generic Glow Plugs (Diesel),RCI-891F-FF30-963E,2024-08-28,1990.39,CHF,False,True,"BMV,Nord,Feramborghini,Mecentley",True,False,True,True,False,False,False,True
+Engine System,Tappets / Lifters RSR,Generic Tappets / Lifters,RCI-67D0-1036-E739,2017-02-23,599.8,CHF,True,True,"Feramborghini,Nord",False,False,True,True,False,True,True,True
+Engine System,Crankshaft ZH7,Generic Crankshaft,RCI-1346-CD1C-4567,2023-07-14,971.01,CHF,True,True,"Nord,Feramborghini,BMV,Mecentley",True,True,False,False,True,False,True,True
+Engine System,Intercooler GFL,Generic Intercooler,RCI-C580-4CDA-5D51,2022-03-24,1136.48,CHF,True,True,"Feramborghini,Mecentley,WV",True,True,True,True,True,True,True,True
+Engine System,Air Filter EHD,Generic Air Filter,RCI-71BF-329F-12A0,2024-12-23,202.79,CHF,True,True,"Nord,Feramborghini,Mecentley,BMV,WV",False,True,True,False,False,True,False,False
+Engine System,Intake Manifold RGH,Generic Intake Manifold,RCI-F90F-CB44-AD23,2016-08-12,401.42,CHF,True,False,"Feramborghini,Mecentley,Nord",True,True,False,True,True,False,False,True
+Engine System,Valve Springs 8NU,Ensure valves close properly.,RCI-9846-B10E-43DF,2025-05-26,517.53,CHF,True,False,"BMV,Feramborghini,WV,Mecentley",True,False,True,True,False,False,True,True
+Engine System,Cylinder Head WEG,"Sits on top of the engine block, holds valves and spark plugs.",RCI-4E73-233D-368A,2015-02-17,1541.42,CHF,True,True,BMV,True,True,False,False,True,True,False,False
+Engine System,Dipstick L8D,Generic Dipstick,RCI-273F-7076-77FC,2017-10-13,406.37,CHF,True,True,WV,True,False,True,False,False,True,True,False
+Engine System,Timing Chain ZKD,Metal chain version of timing belt.,RCI-B85E-C24A-F44C,2023-10-24,692.12,CHF,True,False,"WV,Mecentley,Nord,BMV",True,False,True,True,False,False,False,True
+Engine System,Valve Springs C63,Generic Valve Springs,RCI-8272-C9DB-61CC,2021-04-28,1964.41,CHF,False,True,"WV,BMV",True,True,False,True,False,True,False,True
+Engine System,Timing Cover U9J,Generic Timing Cover,RCI-2245-66F9-5C49,2018-12-03,1949.37,CHF,False,True,Feramborghini,False,True,True,True,True,False,True,True
+Engine System,Intercooler D7X,Cools air from turbocharger.,RCI-FB86-AB4E-C452,2024-08-03,1526.28,CHF,True,True,"Nord,Feramborghini,WV,Mecentley,BMV",True,False,False,False,True,False,False,True
+Engine System,Oil Filter S63,Generic Oil Filter,RCI-8B83-229A-6D19,2025-03-04,1507.43,CHF,True,True,Mecentley,False,True,False,True,False,True,True,False
+Engine System,Turbocharger UJR,Forces more air into the engine.,RCI-0299-D8C4-89CA,2025-02-19,1196.37,CHF,True,True,"BMV,WV",False,True,True,True,True,False,False,False
+Engine System,Throttle Body M4J,Controls airflow into the engine.,RCI-297A-E937-FE85,2017-10-30,1993.72,CHF,True,True,"Feramborghini,WV",True,False,True,True,False,False,True,True
+Engine System,Oil Filter 3FI,Removes contaminants from engine oil.,RCI-D679-B88A-5FE1,2015-12-03,1211.47,CHF,True,False,"Nord,Feramborghini,Mecentley,BMV",True,False,True,False,False,True,False,True
+Engine System,Carburetor (older models) CR2,Generic Carburetor (older models),RCI-5E76-F818-6D16,2019-01-02,310.54,CHF,False,True,"WV,Nord,Mecentley",False,False,False,True,True,True,False,True
+Engine System,Serpentine Belt GPD,Drives multiple engine accessories.,RCI-DFC4-D30E-5891,2025-12-19,1881.47,CHF,False,True,"Mecentley,BMV,Nord,Feramborghini",True,True,False,False,False,False,True,True
+Engine System,Cylinder Head XTT,Generic Cylinder Head,RCI-7033-1FED-45EC,2024-12-01,286.83,CHF,True,False,"BMV,Mecentley,Feramborghini,WV,Nord",False,True,True,False,True,True,True,False
+Engine System,Valve Springs CF5,Generic Valve Springs,RCI-4D63-C4F4-B8E5,2021-01-09,1025.16,CHF,False,True,"Mecentley,WV",True,False,False,False,False,False,True,True
+Engine System,Intake Manifold TCR,Distributes air to the engine cylinders.,RCI-ABC1-2386-E9E2,2017-12-13,1364.78,CHF,False,False,"BMV,Mecentley,Feramborghini,Nord",True,False,True,False,True,False,True,False
+Engine System,Timing Belt / Chain YCF,Generic Timing Belt / Chain,RCI-EE79-0862-0952,2025-04-26,730.1,CHF,True,True,"WV,Mecentley,Feramborghini,BMV,Nord",True,False,True,True,True,False,False,False
+Engine System,Oil Filter FJS,Removes contaminants from engine oil.,RCI-EAA3-46AE-FEB7,2017-08-27,522.85,CHF,True,True,Feramborghini,True,True,False,True,True,True,False,False
+Engine System,Cylinder Head SYT,"Sits on top of the engine block, holds valves and spark plugs.",RCI-3128-1B01-FAC6,2015-02-01,904.16,CHF,True,False,WV,False,True,True,True,False,True,False,True
+Engine System,Spark Plugs 9QA,Generic Spark Plugs,RCI-E96B-3C8A-66BB,2024-02-27,727.62,CHF,False,False,"Mecentley,BMV",True,False,True,True,True,True,False,True
+Engine System,Oil Filter XGL,Removes contaminants from engine oil.,RCI-94D6-6FAD-BC5E,2017-09-02,1892.49,CHF,True,True,Feramborghini,True,True,False,True,True,True,False,False
+Engine System,Valve Springs 1X1,Generic Valve Springs,RCI-AE93-DA0A-BC14,2022-05-27,553.56,CHF,True,True,"Nord,WV,Feramborghini,BMV,Mecentley",False,True,False,True,False,False,True,True
+Engine System,Oil Cooler 0IJ,Cools the engine oil.,RCI-6E93-6BCB-63FB,2018-10-11,919.88,CHF,False,True,"WV,BMV,Nord",True,True,False,False,False,False,True,True
+Engine System,Pushrods I73,Transfer motion in OHV engines.,RCI-7A75-2F7F-60BE,2021-07-10,1540.0,CHF,False,True,"BMV,Mecentley",True,True,True,True,True,False,False,True
+Engine System,Tappets / Lifters DST,Generic Tappets / Lifters,RCI-9F1B-BDB7-A301,2021-03-15,1992.54,CHF,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",True,True,False,True,True,True,True,False
+Engine System,Supercharger YAS,Boosts engine power via air compression.,RCI-AFE4-BC93-FDC4,2025-11-14,190.31,CHF,True,False,"Nord,WV,Feramborghini,Mecentley",True,False,False,False,False,False,True,False
+Engine System,Oil Pan 3N1,Holds engine oil.,RCI-FBD6-A023-1122,2017-02-15,53.41,CHF,True,True,"BMV,Nord,Mecentley",True,True,False,False,True,False,False,True
+Engine System,Turbocharger / Supercharger LKN,Generic Turbocharger / Supercharger,RCI-75C9-E517-410B,2025-02-20,1750.88,CHF,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",False,False,True,False,False,True,True,True
+Engine System,Harmonic Balancer MU7,Generic Harmonic Balancer,RCI-5630-77D2-B170,2018-06-25,1991.41,CHF,True,True,"BMV,Mecentley,WV",True,True,False,False,True,True,True,True
+Engine System,Distributor TQA,Generic Distributor,RCI-33CE-3CB6-AA14,2019-11-18,1985.54,CHF,True,True,BMV,False,False,True,False,True,False,True,True
+Engine System,Spark Plugs TFZ,Ignite air/fuel mixture in combustion chamber.,RCI-2BD3-C122-DC23,2025-11-27,1216.21,CHF,True,True,"Mecentley,BMV,Nord",False,False,False,True,False,True,True,True
+Engine System,ECU Q5X,Controls engine performance.,RCI-AECC-7EAB-C730,2022-08-01,934.29,CHF,True,True,"BMV,WV,Mecentley,Feramborghini",False,True,True,True,True,True,False,True
+Engine System,Timing Belt 1QD,Synchronizes rotation of the crankshaft and camshaft.,RCI-072C-FB1E-AFC0,2019-03-03,1341.51,CHF,True,True,WV,True,True,True,False,True,True,True,True
+Engine System,Engine Block GY9,Main structure housing cylinders and other components.,RCI-C281-EE6C-8D57,2018-06-03,793.35,CHF,False,True,Feramborghini,False,False,True,False,False,True,True,True
+Engine System,Rocker Arms JQ1,Generic Rocker Arms,RCI-A7B4-BAC4-4D09,2019-01-26,813.65,CHF,True,True,"Nord,WV,Feramborghini,BMV",True,True,False,False,True,True,True,True
+Engine System,Fuel Injectors W36,Generic Fuel Injectors,RCI-4B53-A392-8D03,2021-08-07,1586.45,CHF,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,True,False,False,True,False,False,True
+Engine System,Glow Plugs ER2,Preheat air in diesel engines.,RCI-80C2-9A37-4E10,2016-07-01,1990.86,CHF,False,True,"Feramborghini,BMV,Mecentley",True,True,True,True,True,False,True,False
+Engine System,Valve Springs 9HN,Generic Valve Springs,RCI-CD40-3107-7147,2017-08-19,57.02,CHF,True,True,"Feramborghini,BMV,Nord,Mecentley,WV",False,True,False,False,False,True,True,True
+Engine System,Ignition Coils HXX,Generate high voltage for spark plugs.,RCI-60CC-9258-D438,2018-04-25,44.5,CHF,True,True,"Nord,Feramborghini,BMV,Mecentley",False,True,True,True,False,True,True,True
+Engine System,Timing Belt / Chain HDQ,Synchronizes rotation of the crankshaft and camshaft.,RCI-5953-22B7-645A,2018-11-26,700.78,CHF,False,True,"Nord,WV,Feramborghini,Mecentley",True,True,True,False,False,False,True,True
+Engine System,Exhaust Manifold 3SY,Generic Exhaust Manifold,RCI-9916-7F32-C01B,2016-09-04,1043.28,CHF,True,True,"Nord,BMV,WV",False,False,False,False,False,True,True,True
+Engine System,Engine Block MZH,Main structure housing cylinders and other components.,RCI-4CF0-3236-9511,2017-12-09,1148.45,CHF,False,True,"Nord,Mecentley",True,True,True,True,True,False,False,True
+Engine System,Pistons 3RT,Generic Pistons,RCI-9808-F584-8C9C,2022-05-05,1984.83,CHF,True,True,WV,True,True,True,True,True,True,False,False
+Engine System,Glow Plugs HAX,Preheat air in diesel engines.,RCI-8D6E-927F-201D,2019-03-03,488.58,CHF,True,True,"WV,Mecentley,Nord,BMV",False,True,True,False,True,False,True,False
+Engine System,Tappets XE6,Link camshaft with pushrods.,RCI-A8AC-D3E5-066E,2015-11-22,1423.36,CHF,True,True,"BMV,WV,Nord",True,True,True,False,True,True,False,False
+Engine System,Fuel Injectors OZL,Spray fuel into the engine's cylinders.,RCI-62F5-6174-18C4,2025-03-23,1328.19,CHF,True,False,"WV,Feramborghini,BMV,Nord",True,True,False,True,True,True,True,True
+Engine System,Supercharger D5W,Boosts engine power via air compression.,RCI-F2A6-7682-3CA9,2016-09-07,75.44,CHF,True,True,Nord,False,False,True,False,False,True,True,False
+Engine System,Harmonic Balancer 0KA,Reduces engine vibration.,RCI-33C8-8381-B8D3,2019-02-24,369.29,CHF,False,False,"WV,Nord",False,True,True,True,True,False,False,False
+Engine System,Camshaft 4LH,Operates the engine’s valves via lobes.,RCI-2CE8-820F-8AAB,2015-02-21,1589.68,CHF,True,False,Nord,True,True,True,False,True,False,True,True
+Engine System,Distributor 2RA,Distributes spark to the correct cylinder.,RCI-8DCB-746C-CACF,2024-06-10,213.03,CHF,True,True,"Feramborghini,WV,Nord,BMV",True,True,True,True,True,True,True,False
+Engine System,Turbocharger / Supercharger YGF,Generic Turbocharger / Supercharger,RCI-2521-3030-7FB4,2024-05-08,493.11,CHF,True,True,"Feramborghini,BMV,WV,Mecentley,Nord",True,True,True,False,True,True,True,True
+Engine System,Spark Plugs HZC,Generic Spark Plugs,RCI-B929-7817-4908,2024-06-07,1689.03,CHF,True,True,"Feramborghini,Mecentley,WV",False,True,True,True,False,True,False,True
+Engine System,Oil Pan DFX,Generic Oil Pan,RCI-DA46-6EB0-F99B,2022-12-03,1938.35,CHF,True,False,"BMV,Nord,WV,Feramborghini,Mecentley",True,True,True,True,False,True,True,True
+Engine System,Pushrods FO3,Transfer motion in OHV engines.,RCI-1F98-63EE-8C72,2022-04-05,357.46,CHF,False,True,"BMV,Feramborghini,Nord,Mecentley,WV",False,False,True,True,False,True,False,False
+Engine System,Oil Cooler 8E1,Cools the engine oil.,RCI-F6A7-272F-B972,2020-07-11,410.53,CHF,False,True,"Mecentley,WV,Feramborghini",True,True,True,True,False,False,True,False
+Engine System,Timing Cover 8PR,Generic Timing Cover,RCI-68E1-D45C-29DD,2015-04-05,742.97,CHF,False,True,BMV,True,True,True,True,True,False,True,True
+Engine System,Timing Belt UDS,Synchronizes rotation of the crankshaft and camshaft.,RCI-354E-42AF-3373,2015-03-05,199.03,CHF,False,True,"WV,Nord,Mecentley",True,False,True,False,True,True,True,True
+Engine System,Pistons 682,Move up and down in cylinders to compress and combust fuel.,RCI-7ADB-B081-4A3E,2019-01-28,1519.03,CHF,True,True,Mecentley,False,True,True,False,True,True,True,True
+Engine System,Dipstick C81,Measures oil level.,RCI-C70A-39F7-DEAC,2021-07-19,1701.38,CHF,True,True,"Mecentley,WV,BMV,Feramborghini,Nord",False,True,False,False,False,False,True,True
+Engine System,Air Filter I7E,Filters air before it enters the engine.,RCI-13BB-4C34-F319,2019-08-01,1526.69,CHF,True,True,"BMV,Mecentley,WV",False,False,False,True,False,False,True,False
+Engine System,Crankshaft 77U,Generic Crankshaft,RCI-0CAB-0A11-59DF,2023-01-27,549.44,CHF,True,False,"Mecentley,Feramborghini,WV,BMV,Nord",False,True,False,True,True,True,True,False
+Engine System,Timing Cover 464,Generic Timing Cover,RCI-E42F-C509-99A4,2023-03-15,1260.78,CHF,True,True,"Mecentley,BMV,Feramborghini,Nord",True,True,False,False,True,False,True,True
+Engine System,Dipstick Q0M,Generic Dipstick,RCI-23EF-E48C-D2C5,2022-12-23,1403.92,CHF,True,False,"WV,Nord,BMV",True,True,True,False,True,True,True,False
+Engine System,Timing Cover W3T,Generic Timing Cover,RCI-3FB0-77FF-A2D3,2019-08-24,1947.74,CHF,True,True,"BMV,Nord",True,False,False,False,True,False,True,False
+Engine System,Camshaft NKN,Operates the engine’s valves via lobes.,RCI-4FA2-4789-3D93,2017-11-29,1550.76,CHF,True,True,"BMV,Mecentley,Nord,WV,Feramborghini",False,True,True,True,True,False,True,False
+Engine System,Supercharger YA6,Boosts engine power via air compression.,RCI-6960-BBFC-92D1,2024-04-06,149.94,CHF,True,True,"BMV,Mecentley",True,True,False,True,False,True,True,False
+Engine System,Dipstick E5N,Generic Dipstick,RCI-557C-24B9-04A7,2016-09-23,1902.68,CHF,False,True,"BMV,WV,Nord,Feramborghini",True,True,True,False,True,True,False,True
+Engine System,Cylinder Head 5VU,"Sits on top of the engine block, holds valves and spark plugs.",RCI-74DD-9BEE-0E19,2018-07-18,485.24,CHF,True,False,"Nord,Mecentley,Feramborghini,BMV",True,True,False,True,False,True,True,True
+Engine System,Spark Plugs 71U,Ignite air/fuel mixture in combustion chamber.,RCI-45C2-8414-69E4,2016-08-03,944.57,CHF,True,True,"Feramborghini,Nord,Mecentley,WV,BMV",False,True,True,True,True,False,True,True
+Engine System,Intake Manifold IBH,Distributes air to the engine cylinders.,RCI-CB1B-B8B1-E8FA,2025-03-20,583.95,CHF,True,False,"Mecentley,WV,Feramborghini",True,True,False,False,False,False,True,False
+Engine System,"Valves (Intake, Exhaust) SVP","Generic Valves (Intake, Exhaust)",RCI-1A54-1AA8-FAFC,2018-06-15,153.19,CHF,True,True,"Nord,Feramborghini,BMV,WV,Mecentley",False,True,False,True,False,False,False,True
+Engine System,Engine Block 82K,Main structure housing cylinders and other components.,RCI-59E2-D2D0-7BAF,2017-06-20,250.09,CHF,False,False,Feramborghini,True,True,True,False,True,True,False,True
+Engine System,Cylinder Head 4DY,"Sits on top of the engine block, holds valves and spark plugs.",RCI-F356-DA11-16F9,2016-02-14,1205.22,CHF,True,True,"Feramborghini,WV,Mecentley",False,True,True,True,False,False,False,False
+Engine System,Tappets B8O,Link camshaft with pushrods.,RCI-7C0F-5FA2-F80B,2023-03-14,1584.54,CHF,True,True,"Nord,WV,BMV,Mecentley,Feramborghini",True,True,True,True,False,True,True,False
+Engine System,Timing Cover 8ZH,Generic Timing Cover,RCI-DBEC-F34A-3250,2025-09-27,760.39,CHF,True,True,"Feramborghini,BMV,Mecentley,WV,Nord",False,True,False,True,False,False,True,True
+Engine System,Valve Springs 64A,Generic Valve Springs,RCI-F60D-9511-EA2F,2023-09-04,1095.0,CHF,True,False,"WV,Nord",True,True,False,True,True,False,True,True
+Engine System,Cylinder Head J1K,"Sits on top of the engine block, holds valves and spark plugs.",RCI-674E-7268-86B6,2015-06-28,1967.27,CHF,True,True,"Mecentley,WV,BMV,Feramborghini",False,True,False,True,True,False,False,False
+Engine System,Harmonic Balancer F8A,Generic Harmonic Balancer,RCI-B40E-D11B-5A30,2016-06-01,1872.93,CHF,False,False,"WV,Nord,Feramborghini,BMV,Mecentley",True,True,False,True,True,True,False,False
+Engine System,Oil Cooler 00E,Generic Oil Cooler,RCI-DC65-6215-845D,2022-10-11,1985.21,CHF,True,True,"WV,Feramborghini,Mecentley",False,False,True,True,True,True,False,True
+Engine System,Camshaft E4T,Operates the engine’s valves via lobes.,RCI-78FC-94FD-0CC2,2018-06-05,1657.53,CHF,True,True,"Mecentley,BMV,WV,Feramborghini,Nord",False,True,False,True,False,True,True,True
+Engine System,Dipstick YAJ,Generic Dipstick,RCI-FB7E-AE1C-D4B6,2024-06-03,483.39,CHF,True,True,"Mecentley,WV",True,False,True,True,False,True,True,True
+Engine System,Pushrods QWW,Generic Pushrods,RCI-EE65-DF61-A130,2024-11-20,1026.22,CHF,True,True,"Mecentley,WV,Feramborghini,BMV",True,False,False,True,True,False,False,False
+Engine System,Intake Manifold Z6Y,Distributes air to the engine cylinders.,RCI-DF7C-3AAC-00D1,2025-03-04,988.01,CHF,True,True,Mecentley,False,False,True,True,True,False,True,True
+Engine System,Serpentine Belt GXH,Generic Serpentine Belt,RCI-A327-8FED-8661,2021-03-28,1035.95,CHF,True,True,"Nord,Mecentley,BMV,Feramborghini",True,False,False,True,True,True,True,True
+Engine System,Timing Belt / Chain NA0,Synchronizes rotation of the crankshaft and camshaft.,RCI-87EE-BF52-F2F3,2020-07-29,1119.99,CHF,True,True,"Feramborghini,BMV,Nord,WV",False,True,False,False,False,True,False,True
+Engine System,Dipstick FZW,Measures oil level.,RCI-D793-AAE4-9A41,2025-09-25,568.63,CHF,True,True,Nord,True,False,True,True,True,True,True,True
+Engine System,Serpentine Belt 8XA,Generic Serpentine Belt,RCI-EB58-0A5D-2672,2023-08-09,552.25,CHF,True,True,"Nord,WV,BMV,Mecentley,Feramborghini",True,True,True,False,False,True,True,True
+Engine System,Cylinder Head RBR,Generic Cylinder Head,RCI-3DAD-C068-EE02,2015-06-16,315.96,CHF,True,True,"BMV,WV,Mecentley,Feramborghini",True,True,False,True,True,True,True,True
+Engine System,Engine Mounts D1U,Secure engine to frame and absorb vibration.,RCI-D32E-97CC-1C95,2019-02-02,724.79,CHF,True,True,"BMV,Mecentley,WV",True,True,True,False,True,True,True,False
+Engine System,Glow Plugs (Diesel) MI5,Generic Glow Plugs (Diesel),RCI-828B-7C5E-EA7F,2025-04-03,534.09,CHF,True,True,Feramborghini,True,True,True,True,True,True,False,True
+Engine System,Spark Plugs S6R,Ignite air/fuel mixture in combustion chamber.,RCI-AE0D-A6BA-101C,2020-02-26,750.42,CHF,False,True,"BMV,Feramborghini,Mecentley,WV",False,True,True,True,True,True,True,False
+Engine System,Oil Filter 82V,Removes contaminants from engine oil.,RCI-A1E1-644F-A2BD,2023-04-09,1827.77,CHF,True,True,"Nord,Feramborghini",True,True,True,False,True,True,False,True
+Engine System,Supercharger NIZ,Boosts engine power via air compression.,RCI-2213-365C-92C8,2020-04-25,1463.48,CHF,True,True,"Nord,Mecentley,BMV",True,True,True,False,True,False,True,True
+Engine System,Rocker Arms 9M3,Generic Rocker Arms,RCI-E9CE-80A6-4AA7,2025-06-25,221.33,CHF,True,False,"Mecentley,Feramborghini",True,True,False,True,True,False,True,True
+Engine System,Oil Filter V8J,Removes contaminants from engine oil.,RCI-729A-1F02-BB8B,2016-02-15,1709.06,CHF,False,True,"Nord,Feramborghini,BMV,Mecentley,WV",True,True,False,False,False,False,True,True
+Engine System,Pistons 439,Move up and down in cylinders to compress and combust fuel.,RCI-4BB3-5D7A-7D6D,2015-09-12,47.25,CHF,True,True,"Nord,BMV",True,True,False,False,False,False,False,False
+Engine System,Serpentine Belt 01J,Generic Serpentine Belt,RCI-8FEF-873D-59B7,2015-05-02,247.46,CHF,True,True,"Feramborghini,BMV,WV,Mecentley",True,True,False,False,False,True,False,True
+Engine System,Timing Chain H43,Metal chain version of timing belt.,RCI-E188-BB4C-0861,2015-01-01,1032.84,CHF,True,True,BMV,False,False,True,True,False,False,True,True
+Engine System,Harmonic Balancer NMP,Generic Harmonic Balancer,RCI-8B54-60A7-D990,2016-03-14,1479.93,CHF,True,False,"WV,BMV,Nord,Mecentley",True,True,True,False,True,True,True,True
+Engine System,Turbocharger / Supercharger 9BX,Generic Turbocharger / Supercharger,RCI-F185-2A58-9AF9,2024-07-18,1855.62,CHF,True,True,"BMV,Nord,Mecentley",True,True,True,True,False,True,True,True
+Engine System,Cylinder Head GM4,"Sits on top of the engine block, holds valves and spark plugs.",RCI-9BC4-ECEE-3121,2019-03-18,808.45,CHF,False,False,"WV,Nord,Mecentley",True,False,True,True,False,False,False,True
+Engine System,Turbocharger NEP,Forces more air into the engine.,RCI-5286-ADA7-CACC,2022-08-16,956.54,CHF,True,True,"Feramborghini,Nord,WV,Mecentley",False,True,True,True,False,True,False,True
+Engine System,Drive Belt DJL,Generic Drive Belt,RCI-6FE1-58A3-4479,2021-09-29,1461.56,CHF,False,True,"Nord,Mecentley,WV",True,True,False,False,True,True,True,True
+Wheels & Tires,Lightweight Wheels C47,Reduce unsprung mass for quicker acceleration.,RCI-6B6A-B3AA-2C52,2018-10-02,1392.32,CHF,False,True,Nord,False,False,True,True,True,True,False,True
+Wheels & Tires,Lightweight Wheels 9F7,Reduce unsprung mass for quicker acceleration.,RCI-D792-7115-D196,2022-02-15,1759.26,CHF,False,True,"Nord,BMV,Mecentley,WV,Feramborghini",False,True,False,False,False,False,True,False
+Wheels & Tires,Lightweight Wheels P8B,Reduce unsprung mass for quicker acceleration.,RCI-27F9-83B3-FEA2,2024-03-03,1922.93,CHF,True,True,Feramborghini,False,False,True,False,False,True,True,False
+Wheels & Tires,Lightweight Wheels OBB,Reduce unsprung mass for quicker acceleration.,RCI-45D1-1A1B-8880,2020-10-25,579.53,CHF,False,True,"BMV,Mecentley,WV",True,True,True,True,True,False,True,False
+Wheels & Tires,Lightweight Wheels CYV,Reduce unsprung mass for quicker acceleration.,RCI-C85D-5D37-5970,2017-07-23,1281.87,CHF,True,True,"WV,BMV",False,True,True,True,True,True,False,False
+Wheels & Tires,Low Profile Tires AWF,Better grip and handling performance.,RCI-3C38-A15E-0375,2024-06-02,171.97,CHF,False,False,"WV,Mecentley,BMV,Feramborghini,Nord",False,False,False,False,True,True,False,True
+Electronics,Launch Control Module KE9,Optimizes power delivery off the line.,RCI-5F88-B1FE-7303,2015-04-14,545.87,CHF,True,True,"Nord,Mecentley",False,False,False,False,False,True,False,True
+Electronics,Launch Control Module O39,Optimizes power delivery off the line.,RCI-B5CF-F3A0-164E,2023-03-28,1796.13,CHF,True,True,"Nord,WV,Feramborghini,Mecentley,BMV",True,True,True,True,True,True,False,True
+Suspension and Steering,Steering Rack NPX,Generic Steering Rack,RCI-515C-8E8A-09F6,2015-06-08,1015.15,CHF,True,True,"Nord,BMV,WV,Feramborghini",True,False,True,False,True,True,True,False
+Suspension and Steering,Tie Rods OQF,Generic Tie Rods,RCI-25F1-7301-C2D7,2019-03-16,812.9,CHF,True,True,"Feramborghini,Nord,Mecentley,BMV",True,True,True,False,False,True,False,True
+Suspension and Steering,Wheel Hub NKD,Generic Wheel Hub,RCI-C454-6B02-4295,2023-09-02,508.55,CHF,False,True,"Mecentley,WV",True,True,False,True,True,True,True,True
+Suspension and Steering,Shock Absorbers / Struts V69,Generic Shock Absorbers / Struts,RCI-340B-E9D5-4E59,2015-04-22,843.12,CHF,True,True,"Nord,Feramborghini,Mecentley",True,False,True,True,True,False,False,True
+Suspension and Steering,Control Arms X2L,Connect wheel hub to vehicle frame.,RCI-2814-AF6C-8541,2018-08-12,1586.79,CHF,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",False,True,False,True,True,True,True,False
+Suspension and Steering,Sway Bar / Anti-roll Bar L6I,Generic Sway Bar / Anti-roll Bar,RCI-3647-1758-6090,2015-10-15,1669.92,CHF,True,False,"Mecentley,Feramborghini,Nord",True,True,True,True,True,False,False,True
+Suspension and Steering,Shock Absorbers / Struts W4G,Generic Shock Absorbers / Struts,RCI-E83C-70EC-84CB,2017-04-28,1621.65,CHF,False,True,"BMV,Mecentley,Feramborghini,Nord,WV",False,True,True,True,False,False,True,True
+Suspension and Steering,Shock Absorbers A6H,Dampen spring movement for smoother ride.,RCI-71AE-0098-E04F,2021-05-30,55.22,CHF,True,True,"Feramborghini,Nord,BMV,WV",False,True,True,False,True,True,False,True
+Suspension and Steering,Tie Rods QCS,Transmit steering input to wheels.,RCI-6EC0-6E6F-2980,2019-11-29,1352.52,CHF,True,True,Nord,True,True,False,True,False,False,True,True
+Suspension and Steering,Control Arms S1Y,Generic Control Arms,RCI-8E22-C8CD-0740,2018-06-22,1060.53,CHF,True,True,"Nord,WV,Feramborghini,BMV",True,False,True,True,True,False,True,False
+Suspension and Steering,Power Steering Pump 3AY,Generic Power Steering Pump,RCI-2034-018A-7240,2019-11-28,887.46,CHF,True,False,"WV,Mecentley,Nord,BMV",False,True,True,True,False,False,False,False
+Suspension and Steering,Control Arms DJE,Connect wheel hub to vehicle frame.,RCI-5750-3B56-1B36,2016-10-24,272.14,CHF,True,True,"BMV,Mecentley,Nord",False,True,True,True,True,False,False,True
+Suspension and Steering,Torsion Bar M2L,Generic Torsion Bar,RCI-8214-B42C-3ACA,2025-02-02,893.15,CHF,False,True,BMV,True,True,True,False,True,True,False,False
+Suspension and Steering,Steering Wheel U0U,Generic Steering Wheel,RCI-BF44-0FB6-0A69,2020-08-27,1971.21,CHF,True,True,"WV,BMV,Feramborghini",True,False,False,True,False,True,True,False
+Suspension and Steering,Shock Absorbers / Struts E16,Generic Shock Absorbers / Struts,RCI-C175-05C7-92D8,2015-10-18,1469.08,CHF,True,True,"WV,Mecentley,BMV,Feramborghini",True,True,True,False,True,False,True,False
+Suspension and Steering,Power Steering Pump 782,Generic Power Steering Pump,RCI-BDCE-18BA-3102,2020-01-09,142.95,CHF,True,True,"Feramborghini,Nord,BMV",True,True,False,False,True,False,False,False
+Suspension and Steering,Steering Rack PAW,Generic Steering Rack,RCI-A10D-2627-580C,2017-10-24,368.33,CHF,True,True,"Nord,Feramborghini,WV",True,False,False,False,False,True,True,False
+Suspension and Steering,Steering Wheel KQA,Allows driver to steer the vehicle.,RCI-952F-C04E-B31F,2021-11-09,180.67,CHF,True,True,"Feramborghini,Nord,Mecentley",True,True,False,False,False,True,True,False
+Suspension and Steering,Wheel Bearings 11N,Generic Wheel Bearings,RCI-D33C-9DE5-467F,2018-12-19,1593.74,CHF,True,True,"WV,Nord",True,True,False,True,True,False,False,True
+Suspension and Steering,Torsion Bar V98,Generic Torsion Bar,RCI-B4C1-636C-9C40,2021-06-12,1944.37,CHF,True,False,Nord,False,True,False,True,True,True,True,False
+Suspension and Steering,Power Steering Pump 64T,Generic Power Steering Pump,RCI-CA32-8753-5B24,2023-06-15,609.45,CHF,True,True,"BMV,WV,Feramborghini",True,False,False,False,True,True,False,False
+Suspension and Steering,Steering Rack FGA,Generic Steering Rack,RCI-48E7-64C2-44DB,2021-06-19,157.42,CHF,True,True,"WV,Nord,Mecentley,BMV",False,False,True,True,False,True,True,True
+Suspension and Steering,Leaf Springs 9Q2,Generic Leaf Springs,RCI-B070-9168-C14B,2024-08-18,1646.37,CHF,True,True,"BMV,Nord",True,True,False,False,False,True,True,False
+Suspension and Steering,Leaf Springs ZRJ,Generic Leaf Springs,RCI-CB10-0D1B-7BCE,2016-06-24,98.47,CHF,True,True,"Feramborghini,WV",False,False,True,True,True,False,False,True
+Suspension and Steering,Steering Wheel AHG,Allows driver to steer the vehicle.,RCI-F5DF-B805-ED6E,2023-01-16,12.24,CHF,True,True,"Nord,Feramborghini,BMV",False,True,False,True,False,True,True,False
+Ignition System,High-Performance Spark Plugs 4ZG,Provide better combustion efficiency.,RCI-EC68-E627-7D5E,2023-04-16,90.09,CHF,True,True,"Nord,Feramborghini",False,True,True,True,False,True,True,True
+Ignition System,High-Performance Spark Plugs YXV,Provide better combustion efficiency.,RCI-EBE4-682A-3354,2022-10-18,972.25,CHF,True,True,"BMV,WV,Nord,Mecentley",False,True,False,True,False,False,True,False
+Ignition System,High-Performance Spark Plugs C7J,Provide better combustion efficiency.,RCI-216B-DA6A-659B,2017-04-14,1471.11,CHF,True,True,Feramborghini,True,True,True,True,True,False,False,True
+Ignition System,High-Performance Spark Plugs 2DM,Provide better combustion efficiency.,RCI-3392-D082-8B3A,2018-06-02,1283.69,CHF,True,False,"BMV,WV,Feramborghini,Mecentley",False,False,True,False,True,False,False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) SKG","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",RCI-531D-A94A-0262,2025-01-05,1729.5,CHF,True,True,"Nord,Mecentley,Feramborghini",False,True,True,True,True,True,True,False
+Interior Components,Dashboard 28T,Generic Dashboard,RCI-3F3D-61E2-CA4E,2021-09-26,1131.09,CHF,True,True,Feramborghini,False,True,True,True,False,True,False,True
+Interior Components,Center Console CT3,Generic Center Console,RCI-2A67-A97C-5066,2024-10-13,480.97,CHF,True,True,"Feramborghini,BMV,Nord",False,False,True,True,True,True,False,True
+Interior Components,Sun Visors YAJ,Generic Sun Visors,RCI-7321-6C0B-D8C3,2024-05-07,1281.37,CHF,True,True,"Mecentley,Feramborghini",True,False,False,False,False,False,False,True
+Interior Components,Handbrake Lever FPC,Generic Handbrake Lever,RCI-A01E-74E3-9A6B,2018-07-01,941.11,CHF,False,False,"WV,Mecentley,BMV",True,False,True,True,True,False,True,True
+Interior Components,Carpet MH7,Generic Carpet,RCI-3CE9-DE7F-679A,2020-04-17,212.14,CHF,False,True,"WV,Mecentley,Nord",False,True,False,True,True,False,True,True
+Interior Components,Seats T73,Generic Seats,RCI-971A-29D7-22EF,2020-08-30,24.05,CHF,True,True,Nord,False,True,False,True,True,True,False,True
+Interior Components,Interior Trim Panels ZWD,Generic Interior Trim Panels,RCI-A0C7-2124-2A63,2023-01-31,1372.26,CHF,True,False,"BMV,Nord,WV",False,False,True,False,True,False,True,False
+Interior Components,Sun Visors 1NK,Generic Sun Visors,RCI-6A28-D163-8749,2016-02-02,1964.29,CHF,True,False,"Feramborghini,Mecentley,Nord,BMV",True,True,False,True,True,True,False,False
+Interior Components,Glove Box K51,Compartment for storing small items.,RCI-AF26-CD0E-E0C6,2021-08-28,1026.87,CHF,True,True,"Mecentley,WV",False,True,False,True,True,False,False,False
+Interior Components,Interior Trim Panels 2A3,Generic Interior Trim Panels,RCI-0DCD-2C04-794B,2025-11-12,1206.72,CHF,True,True,Nord,True,False,True,False,False,True,False,True
+Interior Components,Headliner 6OF,Generic Headliner,RCI-256D-1EAF-39D5,2021-10-27,1217.7,CHF,True,True,WV,False,True,False,True,True,True,False,True
+Interior Components,Seats U8V,Provide seating for vehicle occupants.,RCI-72AE-523E-1C52,2015-06-01,1613.5,CHF,False,True,WV,True,True,True,False,True,True,False,True
+Interior Components,Seatbelts XKB,Generic Seatbelts,RCI-8DFD-D8A3-A03B,2015-08-28,1364.88,CHF,True,True,"Feramborghini,BMV",False,True,True,True,False,True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 9FP","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",RCI-0FF3-BAE0-0EA1,2018-06-30,1224.52,CHF,True,False,Feramborghini,True,False,True,False,False,True,True,True
+Interior Components,Glove Box 9ZQ,Compartment for storing small items.,RCI-9104-8CC3-4D73,2022-11-23,1076.36,CHF,False,False,"Feramborghini,Mecentley,WV,BMV,Nord",True,True,True,True,True,False,False,True
+Interior Components,Seatbelts 2WT,Generic Seatbelts,RCI-E92D-3B05-57F6,2016-05-21,1249.76,CHF,True,True,"Mecentley,Nord,Feramborghini,WV,BMV",False,False,True,True,True,True,True,True
+Interior Components,Gear Shift Knob B9O,Generic Gear Shift Knob,RCI-97B0-C799-1428,2024-04-25,1716.2,CHF,False,True,"BMV,WV",False,False,False,False,True,False,True,True
+Interior Components,Headliner EAW,Generic Headliner,RCI-A149-3D54-F26E,2020-04-12,1581.41,CHF,True,True,"Mecentley,Feramborghini,WV,BMV,Nord",True,True,True,False,True,False,False,True
+Interior Components,Interior Trim Panels B7Z,Generic Interior Trim Panels,RCI-4E87-FECF-19B6,2022-03-06,1547.61,CHF,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",True,False,True,True,True,False,False,False
+Interior Components,Seatbelts ZZK,Secure passengers to reduce injury risk.,RCI-3D4C-9812-6AFA,2025-10-17,632.84,CHF,False,True,"Mecentley,WV,BMV,Nord",False,True,True,True,True,True,True,False
+Interior Components,Dashboard 0I4,Generic Dashboard,RCI-AAB0-ACCB-D1E4,2021-04-30,640.19,CHF,True,True,"Mecentley,Nord",False,False,True,False,True,True,False,False
+Interior Components,Gear Shift Knob 58I,Generic Gear Shift Knob,RCI-E89D-9A6B-8276,2022-10-12,1762.67,CHF,True,True,"BMV,Mecentley,Nord",False,False,True,True,True,True,False,True
+Interior Components,Seatbelts 7BP,Generic Seatbelts,RCI-DF2A-72E9-B1DB,2016-02-08,221.89,CHF,True,False,"Nord,WV,BMV,Feramborghini",False,False,True,True,True,True,True,True
+Interior Components,Rearview Mirror SJM,Generic Rearview Mirror,RCI-A4DB-DCEB-E1EA,2022-05-28,930.14,CHF,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,True,False,True,True,False,False,True
+Interior Components,Handbrake Lever U65,Generic Handbrake Lever,RCI-49C9-E5B2-F449,2015-04-06,728.35,CHF,True,True,"Mecentley,WV,BMV,Nord",True,False,True,True,False,True,False,False
+Interior Components,Glove Box HGC,Generic Glove Box,RCI-EEBC-656B-6B24,2017-04-18,1348.06,CHF,False,False,WV,True,True,True,False,True,True,True,False
+Interior Components,Carpet LD7,Generic Carpet,RCI-2AE1-EA30-CDEE,2023-04-11,1489.95,CHF,True,True,"Mecentley,Nord,WV",False,True,True,True,True,True,True,False
+Interior Components,Headliner FDM,Generic Headliner,RCI-0F70-8BD8-F34E,2021-04-27,762.9,CHF,True,False,"Feramborghini,Mecentley,BMV",True,True,False,False,False,True,True,False
+Interior Components,Floor Mats 5WG,Generic Floor Mats,RCI-8E66-55E5-8F1A,2016-05-22,1002.48,CHF,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",False,True,False,True,False,False,True,False
+Interior Components,Carpet VOD,Generic Carpet,RCI-653C-D161-F0D7,2024-03-24,855.33,CHF,True,True,"BMV,Feramborghini",False,True,False,True,False,True,True,True
+Interior Components,Rearview Mirror TWF,Generic Rearview Mirror,RCI-1D0F-CCE5-DA60,2020-06-30,1610.73,CHF,True,True,"Mecentley,Feramborghini",True,False,True,True,True,True,False,False
+Interior Components,Carpet HHK,Generic Carpet,RCI-FDC2-CC24-DF6A,2015-09-04,369.61,CHF,True,True,"Nord,Feramborghini,BMV,WV,Mecentley",True,True,False,True,False,False,True,False
+Interior Components,Seatbelts CGJ,Secure passengers to reduce injury risk.,RCI-A674-6794-E7B2,2022-07-27,1149.27,CHF,True,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,False,True,True,True,False,False,True
+Interior Components,Carpet V85,Generic Carpet,RCI-FF34-A88F-B634,2024-06-16,239.25,CHF,True,True,"WV,BMV,Nord,Mecentley",True,False,True,False,True,True,True,True
+Interior Components,Glove Box 2KS,Compartment for storing small items.,RCI-1736-ED01-0810,2021-09-13,1982.35,CHF,False,True,"BMV,WV,Feramborghini,Nord,Mecentley",True,False,False,False,False,True,False,False
+Interior Components,Handbrake Lever E0Y,Generic Handbrake Lever,RCI-E48E-599D-3B6F,2017-10-09,1839.31,CHF,False,True,"BMV,Mecentley",True,True,False,True,True,True,True,False
+Interior Components,Rearview Mirror O1A,Generic Rearview Mirror,RCI-7BFE-5DEF-5867,2017-02-26,872.43,CHF,False,True,"Mecentley,Feramborghini",True,True,True,False,False,False,True,True
+Interior Components,Headliner CHI,Generic Headliner,RCI-E778-4194-3C3B,2025-07-11,266.76,CHF,False,True,"Mecentley,Nord,BMV,Feramborghini",True,True,False,True,False,False,True,False
+Interior Components,Seatbelts HJB,Secure passengers to reduce injury risk.,RCI-C5AD-824D-7306,2015-06-09,398.45,CHF,True,False,"Mecentley,Nord,BMV",True,True,False,True,True,False,False,False
+Interior Components,Interior Trim Panels JDP,Generic Interior Trim Panels,RCI-0BBA-69DF-C514,2017-03-07,435.14,CHF,True,True,"WV,Feramborghini,Nord,BMV",True,True,True,True,True,True,True,True
+Interior Components,Seatbelts XZX,Secure passengers to reduce injury risk.,RCI-FC86-83D6-FD7A,2017-08-11,922.59,CHF,True,True,"Mecentley,BMV,WV,Feramborghini,Nord",False,True,True,True,True,True,True,True
+Interior Components,Handbrake Lever JVD,Generic Handbrake Lever,RCI-ADFF-0779-C33F,2024-02-20,241.32,CHF,True,True,"BMV,Nord",False,True,False,True,False,False,False,False
+Interior Components,Glove Box YIK,Generic Glove Box,RCI-5ACA-B06D-3200,2017-11-14,617.82,CHF,True,False,"Feramborghini,WV,BMV,Mecentley,Nord",False,True,False,False,True,False,True,False
+Interior Components,Glove Box XM4,Compartment for storing small items.,RCI-B877-E4A2-67D3,2023-07-28,553.08,CHF,True,True,"Feramborghini,BMV",False,True,True,False,False,False,True,False
+Interior Components,Seats SYQ,Provide seating for vehicle occupants.,RCI-EDC4-6A2A-FA0D,2016-02-03,935.89,CHF,True,False,"WV,Nord,Mecentley,Feramborghini",True,True,True,True,True,True,True,True
+Interior Components,Seatbelts 9ZU,Generic Seatbelts,RCI-6FF8-2A86-A450,2020-09-07,792.18,CHF,True,True,Nord,False,False,False,True,True,True,False,True
+Interior Components,Seats XQT,Provide seating for vehicle occupants.,RCI-614B-E829-D93E,2020-04-19,702.77,CHF,True,True,"Mecentley,BMV,Nord,Feramborghini",True,True,False,False,True,True,True,True
+Interior Components,Dashboard U6N,Generic Dashboard,RCI-5617-A368-2C80,2015-10-08,1099.55,CHF,True,True,"BMV,Nord",False,True,False,True,False,True,False,False
+Interior Components,Gear Shift Knob YI3,Generic Gear Shift Knob,RCI-A242-BE3A-22E1,2021-06-29,110.74,CHF,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",True,False,False,False,True,True,True,True
+Interior Components,Rearview Mirror L0W,Generic Rearview Mirror,RCI-37BB-6912-6F88,2025-05-09,1104.75,CHF,True,True,"Mecentley,Feramborghini,BMV,WV,Nord",True,True,True,False,False,True,True,False
+Interior Components,Gear Shift Knob I4F,Generic Gear Shift Knob,RCI-BF6B-3E79-BDF6,2019-03-04,987.32,CHF,False,False,"WV,Feramborghini,Nord,BMV,Mecentley",True,False,True,False,True,True,True,True
+Interior Components,Floor Mats 81D,Generic Floor Mats,RCI-1804-C57F-47F2,2018-08-25,1160.59,CHF,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",False,False,False,True,False,True,True,False
+Interior Components,Sun Visors YRH,Generic Sun Visors,RCI-A065-8103-E332,2015-04-27,82.64,CHF,True,True,WV,True,False,False,True,False,True,True,True
+Interior Components,Sun Visors 66X,Generic Sun Visors,RCI-4DB2-3DB2-A545,2023-09-30,1794.36,CHF,True,True,"Feramborghini,Nord,WV,Mecentley,BMV",True,True,False,True,False,False,False,False
+Interior Components,Dashboard ORM,Houses instruments and controls in front of driver.,RCI-98D7-FECC-5DC5,2015-07-30,1904.41,CHF,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,True,False,False,True,True,True
+Interior Components,Sun Visors WQI,Generic Sun Visors,RCI-6A83-1E1D-F7FD,2016-08-22,1897.36,CHF,True,True,WV,True,True,False,True,True,False,False,True
+Interior Components,Gear Shift Knob UCU,Generic Gear Shift Knob,RCI-8518-E78E-2E63,2024-04-09,269.05,CHF,True,True,"WV,Mecentley,Feramborghini",False,False,False,True,False,False,False,True
+Interior Components,Glove Box P6Q,Generic Glove Box,RCI-1A84-599A-E423,2022-10-15,13.0,CHF,True,True,"WV,Feramborghini,BMV",True,True,False,False,False,True,True,False
+Interior Components,Seat Motors AC8,Generic Seat Motors,RCI-A582-41EC-054B,2023-02-02,740.51,CHF,True,True,"Mecentley,WV,Nord,BMV",False,True,True,False,False,True,False,False
+Interior Components,Dashboard TQY,Houses instruments and controls in front of driver.,RCI-6267-70BA-C044,2023-03-18,1608.25,CHF,True,True,BMV,True,True,False,False,True,True,False,True
+Interior Components,Sun Visors 422,Generic Sun Visors,RCI-1B89-CAEB-91A5,2025-09-23,410.79,CHF,True,True,"Mecentley,WV,Feramborghini,BMV",True,True,True,True,True,False,False,False
+Interior Components,Seats U7X,Provide seating for vehicle occupants.,RCI-50D3-551D-8528,2020-11-25,1306.54,CHF,True,False,"BMV,Nord,Mecentley,WV",False,True,True,False,True,True,False,True
+Interior Components,Dashboard DTE,Generic Dashboard,RCI-DD68-3894-6436,2023-07-15,1197.87,CHF,False,True,"BMV,Nord,WV,Feramborghini,Mecentley",False,True,True,True,False,True,True,True
+Interior Components,Rearview Mirror TXL,Generic Rearview Mirror,RCI-4652-5998-8BA3,2016-02-27,1382.46,CHF,True,True,"Nord,Mecentley",False,False,True,True,True,False,True,False
+Interior Components,Gear Shift Knob J0F,Generic Gear Shift Knob,RCI-E1F1-2B60-A483,2015-08-21,1573.57,CHF,True,True,WV,True,True,False,True,True,True,True,True
+Interior Components,Floor Mats DPP,Generic Floor Mats,RCI-BADD-704D-647B,2025-05-13,1919.78,CHF,False,True,"Feramborghini,Mecentley,Nord",True,True,False,True,False,True,False,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) FTM","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",RCI-BCA1-0643-9D31,2016-03-08,843.53,CHF,True,True,"WV,Feramborghini,Mecentley,BMV",False,False,True,True,False,False,False,True
+Interior Components,Seats FPC,Generic Seats,RCI-E0AA-8BB3-AB95,2025-07-08,856.2,CHF,False,True,"Feramborghini,WV,Mecentley,BMV,Nord",True,True,False,True,True,True,False,False
+Drivetrain,Lightweight Flywheel 7HE,Improves throttle response.,RCI-D224-2289-E63C,2020-09-07,266.76,CHF,False,True,"Feramborghini,WV,BMV",False,True,True,True,True,True,True,True
+Drivetrain,Performance Clutch Kit WAH,Handles more torque from tuned engines.,RCI-9436-7E8C-E0AC,2024-07-11,634.49,CHF,True,True,"Nord,BMV",True,True,True,True,False,True,False,True
+Drivetrain,Limited Slip Differential 2AW,Distributes torque more efficiently to wheels.,RCI-5E66-5BB9-50AF,2021-03-03,1159.86,CHF,True,True,"Mecentley,Feramborghini",False,True,True,True,True,False,False,True
+Drivetrain,Aftermarket LSD 9G5,Improves grip in cornering and acceleration.,RCI-02E1-6625-A5FA,2020-10-29,1422.8,CHF,True,False,"Nord,Mecentley,Feramborghini,BMV,WV",False,True,True,True,False,True,True,False
+Drivetrain,Performance Clutch Kit TOU,Handles more torque from tuned engines.,RCI-DBB9-3726-20EF,2018-12-24,553.0,CHF,True,False,"Mecentley,Feramborghini,BMV,Nord",True,False,False,True,True,True,True,True
+Drivetrain,Lightweight Flywheel 5P0,Improves throttle response.,RCI-B4DE-A884-8F41,2023-10-21,163.98,CHF,True,False,"Nord,Feramborghini,WV",True,True,True,False,True,True,True,True
+Drivetrain,Performance Clutch Kit 66C,Handles more torque from tuned engines.,RCI-F44C-C21F-F5B4,2020-09-26,323.44,CHF,True,True,"Nord,Mecentley,Feramborghini,WV",False,False,True,True,True,False,True,False
+Drivetrain,Performance Clutch Kit DR4,Handles more torque from tuned engines.,RCI-4BA1-29A3-1834,2017-07-18,1475.28,CHF,True,True,"Nord,Mecentley,WV",True,True,False,True,False,True,True,True
+Drivetrain,Limited Slip Differential 4T3,Distributes torque more efficiently to wheels.,RCI-4D44-F4BE-BE20,2016-01-07,1671.43,CHF,True,True,"BMV,Nord",True,False,True,True,True,False,True,True
+Drivetrain,Limited Slip Differential UUH,Distributes torque more efficiently to wheels.,RCI-E263-7C45-B2D9,2020-06-14,1724.69,CHF,True,True,"Nord,WV,Feramborghini",True,True,False,False,True,False,True,False
+Drivetrain,Aftermarket LSD GER,Improves grip in cornering and acceleration.,RCI-D6B1-FAF2-1956,2017-12-13,1816.39,CHF,True,False,"BMV,WV,Feramborghini,Mecentley,Nord",True,False,True,True,False,True,True,True
+Drivetrain,Lightweight Flywheel R86,Improves throttle response.,RCI-D77E-3EE8-3EFF,2015-05-19,1683.36,CHF,True,True,"Feramborghini,WV",True,True,False,True,False,True,True,True
+Drivetrain,Lightweight Flywheel F0V,Improves throttle response.,RCI-F9F0-9EE3-C9ED,2015-07-25,497.48,CHF,True,False,Feramborghini,True,True,True,True,True,False,True,False
+Suspension,Lowering Springs YEY,Lowers ride height and improves handling.,RCI-7DF9-5249-4D68,2025-04-01,1844.27,CHF,False,True,"BMV,WV,Feramborghini",False,True,True,True,False,True,True,False
+Suspension,Sway Bars 644,Reduces body roll in aggressive turns.,RCI-7858-0D05-409D,2015-09-02,488.57,CHF,True,True,"Mecentley,Nord",False,True,True,True,True,True,True,False
+Suspension,Adjustable Coilovers OOO,Allow height and damping adjustment.,RCI-DF3D-E8C3-D04A,2016-10-27,1866.55,CHF,True,True,Nord,False,False,True,True,True,True,False,True
+Suspension,Adjustable Coilovers 9A8,Allow height and damping adjustment.,RCI-9EFB-1EE9-6018,2017-04-29,1691.52,CHF,False,True,"Nord,WV",False,False,False,False,True,False,True,True
+Suspension,Lowering Springs 04C,Lowers ride height and improves handling.,RCI-3E92-E6E5-AF47,2018-03-22,1385.4,CHF,True,True,BMV,True,True,True,True,True,True,True,True
+Suspension,Adjustable Coilovers 1HI,Allow height and damping adjustment.,RCI-87F5-66CA-8D4B,2017-11-10,1962.07,CHF,True,True,WV,False,False,True,True,True,True,False,True
+Suspension,Lowering Springs 33U,Lowers ride height and improves handling.,RCI-DB7D-C4CF-70FF,2018-01-11,1222.33,CHF,True,True,WV,False,False,True,False,False,True,False,False
+Suspension,Lowering Springs NV4,Lowers ride height and improves handling.,RCI-EE69-1A24-4E89,2020-09-08,1215.38,CHF,True,True,"Mecentley,BMV,Nord,WV",False,True,True,True,True,True,False,True
+Suspension,Lowering Springs ST7,Lowers ride height and improves handling.,RCI-A629-4DD7-AE7F,2025-04-12,481.06,CHF,True,True,"BMV,WV,Nord,Mecentley,Feramborghini",True,False,True,True,True,True,True,False
+Structural and Chassis,Crossmember 1FD,Generic Crossmember,RCI-7D96-A85D-66B5,2017-05-18,1960.17,CHF,True,True,"Mecentley,Feramborghini,BMV,WV,Nord",False,True,True,True,False,True,True,False
+Structural and Chassis,Wheel Wells KVH,Generic Wheel Wells,RCI-7937-11B4-2BAB,2023-08-06,678.59,CHF,True,True,"Nord,Mecentley",False,True,True,False,False,True,False,False
+Structural and Chassis,Wheel Wells Z98,Generic Wheel Wells,RCI-0EFB-E7EE-079B,2023-01-30,1851.05,CHF,False,True,"Mecentley,Feramborghini",False,True,True,False,True,False,True,False
+Structural and Chassis,Subframe XPI,Generic Subframe,RCI-9FFA-407E-CBF6,2018-04-22,486.94,CHF,False,True,"WV,BMV,Feramborghini,Nord",False,False,False,False,False,True,False,False
+Structural and Chassis,Crossmember 1XT,Generic Crossmember,RCI-91D2-E9D6-1EBE,2017-06-14,238.45,CHF,False,True,"Nord,Feramborghini,WV",True,False,False,True,True,True,True,False
+Structural and Chassis,"Pillars (A, B, C) 0RP","Generic Pillars (A, B, C)",RCI-FB7F-3F89-4812,2021-09-28,1135.0,CHF,True,True,"WV,Feramborghini,Nord,Mecentley",True,False,False,True,False,True,False,True
+Structural and Chassis,Floor Pan TUA,Generic Floor Pan,RCI-93AA-8F11-9F91,2016-12-18,1822.46,CHF,True,True,"WV,Mecentley,Feramborghini,BMV",False,True,True,False,False,True,False,True
+Structural and Chassis,Floor Pan YVJ,Generic Floor Pan,RCI-4550-F4FB-4FD2,2016-03-23,1240.87,CHF,True,True,"WV,Mecentley,Nord",True,True,True,True,True,False,True,True
+Structural and Chassis,"Pillars (A, B, C) 463","Generic Pillars (A, B, C)",RCI-1A94-3799-A88B,2022-12-08,1448.08,CHF,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",True,True,True,True,True,False,True,False
+Structural and Chassis,Frame / Chassis 3XL,Generic Frame / Chassis,RCI-7375-E97F-BF99,2023-10-05,1438.92,CHF,True,True,"Nord,WV",False,True,True,False,False,False,True,False
+Structural and Chassis,Subframe C1C,Generic Subframe,RCI-E8C7-39A5-8DFA,2018-02-28,1363.79,CHF,False,False,WV,True,False,False,True,False,True,False,False
+Structural and Chassis,"Pillars (A, B, C) 1V4","Generic Pillars (A, B, C)",RCI-7A1E-71C8-4F4B,2016-07-27,1234.64,CHF,True,False,"WV,Nord,Feramborghini,BMV",True,True,False,True,True,True,False,False
+Structural and Chassis,Subframe A1J,Generic Subframe,RCI-B112-30D2-C6A6,2017-06-12,1772.41,CHF,True,True,"WV,Mecentley,Nord",True,True,True,True,False,False,False,False
+Structural and Chassis,Rocker Panels QA7,Generic Rocker Panels,RCI-7331-D05B-897E,2023-08-28,420.99,CHF,True,True,"Nord,WV,Mecentley,BMV",True,True,True,False,False,False,False,False
+Structural and Chassis,Subframe UZE,Generic Subframe,RCI-6550-75F6-7FED,2021-04-05,269.87,CHF,True,False,"WV,Nord,Feramborghini,BMV",True,True,True,True,True,False,True,False
+Structural and Chassis,Wheel Wells O4N,Generic Wheel Wells,RCI-7BB4-D7D2-4585,2023-04-09,923.73,CHF,True,True,"WV,Nord",True,True,False,True,True,True,True,True
+Structural and Chassis,"Pillars (A, B, C) 93N","Generic Pillars (A, B, C)",RCI-1848-F924-E39F,2025-05-08,157.4,CHF,True,True,"Mecentley,Feramborghini,Nord",True,True,False,False,False,False,True,True
+Structural and Chassis,"Pillars (A, B, C) 5GY","Generic Pillars (A, B, C)",RCI-A6F6-CC12-0EB4,2022-02-03,658.7,CHF,False,True,Nord,True,True,True,True,False,False,False,False
+Structural and Chassis,Crossmember J6X,Generic Crossmember,RCI-0CE6-E372-5CD0,2018-05-24,900.68,CHF,True,False,"Feramborghini,Mecentley,BMV,Nord",True,True,True,True,True,True,True,False
+Structural and Chassis,Rocker Panels 523,Generic Rocker Panels,RCI-7E6D-61A1-0E15,2021-09-15,353.31,CHF,True,False,"Mecentley,Nord",False,True,True,True,True,True,False,False
+Structural and Chassis,Wheel Wells YLZ,Generic Wheel Wells,RCI-8282-B232-8868,2024-06-16,1364.39,CHF,True,True,"Feramborghini,BMV,Nord,Mecentley,WV",True,True,True,True,False,True,True,True
+Structural and Chassis,Crossmember 08A,Generic Crossmember,RCI-3353-FB7A-E80C,2024-10-27,874.42,CHF,True,True,"BMV,WV,Nord,Mecentley,Feramborghini",False,True,True,False,False,False,True,True
+Structural and Chassis,Frame / Chassis NHF,Generic Frame / Chassis,RCI-DEE1-1F56-EB40,2020-06-19,1270.01,CHF,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",False,True,False,True,True,True,False,True
+Structural and Chassis,Crossmember O1N,Generic Crossmember,RCI-0526-5111-B3FB,2019-10-07,1494.67,CHF,True,True,WV,True,False,True,True,False,True,False,False
+Structural and Chassis,Floor Pan UGM,Generic Floor Pan,RCI-2333-8584-DD20,2019-06-19,197.91,CHF,False,True,"BMV,WV",True,False,False,False,False,True,False,True
+Structural and Chassis,Rocker Panels C1U,Generic Rocker Panels,RCI-FE88-FEF2-6525,2022-10-10,1858.74,CHF,True,False,Nord,False,True,True,True,True,False,True,True
+Structural and Chassis,Wheel Wells 3XH,Generic Wheel Wells,RCI-C6BA-7125-AB1C,2024-10-03,1666.02,CHF,True,False,"Nord,BMV",True,True,False,True,True,True,True,True
+Wheels and Tires,Rims / Wheels 3W0,Generic Rims / Wheels,RCI-A255-3392-1F9B,2016-07-08,873.15,CHF,True,True,"WV,Nord,BMV,Feramborghini,Mecentley",True,False,False,True,False,False,True,False
+Wheels and Tires,Tires 5LI,Generic Tires,RCI-D492-3A33-EE9C,2017-09-24,1567.17,CHF,True,True,"Mecentley,Feramborghini,Nord",False,False,True,False,True,False,True,False
+Wheels and Tires,Hubcaps REA,Generic Hubcaps,RCI-4970-5423-3CFA,2024-03-17,390.0,CHF,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,False,False,True,True,False,True
+Wheels and Tires,Rims / Wheels OPR,Generic Rims / Wheels,RCI-A223-DA2E-5679,2016-12-24,857.81,CHF,True,True,Nord,True,True,True,False,False,True,True,False
+Wheels and Tires,Hubcaps 0GY,Generic Hubcaps,RCI-F7BE-C073-13D9,2023-04-19,1785.85,CHF,True,True,"Mecentley,BMV,Feramborghini",True,False,False,False,False,False,False,True
+Wheels and Tires,Hubcaps RJO,Generic Hubcaps,RCI-23F8-490F-3E0D,2020-09-07,195.07,CHF,True,False,"Mecentley,Nord,WV",True,False,True,True,True,True,True,False
+Safety Systems,Seatbelt Pretensioners 5WK,Generic Seatbelt Pretensioners,RCI-F989-6CF2-2E86,2023-07-05,1801.14,CHF,False,True,"Mecentley,BMV,Nord,Feramborghini",False,False,True,True,True,True,True,False
+Safety Systems,Crumple Zones 09J,Generic Crumple Zones,RCI-63E7-22BB-3F72,2024-01-31,1950.69,CHF,True,False,"Feramborghini,WV,Mecentley",True,True,False,False,True,True,False,False
+Safety Systems,Roll Cage (in racing cars) PGZ,Generic Roll Cage (in racing cars),RCI-12CF-8F94-8884,2018-04-03,715.45,CHF,True,True,"Feramborghini,Nord",False,False,True,True,True,True,True,False
+Safety Systems,Crumple Zones 49S,Generic Crumple Zones,RCI-B651-2908-0BCF,2025-05-10,485.52,CHF,False,True,"Feramborghini,BMV,Nord,WV",False,True,False,True,True,True,True,True
+Safety Systems,Crash Sensors YSB,Generic Crash Sensors,RCI-37B5-1D6F-B7F7,2023-03-17,607.79,CHF,True,True,"Mecentley,Nord,BMV,WV",True,True,True,True,False,False,False,False
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) SBR","Generic Airbags (Front, Side, Curtain, Knee)",RCI-E09E-0F90-9E15,2019-11-14,1198.49,CHF,True,False,"Nord,WV",True,False,True,True,False,False,True,False
+Safety Systems,Crumple Zones 32T,Generic Crumple Zones,RCI-B55A-631F-4482,2023-11-22,1428.3,CHF,False,True,"WV,Nord,Feramborghini",True,True,False,False,True,True,False,True
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) 35K","Generic Airbags (Front, Side, Curtain, Knee)",RCI-2A37-6452-705D,2017-11-28,600.0,CHF,True,True,BMV,False,True,False,False,False,False,False,False
+Safety Systems,Crash Sensors 3IG,Generic Crash Sensors,RCI-599D-BEFC-8113,2022-11-09,1326.41,CHF,True,True,"BMV,WV,Feramborghini,Mecentley",False,False,False,False,False,True,True,True
+Safety Systems,Seatbelt Pretensioners 8CU,Generic Seatbelt Pretensioners,RCI-E12E-09C1-6D35,2023-04-14,553.62,CHF,True,False,"Nord,Mecentley,Feramborghini",True,False,True,True,False,True,False,False
+Transmission System,Shift Linkage 71W,Generic Shift Linkage,RCI-08FC-2F8C-BE75,2023-11-21,1827.2,CHF,True,True,"Mecentley,WV",True,True,True,True,True,False,True,False
+Transmission System,Transmission Mount EO0,Generic Transmission Mount,RCI-CE0C-A450-6A47,2020-05-21,296.8,CHF,True,True,"WV,Mecentley,BMV",True,True,False,True,True,False,True,True
+Transmission System,Flywheel ETK,Generic Flywheel,RCI-464C-0EA0-92FD,2018-01-10,1450.91,CHF,True,True,"Mecentley,BMV",False,True,True,True,True,True,False,False
+Transmission System,Clutch Slave Cylinder 0L3,Generic Clutch Slave Cylinder,RCI-2F93-D088-94B3,2024-09-27,1606.12,CHF,True,True,"Nord,WV,Mecentley,BMV",True,True,True,False,True,False,True,True
+Transmission System,Gearbox ZQ1,Changes vehicle speed and torque.,RCI-F4FF-D222-EC19,2016-05-23,1768.66,CHF,True,True,"Feramborghini,Nord,Mecentley",True,True,True,True,False,False,False,False
+Transmission System,Transmission Cooler BGF,Generic Transmission Cooler,RCI-3617-872F-03D0,2015-10-13,543.8,CHF,True,True,Nord,False,False,True,False,True,True,True,True
+Transmission System,Drive Shaft U83,Generic Drive Shaft,RCI-C8A5-0CA6-AA95,2025-03-13,40.14,CHF,True,False,WV,True,True,False,True,False,False,False,False
+Transmission System,Differential KFO,Generic Differential,RCI-AC4A-47C0-D556,2020-04-15,997.46,CHF,True,True,"Nord,BMV",True,True,True,False,True,True,False,True
+Transmission System,Clutch Plate 4FR,Generic Clutch Plate,RCI-2C12-4FF6-0B9B,2025-05-29,1734.38,CHF,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,False,True,True,True,False,True,True
+Transmission System,Pressure Plate 362,Generic Pressure Plate,RCI-C9DD-9860-BEA1,2017-05-24,619.81,CHF,True,True,"Feramborghini,BMV,Nord,WV,Mecentley",True,True,False,True,True,True,False,True

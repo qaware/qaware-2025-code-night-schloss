@@ -1,0 +1,920 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,recalled,digitallyTracked,used,aftermarket,safetyCritical
+Body and Exterior,Trunk / Boot K61,Generic Trunk / Boot,ZCL-DRI-EBGJ-WBH,2015-04-12,1097.75,JPY,True,True,WV,False,True,False,False,True
+Body and Exterior,Wiper Arms D37,Generic Wiper Arms,ZCL-BRK-UQMO-GI3,2022-08-26,1289.1,JPY,True,True,"WV,BMV,Feramborghini,Mecentley",True,True,True,True,True
+Body and Exterior,Trunk E13,Storage compartment at rear of vehicle.,ZCL-SUS-5CZA-CEH,2020-07-30,554.17,JPY,True,True,Nord,True,True,True,True,True
+Body and Exterior,Grille M99,Generic Grille,ZCL-BRK-3IE6-ZEY,2025-02-21,621.95,JPY,True,True,Mecentley,True,True,False,True,True
+Body and Exterior,Trunk / Boot W97,Generic Trunk / Boot,ZCL-TRN-182C-1T1,2021-11-24,1627.3,JPY,False,False,"WV,Nord,Feramborghini,Mecentley,BMV",True,False,True,True,False
+Body and Exterior,Hood P3,Covers the engine compartment.,ZCL-TRN-QF6W-4F0,2023-08-14,404.56,JPY,True,True,"Nord,Mecentley,WV,BMV",True,True,True,True,True
+Body and Exterior,Grille I20,Generic Grille,ZCL-DRI-0VTF-E66,2023-10-10,158.52,JPY,True,True,"BMV,Feramborghini,Nord",False,False,False,True,True
+Body and Exterior,Side Mirrors R26,Generic Side Mirrors,ZCL-BRK-NMJ5-0RI,2025-02-18,1010.02,JPY,True,True,Feramborghini,True,False,True,True,False
+Body and Exterior,Hood / Bonnet M87,Generic Hood / Bonnet,ZCL-BRK-AYND-F91,2022-05-08,429.28,JPY,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,True,True,True
+Body and Exterior,Hood / Bonnet I94,Generic Hood / Bonnet,ZCL-PERF-Z5DQ-4SN,2024-03-01,561.0,JPY,True,True,Feramborghini,False,True,True,False,False
+Body and Exterior,Window Seals Q27,Generic Window Seals,ZCL-ELE-SZJY-ARQ,2025-11-10,709.9,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,True,True,True,True
+Body and Exterior,Windshield I8,Generic Windshield,ZCL-DRI-YRRB-O3A,2023-06-15,177.16,JPY,True,True,"Nord,WV",False,True,False,True,False
+Body and Exterior,Doors B13,Generic Doors,ZCL-ENG-6N0O-9WG,2025-09-10,343.21,JPY,True,True,WV,False,True,True,True,False
+Body and Exterior,Hood G38,Covers the engine compartment.,ZCL-SUS-IP5B-9XY,2015-05-03,658.49,JPY,True,True,"Feramborghini,BMV",True,False,True,True,True
+Body and Exterior,Windshield E10,Front glass panel for visibility and protection.,ZCL-PERF-JV3Q-DOH,2016-05-03,333.31,JPY,False,True,"WV,Mecentley,BMV,Nord,Feramborghini",False,True,False,True,False
+Body and Exterior,Spoiler A73,Generic Spoiler,ZCL-COL-YNM4-CVD,2020-03-22,1477.38,JPY,True,True,"Feramborghini,BMV",False,False,False,True,False
+Body and Exterior,Bumpers M22,Protects car front and rear from impacts.,ZCL-ENG-66XO-ZDI,2018-11-25,707.32,JPY,True,True,"Nord,Feramborghini,WV",True,True,False,True,False
+Body and Exterior,License Plate Holder F45,Generic License Plate Holder,ZCL-DRI-IC75-C51,2021-06-02,1224.05,JPY,False,True,"WV,BMV,Mecentley,Feramborghini",True,True,False,False,False
+Body and Exterior,Side Mirrors Y83,Allow driver to view rear/side traffic.,ZCL-BRK-NLM5-YOI,2025-06-13,380.56,JPY,True,True,"WV,Feramborghini",True,True,True,True,True
+Body and Exterior,Side Mirrors W29,Generic Side Mirrors,ZCL-ENG-MRCM-JMS,2021-08-24,1195.89,JPY,False,True,"Feramborghini,WV",True,True,True,True,True
+Body and Exterior,Roof Rack K52,Generic Roof Rack,ZCL-DRI-KSFB-CKI,2019-04-17,1544.73,JPY,False,True,"BMV,Nord",False,True,True,False,True
+Body and Exterior,Windshield Washer Pump Y85,Generic Windshield Washer Pump,ZCL-COL-GFQD-WBO,2017-03-13,1927.3,JPY,False,True,"Nord,BMV,Feramborghini,Mecentley,WV",True,True,True,True,False
+Body and Exterior,Fenders M23,Generic Fenders,ZCL-BRK-BHAS-SHT,2020-05-20,1248.57,JPY,True,True,"BMV,Nord",False,False,False,False,True
+Body and Exterior,Wiper Arms F69,Generic Wiper Arms,ZCL-PERF-VUF3-2RJ,2017-04-30,675.86,JPY,True,True,"Nord,Feramborghini,BMV,WV,Mecentley",True,False,True,True,True
+Body and Exterior,Bumpers I27,Protects car front and rear from impacts.,ZCL-ENG-MYYV-WYD,2017-06-24,1226.07,JPY,True,True,BMV,True,False,True,False,True
+Body and Exterior,Windshield Washer Pump A19,Generic Windshield Washer Pump,ZCL-ENG-PXFV-696,2021-03-06,830.78,JPY,False,True,"WV,Mecentley,BMV",True,False,True,False,True
+Body and Exterior,Antenna I11,Generic Antenna,ZCL-ENG-05ES-68F,2017-09-19,549.91,JPY,True,True,BMV,False,False,False,True,True
+Body and Exterior,License Plate Holder R28,Generic License Plate Holder,ZCL-BRK-A3CR-GA8,2025-12-18,216.58,JPY,True,True,"Mecentley,BMV",False,False,True,False,True
+Body and Exterior,Doors O64,Generic Doors,ZCL-PERF-9WAT-MPS,2025-05-23,656.32,JPY,False,True,"WV,BMV,Nord,Feramborghini",True,True,False,True,False
+Body and Exterior,Window Seals Y81,Generic Window Seals,ZCL-COL-URQX-IXR,2019-03-28,1840.63,JPY,True,True,Mecentley,False,True,True,True,False
+Body and Exterior,Windshield V83,Front glass panel for visibility and protection.,ZCL-ENG-IBWO-09I,2020-08-05,1589.09,JPY,True,True,"BMV,WV,Feramborghini,Mecentley",True,True,False,True,True
+Body and Exterior,Fenders D32,Generic Fenders,ZCL-TRN-9WEO-VH0,2016-06-23,1785.42,JPY,True,True,"Feramborghini,Nord,WV,BMV",True,False,True,True,True
+Body and Exterior,License Plate Holder A41,Generic License Plate Holder,ZCL-DRI-C4U5-WI1,2022-07-29,1159.41,JPY,True,True,"Feramborghini,WV",True,False,True,True,False
+Body and Exterior,Windshield R68,Generic Windshield,ZCL-ENG-0ELK-2BD,2020-07-11,1169.83,JPY,False,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,True,True,False,True
+Body and Exterior,Trunk Z60,Storage compartment at rear of vehicle.,ZCL-PERF-PMRZ-8GQ,2017-12-15,1447.77,JPY,True,False,"BMV,WV,Mecentley",True,False,True,False,False
+Body and Exterior,Side Mirrors V5,Generic Side Mirrors,ZCL-DRI-G5UT-P5Y,2025-09-25,1524.06,JPY,True,True,"Feramborghini,Nord,Mecentley,WV,BMV",True,True,True,True,True
+Body and Exterior,"Bumpers (Front, Rear) Z95","Generic Bumpers (Front, Rear)",ZCL-TRN-DZG3-FM6,2017-04-08,420.6,JPY,False,True,"Mecentley,Feramborghini,BMV",True,True,True,True,False
+Body and Exterior,Grille D62,Generic Grille,ZCL-DRI-XE6O-7D9,2023-07-28,920.56,JPY,True,False,"Nord,Feramborghini,BMV",True,True,True,False,False
+Body and Exterior,Bumpers K64,Protects car front and rear from impacts.,ZCL-DRI-T9CN-UT3,2020-05-05,1558.44,JPY,True,True,"WV,BMV,Feramborghini,Nord",False,True,True,False,False
+Body and Exterior,Wiper Blades Q72,Generic Wiper Blades,ZCL-COL-Z9EN-40B,2017-04-19,1414.41,JPY,False,True,"Nord,Feramborghini,Mecentley",False,False,True,False,True
+Body and Exterior,Windshield X67,Front glass panel for visibility and protection.,ZCL-TRN-YNOZ-1QG,2021-01-16,1404.12,JPY,True,True,"Feramborghini,Mecentley",True,True,True,False,True
+Body and Exterior,Grille P85,Generic Grille,ZCL-DRI-0VZD-D9D,2018-09-30,1558.25,JPY,True,False,"Nord,WV",False,False,True,False,True
+Body and Exterior,Roof Rack X43,Generic Roof Rack,ZCL-DRI-Z2KH-FZP,2016-07-16,915.83,JPY,False,True,Mecentley,True,False,True,False,False
+Body and Exterior,License Plate Holder S63,Generic License Plate Holder,ZCL-SUS-QT0R-JMD,2017-02-18,772.04,JPY,True,False,"BMV,Feramborghini,Nord,Mecentley",False,True,True,True,True
+Body and Exterior,Fenders P68,Generic Fenders,ZCL-DRI-AVWJ-58J,2015-10-04,1319.54,JPY,False,False,"Feramborghini,Mecentley,BMV",True,False,True,True,True
+Body and Exterior,Hood / Bonnet V24,Generic Hood / Bonnet,ZCL-COL-369B-KOG,2015-11-11,341.11,JPY,True,True,"WV,Mecentley,Nord",True,False,True,False,False
+Body and Exterior,Grille C18,Generic Grille,ZCL-ENG-A6UL-ZG9,2020-02-02,1909.91,JPY,True,True,"Nord,Feramborghini,WV",False,True,True,True,True
+Body and Exterior,"Bumpers (Front, Rear) Q34","Generic Bumpers (Front, Rear)",ZCL-SUS-V3KO-Y8L,2023-11-18,470.03,JPY,True,True,"WV,Nord,Mecentley",True,True,True,True,False
+Body and Exterior,Spoiler D46,Generic Spoiler,ZCL-ENG-DMW7-OW0,2020-05-06,1561.47,JPY,True,True,"Nord,WV",False,True,True,True,True
+Body and Exterior,Windshield A15,Front glass panel for visibility and protection.,ZCL-ENG-YT3P-L9B,2018-03-26,1970.54,JPY,True,True,"Feramborghini,BMV,Nord,Mecentley,WV",False,False,False,False,False
+Body and Exterior,Trunk / Boot S73,Generic Trunk / Boot,ZCL-SUS-3070-XRM,2023-12-11,1554.64,JPY,False,True,"WV,Nord,Feramborghini,Mecentley",True,False,False,True,True
+Body and Exterior,"Bumpers (Front, Rear) Z96","Generic Bumpers (Front, Rear)",ZCL-ELE-69Q7-1RR,2017-03-30,377.53,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,True,False,False,False
+Body and Exterior,Emblems / Badges V8,Generic Emblems / Badges,ZCL-ENG-4BYH-L1N,2020-12-15,1563.06,JPY,True,False,"Feramborghini,Nord",False,False,True,True,False
+Body and Exterior,Roof Rack G45,Generic Roof Rack,ZCL-PERF-MDEA-P92,2015-02-17,330.36,JPY,True,True,"BMV,WV,Feramborghini",True,True,True,True,True
+Body and Exterior,Trunk / Boot X5,Generic Trunk / Boot,ZCL-BRK-G63B-HCO,2020-12-16,483.61,JPY,True,True,"Feramborghini,BMV,Nord",False,True,True,True,False
+Body and Exterior,Antenna K64,Generic Antenna,ZCL-COL-ZW8U-KJA,2018-07-20,1679.25,JPY,True,False,"BMV,WV",False,False,True,True,False
+Body and Exterior,Roof Rack G63,Generic Roof Rack,ZCL-DRI-210R-KDK,2018-06-25,14.29,JPY,True,True,"WV,Feramborghini,Nord",True,True,True,False,False
+Body and Exterior,Rear Window J72,Generic Rear Window,ZCL-DRI-QP7G-HRW,2025-06-14,1404.55,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,True,False,True,True
+Body and Exterior,Wiper Blades Q89,Generic Wiper Blades,ZCL-BRK-JISJ-J6H,2022-06-11,56.77,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord,WV",True,False,True,False,True
+Body and Exterior,Doors M59,Generic Doors,ZCL-TRN-47K2-NNR,2025-08-23,906.62,JPY,True,False,"Mecentley,Feramborghini",True,True,False,False,True
+Body and Exterior,Windshield G64,Generic Windshield,ZCL-BRK-5J29-RMS,2022-01-24,1522.28,JPY,True,False,"Nord,Feramborghini,BMV,WV,Mecentley",False,True,False,False,True
+Body and Exterior,License Plate Holder Y48,Generic License Plate Holder,ZCL-COL-RTLE-0HS,2022-05-04,712.13,JPY,True,False,Feramborghini,False,False,True,True,True
+Body and Exterior,Window Seals Q82,Generic Window Seals,ZCL-TRN-AUB6-UGT,2016-08-15,104.4,JPY,True,True,BMV,True,True,True,True,True
+Body and Exterior,Windshield N82,Generic Windshield,ZCL-ELE-NDPF-Z1E,2022-12-17,112.42,JPY,True,True,Mecentley,True,False,True,True,True
+Body and Exterior,Rear Window W88,Generic Rear Window,ZCL-PERF-OHAP-1S0,2025-07-19,548.21,JPY,True,False,"Nord,WV,Mecentley,BMV",True,True,False,True,False
+Body and Exterior,Side Mirrors Y28,Allow driver to view rear/side traffic.,ZCL-PERF-3P40-GZD,2015-11-28,1606.55,JPY,True,True,Mecentley,False,False,False,False,True
+Body and Exterior,Rear Window K18,Generic Rear Window,ZCL-TRN-MH4J-DQU,2021-04-23,1758.13,JPY,False,True,"Feramborghini,WV,BMV,Mecentley,Nord",True,False,True,False,False
+Body and Exterior,Windshield G90,Generic Windshield,ZCL-COL-PMI6-6VK,2023-07-06,1261.25,JPY,True,True,"Nord,BMV,Feramborghini,WV,Mecentley",False,True,True,True,True
+Body and Exterior,Doors Y29,Generic Doors,ZCL-ELE-EFV3-99L,2020-09-04,942.34,JPY,True,True,"WV,Mecentley,BMV,Feramborghini",True,True,True,True,True
+Body and Exterior,Windshield Washer Pump X49,Generic Windshield Washer Pump,ZCL-ELE-YCUM-J05,2015-04-24,970.48,JPY,True,True,"WV,Nord",True,False,False,False,True
+Body and Exterior,Fenders G64,Generic Fenders,ZCL-DRI-FTXX-TFR,2018-07-31,1576.0,JPY,False,True,"Feramborghini,Nord,WV",True,True,False,False,True
+Body and Exterior,Wiper Blades G69,Generic Wiper Blades,ZCL-ELE-NB62-YXM,2016-06-11,1184.13,JPY,True,True,"BMV,Nord,Mecentley",False,True,True,True,False
+Body and Exterior,Doors P30,Generic Doors,ZCL-PERF-9931-Q4K,2022-04-25,1171.14,JPY,False,True,"Feramborghini,BMV,Mecentley,WV,Nord",True,False,False,True,True
+Body and Exterior,Roof Rack U59,Generic Roof Rack,ZCL-ELE-C5SF-YXF,2016-02-23,937.39,JPY,True,True,"BMV,Nord,WV,Mecentley",True,True,False,True,True
+Body and Exterior,Doors U48,Allow entry and exit from the vehicle.,ZCL-DRI-CHJC-O63,2020-11-04,136.79,JPY,False,True,"BMV,Mecentley,Feramborghini,WV,Nord",True,True,True,True,True
+Body and Exterior,Windshield Washer Pump E3,Generic Windshield Washer Pump,ZCL-BRK-TP8I-35E,2020-07-06,634.34,JPY,True,True,"BMV,Feramborghini,WV,Mecentley,Nord",True,True,True,False,True
+Body and Exterior,Windshield Washer Pump A36,Generic Windshield Washer Pump,ZCL-BRK-YR8U-PSF,2018-11-05,1209.34,JPY,True,True,"Feramborghini,Mecentley,Nord,WV",False,False,True,True,True
+Body and Exterior,Windshield Washer Pump B46,Generic Windshield Washer Pump,ZCL-ENG-QA11-LOF,2021-02-16,1823.12,JPY,True,True,"Nord,Feramborghini",True,True,False,True,False
+Body and Exterior,Hood L53,Covers the engine compartment.,ZCL-DRI-6Z5R-BLS,2025-05-18,1009.85,JPY,True,True,"WV,Mecentley,Feramborghini,BMV",False,False,False,True,False
+Body and Exterior,Side Windows V12,Generic Side Windows,ZCL-ENG-T3BL-58A,2019-08-27,1335.65,JPY,True,True,"WV,Mecentley",True,False,False,False,False
+Body and Exterior,Doors L98,Allow entry and exit from the vehicle.,ZCL-SUS-49LS-DHK,2023-01-29,1355.78,JPY,False,False,"BMV,Mecentley,Nord,WV,Feramborghini",False,False,False,False,True
+Body and Exterior,Window Seals P99,Generic Window Seals,ZCL-ELE-M4GV-IB8,2021-09-08,716.59,JPY,True,False,"Feramborghini,Mecentley",True,True,False,True,True
+Body and Exterior,Fenders I2,Generic Fenders,ZCL-ELE-M6EV-CEM,2023-04-21,1110.76,JPY,True,True,WV,True,True,False,True,True
+Body and Exterior,Bumpers A15,Protects car front and rear from impacts.,ZCL-TRN-VHJG-XKQ,2015-04-24,1669.55,JPY,True,True,"Mecentley,WV,BMV",False,True,False,False,True
+Body and Exterior,Windshield Washer Pump W40,Generic Windshield Washer Pump,ZCL-DRI-HBO1-0JP,2021-01-19,1380.27,JPY,True,True,"BMV,WV,Nord",False,False,False,True,True
+Body and Exterior,Windshield Washer Pump P15,Generic Windshield Washer Pump,ZCL-COL-74GA-QY9,2022-04-20,1133.55,JPY,True,True,"BMV,Nord,Feramborghini,Mecentley",True,True,False,True,False
+Body and Exterior,Rear Window Y65,Generic Rear Window,ZCL-DRI-PWUJ-BUE,2021-04-13,36.12,JPY,True,True,"Mecentley,Nord,WV",False,True,False,True,False
+Body and Exterior,Roof Rack L55,Generic Roof Rack,ZCL-COL-X6W1-Y5S,2024-12-30,802.11,JPY,True,False,"WV,Nord,Mecentley",False,True,False,False,False
+Body and Exterior,Trunk / Boot K68,Generic Trunk / Boot,ZCL-PERF-D0X7-1RI,2021-03-06,1599.01,JPY,True,True,"Nord,Feramborghini,Mecentley",False,False,True,False,True
+Body and Exterior,Antenna S81,Generic Antenna,ZCL-SUS-UDRI-FU4,2015-04-03,676.25,JPY,False,True,"Feramborghini,WV",True,True,False,False,False
+Body and Exterior,Doors H80,Generic Doors,ZCL-SUS-DD4M-QMW,2016-04-26,1836.61,JPY,True,True,"Mecentley,BMV,Feramborghini,WV,Nord",True,True,False,True,True
+Body and Exterior,Trunk C80,Storage compartment at rear of vehicle.,ZCL-BRK-9XTD-SOQ,2024-08-20,764.06,JPY,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,False,False,False,True
+Body and Exterior,Wiper Arms N70,Generic Wiper Arms,ZCL-SUS-6I0C-SDY,2021-11-14,362.42,JPY,True,False,"Feramborghini,Nord,Mecentley",True,True,True,False,True
+Body and Exterior,Wiper Arms O91,Generic Wiper Arms,ZCL-ENG-31DA-V2Y,2025-05-26,1108.17,JPY,True,True,WV,False,True,True,True,False
+Body and Exterior,Antenna G42,Generic Antenna,ZCL-SUS-U11I-O77,2020-10-18,1199.48,JPY,True,False,"Nord,WV",True,False,True,True,False
+Body and Exterior,Emblems / Badges X5,Generic Emblems / Badges,ZCL-BRK-VG9V-U5G,2020-11-13,1864.47,JPY,False,True,"Feramborghini,BMV,WV,Nord,Mecentley",False,True,False,False,True
+Body and Exterior,Rear Window C59,Generic Rear Window,ZCL-SUS-CD44-IZV,2018-12-23,328.14,JPY,True,True,WV,False,True,True,True,True
+Body and Exterior,Window Seals B45,Generic Window Seals,ZCL-COL-9B2A-6PH,2017-02-04,1096.87,JPY,True,True,Feramborghini,False,False,False,True,True
+Body and Exterior,Rear Window C21,Generic Rear Window,ZCL-BRK-NMYT-Z8E,2020-11-06,426.55,JPY,True,True,"Nord,BMV,Feramborghini,WV,Mecentley",True,True,False,False,True
+Body and Exterior,Windshield R83,Generic Windshield,ZCL-PERF-4AKY-47R,2020-08-21,1439.54,JPY,False,False,WV,True,True,False,False,True
+Body and Exterior,Windshield D73,Generic Windshield,ZCL-ENG-OC1R-DES,2015-05-28,302.67,JPY,True,True,Nord,True,True,True,False,True
+Body and Exterior,Emblems / Badges Z56,Generic Emblems / Badges,ZCL-SUS-JDNU-V57,2018-09-27,1705.16,JPY,True,True,"BMV,Feramborghini",True,True,False,True,False
+Body and Exterior,Doors F65,Generic Doors,ZCL-ELE-WHLJ-TCQ,2025-11-13,913.34,JPY,True,False,"Nord,Feramborghini,WV,Mecentley",True,True,True,False,True
+Body and Exterior,Spoiler M55,Generic Spoiler,ZCL-BRK-VQVH-3N2,2015-02-03,1197.51,JPY,False,True,"Nord,Mecentley",True,False,True,True,False
+Body and Exterior,Window Seals P79,Generic Window Seals,ZCL-ENG-V6MU-F50,2017-03-25,674.61,JPY,True,True,"Feramborghini,Mecentley,Nord,WV",True,True,False,True,False
+Body and Exterior,Side Windows A93,Generic Side Windows,ZCL-TRN-FSZ3-9Y3,2022-04-22,874.17,JPY,True,True,"WV,Nord,Mecentley,BMV,Feramborghini",False,False,False,True,False
+Body and Exterior,Trunk U40,Storage compartment at rear of vehicle.,ZCL-BRK-EX3I-PQU,2021-04-27,1599.22,JPY,True,True,"Nord,Feramborghini,BMV,WV",False,True,True,False,True
+Cooling System,Performance Radiator J95,Increased cooling capacity for high performance.,ZCL-ELE-MXEZ-R3T,2018-12-18,1820.42,JPY,True,True,Mecentley,True,True,True,True,True
+Interior,Racing Harness U2,Keeps driver securely in seat.,ZCL-SUS-9BKH-THS,2021-05-19,1256.04,JPY,True,True,"Nord,Mecentley,Feramborghini,BMV",True,True,True,True,True
+Interior,Bucket Seats T8,Provide support for high-G driving.,ZCL-SUS-YB8K-K4X,2015-11-25,301.76,JPY,True,True,"WV,Feramborghini,Mecentley,BMV,Nord",True,True,True,True,True
+Interior,Bucket Seats S26,Provide support for high-G driving.,ZCL-ENG-TEYU-0NJ,2016-09-22,811.69,JPY,False,True,"Nord,WV",True,True,True,False,False
+Interior,Racing Harness Q72,Keeps driver securely in seat.,ZCL-PERF-VRIY-2Q0,2015-06-17,1194.63,JPY,True,True,"BMV,Feramborghini,WV,Nord",True,True,True,True,False
+Interior,Digital Gauges W28,"Monitor boost, oil pressure, and air/fuel ratio.",ZCL-COL-L098-3UG,2023-04-08,1849.93,JPY,True,True,"Feramborghini,Mecentley,Nord,BMV,WV",False,False,True,False,False
+Interior,Racing Harness W77,Keeps driver securely in seat.,ZCL-PERF-KK5D-JFP,2015-03-09,279.53,JPY,True,True,"BMV,Feramborghini,Mecentley,WV",False,True,False,True,False
+Interior,Quick Release Steering Wheel N9,Allows faster entry/exit and theft prevention.,ZCL-PERF-05UH-6ZP,2019-02-26,997.92,JPY,False,True,"WV,Mecentley,BMV,Feramborghini",True,True,True,True,False
+Interior,Racing Harness P46,Keeps driver securely in seat.,ZCL-COL-4IHH-02W,2020-09-07,719.86,JPY,True,True,Nord,False,False,True,True,True
+Interior,Racing Harness H21,Keeps driver securely in seat.,ZCL-COL-7RZ0-PJK,2025-08-15,1710.28,JPY,True,False,"BMV,Nord",True,True,True,False,False
+Interior,Roll Cage L31,Improves safety and chassis rigidity.,ZCL-SUS-AEJT-56X,2021-06-17,757.23,JPY,True,False,"WV,Nord,Feramborghini",False,True,True,True,True
+Interior,Racing Harness D51,Keeps driver securely in seat.,ZCL-ENG-S79G-6IC,2022-07-22,781.36,JPY,True,False,Nord,False,False,False,False,False
+Interior,Bucket Seats Z34,Provide support for high-G driving.,ZCL-PERF-XAMQ-CV2,2022-05-24,864.15,JPY,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True,False,False,True
+Interior,Bucket Seats Z31,Provide support for high-G driving.,ZCL-BRK-X9UF-C6B,2017-10-16,780.98,JPY,True,True,"Feramborghini,Mecentley,WV",True,True,True,False,True
+Interior,Racing Harness B70,Keeps driver securely in seat.,ZCL-SUS-EWX5-1WO,2017-07-18,1206.16,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord,WV",True,True,True,True,True
+Interior,Roll Cage W4,Improves safety and chassis rigidity.,ZCL-ENG-WR2Y-NTQ,2018-07-13,79.74,JPY,True,True,"Mecentley,Nord,Feramborghini,WV,BMV",False,True,False,True,True
+Interior,Racing Harness E22,Keeps driver securely in seat.,ZCL-SUS-13PA-I53,2025-01-17,1896.36,JPY,True,True,Feramborghini,False,True,False,False,False
+Interior,Roll Cage X49,Improves safety and chassis rigidity.,ZCL-TRN-CDN8-ULM,2025-03-10,1985.68,JPY,True,True,"WV,Feramborghini,BMV",False,False,False,True,False
+Interior,Quick Release Steering Wheel P17,Allows faster entry/exit and theft prevention.,ZCL-ENG-0YEE-9S8,2019-04-25,747.11,JPY,True,True,"BMV,Feramborghini,Mecentley,Nord",True,False,True,True,False
+Interior,Racing Harness P18,Keeps driver securely in seat.,ZCL-TRN-FDHJ-GWO,2018-01-01,1676.25,JPY,False,False,"Nord,Feramborghini",True,False,True,False,True
+Interior,Racing Harness N39,Keeps driver securely in seat.,ZCL-SUS-7AQW-7IR,2015-10-16,1045.78,JPY,False,True,"Feramborghini,Mecentley,Nord,WV,BMV",False,True,False,True,False
+Interior,Quick Release Steering Wheel P82,Allows faster entry/exit and theft prevention.,ZCL-SUS-LUTX-W4I,2024-06-21,1479.22,JPY,True,True,"Feramborghini,BMV,Mecentley,Nord",True,True,False,False,True
+Interior,Racing Harness N53,Keeps driver securely in seat.,ZCL-DRI-4GKT-X20,2025-06-04,1322.17,JPY,True,True,"Feramborghini,WV",True,True,False,False,True
+Engine System,Dipstick G88,Measures oil level.,ZCL-ENG-K1Q5-IYX,2015-10-15,1082.49,JPY,True,True,"Feramborghini,Nord,Mecentley,BMV,WV",True,True,True,True,False
+Engine System,Timing Belt / Chain D66,Synchronizes rotation of the crankshaft and camshaft.,ZCL-COL-B18P-5QM,2015-02-19,919.29,JPY,True,True,"Feramborghini,Mecentley,BMV",True,True,False,False,True
+Engine System,Ignition Coils B37,Generate high voltage for spark plugs.,ZCL-ELE-RHXI-XLF,2016-01-22,377.4,JPY,True,True,BMV,True,True,True,False,True
+Engine System,Turbocharger / Supercharger F15,Generic Turbocharger / Supercharger,ZCL-ENG-RPAZ-K62,2015-10-11,1165.2,JPY,True,True,"BMV,WV,Mecentley",False,True,True,True,False
+Engine System,Timing Belt / Chain E17,Generic Timing Belt / Chain,ZCL-ELE-A1F2-AH8,2024-07-07,124.87,JPY,False,True,Feramborghini,True,True,True,False,True
+Engine System,Oil Filter C38,Removes contaminants from engine oil.,ZCL-DRI-5RPA-VIJ,2015-12-22,1473.19,JPY,False,False,"Feramborghini,Mecentley,BMV",True,True,True,True,False
+Engine System,Ignition Coils J5,Generate high voltage for spark plugs.,ZCL-TRN-4HD4-D3J,2025-02-28,662.68,JPY,True,True,Feramborghini,True,False,False,False,False
+Engine System,Oil Pan O26,Generic Oil Pan,ZCL-SUS-FMJ2-79Z,2017-08-21,575.73,JPY,True,True,"Mecentley,Nord,Feramborghini,WV,BMV",True,True,False,True,False
+Engine System,Drive Belt P33,"Drives alternator, AC compressor, etc.",ZCL-TRN-RHQE-FTN,2015-11-05,16.44,JPY,True,True,"Feramborghini,Mecentley,BMV",True,True,False,True,False
+Engine System,Exhaust Manifold M62,Generic Exhaust Manifold,ZCL-COL-W1EX-54Y,2021-12-19,326.37,JPY,False,True,"WV,BMV,Mecentley",False,True,True,False,True
+Engine System,Lifters J40,Transmit camshaft motion to valves.,ZCL-SUS-BKUD-U5H,2022-09-15,1123.98,JPY,True,True,"Mecentley,BMV,Feramborghini,WV",True,False,True,False,False
+Engine System,Serpentine Belt S64,Generic Serpentine Belt,ZCL-SUS-0BC0-OPD,2018-10-02,1450.11,JPY,True,True,"WV,BMV,Mecentley,Nord",True,True,False,True,True
+Engine System,Valves V81,Control intake and exhaust of air/fuel mixture.,ZCL-PERF-HV7S-736,2022-09-27,981.05,JPY,True,False,"WV,Nord",False,True,False,True,False
+Engine System,Serpentine Belt E35,Generic Serpentine Belt,ZCL-BRK-86AD-F06,2023-11-23,757.26,JPY,True,True,Nord,True,True,False,True,True
+Engine System,Harmonic Balancer M15,Reduces engine vibration.,ZCL-BRK-V5SF-YNU,2021-05-18,1336.38,JPY,True,True,"Mecentley,WV,Feramborghini",False,False,True,True,True
+Engine System,Engine Block D89,Main structure housing cylinders and other components.,ZCL-SUS-WMG1-JRU,2015-05-16,1570.29,JPY,True,False,BMV,True,True,True,True,True
+Engine System,Crankshaft F93,Converts piston movement into rotational motion.,ZCL-DRI-S3FF-KJD,2025-01-19,1558.72,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",True,True,False,True,False
+Engine System,Exhaust Manifold C75,Collects exhaust gases from cylinders.,ZCL-PERF-73Q1-KI2,2016-02-19,1919.6,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",False,False,True,False,True
+Engine System,Intercooler V88,Cools air from turbocharger.,ZCL-SUS-JZSK-HU7,2018-12-31,1975.42,JPY,True,True,"BMV,Feramborghini,Mecentley,WV,Nord",True,True,False,False,True
+Engine System,Timing Belt / Chain C97,Generic Timing Belt / Chain,ZCL-TRN-8FED-NQM,2025-05-15,297.34,JPY,True,True,"BMV,Feramborghini",True,False,True,True,True
+Engine System,Intake Manifold J55,Generic Intake Manifold,ZCL-SUS-S7UR-6DD,2024-03-16,1455.77,JPY,False,True,WV,False,True,False,True,False
+Engine System,Cylinder Head Z93,Generic Cylinder Head,ZCL-TRN-ZHHT-URY,2022-09-08,36.87,JPY,True,True,"Feramborghini,BMV",False,True,False,True,False
+Engine System,Lifters M90,Transmit camshaft motion to valves.,ZCL-ENG-1FVY-4XS,2022-02-14,548.3,JPY,True,True,"Feramborghini,WV,Mecentley",False,False,True,True,True
+Engine System,Exhaust Manifold P28,Collects exhaust gases from cylinders.,ZCL-ENG-H9I0-0C5,2020-02-02,1789.15,JPY,False,True,Mecentley,True,True,True,True,False
+Engine System,Rocker Arms E40,Generic Rocker Arms,ZCL-BRK-8E1N-JRN,2020-12-29,650.62,JPY,True,True,BMV,False,True,True,False,False
+Engine System,Dipstick P53,Generic Dipstick,ZCL-BRK-WUYE-EP3,2023-10-28,874.21,JPY,True,True,"Feramborghini,WV,BMV,Nord,Mecentley",False,False,False,True,True
+Engine System,Engine Control Unit (ECU) F80,Generic Engine Control Unit (ECU),ZCL-BRK-MMZX-KCD,2015-05-23,769.63,JPY,True,False,"Feramborghini,Nord,Mecentley,WV",True,True,False,True,True
+Engine System,Carburetor (older models) D57,Generic Carburetor (older models),ZCL-BRK-RY9L-F86,2022-10-12,404.15,JPY,True,True,"Feramborghini,Mecentley,BMV,WV",True,False,True,False,False
+Engine System,Distributor N97,Distributes spark to the correct cylinder.,ZCL-SUS-75IU-EUG,2018-02-24,1826.55,JPY,True,False,WV,False,False,True,True,True
+Engine System,Spark Plugs S98,Generic Spark Plugs,ZCL-TRN-3X32-5AK,2025-08-04,1667.26,JPY,True,True,"WV,Feramborghini,Nord",False,False,False,False,False
+Engine System,Ignition Coils J42,Generic Ignition Coils,ZCL-COL-9SN7-XFQ,2015-01-04,1036.29,JPY,True,True,"BMV,Feramborghini,Mecentley,Nord,WV",False,False,False,True,True
+Engine System,Intercooler F47,Generic Intercooler,ZCL-ELE-K88I-5S1,2018-05-17,1433.41,JPY,False,True,"Mecentley,Feramborghini,WV,Nord,BMV",True,True,True,True,True
+Engine System,Rocker Arms W36,Transfer movement from camshaft to valves.,ZCL-SUS-7E8F-TST,2019-12-26,1661.42,JPY,False,True,"BMV,Mecentley,Nord",True,False,False,False,False
+Engine System,Serpentine Belt K3,Generic Serpentine Belt,ZCL-PERF-UWXS-337,2019-03-25,1513.08,JPY,True,False,"BMV,WV,Nord,Feramborghini,Mecentley",True,False,True,True,True
+Engine System,Timing Cover W75,Protects the timing belt or chain.,ZCL-ENG-UQWL-HRJ,2023-07-31,1199.42,JPY,False,True,Mecentley,False,True,True,True,True
+Engine System,Lifters P88,Transmit camshaft motion to valves.,ZCL-PERF-5AZ4-GYN,2020-04-06,1342.38,JPY,True,True,"Feramborghini,Nord",True,False,True,True,False
+Engine System,Oil Filter J72,Removes contaminants from engine oil.,ZCL-PERF-FA1B-S6Z,2018-12-14,1544.66,JPY,True,True,Mecentley,True,True,True,True,False
+Engine System,Cylinder Head V21,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-DRI-RCZP-HYO,2015-10-15,1292.26,JPY,False,True,BMV,True,True,True,True,True
+Engine System,Lifters X67,Transmit camshaft motion to valves.,ZCL-TRN-DH7Y-Q08,2024-01-04,1805.09,JPY,True,True,"Mecentley,WV,Nord,Feramborghini,BMV",False,True,True,True,False
+Engine System,Timing Cover B16,Generic Timing Cover,ZCL-BRK-UY73-T37,2024-04-16,1482.56,JPY,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",True,False,False,True,True
+Engine System,Tappets / Lifters U63,Generic Tappets / Lifters,ZCL-DRI-QYUM-GTP,2018-11-21,17.91,JPY,True,True,"BMV,WV,Mecentley,Feramborghini",False,True,True,False,True
+Engine System,Oil Filter H22,Removes contaminants from engine oil.,ZCL-BRK-MQ9M-N7I,2015-10-20,1844.23,JPY,True,True,"WV,Feramborghini,BMV,Nord,Mecentley",True,True,False,False,True
+Engine System,Intercooler U81,Generic Intercooler,ZCL-BRK-EKXY-SWV,2024-10-24,1618.38,JPY,True,True,Nord,False,False,True,True,True
+Engine System,Crankshaft L60,Generic Crankshaft,ZCL-ELE-JBCC-FG9,2024-06-13,1643.86,JPY,True,False,"Feramborghini,WV,Mecentley,Nord",False,True,False,True,True
+Engine System,Turbocharger / Supercharger F63,Generic Turbocharger / Supercharger,ZCL-COL-XLZ2-0QP,2021-01-10,97.19,JPY,True,False,"Mecentley,Nord,WV",True,False,False,True,False
+Engine System,Intake Manifold S55,Generic Intake Manifold,ZCL-COL-3F3B-V8S,2020-07-20,1823.81,JPY,True,True,BMV,True,False,True,False,True
+Engine System,Turbocharger / Supercharger J61,Generic Turbocharger / Supercharger,ZCL-SUS-E6VY-WNF,2021-08-15,1285.28,JPY,False,True,"Mecentley,Nord,Feramborghini",True,True,False,True,True
+Engine System,Distributor M70,Distributes spark to the correct cylinder.,ZCL-ELE-V6E6-54W,2020-07-08,1014.25,JPY,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,True,True,True,False
+Engine System,Spark Plugs L49,Generic Spark Plugs,ZCL-TRN-F46I-S05,2019-04-26,967.34,JPY,False,True,"BMV,Mecentley",True,True,True,True,True
+Engine System,Timing Chain Y5,Metal chain version of timing belt.,ZCL-ENG-8IWM-TJT,2015-08-14,440.84,JPY,True,True,"WV,BMV,Mecentley,Nord",True,True,False,False,True
+Engine System,Cylinder Head B27,Generic Cylinder Head,ZCL-SUS-RNA9-R5N,2024-12-28,355.17,JPY,True,True,"Mecentley,WV,Feramborghini,Nord",False,True,True,False,False
+Engine System,Intercooler J10,Generic Intercooler,ZCL-BRK-7CTB-IGB,2024-12-05,520.83,JPY,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",True,False,False,False,False
+Engine System,Tappets P53,Link camshaft with pushrods.,ZCL-DRI-LUFI-IAI,2022-08-31,513.14,JPY,True,True,"Nord,WV,BMV,Feramborghini",False,False,True,True,True
+Engine System,Timing Belt / Chain G41,Generic Timing Belt / Chain,ZCL-PERF-ETKE-XB1,2020-07-13,256.44,JPY,True,False,"BMV,Feramborghini",False,True,False,True,False
+Engine System,Crankshaft F25,Generic Crankshaft,ZCL-PERF-IGIJ-7HK,2025-12-31,1116.35,JPY,True,False,"Feramborghini,Nord,WV",True,True,False,False,True
+Engine System,Oil Filter K36,Removes contaminants from engine oil.,ZCL-DRI-LY49-V8I,2015-01-31,821.89,JPY,False,True,WV,False,True,True,True,False
+Engine System,Valve Springs S28,Generic Valve Springs,ZCL-ENG-N37A-VMH,2023-03-25,1375.85,JPY,False,True,"WV,Nord",True,False,False,False,False
+Engine System,Dipstick D93,Generic Dipstick,ZCL-PERF-XILU-MA1,2018-09-02,59.44,JPY,True,True,"Mecentley,BMV,Feramborghini,WV,Nord",True,False,True,True,True
+Engine System,Cylinder Head U34,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-PERF-Z9IB-RD3,2019-03-13,157.9,JPY,False,True,"Mecentley,Nord,WV,BMV",False,True,True,False,True
+Engine System,Ignition Coils I50,Generate high voltage for spark plugs.,ZCL-ENG-PYFR-EFF,2024-05-06,1465.43,JPY,True,True,"WV,Feramborghini,BMV,Mecentley",False,True,True,False,False
+Engine System,Oil Filter H57,Generic Oil Filter,ZCL-DRI-KM7S-BXM,2016-03-08,449.96,JPY,True,True,"WV,Mecentley,BMV,Feramborghini",False,True,False,True,True
+Engine System,Valve Springs I41,Ensure valves close properly.,ZCL-SUS-FF8J-EW4,2016-07-09,1499.63,JPY,False,False,"Feramborghini,WV,BMV",True,True,False,False,True
+Engine System,Engine Mounts Z39,Generic Engine Mounts,ZCL-COL-RIFZ-MM0,2025-10-26,1630.76,JPY,True,False,"Feramborghini,Mecentley,WV",True,True,False,True,False
+Engine System,Glow Plugs F38,Preheat air in diesel engines.,ZCL-ELE-OG72-V6Q,2020-12-18,1492.07,JPY,True,True,"BMV,Mecentley,WV,Feramborghini",True,False,True,False,False
+Engine System,Timing Belt / Chain E6,Synchronizes rotation of the crankshaft and camshaft.,ZCL-ELE-C90Z-SI5,2025-06-26,1141.53,JPY,False,True,"WV,Nord,Feramborghini",False,False,True,True,False
+Engine System,Air Filter K24,Filters air before it enters the engine.,ZCL-ENG-RATU-7OB,2022-03-09,1369.61,JPY,True,True,"Nord,Feramborghini",True,False,True,True,True
+Engine System,Timing Cover X62,Generic Timing Cover,ZCL-BRK-FWIM-OLB,2016-03-30,518.09,JPY,True,True,"Feramborghini,WV,Mecentley",True,False,False,False,True
+Engine System,Dipstick J25,Generic Dipstick,ZCL-SUS-RZP7-YKJ,2022-06-24,229.05,JPY,True,True,"BMV,Nord,WV",True,True,True,True,True
+Engine System,Air Filter Z18,Generic Air Filter,ZCL-SUS-YJQ1-1BH,2025-01-09,198.2,JPY,False,True,"Feramborghini,Nord,WV,Mecentley",False,False,True,True,True
+Engine System,Throttle Body G90,Controls airflow into the engine.,ZCL-TRN-8EWB-LR0,2017-07-25,875.38,JPY,True,True,"BMV,Nord,Feramborghini,Mecentley,WV",False,True,True,False,True
+Engine System,Air Filter B62,Filters air before it enters the engine.,ZCL-SUS-LP2W-RW1,2021-07-10,1770.31,JPY,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",False,False,False,True,True
+Engine System,Pistons Y5,Move up and down in cylinders to compress and combust fuel.,ZCL-BRK-AP4S-5NB,2019-01-20,1366.13,JPY,True,True,"Nord,Feramborghini",False,False,True,False,True
+Engine System,Engine Mounts T96,Secure engine to frame and absorb vibration.,ZCL-ENG-MSFK-RG9,2018-12-22,591.02,JPY,False,True,"Mecentley,WV",True,False,False,True,True
+Engine System,Distributor H97,Generic Distributor,ZCL-ENG-KRTC-UPS,2019-09-11,1742.51,JPY,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",False,False,True,True,False
+Engine System,Tappets / Lifters X56,Generic Tappets / Lifters,ZCL-COL-QUHV-9LT,2019-07-21,1260.31,JPY,True,True,"Nord,Mecentley,Feramborghini,BMV",True,False,True,True,True
+Engine System,Camshaft R84,Operates the engine’s valves via lobes.,ZCL-COL-B7IN-54Q,2025-12-20,224.83,JPY,False,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,False,True,True,False
+Engine System,Rocker Arms T58,Generic Rocker Arms,ZCL-SUS-U1N1-BSE,2022-09-16,1044.3,JPY,True,False,"Nord,BMV,WV,Mecentley,Feramborghini",True,True,False,True,True
+Engine System,Oil Cooler U32,Cools the engine oil.,ZCL-TRN-DBJ9-RXJ,2023-04-27,1654.92,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",True,False,True,True,True
+Engine System,Throttle Body M37,Generic Throttle Body,ZCL-COL-MI78-RQ5,2023-09-08,997.66,JPY,False,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,False,True,True,False
+Engine System,Harmonic Balancer E58,Generic Harmonic Balancer,ZCL-BRK-IHWN-3JY,2023-04-12,1174.21,JPY,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",True,True,True,True,False
+Engine System,Timing Cover L59,Generic Timing Cover,ZCL-COL-RSLM-25S,2025-08-11,533.93,JPY,True,True,"Mecentley,Feramborghini,Nord,WV,BMV",False,True,False,True,True
+Engine System,Engine Control Unit (ECU) Q90,Generic Engine Control Unit (ECU),ZCL-SUS-3POU-FXI,2021-01-19,1065.11,JPY,True,True,BMV,True,True,False,False,False
+Engine System,Crankshaft X49,Converts piston movement into rotational motion.,ZCL-COL-LT4F-08O,2015-04-06,1193.71,JPY,True,False,"BMV,Mecentley,Feramborghini",False,False,True,False,True
+Engine System,Valve Springs S7,Ensure valves close properly.,ZCL-ELE-HIDV-T86,2015-01-05,753.39,JPY,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",True,True,True,True,True
+Engine System,Timing Belt / Chain S86,Synchronizes rotation of the crankshaft and camshaft.,ZCL-ENG-GF3E-9LT,2017-07-19,1402.45,JPY,True,True,Nord,True,False,False,False,True
+Engine System,Supercharger N19,Boosts engine power via air compression.,ZCL-BRK-56R2-8MD,2022-05-27,1187.4,JPY,True,False,"BMV,WV",True,False,False,True,False
+Engine System,Cylinder Head Z78,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-SUS-RPY4-HMT,2021-11-11,1642.09,JPY,True,True,"WV,Feramborghini,BMV",False,True,False,True,False
+Engine System,Exhaust Manifold Q49,Generic Exhaust Manifold,ZCL-DRI-M1UI-7VS,2017-10-04,824.35,JPY,True,False,Mecentley,True,False,True,False,False
+Engine System,Crankshaft W52,Generic Crankshaft,ZCL-DRI-W11Q-RGX,2020-02-21,987.16,JPY,True,True,"Feramborghini,WV,Nord",False,True,True,True,False
+Engine System,Spark Plugs U42,Ignite air/fuel mixture in combustion chamber.,ZCL-BRK-JEFI-SKC,2022-05-31,469.65,JPY,True,True,"Mecentley,Feramborghini",False,True,True,True,False
+Engine System,Air Filter Z55,Filters air before it enters the engine.,ZCL-ELE-JK06-E9G,2016-05-04,1681.03,JPY,True,True,"Feramborghini,Mecentley,WV,Nord",True,True,False,False,True
+Engine System,Ignition Coils T92,Generic Ignition Coils,ZCL-TRN-J7OQ-RGF,2023-02-12,1850.69,JPY,True,True,"BMV,Feramborghini,WV,Nord",True,True,True,True,True
+Engine System,Serpentine Belt J33,Generic Serpentine Belt,ZCL-BRK-BHS7-5IJ,2025-08-03,230.77,JPY,True,True,"Nord,Mecentley",False,True,True,True,False
+Engine System,Timing Belt / Chain P75,Synchronizes rotation of the crankshaft and camshaft.,ZCL-TRN-HFIH-ZBP,2015-01-14,302.19,JPY,True,True,"Nord,Mecentley,Feramborghini,WV",True,True,False,True,True
+Engine System,Timing Chain Q80,Metal chain version of timing belt.,ZCL-BRK-5Z36-RSS,2020-02-14,192.57,JPY,False,True,"Nord,BMV,Mecentley",True,False,True,True,True
+Engine System,Intake Manifold K27,Distributes air to the engine cylinders.,ZCL-PERF-8KKR-ZMO,2024-05-06,1468.24,JPY,True,True,"Nord,BMV,WV",False,True,True,True,True
+Engine System,Air Filter R66,Filters air before it enters the engine.,ZCL-COL-ZEQ5-5YQ,2023-02-28,958.0,JPY,True,False,WV,False,True,True,True,True
+Engine System,Supercharger Q16,Boosts engine power via air compression.,ZCL-DRI-P0WM-ISG,2020-07-30,1274.41,JPY,False,True,"WV,Feramborghini",True,False,True,True,True
+Engine System,Air Filter T67,Filters air before it enters the engine.,ZCL-TRN-0OPG-WZU,2025-09-26,206.28,JPY,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",False,False,True,False,True
+Engine System,Oil Filter W9,Generic Oil Filter,ZCL-ELE-WZH4-3XH,2020-02-22,1664.18,JPY,True,True,"Nord,BMV,WV",False,False,True,True,True
+Engine System,Exhaust Manifold B75,Collects exhaust gases from cylinders.,ZCL-ELE-I141-2IO,2022-02-28,1731.56,JPY,True,True,"Nord,BMV,Feramborghini,WV",True,False,True,True,True
+Engine System,Turbocharger / Supercharger I9,Generic Turbocharger / Supercharger,ZCL-ENG-VX39-PMW,2015-05-14,1772.56,JPY,False,False,WV,False,False,True,False,True
+Engine System,Pistons U46,Move up and down in cylinders to compress and combust fuel.,ZCL-TRN-CESG-R39,2019-10-13,569.91,JPY,False,True,"Feramborghini,BMV,Nord,Mecentley",True,False,True,True,False
+Engine System,Camshaft T34,Operates the engine’s valves via lobes.,ZCL-ENG-FMII-IPF,2019-08-16,1190.17,JPY,True,True,"BMV,Mecentley,Feramborghini",True,False,True,False,False
+Engine System,Valves A5,Control intake and exhaust of air/fuel mixture.,ZCL-PERF-OBM8-FIR,2024-09-21,494.07,JPY,True,True,"WV,Nord",False,True,True,True,False
+Engine System,Oil Cooler Y74,Generic Oil Cooler,ZCL-ELE-2E8I-3ZT,2016-06-16,974.53,JPY,False,True,"Feramborghini,WV,Mecentley,BMV",True,False,True,True,True
+Engine System,Timing Belt / Chain T32,Generic Timing Belt / Chain,ZCL-BRK-L9MM-PFD,2016-04-13,1701.47,JPY,True,True,"Mecentley,Feramborghini",False,False,True,True,False
+Engine System,Engine Mounts U17,Secure engine to frame and absorb vibration.,ZCL-ELE-M8Z9-YYU,2017-09-17,47.73,JPY,False,True,"WV,BMV,Mecentley,Nord,Feramborghini",True,False,True,False,False
+Engine System,Oil Pump D97,Generic Oil Pump,ZCL-TRN-WDK0-JEG,2019-03-11,1084.62,JPY,True,True,"WV,Feramborghini,BMV,Mecentley",False,True,False,False,False
+Engine System,Engine Mounts D37,Secure engine to frame and absorb vibration.,ZCL-SUS-SJJM-SIV,2020-04-20,1709.18,JPY,False,True,"BMV,Nord,Mecentley",False,True,True,False,False
+Engine System,Exhaust Manifold Z49,Collects exhaust gases from cylinders.,ZCL-PERF-VGQI-PM9,2016-02-11,125.53,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord",False,False,False,False,False
+Engine System,Air Filter C51,Filters air before it enters the engine.,ZCL-TRN-TNXK-ZBW,2017-02-22,199.06,JPY,True,True,"BMV,Mecentley,Feramborghini,Nord",False,True,True,True,False
+Engine System,Dipstick Q81,Generic Dipstick,ZCL-DRI-RV3W-2BH,2015-09-24,598.66,JPY,True,True,"BMV,Feramborghini",True,True,True,True,False
+Engine System,Harmonic Balancer I17,Generic Harmonic Balancer,ZCL-DRI-0UAY-R54,2019-05-16,941.17,JPY,True,True,Mecentley,True,False,True,False,True
+Engine System,Harmonic Balancer Z30,Generic Harmonic Balancer,ZCL-COL-EZSP-G96,2017-08-07,1617.57,JPY,True,True,"Feramborghini,Nord,Mecentley,WV",True,True,True,False,False
+Engine System,Timing Belt / Chain M10,Generic Timing Belt / Chain,ZCL-DRI-3BM7-FVG,2016-07-03,755.42,JPY,True,True,"Nord,WV,Mecentley",True,False,True,True,False
+Engine System,Supercharger P8,Boosts engine power via air compression.,ZCL-ENG-BBA4-KWG,2019-04-08,960.67,JPY,True,False,WV,True,True,False,False,True
+Engine System,Exhaust Manifold M81,Generic Exhaust Manifold,ZCL-ELE-HWLO-IB9,2025-07-07,407.95,JPY,True,False,Nord,False,True,True,False,True
+Engine System,Timing Belt / Chain H77,Synchronizes rotation of the crankshaft and camshaft.,ZCL-DRI-BQN8-UNC,2024-01-28,216.23,JPY,True,True,WV,True,False,True,False,False
+Engine System,Spark Plugs F49,Ignite air/fuel mixture in combustion chamber.,ZCL-TRN-W9R6-CX9,2022-02-21,1715.38,JPY,True,False,"WV,Nord,Mecentley",True,False,True,True,False
+Engine System,Glow Plugs (Diesel) V99,Generic Glow Plugs (Diesel),ZCL-DRI-6HA4-7JA,2025-10-12,1049.71,JPY,False,True,"Mecentley,Nord,WV,Feramborghini,BMV",False,True,True,True,False
+Engine System,Spark Plugs I67,Generic Spark Plugs,ZCL-BRK-BASH-KF8,2016-02-14,183.33,JPY,True,True,"Feramborghini,Nord,WV,Mecentley,BMV",False,True,False,False,True
+Engine System,Oil Pump Z69,Generic Oil Pump,ZCL-ENG-X4L5-Z03,2017-02-27,1139.8,JPY,True,True,"Nord,Feramborghini,WV,BMV",True,False,False,True,False
+Engine System,Fuel Injectors J47,Generic Fuel Injectors,ZCL-ENG-YKRN-OVC,2025-01-31,27.29,JPY,True,True,"WV,BMV,Feramborghini",True,True,True,True,True
+Engine System,Engine Mounts E37,Generic Engine Mounts,ZCL-SUS-0UEF-58F,2017-06-16,50.84,JPY,False,True,"Nord,BMV,WV,Mecentley,Feramborghini",True,True,True,True,False
+Engine System,Pushrods E96,Generic Pushrods,ZCL-TRN-6Z7V-LPZ,2019-02-09,1398.5,JPY,True,True,"WV,BMV,Mecentley",True,True,True,True,True
+Engine System,Glow Plugs N91,Preheat air in diesel engines.,ZCL-PERF-AMHB-1ZW,2017-04-21,1743.88,JPY,False,True,"BMV,Mecentley,Nord",True,False,False,True,True
+Engine System,Engine Control Unit (ECU) I34,Generic Engine Control Unit (ECU),ZCL-ELE-60OW-97S,2016-05-16,690.25,JPY,True,False,"Feramborghini,Nord",True,True,True,True,True
+Engine System,Valve Springs Y98,Generic Valve Springs,ZCL-ENG-P8BS-OWH,2022-11-19,230.12,JPY,False,False,"Feramborghini,WV,Nord,Mecentley,BMV",True,True,False,True,False
+Engine System,Distributor W77,Generic Distributor,ZCL-PERF-3F88-92H,2021-01-03,291.12,JPY,True,False,Feramborghini,True,False,True,True,True
+Engine System,Cylinder Head Y41,Generic Cylinder Head,ZCL-BRK-EPI6-88T,2023-04-07,1790.01,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",True,True,True,True,False
+Engine System,Turbocharger / Supercharger Q42,Generic Turbocharger / Supercharger,ZCL-ELE-RP3K-K9I,2023-01-10,336.33,JPY,True,True,"Nord,Feramborghini,BMV,Mecentley",True,False,False,False,True
+Engine System,Drive Belt Y91,"Drives alternator, AC compressor, etc.",ZCL-ELE-IAWC-AC9,2016-05-31,789.35,JPY,True,True,"Mecentley,Nord",True,False,False,True,True
+Engine System,Fuel Injectors J60,Spray fuel into the engine's cylinders.,ZCL-ELE-4OYF-MTW,2018-10-18,47.43,JPY,True,False,"BMV,WV,Mecentley,Nord,Feramborghini",True,False,True,True,True
+Engine System,Air Filter N93,Filters air before it enters the engine.,ZCL-DRI-W9T4-NQ6,2021-08-16,412.17,JPY,True,True,"Nord,BMV,WV,Feramborghini",False,True,True,True,True
+Engine System,Distributor U45,Generic Distributor,ZCL-ELE-Z9EO-0U5,2021-08-28,1435.61,JPY,True,True,"Feramborghini,BMV,Mecentley",False,False,True,True,True
+Engine System,Throttle Body S86,Controls airflow into the engine.,ZCL-BRK-6WPS-ETB,2025-05-22,935.11,JPY,True,True,"WV,Mecentley,Nord,BMV",False,False,False,True,True
+Engine System,Oil Filter N12,Removes contaminants from engine oil.,ZCL-BRK-BOIU-U0R,2018-08-14,1836.92,JPY,True,True,Mecentley,False,True,False,True,True
+Engine System,Valves H94,Control intake and exhaust of air/fuel mixture.,ZCL-DRI-K7NU-OEZ,2019-08-12,274.64,JPY,False,True,"Mecentley,Nord",True,True,False,False,True
+Engine System,Exhaust Manifold N3,Collects exhaust gases from cylinders.,ZCL-ENG-UOTE-YSL,2023-05-18,44.19,JPY,True,True,"Feramborghini,Mecentley,BMV,WV",True,True,True,False,False
+Engine System,Oil Filter W80,Generic Oil Filter,ZCL-BRK-7BYE-21Q,2015-06-06,66.11,JPY,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",True,False,False,False,True
+Engine System,Camshaft I80,Operates the engine’s valves via lobes.,ZCL-ENG-L774-Z56,2023-03-14,1955.41,JPY,True,True,"Feramborghini,WV,BMV,Mecentley",True,False,True,True,True
+Engine System,Engine Block I59,Main structure housing cylinders and other components.,ZCL-BRK-PDR0-OJ1,2022-09-01,1441.32,JPY,True,True,"Nord,Mecentley,Feramborghini",True,True,False,False,True
+Engine System,Valves A42,Control intake and exhaust of air/fuel mixture.,ZCL-ELE-0GZU-HLZ,2023-11-27,883.82,JPY,True,False,"Feramborghini,BMV,Mecentley,Nord",False,True,False,True,False
+Engine System,Oil Pan A67,Generic Oil Pan,ZCL-DRI-51IF-3DY,2025-11-03,1180.14,JPY,True,True,"Feramborghini,BMV,WV,Mecentley",True,False,False,False,True
+Engine System,Engine Control Unit (ECU) P23,Generic Engine Control Unit (ECU),ZCL-PERF-SLVS-E98,2022-02-26,1939.06,JPY,True,True,Nord,True,True,True,True,False
+Engine System,Lifters I73,Transmit camshaft motion to valves.,ZCL-TRN-PE9T-U82,2022-06-04,125.71,JPY,True,True,"Nord,Feramborghini,Mecentley,WV",False,True,True,True,False
+Engine System,Cylinder Head M81,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-COL-T62V-A9W,2017-04-14,1147.93,JPY,False,False,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,True,True,True
+Engine System,Pistons Y20,Generic Pistons,ZCL-TRN-D0JC-8T5,2017-11-22,1381.55,JPY,True,True,"Mecentley,Nord,Feramborghini",False,False,True,False,True
+Engine System,Crankshaft S46,Converts piston movement into rotational motion.,ZCL-ENG-VOQK-0QH,2016-05-15,425.98,JPY,False,True,"WV,Nord",True,True,True,True,False
+Engine System,Oil Pan A33,Holds engine oil.,ZCL-DRI-VFIT-4N3,2021-10-23,1182.6,JPY,True,True,"Nord,WV,Feramborghini,BMV,Mecentley",False,True,False,False,True
+Engine System,Pistons I29,Move up and down in cylinders to compress and combust fuel.,ZCL-DRI-3G2W-C9L,2021-09-29,352.87,JPY,True,True,"Nord,Mecentley,Feramborghini,WV,BMV",False,False,False,True,False
+Engine System,"Valves (Intake, Exhaust) P85","Generic Valves (Intake, Exhaust)",ZCL-DRI-EDG8-GS4,2018-03-29,695.33,JPY,True,True,"WV,Mecentley,Feramborghini,BMV",True,False,False,False,True
+Engine System,Pushrods H76,Generic Pushrods,ZCL-PERF-T2FX-P0F,2017-07-11,627.13,JPY,True,True,"Mecentley,Nord,Feramborghini,WV,BMV",False,True,True,True,False
+Engine System,Intake Manifold E6,Generic Intake Manifold,ZCL-COL-0CZ6-AE5,2024-06-29,25.33,JPY,True,True,"Mecentley,WV",False,True,True,True,True
+Engine System,Timing Belt / Chain V95,Generic Timing Belt / Chain,ZCL-ELE-A4FH-SY8,2024-08-18,400.97,JPY,True,True,"Mecentley,Feramborghini,WV",True,True,True,False,True
+Engine System,Engine Block G6,Main structure housing cylinders and other components.,ZCL-BRK-FC1K-JS0,2025-08-19,1660.2,JPY,True,False,"Mecentley,BMV,Nord",False,False,True,True,False
+Engine System,Fuel Injectors R43,Generic Fuel Injectors,ZCL-BRK-ZSKA-SMT,2016-09-25,250.36,JPY,True,True,Feramborghini,True,True,True,True,True
+Engine System,Timing Belt Z3,Synchronizes rotation of the crankshaft and camshaft.,ZCL-BRK-NUIP-U8V,2025-12-05,624.87,JPY,True,True,"WV,BMV,Feramborghini,Nord",True,False,True,True,False
+Engine System,Oil Filter Q12,Removes contaminants from engine oil.,ZCL-PERF-C9A9-TQW,2023-09-13,1243.52,JPY,True,True,"Nord,Mecentley,BMV",True,False,True,False,False
+Engine System,Engine Mounts A51,Generic Engine Mounts,ZCL-SUS-736S-S5L,2017-02-19,637.84,JPY,True,False,"Feramborghini,Nord",False,False,True,True,False
+Engine System,Tappets / Lifters I42,Generic Tappets / Lifters,ZCL-ENG-PMH3-1MQ,2023-02-14,1294.63,JPY,False,True,Mecentley,True,False,True,True,True
+Engine System,Cylinder Head L85,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-PERF-WN61-CRQ,2025-05-07,680.25,JPY,False,True,"Feramborghini,BMV,WV,Mecentley,Nord",False,True,True,False,False
+Engine System,Air Filter W89,Filters air before it enters the engine.,ZCL-DRI-71XR-COS,2023-08-25,1399.54,JPY,True,True,WV,True,False,False,True,True
+Engine System,Timing Cover K65,Generic Timing Cover,ZCL-ENG-ALZJ-B3F,2021-01-24,1937.65,JPY,True,True,Nord,False,True,True,True,True
+Engine System,Throttle Body M23,Generic Throttle Body,ZCL-TRN-GGZR-JCS,2021-03-06,1659.39,JPY,True,True,"Nord,Feramborghini",False,True,True,True,True
+Engine System,Tappets / Lifters J18,Generic Tappets / Lifters,ZCL-ENG-ULDO-WG3,2019-11-09,426.14,JPY,True,True,"Feramborghini,WV",False,False,True,False,True
+Engine System,"Valves (Intake, Exhaust) N87","Generic Valves (Intake, Exhaust)",ZCL-ENG-HWN4-TKT,2015-05-14,70.02,JPY,False,True,"Mecentley,WV,Feramborghini",True,False,True,True,False
+Engine System,Camshaft O80,Operates the engine’s valves via lobes.,ZCL-SUS-B0HR-FVD,2022-06-26,966.4,JPY,True,False,"Feramborghini,BMV,Mecentley",True,True,True,True,True
+Engine System,Oil Cooler C9,Generic Oil Cooler,ZCL-BRK-FRM4-HKQ,2024-10-15,880.06,JPY,True,True,"WV,Feramborghini,BMV",True,False,True,False,True
+Engine System,Oil Pan J36,Generic Oil Pan,ZCL-DRI-U62Z-89U,2024-06-16,1406.71,JPY,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",True,False,True,True,False
+Engine System,Oil Pump U79,Generic Oil Pump,ZCL-SUS-MVMT-VV7,2019-01-25,978.76,JPY,False,True,"Feramborghini,Mecentley,WV,Nord,BMV",True,True,True,False,True
+Engine System,Harmonic Balancer F14,Generic Harmonic Balancer,ZCL-ELE-7HM9-HKX,2020-09-15,1743.85,JPY,False,True,WV,True,False,True,True,True
+Engine System,Pushrods X75,Generic Pushrods,ZCL-SUS-FRP9-Y8S,2017-07-28,1168.97,JPY,True,True,"Mecentley,WV,BMV,Nord",True,True,True,True,False
+Engine System,Cylinder Head J37,Generic Cylinder Head,ZCL-SUS-WZFQ-XZT,2019-07-29,498.22,JPY,False,True,"BMV,Nord,Mecentley,WV",False,False,True,False,True
+Engine System,Timing Belt / Chain V90,Synchronizes rotation of the crankshaft and camshaft.,ZCL-ELE-V4Q9-H32,2019-09-18,314.13,JPY,False,False,"WV,Feramborghini",True,True,True,True,True
+Engine System,Oil Pump T28,Circulates oil through the engine.,ZCL-SUS-RVJ6-P5Y,2018-10-16,182.02,JPY,False,True,"Feramborghini,BMV",False,True,True,True,True
+Engine System,Intake Manifold S67,Distributes air to the engine cylinders.,ZCL-SUS-R25Z-ZMD,2025-05-15,1605.27,JPY,True,True,"Mecentley,Nord,Feramborghini,BMV,WV",False,True,False,False,True
+Engine System,Intake Manifold W98,Distributes air to the engine cylinders.,ZCL-TRN-D7IQ-GC2,2020-03-07,1141.34,JPY,True,True,Mecentley,True,True,True,True,False
+Engine System,Pushrods S33,Generic Pushrods,ZCL-BRK-29EJ-3Z7,2024-04-27,289.15,JPY,True,True,"Mecentley,WV",True,True,True,True,False
+Engine System,Carburetor (older models) Y51,Generic Carburetor (older models),ZCL-ENG-RBMW-Y00,2022-12-08,28.13,JPY,True,False,"Feramborghini,Nord",False,True,True,False,False
+Engine System,Pushrods M11,Generic Pushrods,ZCL-BRK-TLPV-NH8,2025-08-15,1832.13,JPY,True,True,"Feramborghini,BMV,WV,Nord",True,False,False,True,False
+Engine System,Oil Cooler Y26,Generic Oil Cooler,ZCL-TRN-MFIP-BPF,2020-07-26,874.4,JPY,True,False,"Mecentley,Nord,BMV,Feramborghini,WV",True,False,True,True,True
+Engine System,Air Filter E27,Filters air before it enters the engine.,ZCL-TRN-3H2Y-5DO,2017-09-22,704.69,JPY,True,True,"Mecentley,BMV,Feramborghini",False,True,True,False,True
+Engine System,Cylinder Head C78,Generic Cylinder Head,ZCL-COL-WAJ4-ZN3,2023-01-17,930.99,JPY,True,True,"Nord,WV,Feramborghini,BMV",False,False,True,True,True
+Engine System,Ignition Coils C90,Generic Ignition Coils,ZCL-BRK-UOL2-431,2024-01-03,1182.94,JPY,True,True,"Feramborghini,Mecentley,BMV,WV",False,True,False,False,True
+Engine System,Valve Springs I40,Generic Valve Springs,ZCL-ELE-9ZLC-F2L,2022-12-31,1717.42,JPY,False,True,"Feramborghini,Mecentley,BMV,Nord,WV",False,True,False,True,False
+Engine System,Harmonic Balancer H38,Reduces engine vibration.,ZCL-COL-5DPF-CPK,2022-03-01,22.55,JPY,True,True,"Nord,WV,Mecentley",True,False,True,True,True
+Engine System,Valve Springs L30,Ensure valves close properly.,ZCL-SUS-24TU-00W,2024-10-14,1421.76,JPY,True,True,"WV,BMV",False,True,True,True,False
+Engine System,Air Filter L5,Filters air before it enters the engine.,ZCL-SUS-UU2K-Z3C,2018-05-03,1869.37,JPY,True,True,Mecentley,True,False,False,True,True
+Engine System,Cylinder Head B99,Generic Cylinder Head,ZCL-PERF-8NG6-NR8,2018-05-23,1659.12,JPY,True,False,"Feramborghini,Nord,Mecentley",True,False,False,True,True
+Engine System,Pistons Y92,Generic Pistons,ZCL-COL-RX32-0FU,2022-10-07,728.85,JPY,True,True,"WV,Nord,Feramborghini",True,True,True,False,True
+Engine System,Turbocharger / Supercharger D54,Generic Turbocharger / Supercharger,ZCL-PERF-MLQ8-K11,2018-04-14,77.97,JPY,False,True,"Feramborghini,Nord",True,True,False,True,True
+Engine System,Drive Belt V44,Generic Drive Belt,ZCL-PERF-XJW0-0PL,2020-03-18,1222.03,JPY,True,True,"WV,Feramborghini",False,True,False,True,True
+Engine System,Supercharger L30,Boosts engine power via air compression.,ZCL-ENG-DHS6-J0P,2020-09-18,446.06,JPY,True,True,"BMV,Mecentley,Nord,WV,Feramborghini",False,False,False,True,True
+Engine System,Harmonic Balancer G97,Reduces engine vibration.,ZCL-PERF-1HXQ-PLC,2025-10-12,1655.78,JPY,True,True,Mecentley,True,True,True,False,True
+Engine System,Crankshaft G68,Converts piston movement into rotational motion.,ZCL-ELE-AJ2R-Z61,2023-09-19,1067.4,JPY,True,True,Nord,False,False,False,True,False
+Engine System,"Valves (Intake, Exhaust) Q49","Generic Valves (Intake, Exhaust)",ZCL-BRK-W81N-VMA,2016-08-17,639.8,JPY,False,True,"Nord,Feramborghini",True,False,True,False,True
+Engine System,Camshaft K70,Operates the engine’s valves via lobes.,ZCL-DRI-GHSB-67C,2019-03-11,1247.19,JPY,False,True,"Mecentley,Nord,Feramborghini,WV,BMV",False,True,True,True,False
+Engine System,Lifters U15,Transmit camshaft motion to valves.,ZCL-TRN-Z0JC-87C,2016-07-09,418.44,JPY,True,True,"BMV,WV",False,True,False,True,True
+Engine System,Intercooler Y9,Generic Intercooler,ZCL-BRK-EGQ1-MJY,2021-10-22,154.49,JPY,False,True,"BMV,Nord",False,False,False,False,True
+Engine System,Harmonic Balancer I48,Reduces engine vibration.,ZCL-BRK-SL2L-U7W,2016-05-27,801.82,JPY,True,False,"WV,Feramborghini,Nord",True,True,False,True,True
+Engine System,Drive Belt V90,Generic Drive Belt,ZCL-TRN-ERUX-NVC,2018-03-21,451.03,JPY,True,True,"Feramborghini,WV",False,True,False,True,True
+Engine System,ECU W17,Controls engine performance.,ZCL-ENG-MVCU-0KJ,2024-04-06,887.29,JPY,True,True,BMV,True,True,False,False,True
+Engine System,Intercooler U20,Cools air from turbocharger.,ZCL-COL-AVLZ-ZOU,2015-02-03,1825.49,JPY,False,False,"Nord,Feramborghini,Mecentley,BMV",True,False,True,True,True
+Engine System,Camshaft L71,Operates the engine’s valves via lobes.,ZCL-DRI-5PFA-H08,2021-07-07,726.94,JPY,False,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True,True,True,True
+Engine System,Intake Manifold I8,Generic Intake Manifold,ZCL-ENG-D2W7-6J1,2025-01-24,786.72,JPY,False,False,"BMV,WV,Feramborghini,Nord,Mecentley",False,False,False,False,False
+Engine System,Cylinder Head Q68,Generic Cylinder Head,ZCL-DRI-2XIY-ZCC,2022-02-27,1912.12,JPY,False,True,"Feramborghini,WV",True,True,False,True,False
+Engine System,Cylinder Head B70,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-BRK-0ZS5-1K1,2015-04-15,1901.78,JPY,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",False,True,False,False,False
+Engine System,Engine Mounts U72,Generic Engine Mounts,ZCL-PERF-7BEY-2FI,2015-01-31,276.89,JPY,True,True,"Mecentley,BMV,Nord,Feramborghini",False,False,False,True,True
+Engine System,Turbocharger / Supercharger X77,Generic Turbocharger / Supercharger,ZCL-PERF-UUQS-UV7,2024-11-01,312.13,JPY,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",False,True,False,False,True
+Engine System,Cylinder Head G76,Generic Cylinder Head,ZCL-BRK-EIS8-TTG,2024-04-17,1228.33,JPY,True,True,"BMV,Feramborghini",False,True,True,False,True
+Engine System,Engine Mounts S96,Generic Engine Mounts,ZCL-DRI-KTKM-C64,2025-05-07,953.6,JPY,True,True,"WV,BMV,Nord",False,True,True,True,True
+Engine System,Camshaft L22,Operates the engine’s valves via lobes.,ZCL-TRN-JBRK-088,2016-02-13,1528.29,JPY,False,False,"Mecentley,Nord",True,True,True,True,False
+Engine System,Distributor L66,Distributes spark to the correct cylinder.,ZCL-COL-IJ4A-452,2019-06-08,1508.46,JPY,True,True,"Feramborghini,BMV,WV",True,False,False,False,True
+Engine System,Crankshaft F15,Converts piston movement into rotational motion.,ZCL-ELE-JCJ2-K7F,2018-08-04,1612.7,JPY,False,True,"Nord,BMV,Mecentley,WV,Feramborghini",True,False,True,False,True
+Engine System,Crankshaft Z67,Generic Crankshaft,ZCL-DRI-3R6H-3N0,2023-03-08,449.99,JPY,True,True,WV,True,False,False,False,False
+Engine System,Tappets S22,Link camshaft with pushrods.,ZCL-PERF-GL3V-FKI,2023-06-28,649.01,JPY,True,True,"Nord,WV,BMV",True,False,True,False,True
+Engine System,Camshaft L3,Operates the engine’s valves via lobes.,ZCL-TRN-4BSP-HSN,2020-12-06,1036.51,JPY,True,True,Feramborghini,True,True,True,True,False
+Engine System,Crankshaft T80,Converts piston movement into rotational motion.,ZCL-TRN-JRDA-72J,2015-05-24,544.49,JPY,True,True,"Mecentley,Nord,BMV,WV",True,True,False,False,False
+Engine System,Air Filter K36,Filters air before it enters the engine.,ZCL-TRN-V4KL-I38,2025-12-06,746.34,JPY,True,True,"WV,BMV,Feramborghini,Nord",True,False,False,True,False
+Engine System,Cylinder Head I65,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-DRI-I0TY-63E,2018-03-28,79.92,JPY,False,False,"Feramborghini,Mecentley,WV,Nord",True,True,True,False,True
+Engine System,Pushrods U56,Generic Pushrods,ZCL-SUS-INRS-3XV,2015-06-10,1867.09,JPY,True,False,Mecentley,False,True,True,False,True
+Engine System,ECU C76,Controls engine performance.,ZCL-SUS-S6XZ-8E3,2021-05-08,1061.64,JPY,False,True,"Nord,Mecentley,WV,Feramborghini",False,True,False,True,True
+Engine System,Oil Pan C11,Holds engine oil.,ZCL-COL-VBN6-DBD,2023-11-07,1287.48,JPY,True,True,"Nord,Mecentley",False,False,False,True,True
+Engine System,Pistons F47,Move up and down in cylinders to compress and combust fuel.,ZCL-SUS-RSOE-EEL,2021-08-03,1158.25,JPY,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",False,False,False,False,False
+Engine System,Camshaft W80,Generic Camshaft,ZCL-DRI-E3AE-BIA,2019-04-11,521.4,JPY,True,True,"BMV,WV,Nord",False,True,False,True,True
+Engine System,Serpentine Belt Z63,Drives multiple engine accessories.,ZCL-COL-2FAW-9KW,2015-01-16,242.57,JPY,True,True,"BMV,Nord",True,True,True,True,False
+Engine System,Drive Belt U94,Generic Drive Belt,ZCL-ENG-TOX8-R5D,2016-08-23,1472.53,JPY,True,True,"BMV,Nord",True,False,True,False,True
+Engine System,"Valves (Intake, Exhaust) E66","Generic Valves (Intake, Exhaust)",ZCL-TRN-H36T-H3X,2025-10-24,327.06,JPY,False,True,"Feramborghini,BMV,WV",True,True,True,True,False
+Engine System,Cylinder Head Z1,Generic Cylinder Head,ZCL-COL-HPY5-89S,2015-08-28,987.89,JPY,True,True,"Nord,WV",False,True,False,True,False
+Engine System,Carburetor (older models) D51,Generic Carburetor (older models),ZCL-DRI-1UY7-WQV,2016-01-25,160.38,JPY,True,False,"WV,Mecentley,BMV",True,False,False,True,True
+Engine System,Dipstick F18,Generic Dipstick,ZCL-ENG-35NK-TXB,2025-01-04,172.36,JPY,True,True,"Nord,WV,Mecentley,BMV,Feramborghini",True,False,True,False,True
+Engine System,Throttle Body Y51,Generic Throttle Body,ZCL-BRK-QZCM-KQH,2018-04-23,654.17,JPY,True,True,"WV,BMV",False,True,False,True,True
+Engine System,Valve Springs A45,Ensure valves close properly.,ZCL-COL-C0XB-3TU,2020-10-01,1499.35,JPY,True,True,Feramborghini,False,False,False,True,True
+Engine System,Distributor U51,Generic Distributor,ZCL-TRN-96IA-CZP,2020-02-18,277.19,JPY,True,True,Nord,False,False,True,True,True
+Engine System,Engine Block F7,Main structure housing cylinders and other components.,ZCL-DRI-XFRU-OD4,2024-05-09,1735.56,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,True,False,False,False
+Engine System,Tappets / Lifters B73,Generic Tappets / Lifters,ZCL-COL-VEVO-JAW,2019-04-29,917.93,JPY,False,True,"Mecentley,Nord,WV,BMV,Feramborghini",True,True,False,False,False
+Engine System,Tappets G54,Link camshaft with pushrods.,ZCL-BRK-X6K7-5SV,2017-01-18,1943.47,JPY,True,True,"BMV,Nord,Feramborghini",True,False,True,False,True
+Engine System,Timing Chain K65,Metal chain version of timing belt.,ZCL-DRI-67TN-7Q5,2021-09-14,113.91,JPY,True,True,"Mecentley,WV,Feramborghini",True,False,False,False,True
+Engine System,Valves B41,Control intake and exhaust of air/fuel mixture.,ZCL-ENG-AKAS-P6N,2022-09-19,587.94,JPY,True,False,"Feramborghini,BMV,Mecentley",False,False,True,True,False
+Engine System,Air Filter M53,Filters air before it enters the engine.,ZCL-PERF-6CA9-VVQ,2023-09-24,1706.58,JPY,True,False,"Mecentley,Nord,Feramborghini",False,False,False,True,True
+Engine System,Valve Springs Y99,Generic Valve Springs,ZCL-TRN-28DT-6HY,2019-08-26,1789.38,JPY,True,False,"BMV,Mecentley,Nord",True,True,False,True,False
+Engine System,Timing Belt / Chain L69,Synchronizes rotation of the crankshaft and camshaft.,ZCL-PERF-B6SN-HEE,2023-02-22,205.79,JPY,True,False,"Mecentley,WV",True,False,True,False,True
+Engine System,Intake Manifold B40,Distributes air to the engine cylinders.,ZCL-DRI-4J46-SNN,2016-11-21,1309.66,JPY,True,True,"Nord,WV,BMV,Feramborghini",False,True,True,True,True
+Engine System,Oil Filter H24,Removes contaminants from engine oil.,ZCL-PERF-S0HI-6GL,2018-02-15,1498.81,JPY,True,False,"WV,Feramborghini,BMV,Nord",False,False,True,False,True
+Engine System,Oil Pan Q49,Generic Oil Pan,ZCL-SUS-K4J4-Y4O,2019-11-01,1203.44,JPY,True,True,"Mecentley,WV,Nord,BMV,Feramborghini",True,True,False,False,True
+Engine System,Cylinder Head X74,"Sits on top of the engine block, holds valves and spark plugs.",ZCL-ENG-HLTA-BTW,2024-05-24,302.93,JPY,False,True,"Mecentley,WV",True,False,True,True,True
+Engine System,Tappets / Lifters A19,Generic Tappets / Lifters,ZCL-TRN-TTML-MZA,2020-11-02,822.5,JPY,True,True,"BMV,Feramborghini,Nord",False,True,False,False,True
+Engine System,Oil Pan V2,Holds engine oil.,ZCL-COL-SLK3-7LG,2016-02-02,39.07,JPY,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True,True,False,True
+Engine System,Engine Block F59,Main structure housing cylinders and other components.,ZCL-ELE-W1OW-2QY,2016-08-16,1597.62,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",True,True,False,False,False
+Engine System,Dipstick B4,Generic Dipstick,ZCL-PERF-8RKN-3X5,2025-09-08,1964.55,JPY,True,False,"WV,Feramborghini,BMV,Nord,Mecentley",True,False,False,True,False
+Engine System,Glow Plugs G27,Preheat air in diesel engines.,ZCL-SUS-UL6B-OVJ,2018-07-11,1328.03,JPY,False,True,"WV,BMV,Mecentley,Nord",False,True,False,False,False
+Engine System,Spark Plugs I19,Generic Spark Plugs,ZCL-BRK-3XYW-5LB,2025-10-28,635.52,JPY,True,True,"Mecentley,WV,BMV,Feramborghini",False,True,False,False,True
+Engine System,Oil Filter B15,Removes contaminants from engine oil.,ZCL-DRI-97U3-VO5,2025-05-30,199.37,JPY,True,True,Mecentley,True,True,False,True,True
+Engine System,Cylinder Head K25,Generic Cylinder Head,ZCL-PERF-ZTM4-84C,2023-05-14,581.83,JPY,True,True,"BMV,Mecentley",False,False,True,True,False
+Engine System,Camshaft C95,Generic Camshaft,ZCL-TRN-Q5JH-1Y0,2025-09-20,208.35,JPY,True,True,"WV,Nord",True,True,False,True,False
+Engine System,Spark Plugs M15,Generic Spark Plugs,ZCL-ELE-WG77-SHJ,2025-05-08,94.17,JPY,True,True,"BMV,WV",True,False,True,True,True
+Engine System,Harmonic Balancer T25,Generic Harmonic Balancer,ZCL-ELE-2TMI-2GV,2022-12-06,1616.7,JPY,False,True,"Nord,WV,BMV,Feramborghini,Mecentley",False,False,True,False,True
+Engine System,Oil Filter F54,Generic Oil Filter,ZCL-ENG-RN88-4RB,2024-12-19,780.8,JPY,True,False,"Feramborghini,Nord,BMV,WV",True,False,False,True,True
+Engine System,Crankshaft I12,Converts piston movement into rotational motion.,ZCL-COL-FJMB-C9T,2022-07-10,1857.71,JPY,True,False,"Feramborghini,BMV,WV,Mecentley",False,False,False,True,False
+Engine System,Fuel Injectors C34,Generic Fuel Injectors,ZCL-SUS-ZR44-KGB,2015-04-19,685.27,JPY,True,True,Feramborghini,True,True,True,True,True
+Engine System,Crankshaft N29,Generic Crankshaft,ZCL-PERF-M5JD-A6N,2020-03-16,514.32,JPY,True,True,"Mecentley,BMV,Feramborghini",False,True,True,False,True
+Engine System,Serpentine Belt M11,Drives multiple engine accessories.,ZCL-COL-1SK1-3TC,2021-03-31,921.08,JPY,True,True,"WV,BMV,Feramborghini,Mecentley",True,True,False,True,False
+Engine System,Intercooler J30,Cools air from turbocharger.,ZCL-ENG-OFWO-T21,2025-11-14,1222.07,JPY,True,False,"Feramborghini,WV,Mecentley",True,True,False,True,True
+Engine System,Valve Springs M18,Ensure valves close properly.,ZCL-TRN-NM6J-DG9,2023-06-02,531.96,JPY,True,False,BMV,True,False,True,True,True
+Engine System,Dipstick J62,Generic Dipstick,ZCL-TRN-5RP6-N5T,2017-04-13,1236.43,JPY,True,True,"WV,Nord",True,True,False,False,False
+Engine System,Timing Cover W11,Protects the timing belt or chain.,ZCL-SUS-6QMJ-USZ,2024-07-19,214.35,JPY,True,True,Feramborghini,True,True,False,True,False
+Engine System,Spark Plugs Y78,Ignite air/fuel mixture in combustion chamber.,ZCL-ELE-N1M5-C0W,2016-10-16,1578.64,JPY,True,False,"WV,Feramborghini",True,False,True,True,True
+Engine System,Turbocharger G18,Forces more air into the engine.,ZCL-ENG-SLK3-MZN,2023-05-08,889.04,JPY,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,True,True,True,True
+Engine System,Supercharger M80,Boosts engine power via air compression.,ZCL-ENG-M2X3-1QH,2025-11-10,186.62,JPY,True,False,"BMV,Mecentley,Feramborghini,Nord",True,True,True,True,False
+Engine System,Fuel Injectors M10,Spray fuel into the engine's cylinders.,ZCL-SUS-1SN7-HSP,2016-11-01,1149.12,JPY,False,True,"BMV,WV,Feramborghini,Nord",True,True,True,False,True
+Engine System,Oil Cooler T73,Cools the engine oil.,ZCL-DRI-FDAP-3RM,2020-11-05,396.13,JPY,True,True,"BMV,WV,Nord",True,False,True,False,True
+Engine System,Ignition Coils E59,Generate high voltage for spark plugs.,ZCL-PERF-J9HD-1JZ,2017-07-13,431.29,JPY,True,True,"WV,Nord",True,True,False,True,False
+Engine System,Timing Cover M91,Protects the timing belt or chain.,ZCL-DRI-XNQQ-9Z1,2017-07-05,1073.88,JPY,True,True,"Feramborghini,Nord,WV",True,True,False,False,False
+Engine System,ECU C48,Controls engine performance.,ZCL-ELE-AQ1D-YQT,2023-01-05,1262.08,JPY,True,True,"Nord,Mecentley,WV,Feramborghini,BMV",False,True,True,True,False
+Engine System,Pistons K56,Generic Pistons,ZCL-DRI-13ST-T38,2022-05-06,1557.03,JPY,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",False,True,False,True,True
+Engine System,Camshaft G51,Operates the engine’s valves via lobes.,ZCL-TRN-OCF1-S9R,2022-12-24,1074.23,JPY,False,True,WV,False,False,True,True,True
+Engine System,Tappets I88,Link camshaft with pushrods.,ZCL-SUS-PXVQ-V64,2017-03-13,224.49,JPY,True,True,"Feramborghini,WV,Nord,Mecentley",True,False,True,True,True
+Engine System,Turbocharger P97,Forces more air into the engine.,ZCL-ELE-EV52-D79,2024-04-02,107.21,JPY,True,True,"Feramborghini,Mecentley,WV",True,False,True,True,False
+Engine System,Valves O60,Control intake and exhaust of air/fuel mixture.,ZCL-ENG-60RK-TP0,2020-07-09,1364.21,JPY,True,True,"BMV,Nord,Mecentley",True,False,True,True,True
+Engine System,Oil Pan F22,Generic Oil Pan,ZCL-DRI-LA1D-1IM,2015-06-04,64.85,JPY,True,True,"Feramborghini,BMV,Mecentley,Nord",True,False,True,True,True
+Engine System,Rocker Arms U80,Generic Rocker Arms,ZCL-BRK-CJQB-6ZQ,2022-03-30,1430.04,JPY,False,True,"Mecentley,Feramborghini,WV,BMV",False,False,False,True,True
+Engine System,Glow Plugs M99,Preheat air in diesel engines.,ZCL-ELE-JNZN-O1Z,2021-11-19,1086.21,JPY,True,True,"Mecentley,Feramborghini,WV",True,True,True,True,True
+Engine System,Oil Cooler I97,Generic Oil Cooler,ZCL-BRK-BRYL-WY0,2024-07-28,1893.85,JPY,True,True,"WV,Feramborghini,BMV,Nord",False,False,False,True,True
+Engine System,Dipstick T22,Generic Dipstick,ZCL-DRI-G8PC-0IN,2020-07-19,234.07,JPY,True,False,Nord,True,True,True,True,True
+Engine System,Ignition Coils G34,Generate high voltage for spark plugs.,ZCL-BRK-H9P5-X4P,2017-02-14,143.78,JPY,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,False,True,True
+Engine System,Valve Springs W67,Ensure valves close properly.,ZCL-ELE-8DTR-7FK,2019-08-18,1589.05,JPY,True,True,BMV,False,True,True,True,False
+Engine System,Spark Plugs T77,Ignite air/fuel mixture in combustion chamber.,ZCL-ENG-LFWF-FRR,2015-06-28,1166.04,JPY,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,True,False,True,False
+Engine System,Drive Belt Q89,"Drives alternator, AC compressor, etc.",ZCL-PERF-7TIE-H32,2020-04-15,1608.64,JPY,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,True,True,False,True
+Engine System,Oil Cooler A53,Generic Oil Cooler,ZCL-SUS-2L66-G6P,2017-06-25,996.39,JPY,True,True,"Feramborghini,Nord,Mecentley,WV",True,False,False,True,True
+Engine System,"Valves (Intake, Exhaust) Y36","Generic Valves (Intake, Exhaust)",ZCL-PERF-DM5C-NVR,2020-07-17,397.15,JPY,True,True,WV,True,False,True,True,False
+Engine System,Serpentine Belt A49,Drives multiple engine accessories.,ZCL-TRN-55AM-JMU,2025-11-16,1393.98,JPY,True,True,Mecentley,True,True,False,True,True
+Engine System,Throttle Body X55,Controls airflow into the engine.,ZCL-SUS-GSHL-NH3,2016-01-15,378.69,JPY,True,True,"BMV,WV,Nord",True,False,False,True,True
+Engine System,Intercooler S43,Cools air from turbocharger.,ZCL-SUS-42I4-LJ7,2024-11-29,1037.39,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",False,True,True,False,False
+Engine System,Valves K68,Control intake and exhaust of air/fuel mixture.,ZCL-PERF-DKV3-JG9,2022-09-30,1326.12,JPY,False,True,"Nord,BMV",True,True,True,True,True
+Engine System,Spark Plugs L97,Ignite air/fuel mixture in combustion chamber.,ZCL-DRI-LAAG-8VU,2016-02-15,1332.77,JPY,True,False,"Nord,WV",False,True,False,True,False
+Engine System,Oil Filter C7,Generic Oil Filter,ZCL-COL-R1XY-5YN,2021-02-19,1454.71,JPY,True,True,Mecentley,True,False,False,True,False
+Engine System,Dipstick S44,Measures oil level.,ZCL-ELE-JZ07-38L,2020-06-28,1031.21,JPY,True,False,Nord,True,True,True,True,False
+Engine System,Air Filter Y38,Generic Air Filter,ZCL-DRI-095N-O1V,2018-05-21,494.72,JPY,True,True,Mecentley,True,True,True,False,False
+Engine System,Timing Belt / Chain L78,Synchronizes rotation of the crankshaft and camshaft.,ZCL-BRK-77A3-QOO,2022-01-01,868.33,JPY,False,False,"Nord,BMV,Feramborghini",True,False,True,True,True
+Engine System,Valve Springs P90,Generic Valve Springs,ZCL-ELE-FJ8Z-4S9,2019-11-14,1785.67,JPY,True,True,"Feramborghini,WV,Mecentley,BMV",True,True,False,True,False
+Engine System,Carburetor (older models) G8,Generic Carburetor (older models),ZCL-PERF-Q5XF-KE1,2018-09-04,1571.05,JPY,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",False,False,False,True,True
+Engine System,Distributor Z78,Distributes spark to the correct cylinder.,ZCL-TRN-LW4W-BJ3,2024-03-08,1403.62,JPY,True,True,"Mecentley,WV,BMV",True,False,False,False,False
+Engine System,Air Filter B94,Generic Air Filter,ZCL-DRI-N925-SF9,2024-11-30,403.39,JPY,False,False,"Nord,Feramborghini,WV",False,True,True,True,True
+Engine System,Supercharger B54,Boosts engine power via air compression.,ZCL-SUS-5MQC-P8E,2015-10-10,48.19,JPY,False,True,"BMV,Mecentley,Nord,Feramborghini,WV",True,True,False,False,True
+Drivetrain,Performance Clutch Kit M53,Handles more torque from tuned engines.,ZCL-SUS-0S1V-NU1,2023-06-29,1770.38,JPY,True,False,"Mecentley,BMV,WV,Nord",False,False,False,False,False
+Drivetrain,Aftermarket LSD T3,Improves grip in cornering and acceleration.,ZCL-DRI-5CX9-7DH,2025-08-10,1133.67,JPY,True,True,"Nord,Mecentley",False,False,False,True,False
+Drivetrain,Aftermarket LSD S88,Improves grip in cornering and acceleration.,ZCL-BRK-ZNHP-7DE,2020-03-10,88.12,JPY,True,True,"Feramborghini,Mecentley",True,False,True,False,False
+Drivetrain,Lightweight Flywheel Z44,Improves throttle response.,ZCL-SUS-6HDR-WLU,2022-12-30,1720.31,JPY,True,True,"Nord,BMV,Mecentley,WV",False,True,True,True,True
+Drivetrain,Lightweight Flywheel J33,Improves throttle response.,ZCL-SUS-WNVA-PEO,2016-07-14,165.82,JPY,True,True,Nord,True,True,False,False,False
+Performance Parts,Cold Air Intake G98,Increases engine airflow for better combustion.,ZCL-TRN-MECJ-KMD,2020-02-19,572.39,JPY,False,True,"Mecentley,BMV,WV",True,True,False,True,True
+Performance Parts,Intercooler U28,Cools compressed air before it enters the engine.,ZCL-ELE-093M-LT9,2015-12-17,311.24,JPY,True,True,"Nord,Mecentley",True,False,True,False,False
+Performance Parts,Turbocharger Kit L9,Forces extra air into combustion for more power.,ZCL-COL-Q7WG-0B9,2016-04-27,877.24,JPY,True,False,"Feramborghini,WV,Mecentley,Nord,BMV",True,False,False,True,False
+Performance Parts,Turbocharger Kit R69,Forces extra air into combustion for more power.,ZCL-ENG-J78R-JXS,2019-09-08,1132.53,JPY,True,True,"Mecentley,Nord,BMV,WV,Feramborghini",True,True,False,True,True
+Performance Parts,Turbocharger Kit I69,Forces extra air into combustion for more power.,ZCL-BRK-Q8QH-EQR,2019-01-24,299.54,JPY,True,True,"WV,Feramborghini,Mecentley,Nord",True,True,True,True,True
+Performance Parts,Cold Air Intake U87,Increases engine airflow for better combustion.,ZCL-DRI-7VLC-ADR,2020-03-31,234.49,JPY,True,True,"BMV,WV,Nord,Feramborghini,Mecentley",False,True,True,False,True
+Performance Parts,ECU Tuner X95,Modifies engine parameters for higher performance.,ZCL-SUS-EL6I-ZLX,2020-05-30,935.44,JPY,True,True,"BMV,Feramborghini,Nord,WV",True,True,True,False,True
+Performance Parts,Performance Exhaust Y47,Reduces backpressure and improves exhaust flow.,ZCL-COL-UDDM-MCL,2025-12-28,364.91,JPY,False,True,"Mecentley,WV,Nord",True,True,False,False,False
+Performance Parts,Blow-Off Valve J29,Releases excess turbo pressure to prevent damage.,ZCL-TRN-S21Z-5A3,2025-12-04,1958.83,JPY,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",False,False,False,True,True
+Performance Parts,ECU Tuner O83,Modifies engine parameters for higher performance.,ZCL-SUS-MGR5-JOG,2024-10-27,1408.46,JPY,True,False,"WV,Mecentley,Nord",False,False,False,False,False
+Performance Parts,Performance Exhaust R92,Reduces backpressure and improves exhaust flow.,ZCL-COL-D8LA-XSD,2019-12-15,931.09,JPY,True,True,"Mecentley,BMV,WV,Nord,Feramborghini",True,True,True,False,True
+Performance Parts,Cold Air Intake Q13,Increases engine airflow for better combustion.,ZCL-TRN-YZXA-ESB,2023-05-15,103.92,JPY,True,True,"Feramborghini,WV,Mecentley,Nord",True,True,False,False,False
+Performance Parts,Blow-Off Valve L95,Releases excess turbo pressure to prevent damage.,ZCL-TRN-IUTE-CTV,2023-10-16,1719.63,JPY,True,True,"Mecentley,WV,Feramborghini,Nord,BMV",False,False,True,True,True
+Performance Parts,Aftermarket Camshaft U72,Alters valve timing for performance tuning.,ZCL-TRN-OGRY-YMT,2023-04-01,1106.16,JPY,True,True,WV,False,True,False,False,False
+Performance Parts,Aftermarket Camshaft N96,Alters valve timing for performance tuning.,ZCL-DRI-WN1D-2GR,2024-04-14,1245.1,JPY,True,True,"Mecentley,Feramborghini,BMV",False,True,False,False,False
+Performance Parts,Turbocharger Kit V20,Forces extra air into combustion for more power.,ZCL-COL-FCP4-2L9,2019-02-13,1747.29,JPY,True,True,"Mecentley,BMV,WV",False,False,False,True,True
+Performance Parts,Aftermarket Camshaft P74,Alters valve timing for performance tuning.,ZCL-ELE-W8NB-QO3,2017-05-20,727.94,JPY,True,True,Feramborghini,True,True,True,False,True
+Performance Parts,Turbocharger Kit R2,Forces extra air into combustion for more power.,ZCL-PERF-KITG-W24,2015-10-07,1393.68,JPY,True,True,"Mecentley,Feramborghini,BMV,WV",True,False,False,True,True
+Performance Parts,ECU Tuner R81,Modifies engine parameters for higher performance.,ZCL-ELE-24OL-0HD,2021-05-20,1381.96,JPY,True,True,"BMV,Feramborghini",True,True,True,True,True
+Performance Parts,Aftermarket Camshaft B36,Alters valve timing for performance tuning.,ZCL-ELE-97FZ-VT3,2018-02-19,267.85,JPY,True,False,"Mecentley,Feramborghini,WV,Nord,BMV",False,False,False,False,False
+Performance Parts,ECU Tuner C61,Modifies engine parameters for higher performance.,ZCL-ELE-N126-VGA,2020-05-18,1262.93,JPY,True,True,WV,True,True,False,True,True
+Exterior,Widebody Kit C68,Allows wider tires and improves stance.,ZCL-ENG-TI7C-OFO,2020-05-20,1859.56,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",False,False,False,True,True
+Exterior,Carbon Fiber Hood G96,Reduces weight and improves aerodynamics.,ZCL-ENG-Y5F2-8C5,2024-06-10,856.25,JPY,True,True,"Nord,BMV,Mecentley,WV,Feramborghini",False,True,True,False,True
+Exterior,Front Splitter P49,Adds front-end downforce.,ZCL-BRK-O8R0-JPK,2016-08-16,1318.92,JPY,True,True,"Nord,Feramborghini,BMV,WV,Mecentley",True,False,True,True,False
+Exterior,Front Splitter E87,Adds front-end downforce.,ZCL-BRK-E7M4-PFD,2022-08-31,759.7,JPY,True,True,Mecentley,False,False,False,False,False
+Exterior,Aero Canards A98,Enhance airflow and cornering stability.,ZCL-COL-NWCQ-7SW,2017-08-18,410.7,JPY,True,True,"Mecentley,Nord,WV,Feramborghini,BMV",False,True,True,True,False
+Exterior,Rear Diffuser B49,Improves underbody airflow and downforce.,ZCL-BRK-FFLK-8Z1,2015-09-06,190.54,JPY,True,False,"WV,BMV,Feramborghini,Nord,Mecentley",True,False,True,False,True
+Exterior,Front Splitter D70,Adds front-end downforce.,ZCL-DRI-9WR4-E75,2015-01-17,193.24,JPY,True,False,"Feramborghini,Nord,WV,BMV,Mecentley",True,True,False,False,False
+Exterior,Aero Canards U48,Enhance airflow and cornering stability.,ZCL-DRI-IHHB-N1P,2017-01-04,375.37,JPY,True,False,BMV,True,False,False,True,True
+Exterior,Widebody Kit Q7,Allows wider tires and improves stance.,ZCL-TRN-60BS-16M,2016-08-07,1959.0,JPY,True,True,"BMV,Nord,Feramborghini,WV",True,False,True,False,True
+Exterior,Widebody Kit R50,Allows wider tires and improves stance.,ZCL-ENG-1VIE-NL4,2017-05-05,732.74,JPY,True,False,"WV,Nord,Feramborghini,BMV,Mecentley",True,True,False,True,True
+Exterior,Front Splitter L78,Adds front-end downforce.,ZCL-BRK-05C2-H2I,2016-11-05,106.29,JPY,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,False,True,False,True
+Exterior,Rear Diffuser D73,Improves underbody airflow and downforce.,ZCL-ENG-3IO0-DVU,2019-11-16,1555.92,JPY,True,False,"Feramborghini,Nord",True,True,True,True,True
+Exterior,Aero Canards O45,Enhance airflow and cornering stability.,ZCL-SUS-O6V4-KPB,2024-12-30,300.36,JPY,True,True,BMV,True,False,True,False,True
+Exterior,Aero Canards R81,Enhance airflow and cornering stability.,ZCL-ENG-QJEB-7XD,2017-12-06,1450.87,JPY,True,True,"Nord,Mecentley",True,False,False,False,True
+Exterior,Front Splitter Y56,Adds front-end downforce.,ZCL-PERF-L6DI-RMX,2024-10-11,1673.86,JPY,True,True,"WV,BMV,Feramborghini,Mecentley,Nord",False,True,False,False,False
+Exterior,Carbon Fiber Hood O25,Reduces weight and improves aerodynamics.,ZCL-TRN-X8XV-JMX,2015-02-14,454.58,JPY,True,True,"Feramborghini,Mecentley",True,True,True,True,False
+Exterior,Aero Canards P7,Enhance airflow and cornering stability.,ZCL-TRN-PYR8-L1K,2022-02-22,1520.67,JPY,True,True,"BMV,Feramborghini,Mecentley,Nord,WV",True,True,False,False,True
+Exterior,Carbon Fiber Spoiler L40,Increases rear downforce.,ZCL-BRK-OGDN-S2S,2023-09-27,1284.65,JPY,True,False,"Nord,Mecentley,Feramborghini,BMV,WV",True,False,False,True,True
+Exterior,Front Splitter R75,Adds front-end downforce.,ZCL-COL-HWXO-NMY,2024-01-22,498.91,JPY,True,True,"BMV,Feramborghini",False,True,False,False,False
+Exterior,Aero Canards F17,Enhance airflow and cornering stability.,ZCL-COL-YAWR-6KY,2020-12-10,1293.59,JPY,False,True,"BMV,WV,Feramborghini,Mecentley",True,False,True,True,False
+Exterior,Aero Canards N50,Enhance airflow and cornering stability.,ZCL-DRI-O2NZ-RMU,2018-09-30,375.03,JPY,True,False,"Mecentley,Nord,WV,Feramborghini",True,False,False,False,False
+Exterior,Carbon Fiber Hood K12,Reduces weight and improves aerodynamics.,ZCL-TRN-PVQV-NE2,2015-12-16,514.53,JPY,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,False,True,True,True
+Exterior,Carbon Fiber Spoiler K65,Increases rear downforce.,ZCL-DRI-8G2Q-CZM,2023-01-13,923.75,JPY,True,True,"WV,Nord,Mecentley,BMV,Feramborghini",True,False,True,False,True
+Exterior,Carbon Fiber Spoiler W17,Increases rear downforce.,ZCL-TRN-GHHO-H0C,2017-01-04,684.31,JPY,False,True,"Nord,WV,Mecentley,Feramborghini",True,False,False,True,False
+Exterior,Aero Canards W64,Enhance airflow and cornering stability.,ZCL-TRN-SL1O-VL9,2019-03-05,1868.02,JPY,False,True,"Mecentley,WV,Nord",False,True,False,False,True
+Exterior,Widebody Kit N47,Allows wider tires and improves stance.,ZCL-DRI-O9VK-P2W,2016-11-27,993.48,JPY,True,True,"BMV,Feramborghini",True,False,True,False,True
+Exterior,Widebody Kit W56,Allows wider tires and improves stance.,ZCL-TRN-OR2V-CV5,2022-10-05,320.25,JPY,True,False,WV,True,False,False,True,True
+Exterior,Carbon Fiber Spoiler H16,Increases rear downforce.,ZCL-ELE-PXR0-NBA,2023-10-03,1060.66,JPY,False,True,"WV,Feramborghini,BMV,Nord,Mecentley",True,False,False,True,False
+Interior Components,Carpet N56,Generic Carpet,ZCL-DRI-AT0E-K4F,2022-12-23,1706.28,JPY,False,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,True,True,True
+Interior Components,Glove Box O90,Compartment for storing small items.,ZCL-SUS-QS35-6CB,2018-04-29,1909.37,JPY,True,True,"Nord,Feramborghini",True,False,True,True,True
+Interior Components,Sun Visors B78,Generic Sun Visors,ZCL-BRK-434W-6A9,2019-02-17,298.41,JPY,True,True,"Nord,Mecentley,BMV",True,True,True,False,True
+Interior Components,Dashboard H76,Houses instruments and controls in front of driver.,ZCL-TRN-41M4-L6S,2018-01-25,1098.08,JPY,True,True,"Nord,Feramborghini,BMV,WV",False,False,True,False,False
+Interior Components,Seatbelts D94,Secure passengers to reduce injury risk.,ZCL-SUS-4BR5-QIJ,2021-08-06,887.35,JPY,True,False,WV,True,False,True,True,False
+Interior Components,Glove Box C77,Compartment for storing small items.,ZCL-DRI-8MII-YNQ,2022-12-31,1065.26,JPY,True,True,"Nord,Mecentley,WV,Feramborghini",False,False,True,True,True
+Interior Components,Rearview Mirror L36,Generic Rearview Mirror,ZCL-ENG-DVVF-2LQ,2022-05-09,254.88,JPY,False,True,Mecentley,True,False,False,False,True
+Interior Components,Seats A19,Generic Seats,ZCL-TRN-O5BX-MCF,2022-04-15,937.27,JPY,True,True,"Mecentley,BMV,Nord,Feramborghini,WV",True,True,False,False,True
+Interior Components,Center Console P2,Generic Center Console,ZCL-DRI-ERQU-8JX,2020-01-22,521.78,JPY,True,False,"Mecentley,WV,Feramborghini,Nord",True,True,True,True,True
+Interior Components,Dashboard M52,Generic Dashboard,ZCL-TRN-1I7M-Q4U,2015-09-15,1608.98,JPY,True,True,Nord,False,False,False,False,False
+Interior Components,Glove Box F91,Compartment for storing small items.,ZCL-ELE-0W2T-H3A,2020-02-14,1464.4,JPY,False,False,"Nord,Feramborghini,BMV,WV,Mecentley",False,True,True,False,True
+Interior Components,Seats G93,Generic Seats,ZCL-BRK-8NI3-40B,2017-10-20,720.54,JPY,True,True,"Feramborghini,WV,BMV,Mecentley,Nord",False,False,False,False,False
+Interior Components,Dashboard I29,Houses instruments and controls in front of driver.,ZCL-ENG-DRF6-5AL,2018-05-04,1597.39,JPY,True,True,"WV,Feramborghini,BMV",False,True,False,False,True
+Interior Components,Gear Shift Knob J3,Generic Gear Shift Knob,ZCL-SUS-5OWK-LTF,2017-11-05,470.16,JPY,True,True,"Feramborghini,Mecentley,WV,BMV",True,True,True,False,False
+Interior Components,Dashboard L30,Generic Dashboard,ZCL-BRK-7H10-1S8,2024-02-20,511.44,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",False,True,True,False,True
+Interior Components,Center Console G72,Generic Center Console,ZCL-DRI-6L3Y-2W4,2017-09-05,1462.8,JPY,False,True,Mecentley,False,True,True,True,True
+Interior Components,Carpet Q9,Generic Carpet,ZCL-BRK-16F8-5TW,2022-11-03,75.26,JPY,True,True,"WV,Feramborghini,BMV,Nord,Mecentley",False,False,False,True,False
+Interior Components,Gear Shift Knob D39,Generic Gear Shift Knob,ZCL-SUS-MD1W-IPG,2017-07-26,281.56,JPY,True,False,"Feramborghini,Mecentley,Nord",True,True,False,False,True
+Interior Components,Rearview Mirror N46,Generic Rearview Mirror,ZCL-SUS-6IHE-9NK,2022-08-16,1467.08,JPY,True,True,"BMV,WV,Feramborghini,Nord",True,False,False,True,True
+Interior Components,Glove Box Z56,Compartment for storing small items.,ZCL-ENG-KL15-0GN,2020-02-08,983.19,JPY,True,True,"Feramborghini,WV,Nord,Mecentley,BMV",True,False,False,False,False
+Interior Components,Seats W48,Provide seating for vehicle occupants.,ZCL-ELE-LJHB-6DE,2020-03-13,1247.14,JPY,True,True,"WV,Feramborghini",True,True,False,True,True
+Interior Components,Seatbelts V87,Secure passengers to reduce injury risk.,ZCL-PERF-1VZI-UL9,2016-08-21,563.43,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,True,False,False,False
+Interior Components,Floor Mats B10,Generic Floor Mats,ZCL-BRK-FJCA-LVC,2015-07-09,1002.16,JPY,False,True,"Mecentley,Feramborghini",True,True,True,True,True
+Interior Components,Seats R51,Generic Seats,ZCL-DRI-O5EX-1E9,2022-01-27,1453.84,JPY,True,True,"WV,BMV",True,False,True,True,True
+Interior Components,Seats Z94,Generic Seats,ZCL-SUS-R6LC-N94,2020-06-13,714.16,JPY,True,True,BMV,False,True,True,False,False
+Interior Components,Rearview Mirror Z55,Generic Rearview Mirror,ZCL-ENG-J287-K7U,2025-04-10,1840.95,JPY,False,True,"BMV,Feramborghini,WV,Nord",True,True,False,False,True
+Interior Components,Dashboard H85,Generic Dashboard,ZCL-DRI-WHAA-GFS,2016-11-27,12.14,JPY,True,True,"WV,BMV,Feramborghini,Mecentley,Nord",True,True,True,False,True
+Interior Components,Dashboard B27,Generic Dashboard,ZCL-ELE-LLNO-NUX,2022-04-11,317.69,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord,WV",False,True,True,False,False
+Interior Components,Dashboard R58,Houses instruments and controls in front of driver.,ZCL-ENG-MUNN-ZXP,2020-04-30,1594.4,JPY,True,True,Nord,True,True,True,True,False
+Interior Components,Center Console I45,Generic Center Console,ZCL-COL-CKJQ-NG0,2024-07-29,802.39,JPY,False,True,"BMV,Feramborghini,Mecentley,Nord",False,False,True,True,True
+Interior Components,Seat Motors C72,Generic Seat Motors,ZCL-DRI-Q9SG-42W,2017-04-15,1603.71,JPY,True,True,BMV,True,False,False,False,False
+Interior Components,Floor Mats R87,Generic Floor Mats,ZCL-DRI-U72P-YUC,2025-03-02,1069.58,JPY,True,True,BMV,True,True,True,False,True
+Interior Components,Glove Box Y29,Generic Glove Box,ZCL-PERF-PHN7-5K0,2017-03-27,1044.38,JPY,True,True,"BMV,WV",False,True,True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) B17","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",ZCL-ELE-NJ3X-15V,2022-04-15,1375.02,JPY,True,True,"Feramborghini,WV,BMV,Nord",False,True,True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) Z72","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",ZCL-PERF-KOS0-D2O,2025-06-01,1741.8,JPY,True,True,Nord,True,True,False,False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) D48","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",ZCL-SUS-KTRO-3I6,2020-08-22,462.35,JPY,True,True,"Feramborghini,WV,BMV,Mecentley",True,False,False,False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) A88","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",ZCL-TRN-C4EN-0I5,2019-10-04,949.42,JPY,True,False,WV,True,False,False,True,False
+Interior Components,Seat Motors E39,Generic Seat Motors,ZCL-BRK-3QNG-8NC,2016-07-03,1839.01,JPY,True,True,"WV,BMV,Nord,Feramborghini",True,False,True,True,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) H23","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",ZCL-BRK-IJAJ-VIR,2023-12-03,337.93,JPY,False,False,"Feramborghini,BMV,Nord,WV",True,True,False,True,True
+Interior Components,Interior Trim Panels I75,Generic Interior Trim Panels,ZCL-ENG-KUFW-T6C,2018-10-24,266.85,JPY,False,True,"WV,BMV,Mecentley,Feramborghini",False,False,True,True,False
+Interior Components,Dashboard P10,Generic Dashboard,ZCL-SUS-RSXC-8G1,2019-12-07,10.79,JPY,True,False,"Feramborghini,BMV,Nord,Mecentley",True,True,True,True,True
+Interior Components,Interior Trim Panels E99,Generic Interior Trim Panels,ZCL-TRN-LGHE-XAA,2018-10-08,522.73,JPY,True,True,"Feramborghini,Mecentley",True,True,True,True,False
+Interior Components,Seatbelts D34,Generic Seatbelts,ZCL-PERF-3MM4-QQT,2022-03-27,805.5,JPY,True,False,"Feramborghini,WV,BMV",False,True,True,False,False
+Interior Components,Headliner D63,Generic Headliner,ZCL-TRN-EQNR-RZV,2023-11-12,730.62,JPY,True,True,"BMV,WV,Nord",True,True,True,False,True
+Interior Components,Gear Shift Knob Q61,Generic Gear Shift Knob,ZCL-TRN-E26B-AWQ,2024-12-23,1997.92,JPY,False,True,"Feramborghini,Mecentley,WV,BMV",True,True,True,True,False
+Interior Components,Handbrake Lever Z25,Generic Handbrake Lever,ZCL-ELE-O6R8-3NZ,2016-04-17,565.6,JPY,False,False,"WV,Feramborghini",True,True,True,False,False
+Interior Components,Headliner S1,Generic Headliner,ZCL-BRK-4E6S-Q6A,2020-08-14,347.67,JPY,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",False,False,True,True,False
+Interior Components,Carpet H34,Generic Carpet,ZCL-ELE-XH2H-J3Y,2015-04-01,1059.38,JPY,True,True,"BMV,WV",False,False,True,True,True
+Interior Components,Dashboard J39,Houses instruments and controls in front of driver.,ZCL-COL-CNNT-AZK,2020-11-09,1682.16,JPY,True,True,"Nord,Mecentley,Feramborghini,WV",True,True,True,False,False
+Interior Components,Glove Box S57,Generic Glove Box,ZCL-PERF-MHSL-7A9,2023-01-23,1807.23,JPY,True,True,"BMV,WV",False,False,True,True,True
+Interior Components,Seat Motors D15,Generic Seat Motors,ZCL-DRI-9J5M-QUO,2025-08-15,683.1,JPY,True,True,"Nord,BMV,Feramborghini",True,True,True,True,True
+Interior Components,Seats Z56,Generic Seats,ZCL-SUS-L9FT-ZJP,2025-08-02,568.81,JPY,True,True,"BMV,Nord,WV",True,False,True,False,True
+Interior Components,Sun Visors R47,Generic Sun Visors,ZCL-ENG-C3D3-VPI,2024-10-05,449.24,JPY,True,True,"Nord,WV,Mecentley",True,True,True,True,True
+Interior Components,Sun Visors K32,Generic Sun Visors,ZCL-COL-IK8H-0BR,2019-08-03,1629.66,JPY,True,False,"WV,Feramborghini,Mecentley",False,True,True,True,True
+Interior Components,Handbrake Lever I18,Generic Handbrake Lever,ZCL-PERF-3JR1-BS0,2015-07-07,520.21,JPY,True,True,"BMV,Nord,Mecentley",True,True,False,True,False
+Interior Components,Glove Box C77,Compartment for storing small items.,ZCL-TRN-MWOZ-6D5,2019-11-02,623.66,JPY,True,True,"BMV,Mecentley,Feramborghini",True,True,True,True,False
+Interior Components,Center Console L2,Generic Center Console,ZCL-BRK-4M6H-ZEP,2017-02-25,1723.26,JPY,False,True,"Mecentley,Nord,Feramborghini",False,True,True,True,True
+Interior Components,Rearview Mirror V70,Generic Rearview Mirror,ZCL-COL-CMRN-KJJ,2023-09-25,492.16,JPY,False,True,"WV,BMV,Feramborghini,Mecentley,Nord",False,True,True,True,True
+Interior Components,Glove Box C96,Generic Glove Box,ZCL-DRI-MQ67-7FP,2024-06-07,657.75,JPY,False,True,Mecentley,False,True,True,False,False
+Interior Components,Sun Visors S17,Generic Sun Visors,ZCL-BRK-O6DC-0GC,2015-10-16,1255.98,JPY,True,True,"Mecentley,WV,Nord,BMV",True,True,True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) S12","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",ZCL-COL-6N7X-Z80,2018-09-27,874.58,JPY,True,True,"BMV,Nord,WV",True,False,True,True,False
+Interior Components,Glove Box O10,Generic Glove Box,ZCL-COL-CBKQ-OB3,2022-11-30,822.67,JPY,True,True,"BMV,WV,Mecentley,Feramborghini,Nord",False,True,True,True,True
+Interior Components,Sun Visors Z32,Generic Sun Visors,ZCL-DRI-QA6X-ZZM,2023-08-06,221.05,JPY,True,True,"BMV,Mecentley,Nord,WV",True,True,True,False,False
+Interior Components,Center Console S66,Generic Center Console,ZCL-ELE-ZDXL-Z39,2019-07-27,599.8,JPY,False,True,"WV,BMV,Nord",True,True,False,False,False
+Interior Components,Carpet K13,Generic Carpet,ZCL-PERF-ALVY-H1X,2025-10-25,533.31,JPY,True,False,"BMV,WV,Mecentley,Nord,Feramborghini",True,False,True,True,True
+Interior Components,Gear Shift Knob O59,Generic Gear Shift Knob,ZCL-COL-HKWG-ZHC,2016-01-14,1755.85,JPY,True,True,"Feramborghini,WV,Nord,Mecentley,BMV",False,False,True,True,True
+Interior Components,Rearview Mirror F6,Generic Rearview Mirror,ZCL-PERF-BKNP-UVJ,2021-02-23,1779.45,JPY,True,False,"Nord,WV",False,True,True,True,True
+Interior Components,Handbrake Lever J40,Generic Handbrake Lever,ZCL-COL-ML3F-M2S,2017-05-13,17.82,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,True,False,True,True
+Interior Components,Seat Motors U95,Generic Seat Motors,ZCL-TRN-FADB-ESW,2023-07-26,1752.97,JPY,True,False,"Feramborghini,Nord,BMV,Mecentley,WV",True,True,False,False,True
+Interior Components,Seatbelts E41,Generic Seatbelts,ZCL-COL-UKYE-Y2Y,2016-05-10,1401.07,JPY,True,True,"Feramborghini,BMV,Mecentley,WV,Nord",False,True,True,True,True
+Interior Components,Carpet V3,Generic Carpet,ZCL-TRN-OY6O-QTV,2017-05-10,1685.06,JPY,True,False,"Feramborghini,WV",True,True,False,False,False
+Electrical and Ignition,Relays E68,Generic Relays,ZCL-PERF-Y700-WJZ,2018-07-17,1623.85,JPY,True,True,Mecentley,False,False,False,False,True
+Electrical and Ignition,Electric Window Motors W18,Generic Electric Window Motors,ZCL-TRN-JJWR-YYL,2015-01-20,150.52,JPY,True,True,"WV,Mecentley",True,True,True,True,True
+Electrical and Ignition,ECU G25,Controls various engine and car functions.,ZCL-TRN-CZN2-VXL,2023-01-24,1552.89,JPY,True,True,"WV,Mecentley",True,True,False,True,False
+Electrical and Ignition,Crankshaft Position Sensor L17,Generic Crankshaft Position Sensor,ZCL-SUS-NX6I-1LE,2018-12-31,1218.77,JPY,True,True,"Feramborghini,WV,Mecentley",False,True,True,True,True
+Electrical and Ignition,ECU / PCM / BCM M99,Generic ECU / PCM / BCM,ZCL-TRN-W336-T0V,2022-05-08,573.76,JPY,True,False,"Mecentley,BMV,Nord",False,False,False,True,True
+Electrical and Ignition,Fuse Box B28,Protects circuits with fuses.,ZCL-DRI-IZIU-B45,2023-12-26,950.92,JPY,True,True,"WV,Feramborghini,Mecentley,BMV,Nord",True,True,False,False,False
+Electrical and Ignition,Knock Sensor G79,Detects engine knock.,ZCL-COL-RXTM-XI6,2019-10-05,1819.86,JPY,True,True,"Nord,WV",True,False,True,True,False
+Electrical and Ignition,Ignition Switch J39,Starts the vehicle.,ZCL-ENG-CWUF-U0P,2023-01-26,1250.16,JPY,True,True,"Feramborghini,Nord,BMV",False,True,True,True,True
+Electrical and Ignition,Camshaft Position Sensor S17,Generic Camshaft Position Sensor,ZCL-ENG-Z7SP-EQR,2015-04-03,1671.6,JPY,False,True,"WV,Nord,BMV",False,True,True,True,False
+Electrical and Ignition,Ignition Switch J99,Generic Ignition Switch,ZCL-ENG-IXKU-RQE,2019-09-28,1236.88,JPY,True,False,"Feramborghini,Nord,Mecentley,BMV,WV",False,True,False,False,False
+Electrical and Ignition,Horn W49,Generic Horn,ZCL-ELE-JBS7-NA0,2016-11-05,624.32,JPY,False,True,"Nord,BMV,WV",True,False,True,True,True
+Electrical and Ignition,Wiring Harness R24,Bundle of wires for electrical connections.,ZCL-BRK-V4UK-MTJ,2024-10-16,824.3,JPY,True,True,"Feramborghini,WV,Nord",False,True,False,True,False
+Electrical and Ignition,Interior Lights D55,Generic Interior Lights,ZCL-COL-G6WZ-EZO,2023-12-22,434.96,JPY,False,True,"Feramborghini,Nord,WV,BMV,Mecentley",True,True,False,True,True
+Electrical and Ignition,Battery T63,Provides electrical power to start the engine.,ZCL-BRK-6C8R-GVJ,2018-02-07,778.62,JPY,True,True,"Mecentley,Nord,WV,BMV",False,True,False,True,True
+Electrical and Ignition,O2 Sensor W81,Monitors oxygen levels in exhaust.,ZCL-PERF-ZTRA-8H6,2021-06-01,130.73,JPY,True,True,"Feramborghini,WV,Mecentley",True,False,False,True,True
+Electrical and Ignition,Battery M36,Powers vehicle electronics and starts engine.,ZCL-SUS-P97V-GW5,2023-07-13,734.75,JPY,True,True,"BMV,WV,Mecentley",False,True,True,False,True
+Electrical and Ignition,MAF Sensor M40,Measures air intake for engine.,ZCL-SUS-25I6-0Z5,2022-03-13,1981.22,JPY,True,False,"WV,BMV,Nord,Mecentley,Feramborghini",True,True,False,True,True
+Electrical and Ignition,Alternator K84,Charges the battery and powers electrical systems.,ZCL-DRI-227K-9PW,2023-04-20,1063.52,JPY,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,True,False,True,False
+Electrical and Ignition,Turn Signals T58,Indicate direction of intended turns.,ZCL-SUS-8ZPH-ALN,2022-02-07,1124.29,JPY,True,True,"Mecentley,WV,BMV",True,False,False,True,False
+Electrical and Ignition,Headlights Q13,Illuminate the road ahead at night.,ZCL-TRN-XDE7-IYS,2025-04-04,1910.51,JPY,False,False,"BMV,Mecentley,Feramborghini,Nord,WV",False,True,True,False,True
+Electrical and Ignition,Crankshaft Position Sensor Q42,Generic Crankshaft Position Sensor,ZCL-SUS-W8ED-BCQ,2020-11-17,1098.46,JPY,True,True,Feramborghini,False,True,True,True,True
+Electrical and Ignition,Ignition Switch X55,Starts the vehicle.,ZCL-SUS-XYVD-QH5,2016-11-08,1296.44,JPY,True,True,"Feramborghini,WV,Nord",True,True,True,True,False
+Electrical and Ignition,Key Fob O53,Generic Key Fob,ZCL-COL-13Q9-G3N,2024-04-20,472.01,JPY,False,True,Feramborghini,True,True,True,False,True
+Electrical and Ignition,Alternator C71,Generic Alternator,ZCL-COL-UEQO-TFZ,2018-03-19,644.59,JPY,True,True,"BMV,Nord",False,True,True,False,True
+Electrical and Ignition,Crankshaft Position Sensor P77,Generic Crankshaft Position Sensor,ZCL-SUS-GEBL-OXI,2019-09-15,368.74,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord",True,False,True,False,True
+Electrical and Ignition,Key Fob C10,Generic Key Fob,ZCL-COL-X89J-SH5,2025-08-30,1799.27,JPY,True,True,"Mecentley,BMV,WV,Nord",True,False,False,True,False
+Electrical and Ignition,Starter Motor V28,Cranks the engine to start it.,ZCL-BRK-4WYM-BIU,2018-05-20,1428.11,JPY,True,False,"WV,Feramborghini,Mecentley,Nord",True,False,False,True,False
+Electrical and Ignition,Voltage Regulator W39,Controls alternator output.,ZCL-DRI-M3QZ-98Q,2018-06-28,856.17,JPY,True,True,"WV,Feramborghini,Mecentley",True,True,False,False,False
+Electrical and Ignition,Fog Lights H75,Generic Fog Lights,ZCL-COL-RFYH-ROF,2024-07-13,883.33,JPY,True,True,"BMV,Feramborghini,Nord",True,True,False,True,True
+Electrical and Ignition,Ignition Switch U95,Starts the vehicle.,ZCL-ENG-HTYT-A8O,2025-09-17,1756.5,JPY,False,True,WV,True,False,False,False,False
+Electrical and Ignition,Wiring Harness Z85,Generic Wiring Harness,ZCL-COL-0QIF-41K,2017-08-07,203.92,JPY,True,False,"Feramborghini,Nord",False,False,False,True,True
+Electrical and Ignition,Fog Lights P78,Generic Fog Lights,ZCL-BRK-9IOE-RDA,2024-04-11,248.04,JPY,True,True,Mecentley,False,True,False,False,True
+Electrical and Ignition,Electric Window Motors L49,Generic Electric Window Motors,ZCL-COL-W0UY-W6N,2025-06-19,565.26,JPY,True,False,"Feramborghini,Mecentley,Nord,BMV,WV",True,False,True,False,True
+Electrical and Ignition,ECU / PCM / BCM X44,Generic ECU / PCM / BCM,ZCL-BRK-IYVW-ZT8,2016-07-18,1623.98,JPY,True,True,"Mecentley,BMV,WV",True,False,True,False,False
+Electrical and Ignition,Camshaft Position Sensor T25,Generic Camshaft Position Sensor,ZCL-PERF-S4AL-WNI,2025-05-05,343.01,JPY,True,True,"Nord,BMV,Mecentley,WV,Feramborghini",True,True,True,False,True
+Electrical and Ignition,Alternator V47,Charges battery and powers electronics.,ZCL-SUS-S3DL-VP4,2022-10-01,1176.31,JPY,True,True,BMV,True,True,False,True,False
+Electrical and Ignition,Tail Lights N36,Signal braking and presence to rear traffic.,ZCL-BRK-YE4H-M62,2023-07-05,1335.03,JPY,False,False,"Mecentley,Feramborghini,Nord,BMV",False,True,False,True,True
+Electrical and Ignition,Battery M18,Powers vehicle electronics and starts engine.,ZCL-DRI-TDJ3-LT8,2016-06-03,405.21,JPY,True,True,"Nord,Mecentley,WV,Feramborghini",False,False,False,True,True
+Electrical and Ignition,Ignition Switch R38,Starts the vehicle.,ZCL-BRK-63BE-W00,2023-03-28,727.52,JPY,True,True,"Nord,BMV",True,False,False,True,False
+Electrical and Ignition,Spark Plugs W35,Generic Spark Plugs,ZCL-TRN-66BV-5EP,2016-01-05,1831.82,JPY,True,True,"WV,Feramborghini",True,True,True,True,False
+Electrical and Ignition,Speedometer Sensor B72,Generic Speedometer Sensor,ZCL-COL-II9Z-F1E,2019-04-12,1624.36,JPY,True,True,"Nord,Mecentley,WV",True,True,True,True,True
+Electrical and Ignition,Headlights H6,Generic Headlights,ZCL-TRN-05K2-ERL,2024-08-01,1791.33,JPY,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,False,True,True,True
+Electrical and Ignition,Speedometer Sensor C47,Generic Speedometer Sensor,ZCL-PERF-PP53-C10,2015-08-22,675.33,JPY,True,True,"BMV,Mecentley,Nord",True,True,True,False,False
+Electrical and Ignition,Key Fob S5,Generic Key Fob,ZCL-TRN-UEY8-ENM,2017-05-26,1527.91,JPY,True,False,"Nord,Feramborghini,BMV",False,False,False,False,False
+Electrical and Ignition,Headlights H6,Generic Headlights,ZCL-BRK-8NH5-63T,2020-12-08,1929.32,JPY,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,True,False,False,True
+Electrical and Ignition,MAP Sensor C72,Monitors air pressure in intake manifold.,ZCL-ENG-VHAJ-AA7,2015-06-21,668.77,JPY,False,True,"Mecentley,Nord",False,False,False,True,False
+Electrical and Ignition,Headlights U62,Illuminate the road ahead at night.,ZCL-TRN-T5OP-X3P,2021-03-27,1899.96,JPY,True,True,"Nord,WV,BMV,Mecentley",True,False,False,True,True
+Electrical and Ignition,Key Fob W68,Generic Key Fob,ZCL-DRI-IAJV-QV5,2023-03-12,475.22,JPY,True,False,"Mecentley,WV,Feramborghini,Nord",True,True,False,True,True
+Electrical and Ignition,Alternator K74,Charges the battery and powers electrical systems.,ZCL-DRI-DATL-I65,2019-01-10,324.3,JPY,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",True,True,False,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) G55","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",ZCL-COL-BOCZ-W12,2021-12-20,1166.15,JPY,True,True,WV,False,False,True,False,True
+Electrical and Ignition,Camshaft Position Sensor H75,Tracks camshaft position.,ZCL-PERF-YBL5-GBY,2015-03-17,363.81,JPY,True,True,"Feramborghini,WV,Mecentley,BMV",True,False,True,False,True
+Electrical and Ignition,Tail Lights C23,Signal braking and presence to rear traffic.,ZCL-ENG-UOE5-TKD,2024-04-22,871.42,JPY,True,True,"Nord,Mecentley,BMV,Feramborghini",True,True,False,True,True
+Electrical and Ignition,Starter Motor K54,Cranks the engine to start it.,ZCL-TRN-OJWX-4XU,2020-09-17,271.02,JPY,True,True,"Mecentley,Nord,Feramborghini",False,False,True,False,False
+Electrical and Ignition,Starter Motor F89,Cranks the engine to start it.,ZCL-SUS-O6XD-E7I,2016-06-20,258.29,JPY,True,True,"WV,BMV,Nord,Feramborghini,Mecentley",False,True,True,True,True
+Electrical and Ignition,Battery N21,Provides electrical power to start the engine.,ZCL-SUS-9P6S-FM4,2024-10-12,881.02,JPY,True,False,"Mecentley,Feramborghini,Nord",True,False,True,False,True
+Electrical and Ignition,Alternator L8,Charges the battery and powers electrical systems.,ZCL-SUS-1H0K-6XN,2020-07-10,12.13,JPY,True,True,"BMV,Mecentley,Feramborghini",False,True,False,False,False
+Electrical and Ignition,Battery X1,Provides electrical power to start the engine.,ZCL-DRI-VBK0-TYT,2018-12-13,1313.01,JPY,False,False,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,True,True,True
+Electrical and Ignition,ECU / PCM / BCM Y95,Generic ECU / PCM / BCM,ZCL-ELE-5YA8-TTE,2019-08-04,671.34,JPY,True,True,"WV,Mecentley,Nord",False,True,True,True,True
+Electrical and Ignition,Key Fob B95,Generic Key Fob,ZCL-PERF-IPHP-IQJ,2022-08-05,91.29,JPY,True,False,"Mecentley,Feramborghini,WV,BMV,Nord",False,True,False,True,True
+Electrical and Ignition,Tail Lights A52,Generic Tail Lights,ZCL-TRN-ZQLH-X8X,2024-12-13,1902.44,JPY,True,True,"Nord,WV",True,False,False,True,True
+Electrical and Ignition,Ignition Switch T89,Starts the vehicle.,ZCL-ENG-0KE5-W30,2023-10-22,293.01,JPY,True,True,Feramborghini,True,True,False,False,True
+Electrical and Ignition,Electric Window Motors V23,Generic Electric Window Motors,ZCL-SUS-UYYC-W6A,2025-04-07,724.61,JPY,False,True,Feramborghini,True,False,True,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) A52","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",ZCL-ENG-08BK-MMY,2019-11-15,877.92,JPY,True,True,"Mecentley,BMV,Feramborghini",False,False,False,True,True
+Electrical and Ignition,Headlights I77,Illuminate the road ahead at night.,ZCL-BRK-595J-J7H,2021-09-04,740.87,JPY,True,True,"Feramborghini,Nord,WV,BMV",True,True,True,True,False
+Electrical and Ignition,Speedometer Sensor S62,Generic Speedometer Sensor,ZCL-PERF-94Q4-HUF,2016-01-16,1036.6,JPY,False,True,"Mecentley,WV",True,True,True,False,True
+Electrical and Ignition,Interior Lights Q56,Generic Interior Lights,ZCL-BRK-07I8-86Q,2019-09-13,200.66,JPY,True,True,"Mecentley,Feramborghini,WV",False,True,False,True,False
+Electrical and Ignition,Wiring Harness M17,Generic Wiring Harness,ZCL-PERF-YNBI-548,2023-01-28,253.35,JPY,True,False,Nord,True,False,True,False,False
+Electrical and Ignition,Starter Motor M93,Generic Starter Motor,ZCL-BRK-VLQK-LRP,2024-04-06,268.36,JPY,True,True,"Nord,Feramborghini,Mecentley,WV,BMV",False,True,True,True,False
+Electrical and Ignition,Fuse Box K81,Houses fuses that protect circuits.,ZCL-PERF-T661-PCY,2023-05-29,1965.68,JPY,True,True,Nord,True,False,True,False,False
+Electrical and Ignition,Headlights M62,Illuminate the road ahead at night.,ZCL-DRI-N63M-TC6,2015-08-11,1929.59,JPY,True,True,"Feramborghini,Mecentley,Nord,BMV,WV",True,True,False,False,True
+Electrical and Ignition,Spark Plugs R76,Generic Spark Plugs,ZCL-DRI-J4VV-6RN,2021-05-14,1739.46,JPY,True,True,"Feramborghini,WV",True,True,True,True,False
+Electrical and Ignition,Headlights X78,Illuminate the road ahead at night.,ZCL-TRN-YSR5-DJM,2020-12-15,26.54,JPY,True,True,"WV,Feramborghini,Nord",False,False,False,True,True
+Electrical and Ignition,Headlights L75,Illuminate the road ahead at night.,ZCL-BRK-KPR5-K8P,2021-12-04,597.96,JPY,True,False,"Nord,Mecentley,BMV",True,True,True,True,False
+Electrical and Ignition,Starter Motor B92,Cranks the engine to start it.,ZCL-COL-HMJC-0KU,2022-07-09,1282.28,JPY,True,True,"Feramborghini,BMV,Mecentley",True,False,False,True,True
+Electrical and Ignition,Turn Signals B17,Indicate direction of intended turns.,ZCL-COL-QKUI-KSL,2015-07-18,796.65,JPY,False,True,"BMV,Mecentley,Nord,WV",True,True,False,True,True
+Electrical and Ignition,Wiring Harness R25,Generic Wiring Harness,ZCL-DRI-VN7Z-MP9,2015-10-07,1263.16,JPY,True,False,"WV,Mecentley,BMV,Nord,Feramborghini",True,True,True,True,False
+Electrical and Ignition,Spark Plugs M80,Generic Spark Plugs,ZCL-DRI-OT1M-KFB,2015-11-09,1935.78,JPY,True,False,"BMV,Feramborghini",True,True,False,True,True
+Electrical and Ignition,Fog Lights O17,Generic Fog Lights,ZCL-PERF-TLLJ-KBZ,2023-02-20,1919.02,JPY,True,True,Feramborghini,True,False,False,False,True
+Electrical and Ignition,Starter Motor P79,Generic Starter Motor,ZCL-COL-5XNJ-01F,2025-05-16,346.04,JPY,True,True,Nord,True,True,True,False,False
+Electrical and Ignition,Battery S7,Powers vehicle electronics and starts engine.,ZCL-ELE-IWDN-2EH,2016-07-14,82.25,JPY,False,True,"Mecentley,WV",True,True,True,False,True
+Electrical and Ignition,Headlights P58,Illuminate the road ahead at night.,ZCL-ENG-CFPK-TMK,2023-10-12,67.17,JPY,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,False,True,False,True
+Electrical and Ignition,Alternator L13,Generic Alternator,ZCL-ENG-0GCX-ZRJ,2019-11-30,672.81,JPY,True,True,"Nord,Feramborghini",True,True,True,False,False
+Electrical and Ignition,O2 Sensor O15,Monitors oxygen levels in exhaust.,ZCL-COL-FE5O-CLW,2024-04-25,1180.19,JPY,False,True,"Feramborghini,Nord,Mecentley",False,False,False,True,True
+Electrical and Ignition,Voltage Regulator Q30,Generic Voltage Regulator,ZCL-PERF-ZT9M-FL0,2024-12-04,1617.49,JPY,True,True,"Feramborghini,WV,BMV",True,True,False,True,True
+Electrical and Ignition,MAF Sensor N13,Measures air intake for engine.,ZCL-BRK-ZSXL-C5I,2015-05-23,209.14,JPY,False,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,True,True,True,False
+Electrical and Ignition,Tail Lights M36,Generic Tail Lights,ZCL-ENG-WJ1X-NGO,2024-09-13,759.87,JPY,True,True,WV,True,True,False,False,False
+Electrical and Ignition,Horn P19,Generic Horn,ZCL-PERF-TG3O-P0A,2023-06-26,1435.72,JPY,True,False,Feramborghini,True,True,True,True,True
+Electrical and Ignition,Ignition Coils Z6,Generic Ignition Coils,ZCL-DRI-2XZ7-LQI,2021-05-02,1854.45,JPY,True,True,"WV,Mecentley,BMV",True,False,False,True,True
+Electrical and Ignition,Headlights M59,Illuminate the road ahead at night.,ZCL-PERF-P5LD-21G,2025-01-08,1528.42,JPY,True,True,"BMV,WV,Mecentley",False,True,True,False,True
+Electrical and Ignition,Tail Lights X44,Signal braking and presence to rear traffic.,ZCL-ENG-1WXD-SQ1,2024-06-16,434.74,JPY,True,True,Nord,True,False,False,False,False
+Electrical and Ignition,Alternator O2,Generic Alternator,ZCL-ENG-U3TM-DB8,2016-02-26,1435.85,JPY,True,True,"Mecentley,Feramborghini",False,True,True,False,True
+Electrical and Ignition,Knock Sensor G1,Detects engine knock.,ZCL-PERF-8AT1-0KQ,2018-05-29,1710.86,JPY,True,True,"Nord,Feramborghini,WV,BMV,Mecentley",True,True,True,False,True
+Electrical and Ignition,Voltage Regulator I69,Generic Voltage Regulator,ZCL-ELE-Z617-DYD,2020-08-19,1295.43,JPY,False,True,"BMV,Mecentley",True,False,False,True,False
+Electrical and Ignition,Wiring Harness S13,Generic Wiring Harness,ZCL-DRI-C37Q-YNN,2023-05-25,123.1,JPY,False,False,Mecentley,False,False,True,True,True
+Electrical and Ignition,Key Fob X44,Generic Key Fob,ZCL-TRN-BWZ4-LDR,2022-01-20,1872.37,JPY,True,False,"Mecentley,WV,BMV",False,True,False,True,False
+Electrical and Ignition,Ignition Switch D1,Generic Ignition Switch,ZCL-SUS-0OPO-YWN,2018-07-19,1630.69,JPY,True,True,BMV,False,True,False,True,False
+Electrical and Ignition,MAP Sensor W40,Monitors air pressure in intake manifold.,ZCL-SUS-Y1Y0-QL8,2018-09-06,984.11,JPY,False,True,"Nord,Feramborghini",True,True,False,False,False
+Electrical and Ignition,TPS Sensor V15,Measures throttle position.,ZCL-COL-QFBU-1RC,2019-02-17,1877.49,JPY,True,True,"WV,BMV,Feramborghini,Nord",False,False,True,True,True
+Electrical and Ignition,Spark Plugs W42,Generic Spark Plugs,ZCL-PERF-BGOA-V24,2022-05-24,1246.36,JPY,False,True,"BMV,Mecentley",False,False,True,False,False
+Electrical and Ignition,ECU / PCM / BCM P35,Generic ECU / PCM / BCM,ZCL-ENG-7FU9-RJK,2023-07-27,335.25,JPY,True,True,"Feramborghini,Mecentley",True,True,True,False,True
+Electrical and Ignition,Headlights W8,Illuminate the road ahead at night.,ZCL-SUS-L4JA-GU7,2016-05-12,1738.59,JPY,True,True,"Mecentley,WV,BMV",True,False,True,False,True
+Electrical and Ignition,Electric Window Motors S23,Generic Electric Window Motors,ZCL-PERF-30T2-S1O,2019-12-22,1150.18,JPY,True,True,"Nord,BMV,WV",False,True,False,False,False
+Electrical and Ignition,ECU L94,Controls various engine and car functions.,ZCL-PERF-83RU-IE2,2022-08-17,1497.7,JPY,True,False,"BMV,WV,Nord,Mecentley,Feramborghini",False,False,True,False,False
+Electrical and Ignition,Fuse Box M16,Generic Fuse Box,ZCL-ENG-4CUU-2RG,2017-08-16,762.91,JPY,True,False,"WV,BMV,Nord,Feramborghini",False,False,False,True,False
+Electrical and Ignition,Horn V35,Generic Horn,ZCL-DRI-PPHS-G6R,2025-06-13,1233.96,JPY,True,False,"BMV,Mecentley,WV,Nord",True,True,True,True,True
+Electrical and Ignition,Camshaft Position Sensor Q8,Generic Camshaft Position Sensor,ZCL-ENG-E3V3-RIY,2025-05-30,1395.07,JPY,False,True,Mecentley,False,True,False,False,True
+Electrical and Ignition,Speedometer Sensor B33,Measures vehicle speed.,ZCL-BRK-9SGD-WPE,2023-10-02,1724.09,JPY,True,False,"WV,Feramborghini,Nord",True,False,True,True,True
+Electrical and Ignition,Wiring Harness D23,Generic Wiring Harness,ZCL-DRI-LZJV-JA1,2020-10-05,450.11,JPY,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,True,True,True
+Electrical and Ignition,Ignition Coils E75,Generic Ignition Coils,ZCL-ENG-BIOF-636,2025-07-26,415.95,JPY,True,True,"Feramborghini,WV,BMV,Mecentley,Nord",False,False,True,True,False
+Electrical and Ignition,Battery R2,Generic Battery,ZCL-BRK-1DQD-SC6,2025-02-28,786.95,JPY,True,False,"Mecentley,Feramborghini,Nord,BMV",False,False,True,False,True
+Electrical and Ignition,Relays I77,Generic Relays,ZCL-COL-M4VC-M7W,2022-02-13,297.42,JPY,True,False,"Mecentley,Feramborghini,BMV,WV,Nord",True,True,False,False,True
+Electrical and Ignition,TPS Sensor Y36,Measures throttle position.,ZCL-BRK-FZPI-Q0Y,2023-12-07,1760.03,JPY,True,True,WV,True,True,False,False,False
+Electrical and Ignition,Light Bulbs K55,Generic Light Bulbs,ZCL-BRK-PB8K-XF6,2017-09-14,1427.28,JPY,True,True,"Mecentley,Nord,WV,Feramborghini,BMV",True,True,False,True,True
+Electrical and Ignition,Speedometer Sensor D14,Measures vehicle speed.,ZCL-BRK-AL4P-RB3,2017-12-07,90.36,JPY,True,True,"Feramborghini,WV,BMV",True,True,True,False,True
+Electrical and Ignition,Key Fob M5,Generic Key Fob,ZCL-ELE-3N6N-7ZG,2015-05-18,840.14,JPY,True,True,Nord,False,False,True,True,False
+Electrical and Ignition,Speedometer Sensor O40,Measures vehicle speed.,ZCL-SUS-L955-MZJ,2020-05-07,781.19,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini",False,True,False,True,True
+Electrical and Ignition,Starter Motor R62,Turns engine to initiate operation.,ZCL-DRI-FL0X-848,2017-10-27,1360.12,JPY,True,True,"Mecentley,BMV",True,True,False,False,True
+Electrical and Ignition,MAF Sensor L6,Measures air intake for engine.,ZCL-PERF-J49T-LWA,2022-08-17,1153.5,JPY,False,True,BMV,True,False,False,True,False
+Electrical and Ignition,Camshaft Position Sensor J38,Tracks camshaft position.,ZCL-ELE-LZAK-9VV,2019-08-27,1742.88,JPY,True,True,Nord,True,False,False,True,False
+Electrical and Ignition,Relays L35,Generic Relays,ZCL-TRN-USYJ-HIT,2025-10-24,1339.59,JPY,True,True,"Feramborghini,WV,Mecentley",False,True,True,True,False
+Electrical and Ignition,Turn Signals T84,Indicate direction of intended turns.,ZCL-COL-DRLY-Y4N,2024-01-19,1548.03,JPY,True,True,"WV,Nord",False,True,True,True,True
+Electrical and Ignition,Ignition Switch G89,Starts the vehicle.,ZCL-COL-SVI7-4YL,2024-02-17,799.12,JPY,True,True,"Feramborghini,WV,Nord,BMV",True,True,True,False,True
+Electrical and Ignition,TPS Sensor N25,Measures throttle position.,ZCL-DRI-640U-YVW,2024-03-11,361.18,JPY,True,False,"Feramborghini,WV,Mecentley,BMV",True,True,True,True,True
+Electrical and Ignition,Relays A32,Electrically operated switches.,ZCL-SUS-1MWT-5MB,2016-11-12,1252.23,JPY,True,True,"BMV,Mecentley,WV,Feramborghini",True,False,False,True,False
+Electrical and Ignition,Battery Z43,Provides electrical power to start the engine.,ZCL-BRK-L306-C9I,2023-08-29,863.93,JPY,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,True,False,True,True
+Electrical and Ignition,Speedometer Sensor H62,Generic Speedometer Sensor,ZCL-PERF-6N3P-FMM,2017-09-15,631.88,JPY,True,True,"Mecentley,Feramborghini,BMV",True,True,False,True,True
+Electrical and Ignition,Voltage Regulator G92,Generic Voltage Regulator,ZCL-SUS-3U4X-7JL,2024-02-15,1389.59,JPY,True,True,"WV,Feramborghini,Nord,Mecentley",True,True,False,False,False
+Electrical and Ignition,Crankshaft Position Sensor S32,Tracks crankshaft position.,ZCL-PERF-JKF0-NIM,2016-10-09,404.89,JPY,True,True,"WV,Nord,Mecentley,Feramborghini,BMV",True,False,True,True,False
+Electrical and Ignition,Relays T49,Electrically operated switches.,ZCL-TRN-WLGB-H79,2024-04-01,652.2,JPY,True,True,"WV,Nord,BMV",True,True,True,True,True
+Electrical and Ignition,Fog Lights W77,Generic Fog Lights,ZCL-ENG-R2XW-UJD,2022-01-04,996.14,JPY,True,False,Mecentley,True,True,False,True,False
+Electrical and Ignition,Key Fob V29,Remote key with lock/unlock functions.,ZCL-ELE-VAGR-BFU,2015-06-09,440.78,JPY,False,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,True,False,True,True
+Electrical and Ignition,Starter Motor M85,Turns engine to initiate operation.,ZCL-DRI-JW83-P99,2018-06-27,1895.91,JPY,True,True,"Mecentley,Feramborghini,BMV",False,True,False,True,True
+Electrical and Ignition,Interior Lights O98,Generic Interior Lights,ZCL-DRI-YW0F-G8X,2019-12-12,1023.3,JPY,True,True,"Mecentley,Nord,WV,Feramborghini",True,False,True,False,True
+Electrical and Ignition,Alternator X29,Generic Alternator,ZCL-TRN-F220-AVF,2020-11-10,1555.67,JPY,True,True,"Feramborghini,Mecentley,Nord,WV",True,False,False,True,True
+Electrical and Ignition,Relays H93,Electrically operated switches.,ZCL-DRI-1U3O-IX8,2023-05-06,1449.78,JPY,True,True,"WV,Feramborghini",False,True,False,False,False
+Electrical and Ignition,Key Fob L5,Generic Key Fob,ZCL-COL-GHPA-VQO,2015-06-06,1537.29,JPY,True,True,"WV,Nord",True,False,True,True,False
+Electrical and Ignition,O2 Sensor D63,Monitors oxygen levels in exhaust.,ZCL-SUS-2BO0-Z5U,2015-07-01,133.73,JPY,True,True,"Feramborghini,WV",True,True,True,True,True
+Electrical and Ignition,O2 Sensor G50,Monitors oxygen levels in exhaust.,ZCL-ELE-BOMG-2JQ,2017-10-13,878.23,JPY,False,True,Feramborghini,True,True,False,False,True
+Electrical and Ignition,Electric Window Motors M53,Generic Electric Window Motors,ZCL-SUS-3Z2N-CRA,2022-07-28,1015.27,JPY,True,True,"Nord,Mecentley,Feramborghini",True,False,False,False,True
+Electrical and Ignition,Headlights I6,Generic Headlights,ZCL-SUS-ZCRM-R1I,2015-04-29,630.29,JPY,True,True,"WV,BMV,Feramborghini,Mecentley,Nord",True,True,True,False,True
+Electrical and Ignition,Relays C31,Generic Relays,ZCL-BRK-GEYB-OO2,2020-10-16,238.11,JPY,True,True,"WV,Feramborghini",False,True,False,False,False
+Electrical and Ignition,Starter Motor A92,Generic Starter Motor,ZCL-COL-9L29-TUF,2022-11-27,934.08,JPY,True,True,"Feramborghini,Nord",False,True,True,True,True
+Electrical and Ignition,Tail Lights L26,Generic Tail Lights,ZCL-BRK-A67A-9OP,2022-05-23,1706.96,JPY,True,True,WV,False,True,True,True,True
+Electrical and Ignition,Camshaft Position Sensor K77,Generic Camshaft Position Sensor,ZCL-BRK-AJCY-B24,2015-09-09,1073.44,JPY,False,True,"BMV,Mecentley,Nord",True,True,True,True,False
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) U2","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",ZCL-BRK-S0WG-SQW,2018-11-08,108.75,JPY,False,True,"Mecentley,Nord,Feramborghini,BMV",True,False,True,True,True
+Electrical and Ignition,Voltage Regulator V83,Controls alternator output.,ZCL-SUS-MKIG-HI3,2019-02-24,1675.88,JPY,True,False,"BMV,WV",True,True,True,False,False
+Electrical and Ignition,Turn Signals N17,Indicate direction of intended turns.,ZCL-BRK-UP92-L6L,2019-11-29,1752.71,JPY,False,True,"Feramborghini,Mecentley,Nord,BMV,WV",False,True,False,False,True
+Electrical and Ignition,Voltage Regulator W95,Generic Voltage Regulator,ZCL-SUS-T1D2-4PZ,2020-07-16,1888.52,JPY,True,True,"WV,Feramborghini,Nord",True,True,False,False,True
+Electrical and Ignition,Fuse Box V54,Protects circuits with fuses.,ZCL-COL-21DP-4XQ,2020-02-14,387.14,JPY,True,False,Feramborghini,True,False,True,True,False
+Electrical and Ignition,Alternator B90,Charges battery and powers electronics.,ZCL-DRI-11FY-YVB,2016-12-20,590.24,JPY,True,False,"BMV,Nord,Feramborghini,WV,Mecentley",True,False,True,False,False
+Electrical and Ignition,Battery G31,Powers vehicle electronics and starts engine.,ZCL-PERF-H2ZM-7JV,2020-10-05,1475.47,JPY,True,True,Feramborghini,True,False,False,False,True
+Electrical and Ignition,Voltage Regulator R80,Generic Voltage Regulator,ZCL-COL-SKZ0-PGV,2018-03-04,1151.52,JPY,True,True,"Mecentley,BMV,Nord,WV",True,True,False,True,True
+Electrical and Ignition,Alternator E96,Charges the battery and powers electrical systems.,ZCL-BRK-DFVD-8KF,2019-12-25,229.35,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,False,True,True,False
+Electrical and Ignition,Wiring Harness B5,Generic Wiring Harness,ZCL-DRI-CPS5-1Q9,2018-07-08,284.72,JPY,True,True,"Mecentley,WV,Feramborghini",False,False,True,True,False
+Electrical and Ignition,Spark Plugs P76,Generic Spark Plugs,ZCL-BRK-6O94-0BL,2015-07-13,638.05,JPY,False,False,"Mecentley,WV,BMV,Nord",False,False,True,True,True
+Electrical and Ignition,Ignition Coils N29,Generic Ignition Coils,ZCL-COL-LC5K-597,2018-02-20,1500.18,JPY,False,True,Nord,True,False,True,True,True
+Electrical and Ignition,Electric Mirror Motors T63,Generic Electric Mirror Motors,ZCL-ENG-2YC9-4Y8,2016-07-04,566.87,JPY,False,True,Feramborghini,False,True,True,True,True
+Electrical and Ignition,Starter Motor O91,Cranks the engine to start it.,ZCL-ENG-GTRA-U0E,2022-11-07,1488.89,JPY,False,True,BMV,False,True,True,True,True
+Electrical and Ignition,Battery S64,Powers vehicle electronics and starts engine.,ZCL-BRK-R5KR-J1G,2016-06-25,225.78,JPY,False,True,Mecentley,True,False,False,True,True
+Electrical and Ignition,Headlights V40,Generic Headlights,ZCL-ENG-TK72-IN4,2022-12-30,57.26,JPY,True,True,WV,True,True,True,False,True
+Electrical and Ignition,Interior Lights L44,Generic Interior Lights,ZCL-ENG-6Q3O-9F4,2021-12-18,1106.85,JPY,True,True,"WV,Mecentley",True,True,False,False,True
+Electrical and Ignition,Interior Lights S49,Generic Interior Lights,ZCL-ENG-TDEU-KTF,2024-09-20,1513.47,JPY,True,False,"Nord,Feramborghini",True,False,False,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) D75","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",ZCL-ENG-4MPY-1EZ,2023-04-13,1265.35,JPY,True,True,BMV,False,False,False,False,False
+Electrical and Ignition,Fuse Box O44,Protects circuits with fuses.,ZCL-PERF-XRWL-6UP,2021-12-17,894.85,JPY,True,True,"Nord,Mecentley",False,True,False,True,True
+Fuel System,Fuel Filter B47,Filters impurities from fuel.,ZCL-TRN-3ZXT-HVH,2022-05-09,1706.07,JPY,False,True,"Mecentley,BMV",False,True,True,True,False
+Fuel System,Gas Cap D75,Seals the fuel tank.,ZCL-PERF-2ZRK-GX8,2016-12-05,1693.36,JPY,True,True,"Nord,Feramborghini,Mecentley",False,True,False,True,False
+Fuel System,Fuel Filter V76,Generic Fuel Filter,ZCL-ELE-3MQ3-R15,2025-07-23,588.77,JPY,True,True,"BMV,WV,Mecentley,Nord,Feramborghini",True,True,True,True,True
+Fuel System,Fuel Pump N48,Generic Fuel Pump,ZCL-COL-WCP0-R6J,2016-12-12,1567.57,JPY,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",False,True,True,True,True
+Fuel System,Upgraded Fuel Injectors D90,Deliver more fuel for high-performance engines.,ZCL-ENG-USD4-MWB,2020-04-28,220.76,JPY,True,True,"BMV,WV,Nord,Feramborghini,Mecentley",True,False,True,True,False
+Fuel System,Fuel Injectors L94,Generic Fuel Injectors,ZCL-SUS-IRQY-HLM,2019-10-24,279.11,JPY,True,True,"Feramborghini,Mecentley",False,False,True,False,True
+Fuel System,Fuel Injectors J37,Spray fuel into the engine's cylinders.,ZCL-DRI-MLV4-MUB,2018-07-17,974.68,JPY,True,True,Feramborghini,True,True,True,True,True
+Fuel System,Fuel Lines F98,Generic Fuel Lines,ZCL-PERF-MVR3-H2S,2015-04-19,193.27,JPY,True,True,Feramborghini,False,False,True,True,True
+Fuel System,Fuel Lines S84,Generic Fuel Lines,ZCL-SUS-0Q3E-OJM,2015-04-18,432.43,JPY,True,True,"Feramborghini,WV",False,False,True,False,True
+Fuel System,Fuel Pressure Regulator V42,Maintains correct fuel pressure.,ZCL-ELE-DV58-AEH,2025-01-28,1958.97,JPY,True,True,"WV,Nord,BMV",True,True,True,False,False
+Fuel System,Upgraded Fuel Injectors Y65,Deliver more fuel for high-performance engines.,ZCL-BRK-5WEG-RWP,2024-05-04,1285.31,JPY,True,False,Nord,False,False,True,True,True
+Fuel System,Fuel Tank X34,Generic Fuel Tank,ZCL-SUS-Y5BT-KDL,2024-12-01,146.08,JPY,True,False,"Mecentley,BMV,WV,Feramborghini",False,True,True,True,True
+Fuel System,Gas Cap J66,Generic Gas Cap,ZCL-PERF-4ALX-F0D,2015-01-08,735.22,JPY,True,True,Feramborghini,True,False,True,False,False
+Fuel System,Fuel Rail N84,Distributes fuel to injectors.,ZCL-TRN-YIRR-W72,2018-01-05,762.23,JPY,True,True,"Nord,BMV",True,False,True,False,True
+Fuel System,Fuel Pump A9,Delivers fuel from tank to engine.,ZCL-PERF-88J2-8F0,2022-09-14,1003.86,JPY,True,True,"WV,BMV,Feramborghini",True,False,False,True,False
+Fuel System,Fuel Pressure Regulator N77,Generic Fuel Pressure Regulator,ZCL-COL-9C18-SYB,2015-05-01,1569.75,JPY,True,True,"BMV,Feramborghini,WV,Mecentley,Nord",True,True,False,True,True
+Fuel System,Fuel Pressure Regulator W31,Maintains correct fuel pressure.,ZCL-TRN-DOOQ-079,2017-09-09,1958.37,JPY,True,True,"WV,Feramborghini",True,True,True,True,False
+Control and Comfort Features,Cruise Control System L47,Generic Cruise Control System,ZCL-BRK-O5DZ-F1L,2020-11-18,764.61,JPY,False,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,False,True,False,True
+Control and Comfort Features,Infotainment System D18,"Central interface for audio, navigation, etc.",ZCL-DRI-RXLU-92U,2023-10-15,971.01,JPY,False,False,Feramborghini,False,True,False,True,True
+Control and Comfort Features,Cruise Control System D11,Generic Cruise Control System,ZCL-ELE-GVBR-CL8,2015-03-26,188.0,JPY,False,True,Feramborghini,True,True,False,False,True
+Control and Comfort Features,Speakers A87,Output sound for entertainment or alerts.,ZCL-SUS-E1VS-RHH,2020-03-27,577.69,JPY,True,False,"Mecentley,Feramborghini,Nord,BMV",True,False,False,True,True
+Control and Comfort Features,Cruise Control System H75,Generic Cruise Control System,ZCL-TRN-N6L9-19B,2017-08-10,1074.05,JPY,True,True,"Feramborghini,WV",True,True,True,True,False
+Control and Comfort Features,Backup Camera X92,Generic Backup Camera,ZCL-ELE-ZLJM-1VE,2015-03-30,1292.63,JPY,True,True,"Feramborghini,WV,Mecentley",True,True,False,False,True
+Control and Comfort Features,Climate Control Unit B63,Generic Climate Control Unit,ZCL-BRK-0P7G-JUD,2016-12-07,205.65,JPY,False,True,"Mecentley,WV,Feramborghini",True,False,False,False,True
+Control and Comfort Features,Infotainment System L63,"Central interface for audio, navigation, etc.",ZCL-DRI-TAH6-U1R,2022-03-14,1146.31,JPY,False,True,"BMV,Feramborghini,Nord,WV",True,True,True,True,True
+Control and Comfort Features,Infotainment System S39,"Central interface for audio, navigation, etc.",ZCL-COL-YD1D-70Q,2025-06-12,1738.59,JPY,True,True,"BMV,Mecentley,Feramborghini,Nord,WV",True,True,False,True,True
+Control and Comfort Features,Adaptive Cruise Control Q32,Generic Adaptive Cruise Control,ZCL-TRN-Y9VR-299,2017-08-26,1619.63,JPY,True,True,"Nord,WV",True,True,True,True,True
+Control and Comfort Features,Lane Assist System O80,Generic Lane Assist System,ZCL-BRK-7QSV-FXH,2021-06-28,339.52,JPY,True,True,"Nord,Mecentley",True,False,True,False,True
+Control and Comfort Features,Climate Control Unit E97,Generic Climate Control Unit,ZCL-TRN-4Q3S-FAJ,2022-03-05,104.95,JPY,True,True,"BMV,WV,Feramborghini,Mecentley",True,False,False,False,False
+Control and Comfort Features,Speakers O86,Generic Speakers,ZCL-BRK-JUI3-R6L,2016-08-04,310.21,JPY,True,False,"WV,Mecentley,Nord",False,False,True,False,True
+Control and Comfort Features,Parking Sensors V13,Generic Parking Sensors,ZCL-TRN-M4IO-59C,2020-10-02,966.32,JPY,True,True,"Mecentley,Nord,WV,Feramborghini",False,True,True,False,True
+Control and Comfort Features,Speakers C50,Generic Speakers,ZCL-ELE-BYTI-PKG,2025-12-29,1027.28,JPY,False,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,True,True,False
+Control and Comfort Features,Lane Assist System M45,Generic Lane Assist System,ZCL-BRK-W8QE-IXV,2015-10-28,1273.71,JPY,False,True,"Nord,Mecentley,Feramborghini",True,False,True,True,False
+Control and Comfort Features,Blind Spot Monitor G66,Generic Blind Spot Monitor,ZCL-ELE-I49D-ZEG,2022-12-24,387.98,JPY,True,True,"BMV,WV,Mecentley,Nord,Feramborghini",False,True,True,True,True
+Control and Comfort Features,Speakers N14,Output sound for entertainment or alerts.,ZCL-ENG-573M-15S,2019-08-30,624.44,JPY,True,True,"Nord,Feramborghini,WV,Mecentley,BMV",True,False,False,False,True
+Control and Comfort Features,Lane Assist System J3,Generic Lane Assist System,ZCL-TRN-VL7Y-UWT,2021-06-23,1694.79,JPY,True,False,Feramborghini,True,True,False,False,False
+Control and Comfort Features,Infotainment System P29,"Central interface for audio, navigation, etc.",ZCL-ELE-ES9D-ZQC,2020-02-17,425.86,JPY,True,True,"BMV,Feramborghini,Mecentley",False,False,True,True,False
+Control and Comfort Features,Cruise Control System G13,Maintains a constant vehicle speed.,ZCL-ELE-F82T-VOW,2024-12-23,362.97,JPY,False,True,"Mecentley,WV,BMV,Feramborghini",True,True,False,False,True
+Control and Comfort Features,Speakers R34,Generic Speakers,ZCL-ELE-3Z68-L7Q,2024-01-16,132.1,JPY,True,True,BMV,False,True,True,True,False
+Control and Comfort Features,Blind Spot Monitor Z72,Generic Blind Spot Monitor,ZCL-COL-QG6Y-W2H,2025-03-10,1984.74,JPY,False,True,WV,False,False,True,True,False
+Control and Comfort Features,Backup Camera P79,Generic Backup Camera,ZCL-DRI-GNX2-KLW,2017-12-19,1705.43,JPY,True,False,"BMV,Mecentley",True,False,True,True,True
+Control and Comfort Features,Blind Spot Monitor R5,Generic Blind Spot Monitor,ZCL-COL-6S0K-QXZ,2017-12-05,377.18,JPY,True,True,"WV,Feramborghini",False,False,True,False,True
+Control and Comfort Features,Navigation System (GPS) B13,Generic Navigation System (GPS),ZCL-DRI-HQVE-ZHG,2023-08-12,471.05,JPY,True,True,Feramborghini,False,False,False,False,True
+Control and Comfort Features,Lane Assist System W26,Generic Lane Assist System,ZCL-COL-L01I-8R2,2021-04-13,1744.97,JPY,True,True,Feramborghini,True,False,True,False,False
+Control and Comfort Features,Navigation System (GPS) X17,Generic Navigation System (GPS),ZCL-ELE-O1Z8-OJL,2021-01-14,1855.88,JPY,False,True,"WV,Mecentley",True,False,True,True,True
+Control and Comfort Features,Lane Assist System P87,Generic Lane Assist System,ZCL-ENG-7FNB-VM2,2018-10-21,1865.24,JPY,True,True,"Feramborghini,WV,Mecentley,BMV",True,True,False,True,True
+Control and Comfort Features,Climate Control Unit I18,Generic Climate Control Unit,ZCL-TRN-XX4N-QSF,2016-04-26,756.36,JPY,True,False,"Feramborghini,Mecentley,BMV,Nord",False,True,True,True,True
+Control and Comfort Features,Climate Control Unit R75,Generic Climate Control Unit,ZCL-COL-FWDO-AAL,2018-07-09,1238.74,JPY,True,True,"WV,Nord,BMV,Feramborghini",True,True,False,False,True
+Control and Comfort Features,Climate Control Unit O38,Generic Climate Control Unit,ZCL-BRK-Q0NK-ZG5,2019-07-06,118.02,JPY,True,True,"Nord,Feramborghini,BMV,WV,Mecentley",True,True,False,False,False
+Control and Comfort Features,Cruise Control System T51,Generic Cruise Control System,ZCL-ENG-FCZ7-ITS,2022-12-16,1543.67,JPY,True,True,"Mecentley,WV",False,True,True,True,True
+Control and Comfort Features,Infotainment System W43,"Central interface for audio, navigation, etc.",ZCL-BRK-0OLW-QB0,2023-10-26,1283.21,JPY,True,False,"WV,Mecentley",True,True,False,True,False
+Control and Comfort Features,Infotainment System W54,Generic Infotainment System,ZCL-COL-T9JP-9NH,2025-10-05,209.22,JPY,True,True,"BMV,Mecentley,WV,Feramborghini",True,False,False,False,False
+Control and Comfort Features,Blind Spot Monitor K79,Generic Blind Spot Monitor,ZCL-COL-78FU-NQG,2018-08-11,1012.31,JPY,True,True,"Feramborghini,BMV",True,True,False,False,True
+Control and Comfort Features,Cruise Control System L92,Generic Cruise Control System,ZCL-ENG-PO5U-QC1,2024-08-02,957.07,JPY,True,True,"BMV,Mecentley,WV,Feramborghini",False,True,True,True,False
+Control and Comfort Features,Backup Camera I39,Generic Backup Camera,ZCL-TRN-Y13P-YHZ,2025-11-21,282.98,JPY,True,True,"BMV,Feramborghini,WV,Nord",False,False,False,True,True
+Control and Comfort Features,Speakers I88,Generic Speakers,ZCL-TRN-F7AY-629,2021-05-24,519.91,JPY,True,True,"Feramborghini,BMV,Nord,Mecentley",True,True,True,True,False
+Control and Comfort Features,Parking Sensors O12,Generic Parking Sensors,ZCL-ENG-UXJ5-62N,2025-04-01,586.8,JPY,True,True,"Feramborghini,Nord",False,True,True,True,True
+Transmission System,Transmission Mount X72,Generic Transmission Mount,ZCL-COL-GNOK-0R5,2018-06-04,1413.23,JPY,False,True,"Nord,Feramborghini,Mecentley,BMV",True,True,True,False,True
+Transmission System,Flywheel P68,Generic Flywheel,ZCL-SUS-F8M4-2LI,2018-04-09,946.73,JPY,False,True,"BMV,Feramborghini,Mecentley",True,False,False,True,True
+Transmission System,Transmission (Manual / Automatic) O50,Generic Transmission (Manual / Automatic),ZCL-COL-NZSY-DRG,2018-11-24,154.8,JPY,False,True,"WV,BMV,Mecentley,Feramborghini",True,False,False,True,False
+Transmission System,Differential M8,Generic Differential,ZCL-TRN-4RAV-X4H,2020-10-07,1429.06,JPY,False,True,"Mecentley,Nord,Feramborghini,WV",False,True,False,True,True
+Transmission System,Torque Converter U42,Generic Torque Converter,ZCL-COL-9NIN-CD7,2022-02-05,1296.06,JPY,False,True,"Mecentley,Nord",False,True,True,True,False
+Transmission System,Pressure Plate N53,Generic Pressure Plate,ZCL-TRN-KN7U-VEW,2024-03-24,1571.07,JPY,False,True,"Feramborghini,WV,Nord",True,True,False,False,False
+Transmission System,Drive Shaft Z95,Transfers torque from transmission to wheels.,ZCL-ENG-WBAL-X5L,2018-06-10,1468.44,JPY,True,True,"WV,BMV",False,False,False,True,False
+Transmission System,Torque Converter W24,Generic Torque Converter,ZCL-DRI-EMW8-UMG,2018-10-08,1252.15,JPY,True,True,"Feramborghini,Nord,WV,BMV",True,False,True,False,True
+Transmission System,Gearbox X22,Generic Gearbox,ZCL-BRK-V4CM-GQB,2015-01-22,1964.34,JPY,False,True,"BMV,Nord,WV",False,False,True,False,False
+Transmission System,Drive Shaft I79,Generic Drive Shaft,ZCL-SUS-CLVP-WVS,2025-11-07,610.02,JPY,False,True,Mecentley,False,True,True,False,True
+Transmission System,Shift Linkage F39,Generic Shift Linkage,ZCL-PERF-4J8Q-263,2020-04-10,137.31,JPY,True,False,"Mecentley,Nord,BMV,WV,Feramborghini",False,False,False,False,True
+Transmission System,Torque Converter J75,Generic Torque Converter,ZCL-SUS-14P2-PEL,2015-10-27,1951.74,JPY,False,True,"Mecentley,Feramborghini",False,True,True,False,False
+Transmission System,Axles B94,Generic Axles,ZCL-TRN-59FA-PTA,2019-02-03,1703.45,JPY,False,False,"Mecentley,Nord",True,True,True,False,True
+Transmission System,Clutch Plate I35,Generic Clutch Plate,ZCL-TRN-99WM-U3U,2016-05-03,97.0,JPY,False,True,"Mecentley,WV,Nord,BMV,Feramborghini",False,False,True,True,False
+Transmission System,Flywheel J13,Generic Flywheel,ZCL-BRK-Y2FB-MAV,2016-09-08,1621.8,JPY,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,True,False,True,True
+Transmission System,CV Joints V65,Generic CV Joints,ZCL-ELE-Z2N5-81W,2025-08-31,1847.26,JPY,True,True,"WV,Feramborghini",False,False,True,True,False
+Transmission System,Pressure Plate O20,Generic Pressure Plate,ZCL-PERF-TT3T-VMG,2015-09-16,750.79,JPY,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,True,True,True,True
+Transmission System,Transmission Mount F6,Generic Transmission Mount,ZCL-TRN-MFM1-XKN,2018-10-16,1314.65,JPY,False,False,"Feramborghini,Nord",False,False,True,True,False
+Transmission System,Transmission Mount C25,Generic Transmission Mount,ZCL-BRK-Q0DN-V0G,2022-07-06,1968.58,JPY,True,True,"BMV,Mecentley,Feramborghini,WV",True,True,True,True,False
+Transmission System,Pressure Plate L87,Generic Pressure Plate,ZCL-ENG-ZKIY-BQA,2020-09-22,912.95,JPY,False,True,"Nord,BMV,Mecentley,WV,Feramborghini",True,False,True,True,False
+Transmission System,Gearbox R46,Changes vehicle speed and torque.,ZCL-COL-5KO2-CQQ,2024-09-20,1925.01,JPY,True,False,"Nord,Feramborghini",False,False,False,True,True
+Transmission System,Synchromesh Gears G93,Generic Synchromesh Gears,ZCL-TRN-GZAL-JUH,2017-06-21,489.58,JPY,True,True,"Feramborghini,WV,Nord",False,True,False,True,False
+Transmission System,Drive Shaft F96,Generic Drive Shaft,ZCL-SUS-ADEE-P18,2025-06-29,1017.46,JPY,True,True,Nord,False,True,True,True,False
+Transmission System,Transmission Mount L74,Generic Transmission Mount,ZCL-ELE-9QDV-H2E,2016-03-11,624.99,JPY,True,True,WV,False,True,False,False,True
+Transmission System,Gearbox E84,Changes vehicle speed and torque.,ZCL-COL-71RV-FWS,2018-10-01,594.03,JPY,True,False,"Feramborghini,Nord",False,False,True,True,True
+Transmission System,Drive Shaft H37,Transfers torque from transmission to wheels.,ZCL-ENG-BVX6-F3J,2016-04-02,1910.44,JPY,True,True,"Feramborghini,Nord,BMV,Mecentley",False,False,False,False,False
+Transmission System,Shift Linkage D51,Generic Shift Linkage,ZCL-ENG-PPDL-T9L,2023-10-17,1280.01,JPY,True,False,"Nord,Feramborghini",True,True,True,False,True
+Transmission System,Differential A37,Distributes engine torque to drive wheels.,ZCL-ELE-NI1H-I38,2019-03-23,889.75,JPY,False,True,"Feramborghini,WV",True,True,True,False,False
+Transmission System,Clutch Master Cylinder L11,Generic Clutch Master Cylinder,ZCL-TRN-9HHF-XKO,2020-02-25,1107.93,JPY,True,True,BMV,True,True,True,False,False
+Transmission System,Differential H73,Distributes engine torque to drive wheels.,ZCL-SUS-BT30-JIW,2023-05-17,954.68,JPY,True,True,BMV,False,False,True,True,True
+Transmission System,Torque Converter W60,Generic Torque Converter,ZCL-BRK-0NNN-0M9,2017-09-29,849.76,JPY,False,True,"WV,Mecentley,Feramborghini",True,True,True,True,True
+Transmission System,Clutch Plate T86,Engages and disengages power to transmission.,ZCL-ENG-HXBA-UT3,2017-08-18,1460.59,JPY,True,True,WV,False,False,True,True,True
+Transmission System,Flywheel I35,Generic Flywheel,ZCL-DRI-HQPD-ZD3,2015-10-12,1186.57,JPY,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,True,False,True,True
+Transmission System,Differential Y23,Generic Differential,ZCL-SUS-4VAK-M35,2018-12-06,1998.98,JPY,True,True,"Mecentley,Nord,Feramborghini,WV,BMV",True,True,False,True,False
+Transmission System,Axles F22,Generic Axles,ZCL-SUS-YK0C-45L,2019-02-15,1492.05,JPY,True,False,"Nord,Feramborghini",False,True,False,False,True
+Transmission System,Gearbox F68,Generic Gearbox,ZCL-COL-ZJXZ-7FB,2022-11-02,1533.86,JPY,False,True,Mecentley,True,True,False,False,True
+Transmission System,Clutch Plate N38,Engages and disengages power to transmission.,ZCL-ENG-ZZQ0-EA1,2025-08-04,1621.76,JPY,True,True,WV,False,False,True,True,True
+Transmission System,Clutch Plate V72,Engages and disengages power to transmission.,ZCL-SUS-H8E9-59I,2021-03-15,1332.32,JPY,False,False,BMV,True,True,False,False,True
+Transmission System,Clutch Master Cylinder J90,Generic Clutch Master Cylinder,ZCL-PERF-DAEN-AVT,2019-08-09,941.94,JPY,True,True,Mecentley,True,False,True,False,True
+Transmission System,Drive Shaft N11,Generic Drive Shaft,ZCL-ELE-ZOW0-X5T,2016-03-12,1910.76,JPY,False,True,BMV,True,True,False,False,True
+Transmission System,Drive Shaft O36,Generic Drive Shaft,ZCL-COL-BYNH-YQ2,2020-03-27,1843.71,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",False,False,False,False,True
+Transmission System,Synchromesh Gears K55,Generic Synchromesh Gears,ZCL-PERF-FK83-N9R,2018-12-10,764.64,JPY,True,True,Mecentley,False,True,True,True,True
+Transmission System,Transmission Y50,Transfers power from engine to wheels.,ZCL-ELE-GRH9-2FD,2019-07-15,1022.87,JPY,True,True,Mecentley,False,False,True,True,True
+Transmission System,Clutch Slave Cylinder C87,Generic Clutch Slave Cylinder,ZCL-SUS-YGL8-8DW,2018-02-08,477.93,JPY,True,True,"BMV,WV,Nord",False,False,True,True,True
+Structural and Chassis,Floor Pan G26,Generic Floor Pan,ZCL-DRI-1B53-TD4,2024-03-07,1815.88,JPY,False,True,"Mecentley,Feramborghini",True,False,False,False,False
+Structural and Chassis,Rocker Panels E80,Generic Rocker Panels,ZCL-SUS-BUWL-5RA,2024-06-23,959.11,JPY,True,False,"WV,Feramborghini,Nord",False,True,True,False,True
+Structural and Chassis,"Pillars (A, B, C) F30","Generic Pillars (A, B, C)",ZCL-TRN-2L44-UEG,2024-05-28,1873.85,JPY,True,False,"Feramborghini,Mecentley,BMV,Nord,WV",False,False,True,False,True
+Structural and Chassis,Rocker Panels D2,Generic Rocker Panels,ZCL-TRN-AUI3-FRL,2018-06-02,1752.09,JPY,True,True,"WV,Feramborghini,BMV,Nord",False,True,False,True,True
+Structural and Chassis,Wheel Wells Q81,Generic Wheel Wells,ZCL-TRN-ARTG-AHA,2025-07-31,78.5,JPY,True,True,"Nord,WV,BMV,Mecentley,Feramborghini",False,True,True,False,True
+Structural and Chassis,Subframe Q40,Generic Subframe,ZCL-DRI-LR3J-ATT,2025-12-15,1895.01,JPY,True,True,"BMV,Feramborghini,Mecentley,WV,Nord",True,True,False,True,True
+Structural and Chassis,Subframe R98,Generic Subframe,ZCL-TRN-5AYX-QH1,2016-02-25,593.26,JPY,False,True,"Nord,BMV,WV,Feramborghini",False,True,True,True,False
+Structural and Chassis,Rocker Panels V28,Generic Rocker Panels,ZCL-TRN-L0RQ-5SW,2022-03-04,346.66,JPY,True,False,"Feramborghini,WV,Nord,BMV,Mecentley",False,True,True,False,False
+Structural and Chassis,Subframe L18,Generic Subframe,ZCL-ELE-ADEG-IXV,2016-01-02,853.99,JPY,True,True,WV,True,True,True,True,True
+Structural and Chassis,Rocker Panels H1,Generic Rocker Panels,ZCL-SUS-JC9P-YS8,2015-09-19,155.07,JPY,True,True,WV,True,True,True,True,True
+Structural and Chassis,Subframe U52,Generic Subframe,ZCL-SUS-2PJO-SLU,2023-03-13,1533.37,JPY,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",False,False,False,False,True
+Structural and Chassis,Subframe N87,Generic Subframe,ZCL-PERF-EM9E-LZ2,2018-11-11,1211.61,JPY,True,True,BMV,True,True,True,True,False
+Structural and Chassis,Frame / Chassis Z25,Generic Frame / Chassis,ZCL-SUS-LJW6-RW4,2020-10-08,1619.74,JPY,False,True,"BMV,Mecentley,Nord",True,True,False,True,False
+Structural and Chassis,Frame / Chassis F68,Generic Frame / Chassis,ZCL-BRK-YH06-IAO,2024-10-22,1304.96,JPY,False,True,Feramborghini,True,True,True,False,True
+Structural and Chassis,Rocker Panels T26,Generic Rocker Panels,ZCL-SUS-T1AR-U0A,2015-08-27,1609.82,JPY,True,True,"Mecentley,BMV",True,True,True,True,True
+Structural and Chassis,Crossmember K45,Generic Crossmember,ZCL-PERF-XY1W-091,2016-05-18,1692.42,JPY,True,True,"Feramborghini,BMV",True,True,True,False,True
+Structural and Chassis,Subframe D98,Generic Subframe,ZCL-PERF-S27U-IDH,2020-10-04,1660.12,JPY,True,True,WV,True,True,False,False,False
+Structural and Chassis,Wheel Wells I4,Generic Wheel Wells,ZCL-BRK-UPTR-IEN,2020-05-06,1194.43,JPY,False,True,"Feramborghini,Mecentley,WV,BMV,Nord",True,False,True,False,False
+Structural and Chassis,Rocker Panels C25,Generic Rocker Panels,ZCL-TRN-JXQA-WPW,2022-08-20,376.75,JPY,True,True,"BMV,Feramborghini,Mecentley,Nord,WV",True,True,False,False,True
+Suspension,Adjustable Coilovers L29,Allow height and damping adjustment.,ZCL-COL-FLOT-W87,2024-03-03,61.09,JPY,True,True,"Nord,Mecentley,Feramborghini,BMV",False,False,False,True,False
+Suspension,Sway Bars T48,Reduces body roll in aggressive turns.,ZCL-ENG-23JK-AF4,2023-11-18,1533.39,JPY,True,True,WV,True,False,False,False,True
+Suspension,Sway Bars M38,Reduces body roll in aggressive turns.,ZCL-PERF-S2RF-6I6,2024-02-05,379.78,JPY,False,True,"Feramborghini,WV",True,True,False,False,True
+Suspension,Strut Tower Brace R14,Improves chassis rigidity and cornering.,ZCL-SUS-RSKD-64Y,2021-09-23,1388.29,JPY,True,True,"BMV,WV,Nord,Mecentley",True,True,True,False,True
+Suspension,Sway Bars G62,Reduces body roll in aggressive turns.,ZCL-ELE-Y09D-RWM,2025-05-01,1617.17,JPY,True,True,"Nord,BMV,Mecentley,Feramborghini,WV",False,False,False,True,False
+Suspension,Strut Tower Brace F32,Improves chassis rigidity and cornering.,ZCL-ENG-ZQDO-YZV,2020-11-25,1582.19,JPY,False,True,"BMV,WV",True,True,False,True,False
+Suspension,Lowering Springs L13,Lowers ride height and improves handling.,ZCL-ELE-0GAT-EQ8,2018-02-13,142.15,JPY,True,True,Nord,True,True,False,True,True
+Suspension,Sway Bars T23,Reduces body roll in aggressive turns.,ZCL-BRK-FM2J-4L9,2023-01-31,495.43,JPY,False,True,"WV,Nord",True,True,False,False,False
+Suspension,Adjustable Coilovers Z69,Allow height and damping adjustment.,ZCL-BRK-WF1U-6TP,2017-05-02,1425.19,JPY,True,True,"Mecentley,Nord,WV,Feramborghini,BMV",True,True,True,True,True
+Suspension,Adjustable Coilovers Q11,Allow height and damping adjustment.,ZCL-SUS-GOGM-OFM,2021-08-06,605.31,JPY,True,True,"Feramborghini,Nord,WV,BMV,Mecentley",True,True,True,True,False
+Suspension,Lowering Springs Y86,Lowers ride height and improves handling.,ZCL-BRK-WSGH-2P5,2022-08-15,14.18,JPY,True,True,"Feramborghini,Mecentley,Nord,BMV",True,True,True,True,True
+Suspension,Adjustable Coilovers V62,Allow height and damping adjustment.,ZCL-TRN-8X6R-NGK,2020-10-02,892.67,JPY,True,True,"Nord,BMV,WV",True,False,True,False,True
+Suspension,Lowering Springs W32,Lowers ride height and improves handling.,ZCL-DRI-Q80T-C21,2022-08-10,1317.43,JPY,True,True,"Nord,Mecentley",True,True,True,True,False
+Suspension,Adjustable Coilovers X58,Allow height and damping adjustment.,ZCL-ELE-T7PG-OQK,2025-11-17,546.73,JPY,True,False,"Mecentley,BMV,WV,Nord",False,False,True,True,False
+Suspension,Lowering Springs I17,Lowers ride height and improves handling.,ZCL-BRK-CZBR-O0F,2018-08-10,188.01,JPY,True,True,"Mecentley,Feramborghini",True,False,True,False,True
+Suspension,Sway Bars S96,Reduces body roll in aggressive turns.,ZCL-ENG-N9KG-IH0,2025-01-15,1889.4,JPY,True,True,"Nord,Feramborghini,BMV,WV",True,False,True,True,True
+Suspension,Sway Bars F93,Reduces body roll in aggressive turns.,ZCL-BRK-5G82-81O,2018-01-31,907.24,JPY,True,True,"WV,Mecentley",True,True,False,True,False
+Suspension,Sway Bars T30,Reduces body roll in aggressive turns.,ZCL-COL-NADD-LUS,2020-09-28,1123.47,JPY,True,True,"Mecentley,Nord",True,False,True,True,False
+Safety Systems,Seatbelt Pretensioners J79,Generic Seatbelt Pretensioners,ZCL-DRI-MTDG-IVM,2022-06-07,1822.13,JPY,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,False,False,True,False
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) C14","Generic Airbags (Front, Side, Curtain, Knee)",ZCL-DRI-B8CW-N31,2022-08-04,1057.96,JPY,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",True,True,True,True,True
+Safety Systems,Crash Sensors C59,Generic Crash Sensors,ZCL-DRI-9UBB-061,2024-03-06,1879.56,JPY,True,True,Nord,False,False,True,False,True
+Safety Systems,Crash Sensors Y13,Generic Crash Sensors,ZCL-PERF-6RLS-LBC,2020-03-05,506.42,JPY,True,False,"Nord,Mecentley,WV,BMV",True,True,False,False,False
+Safety Systems,Crash Sensors Z45,Generic Crash Sensors,ZCL-SUS-0RQD-E4R,2020-06-23,804.09,JPY,True,False,"Feramborghini,Nord,BMV,Mecentley,WV",True,True,False,True,True
+Safety Systems,Crumple Zones T79,Generic Crumple Zones,ZCL-DRI-VEPU-IIB,2023-08-25,1843.73,JPY,True,True,"Nord,WV,BMV,Mecentley,Feramborghini",False,True,True,False,False
+Safety Systems,Seatbelt Pretensioners F64,Generic Seatbelt Pretensioners,ZCL-BRK-OZC0-728,2020-09-24,1788.08,JPY,False,True,"Nord,Mecentley,WV",True,False,True,True,True
+Safety Systems,Seatbelt Pretensioners B42,Generic Seatbelt Pretensioners,ZCL-COL-QQ0B-7VE,2022-08-30,1103.56,JPY,True,True,Nord,True,True,False,False,False
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) G4","Generic Airbags (Front, Side, Curtain, Knee)",ZCL-BRK-IKKY-C9B,2024-08-10,1948.47,JPY,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",False,False,True,True,True
+Safety Systems,Roll Cage (in racing cars) D19,Generic Roll Cage (in racing cars),ZCL-SUS-42QT-XA4,2024-10-01,1465.16,JPY,True,True,"Nord,BMV,Mecentley,Feramborghini,WV",True,False,False,False,False
+Safety Systems,Crumple Zones Y82,Generic Crumple Zones,ZCL-ELE-QKMT-SKJ,2024-11-07,1974.01,JPY,True,True,"BMV,Mecentley,WV,Nord",False,True,True,True,True
+Safety Systems,Roll Cage (in racing cars) R75,Generic Roll Cage (in racing cars),ZCL-ENG-BBFR-FCG,2015-05-26,1835.22,JPY,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,False,True,True,False
+Safety Systems,Crash Sensors P63,Generic Crash Sensors,ZCL-TRN-3MHB-6P3,2024-11-05,1975.69,JPY,True,False,"WV,Nord,BMV,Feramborghini,Mecentley",True,False,True,True,False
+Safety Systems,Roll Cage (in racing cars) K92,Generic Roll Cage (in racing cars),ZCL-PERF-TK1M-UJK,2020-02-19,775.46,JPY,True,True,"Mecentley,BMV,Nord",True,True,False,True,False
+Safety Systems,Seatbelt Pretensioners S2,Generic Seatbelt Pretensioners,ZCL-PERF-8AE4-QSM,2021-09-10,1190.09,JPY,True,True,"Nord,Feramborghini",False,True,False,True,True
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) X39","Generic Airbags (Front, Side, Curtain, Knee)",ZCL-TRN-S9PU-AUT,2024-11-23,663.55,JPY,True,True,"Mecentley,Feramborghini,WV,BMV",False,False,True,False,True
+Safety Systems,Seatbelt Pretensioners B47,Generic Seatbelt Pretensioners,ZCL-SUS-4YYO-5ST,2018-04-02,259.46,JPY,True,True,"WV,Feramborghini,Nord",False,False,True,True,True
+Safety Systems,Roll Cage (in racing cars) C26,Generic Roll Cage (in racing cars),ZCL-ELE-LPD3-8I1,2018-07-23,914.31,JPY,True,True,"BMV,WV,Mecentley,Nord",True,True,True,True,True
+Safety Systems,Crumple Zones O80,Generic Crumple Zones,ZCL-DRI-UZ27-KYB,2023-02-06,184.33,JPY,True,True,"WV,Feramborghini,Mecentley,BMV",True,False,True,True,True
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) W56","Generic Airbags (Front, Side, Curtain, Knee)",ZCL-BRK-V9B8-880,2020-08-05,1048.23,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV",True,False,True,False,False
+Safety Systems,Crash Sensors N84,Generic Crash Sensors,ZCL-PERF-QA5X-EEB,2015-10-03,462.0,JPY,True,True,"WV,Mecentley",True,False,False,False,True
+Safety Systems,Crumple Zones X56,Generic Crumple Zones,ZCL-BRK-FME0-70R,2017-06-16,780.99,JPY,False,True,"Feramborghini,Nord,WV,Mecentley",True,True,True,True,False
+Safety Systems,Roll Cage (in racing cars) B46,Generic Roll Cage (in racing cars),ZCL-BRK-Y2NO-GWO,2021-04-05,1553.84,JPY,True,False,"WV,Mecentley,Nord,BMV",False,False,True,True,True
+Safety Systems,Roll Cage (in racing cars) I78,Generic Roll Cage (in racing cars),ZCL-ELE-WL34-D95,2021-01-30,798.32,JPY,False,True,"BMV,WV,Mecentley,Feramborghini,Nord",False,False,True,False,False
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) I12","Generic Airbags (Front, Side, Curtain, Knee)",ZCL-SUS-PVWP-RO0,2023-08-04,518.53,JPY,True,True,"BMV,Nord,Feramborghini",False,False,True,False,False
+Suspension and Steering,Steering Wheel X4,Allows driver to steer the vehicle.,ZCL-DRI-TMY5-NCN,2024-06-18,45.85,JPY,True,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,False,False,True,True
+Suspension and Steering,Leaf Springs H70,Generic Leaf Springs,ZCL-ELE-D47R-CXU,2019-10-23,1838.73,JPY,True,True,"BMV,Feramborghini,WV,Nord",True,False,True,True,True
+Suspension and Steering,Torsion Bar R47,Generic Torsion Bar,ZCL-TRN-RFCX-Y8G,2025-06-24,1126.24,JPY,True,True,"WV,Mecentley,Feramborghini,Nord",True,True,False,False,True
+Suspension and Steering,Sway Bar / Anti-roll Bar J16,Generic Sway Bar / Anti-roll Bar,ZCL-DRI-2BUD-KMX,2022-10-08,27.4,JPY,True,True,"Mecentley,Feramborghini",True,False,False,True,True
+Suspension and Steering,Control Arms H70,Connect wheel hub to vehicle frame.,ZCL-TRN-6VEU-QRJ,2024-02-04,1018.38,JPY,False,True,"BMV,Nord,WV",True,True,True,True,True
+Suspension and Steering,Sway Bar / Anti-roll Bar Z59,Generic Sway Bar / Anti-roll Bar,ZCL-COL-OUO9-SMN,2015-05-09,1520.35,JPY,True,True,"BMV,WV,Mecentley,Nord",False,True,False,True,True
+Suspension and Steering,Tie Rods E76,Transmit steering input to wheels.,ZCL-BRK-QGAQ-OCU,2025-05-11,1806.47,JPY,False,True,"Nord,WV,Feramborghini",False,True,False,True,True
+Suspension and Steering,Shock Absorbers E39,Dampen spring movement for smoother ride.,ZCL-TRN-I7CD-O1A,2023-09-30,1770.5,JPY,True,True,"Nord,WV,Feramborghini",True,False,False,True,True
+Suspension and Steering,Control Arms R35,Connect wheel hub to vehicle frame.,ZCL-BRK-IGCF-RY1,2019-01-21,173.99,JPY,True,True,"Mecentley,WV,Feramborghini,Nord",False,False,False,True,False
+Suspension and Steering,Steering Wheel J34,Generic Steering Wheel,ZCL-ELE-X3JU-E9J,2015-01-26,853.07,JPY,True,False,Nord,True,True,False,True,False
+Suspension and Steering,Control Arms H61,Generic Control Arms,ZCL-BRK-48SI-197,2025-07-10,1744.52,JPY,True,True,"Nord,BMV",False,True,True,False,True
+Suspension and Steering,Steering Rack M62,Generic Steering Rack,ZCL-ELE-SSAA-KX4,2017-07-09,217.17,JPY,True,False,"Nord,Mecentley,Feramborghini",False,True,False,True,True
+Suspension and Steering,Steering Rack T47,Generic Steering Rack,ZCL-ENG-YE4B-8QK,2018-11-06,419.36,JPY,True,True,"Mecentley,BMV,WV,Nord,Feramborghini",True,False,True,True,True
+Suspension and Steering,Tie Rods M50,Generic Tie Rods,ZCL-ELE-W0HV-Z2H,2024-05-04,1529.22,JPY,True,True,"Mecentley,BMV,WV,Feramborghini,Nord",False,True,True,False,True
+Suspension and Steering,Wheel Hub J2,Generic Wheel Hub,ZCL-BRK-Y5OU-G5E,2021-12-25,981.94,JPY,True,True,"Feramborghini,Mecentley,WV,BMV,Nord",True,True,False,False,False
+Suspension and Steering,Alignment Shims V48,Generic Alignment Shims,ZCL-COL-HLV1-M7M,2021-10-06,262.96,JPY,True,True,"BMV,Nord,WV,Mecentley",False,True,True,True,True
+Suspension and Steering,Coil Springs S69,Support vehicle weight and absorb shocks.,ZCL-COL-3QK4-3FU,2022-05-22,1148.62,JPY,True,True,"WV,Feramborghini,Nord,Mecentley",True,False,True,False,True
+Suspension and Steering,Tie Rods E67,Transmit steering input to wheels.,ZCL-SUS-RS8Y-HSU,2025-10-16,1131.6,JPY,True,True,"Mecentley,WV",True,True,True,True,False
+Suspension and Steering,Shock Absorbers / Struts E93,Generic Shock Absorbers / Struts,ZCL-PERF-ZZLF-5LB,2016-03-23,971.36,JPY,True,True,Feramborghini,True,True,False,False,True
+Suspension and Steering,Control Arms D19,Connect wheel hub to vehicle frame.,ZCL-ELE-YZT5-6AJ,2015-07-21,1927.42,JPY,True,True,Nord,False,True,False,False,False
+Suspension and Steering,Ball Joints M62,Generic Ball Joints,ZCL-COL-OUFO-YYT,2015-07-24,1407.46,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",False,False,False,False,True
+Suspension and Steering,Shock Absorbers B15,Dampen spring movement for smoother ride.,ZCL-ENG-6WJ0-ZDL,2024-01-11,808.28,JPY,False,True,"Mecentley,WV,Feramborghini,Nord",True,True,True,False,True
+Suspension and Steering,Control Arms P72,Generic Control Arms,ZCL-PERF-Z3BK-Z7O,2016-08-25,342.26,JPY,False,True,"Nord,WV,BMV,Mecentley,Feramborghini",False,True,True,False,False
+Suspension and Steering,Alignment Shims C53,Generic Alignment Shims,ZCL-DRI-2A8R-FOF,2017-01-18,987.78,JPY,True,True,"WV,Mecentley,Nord,Feramborghini,BMV",False,True,False,False,False
+Suspension and Steering,Alignment Shims R69,Generic Alignment Shims,ZCL-TRN-08O7-6TN,2020-04-01,1610.99,JPY,True,True,"Feramborghini,Nord,BMV",False,True,True,True,True
+Suspension and Steering,Coil Springs A7,Generic Coil Springs,ZCL-COL-N5WP-DKL,2023-12-03,1488.05,JPY,True,True,"BMV,WV,Nord,Mecentley",True,True,True,True,False
+Suspension and Steering,Sway Bar / Anti-roll Bar Q49,Generic Sway Bar / Anti-roll Bar,ZCL-ENG-EZYY-VMU,2024-10-15,1428.65,JPY,True,True,Nord,False,True,False,False,True
+Suspension and Steering,Ball Joints N73,Generic Ball Joints,ZCL-PERF-0IUY-253,2021-11-12,1555.03,JPY,True,True,"WV,Nord,Feramborghini,Mecentley,BMV",True,True,True,True,True
+Suspension and Steering,Leaf Springs L7,Generic Leaf Springs,ZCL-ELE-ATLQ-PT8,2017-02-22,1564.26,JPY,True,True,"Mecentley,Feramborghini",False,True,False,True,True
+Suspension and Steering,Control Arms Q94,Connect wheel hub to vehicle frame.,ZCL-TRN-3XLB-4L1,2019-10-23,781.34,JPY,True,True,"WV,Mecentley,Nord",False,True,True,True,True
+Suspension and Steering,Shock Absorbers / Struts X82,Generic Shock Absorbers / Struts,ZCL-BRK-8X6Z-19M,2015-10-01,1806.04,JPY,True,True,"WV,BMV,Feramborghini,Nord",True,True,True,False,True

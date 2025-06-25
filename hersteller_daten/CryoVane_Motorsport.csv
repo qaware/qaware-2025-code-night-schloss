@@ -1,0 +1,592 @@
+CATEGORY,NAME,DESCRIPTION,SERIAL,PRODUCTION_DATE,PRICE,CURRENCY,AUTHORISED,IN_STOCK,COMPATIBLE_BRANDS,ECOFRIENDLY,AFTERMARKET,CUSTOMFABRICATED,OBSOLETE
+Engine System,Engine Control Unit (ECU) T39,Generic Engine Control Unit (ECU),CVM-5583-2B1E-1FB0,2022-04-27,177.66,JPY,False,True,Nord,False,True,False,True
+Engine System,Oil Pump 41G,Circulates oil through the engine.,CVM-0936-A24F-2A2B,2024-01-10,432.24,JPY,True,True,"BMV,WV,Nord,Feramborghini",False,False,False,False
+Engine System,Engine Control Unit (ECU) K8M,Generic Engine Control Unit (ECU),CVM-46ED-5DB8-E972,2016-01-18,916.16,JPY,True,False,"Mecentley,BMV,Feramborghini,Nord",True,False,True,False
+Engine System,Valve Springs 8WH,Ensure valves close properly.,CVM-240B-5679-2E54,2020-12-01,1631.2,JPY,False,False,"BMV,Mecentley,Nord,WV,Feramborghini",True,True,True,False
+Engine System,Timing Belt O7L,Synchronizes rotation of the crankshaft and camshaft.,CVM-DEB2-EE19-C84E,2025-03-17,819.9,JPY,True,True,"Mecentley,Feramborghini,BMV",False,True,False,True
+Engine System,Dipstick NNL,Measures oil level.,CVM-6340-E035-2B1B,2018-01-17,924.88,JPY,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",True,True,True,True
+Engine System,Dipstick UIM,Measures oil level.,CVM-ABD6-D1F7-0394,2019-02-14,1814.05,JPY,True,True,"WV,Nord,Feramborghini",True,False,True,True
+Engine System,Pistons 607,Move up and down in cylinders to compress and combust fuel.,CVM-9ABE-4A46-2EBA,2020-06-01,1345.92,JPY,True,True,"WV,BMV",True,True,False,False
+Engine System,Serpentine Belt M5I,Generic Serpentine Belt,CVM-FD34-11C9-CC23,2021-07-03,870.07,JPY,False,False,"Mecentley,Nord,Feramborghini,WV,BMV",True,True,True,True
+Engine System,Spark Plugs ZYU,Generic Spark Plugs,CVM-6961-2C07-3DD3,2024-01-22,1464.92,JPY,False,False,"Nord,BMV,WV,Mecentley,Feramborghini",False,False,False,False
+Engine System,Oil Pump E41,Circulates oil through the engine.,CVM-53C6-62A9-10A7,2018-06-27,1395.37,JPY,True,True,Feramborghini,True,True,False,True
+Engine System,Valves AK1,Control intake and exhaust of air/fuel mixture.,CVM-1BEC-0F04-E4C0,2017-11-01,1331.65,JPY,True,True,"BMV,Nord,Mecentley,WV",True,True,False,False
+Engine System,Lifters RBY,Transmit camshaft motion to valves.,CVM-C427-B4B6-1251,2020-03-21,814.95,JPY,True,True,Nord,True,False,True,True
+Engine System,Intercooler N2Y,Cools air from turbocharger.,CVM-033E-A731-34E9,2019-12-02,633.32,JPY,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,True,False,True
+Engine System,Crankshaft 2X3,Converts piston movement into rotational motion.,CVM-412C-E6AD-113A,2015-03-21,841.57,JPY,True,True,WV,False,True,True,True
+Engine System,Oil Cooler DOT,Generic Oil Cooler,CVM-2CB5-85D7-489C,2024-06-19,1699.61,JPY,False,True,"WV,Feramborghini",True,False,True,True
+Engine System,Harmonic Balancer GEL,Reduces engine vibration.,CVM-224E-B623-92A2,2022-09-13,1641.34,JPY,True,True,"BMV,WV,Nord,Feramborghini,Mecentley",True,False,False,False
+Engine System,Ignition Coils ZNM,Generic Ignition Coils,CVM-9AD2-4EF5-5D38,2020-04-16,1803.52,JPY,False,True,Mecentley,True,True,True,True
+Engine System,Air Filter ENE,Generic Air Filter,CVM-DF1D-3F81-FBDD,2020-04-14,639.0,JPY,True,False,"BMV,Nord",True,False,False,True
+Engine System,Drive Belt RBQ,Generic Drive Belt,CVM-182F-8FA1-5ADD,2016-04-23,537.47,JPY,True,False,"Mecentley,Feramborghini,Nord,WV,BMV",True,True,True,True
+Engine System,Intercooler BLN,Generic Intercooler,CVM-04D5-4976-544F,2018-11-20,1900.97,JPY,True,True,"WV,Feramborghini,Nord,Mecentley,BMV",False,True,False,True
+Engine System,Cylinder Head ISJ,Generic Cylinder Head,CVM-E948-6F1F-E215,2023-07-17,296.77,JPY,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",True,True,False,True
+Engine System,Engine Block 5MY,Main structure housing cylinders and other components.,CVM-BD71-7A19-DB3C,2021-05-26,377.76,JPY,True,True,"BMV,Mecentley",False,True,True,False
+Engine System,Pistons H3P,Move up and down in cylinders to compress and combust fuel.,CVM-A66D-154F-4A01,2016-06-16,886.23,JPY,True,True,"WV,Feramborghini,Nord,Mecentley,BMV",True,False,False,False
+Engine System,Timing Belt PPK,Synchronizes rotation of the crankshaft and camshaft.,CVM-A001-7D8D-C7D5,2025-11-16,1445.26,JPY,True,False,"Feramborghini,Mecentley",True,True,True,True
+Engine System,Cylinder Head 5BJ,Generic Cylinder Head,CVM-BE7C-433A-A185,2017-12-19,838.08,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV",True,True,True,True
+Engine System,Exhaust Manifold 5R8,Collects exhaust gases from cylinders.,CVM-29A4-BDE7-E91A,2023-12-17,688.86,JPY,False,True,"WV,Feramborghini,Mecentley,Nord",False,False,False,False
+Engine System,Turbocharger QUQ,Forces more air into the engine.,CVM-7427-FAA3-9086,2016-05-24,1742.53,JPY,True,True,"Nord,WV,Feramborghini",False,True,True,False
+Engine System,Camshaft I9J,Operates the engine’s valves via lobes.,CVM-52C8-C4B8-9472,2025-06-17,510.8,JPY,True,True,"WV,BMV,Mecentley",False,True,True,True
+Engine System,Distributor I5Y,Distributes spark to the correct cylinder.,CVM-7586-F762-EE94,2016-07-25,154.32,JPY,True,True,"BMV,Mecentley,WV",False,False,False,True
+Engine System,Pistons LF5,Move up and down in cylinders to compress and combust fuel.,CVM-B837-CB5F-D99F,2024-10-17,455.86,JPY,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",False,True,True,True
+Engine System,Air Filter 33I,Generic Air Filter,CVM-7456-3B09-E78A,2024-04-25,58.86,JPY,True,True,"WV,Mecentley,Feramborghini,Nord",True,False,False,True
+Engine System,Pushrods 1AL,Generic Pushrods,CVM-97EB-366B-04A2,2024-07-09,319.9,JPY,False,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,False,True,True
+Engine System,Timing Chain HKJ,Metal chain version of timing belt.,CVM-C978-2191-73B9,2015-08-29,847.34,JPY,False,False,"Mecentley,WV",True,True,True,True
+Engine System,Serpentine Belt HNL,Drives multiple engine accessories.,CVM-C5E0-CEA8-4141,2025-03-22,730.44,JPY,True,True,"Nord,BMV",False,True,True,True
+Engine System,Turbocharger / Supercharger CWP,Generic Turbocharger / Supercharger,CVM-0210-FFE1-A189,2017-05-13,1924.49,JPY,True,True,"Mecentley,Feramborghini",False,True,True,False
+Engine System,Engine Block RES,Main structure housing cylinders and other components.,CVM-1B03-458F-48E0,2016-12-13,427.7,JPY,True,True,"Mecentley,WV,BMV",True,True,False,True
+Engine System,Carburetor (older models) 79T,Generic Carburetor (older models),CVM-E0E9-DBE7-F9F7,2016-03-27,961.05,JPY,False,False,"Feramborghini,Nord,BMV",True,False,True,True
+Engine System,Tappets 7JR,Link camshaft with pushrods.,CVM-4C17-1304-088E,2024-08-11,1870.03,JPY,True,True,"WV,Mecentley",True,True,True,True
+Engine System,Camshaft EOA,Operates the engine’s valves via lobes.,CVM-9181-D41B-30A8,2021-08-29,1784.96,JPY,True,True,"BMV,Nord,Feramborghini,Mecentley,WV",False,False,True,True
+Engine System,Intake Manifold YCD,Generic Intake Manifold,CVM-5343-2B0A-C64B,2019-04-04,201.32,JPY,True,True,"Feramborghini,Nord,BMV",False,True,False,False
+Engine System,Timing Cover 0L3,Generic Timing Cover,CVM-AD93-AC2A-10FC,2019-02-22,1999.2,JPY,True,True,"WV,Mecentley",False,True,True,True
+Engine System,Harmonic Balancer FEX,Reduces engine vibration.,CVM-005F-3082-3844,2015-01-11,115.69,JPY,True,True,Feramborghini,True,False,False,True
+Engine System,Air Filter KU6,Generic Air Filter,CVM-3089-16CB-BC0C,2016-10-26,336.31,JPY,True,True,"Feramborghini,Mecentley",True,True,False,True
+Engine System,Oil Filter 609,Removes contaminants from engine oil.,CVM-6673-5EB1-74F1,2020-07-20,338.42,JPY,False,True,"Nord,Feramborghini,Mecentley,WV,BMV",True,True,True,True
+Engine System,Valve Springs S8S,Ensure valves close properly.,CVM-A3B2-0F06-B53D,2017-11-16,956.74,JPY,True,True,"BMV,Feramborghini,Mecentley,Nord,WV",True,False,False,False
+Engine System,Pushrods Z98,Generic Pushrods,CVM-CDC0-3BED-07D4,2021-12-02,1766.53,JPY,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",True,False,True,True
+Engine System,Oil Pan 95U,Generic Oil Pan,CVM-DCD6-2E52-72C5,2021-03-08,1337.04,JPY,True,False,"WV,Mecentley,Nord,BMV",True,False,True,True
+Engine System,Pushrods 6DU,Transfer motion in OHV engines.,CVM-5066-CA84-E7B0,2019-11-26,1797.94,JPY,True,True,WV,True,True,False,True
+Engine System,Dipstick SB5,Generic Dipstick,CVM-263B-521F-F73D,2020-07-11,684.47,JPY,True,True,BMV,True,False,True,False
+Engine System,Serpentine Belt UHB,Generic Serpentine Belt,CVM-066C-5D29-8B8D,2018-05-22,1599.58,JPY,True,False,"BMV,Mecentley,Nord",True,False,False,True
+Engine System,Throttle Body 4IH,Controls airflow into the engine.,CVM-B720-3686-44F5,2023-02-23,1787.78,JPY,False,True,"WV,Nord",False,True,True,False
+Engine System,Engine Mounts AQD,Secure engine to frame and absorb vibration.,CVM-D212-6DCE-ED47,2020-10-26,1613.7,JPY,True,True,"Feramborghini,WV",True,True,True,True
+Engine System,Oil Filter UCX,Generic Oil Filter,CVM-B5D9-512C-7F7C,2024-06-04,738.3,JPY,True,False,"Mecentley,Nord,BMV",False,False,False,True
+Engine System,Camshaft ZZV,Operates the engine’s valves via lobes.,CVM-A75B-B6E9-2A3D,2021-10-03,1885.67,JPY,False,False,"WV,Nord,Mecentley,Feramborghini",False,True,False,False
+Engine System,Valve Springs JOX,Generic Valve Springs,CVM-CD99-DEE6-30BE,2018-04-10,1351.9,JPY,True,True,"WV,Nord,BMV,Mecentley,Feramborghini",True,True,True,False
+Engine System,Tappets B3I,Link camshaft with pushrods.,CVM-2199-201E-2CE7,2015-07-20,1337.6,JPY,False,True,"BMV,Mecentley,Nord",True,True,False,False
+Engine System,Camshaft 9SP,Generic Camshaft,CVM-455E-52DB-E1CC,2017-07-31,1336.52,JPY,False,True,"Mecentley,BMV,Nord,WV,Feramborghini",True,True,False,False
+Engine System,Rocker Arms M5L,Transfer movement from camshaft to valves.,CVM-2879-A400-911B,2024-08-13,876.18,JPY,True,True,Feramborghini,False,True,False,False
+Engine System,Timing Cover 91K,Protects the timing belt or chain.,CVM-2238-8A7A-5B5B,2017-08-19,713.03,JPY,True,True,Mecentley,True,True,False,True
+Engine System,Oil Pan FZA,Generic Oil Pan,CVM-CCF6-08E5-8B30,2019-03-29,819.23,JPY,False,True,Feramborghini,True,False,True,False
+Engine System,Oil Cooler K6Z,Cools the engine oil.,CVM-13D7-D3C0-8EC6,2017-12-02,1215.3,JPY,True,True,Mecentley,True,True,True,True
+Engine System,Oil Filter MC4,Removes contaminants from engine oil.,CVM-DF3A-3A96-0B99,2016-03-07,669.81,JPY,False,True,Feramborghini,False,True,False,True
+Engine System,Throttle Body YDE,Generic Throttle Body,CVM-5E72-499E-2A78,2018-06-09,1642.61,JPY,True,False,Mecentley,True,True,False,False
+Engine System,Tappets / Lifters SPM,Generic Tappets / Lifters,CVM-EBFE-9093-08CB,2015-03-17,428.47,JPY,False,True,BMV,True,False,False,True
+Engine System,Air Filter PSC,Filters air before it enters the engine.,CVM-92A3-AB99-A4E8,2019-09-01,731.24,JPY,True,False,"Nord,WV,Feramborghini,BMV,Mecentley",True,True,True,False
+Engine System,Air Filter Q6Y,Generic Air Filter,CVM-299C-F0C3-FDA4,2019-03-18,1280.25,JPY,True,True,BMV,True,True,False,False
+Engine System,Ignition Coils N1N,Generic Ignition Coils,CVM-B4C5-8BDF-8C2F,2018-02-25,1446.95,JPY,True,True,"Mecentley,Feramborghini,Nord",False,True,True,True
+Engine System,Pistons XWL,Move up and down in cylinders to compress and combust fuel.,CVM-47B2-E96E-2492,2022-07-13,1240.89,JPY,True,True,"WV,Nord",True,True,True,True
+Engine System,Intercooler ULY,Generic Intercooler,CVM-E760-33FF-2560,2020-07-13,1135.44,JPY,False,True,WV,True,False,True,True
+Engine System,Tappets 7MN,Link camshaft with pushrods.,CVM-918A-0AAD-3BEE,2021-02-04,1002.48,JPY,False,True,"Feramborghini,Mecentley,WV",False,True,True,True
+Engine System,Tappets / Lifters CIJ,Generic Tappets / Lifters,CVM-AA2C-C04E-D436,2021-08-19,337.24,JPY,False,False,"Nord,WV",False,True,True,True
+Engine System,Spark Plugs FZU,Generic Spark Plugs,CVM-51CA-A000-AA4E,2024-09-02,314.98,JPY,True,True,"Nord,WV",False,False,True,True
+Engine System,Drive Belt LRN,Generic Drive Belt,CVM-FADC-0BC2-6095,2025-04-02,1801.96,JPY,False,True,"WV,Feramborghini,Nord,BMV",True,False,True,False
+Engine System,Ignition Coils NON,Generic Ignition Coils,CVM-8185-AED5-4D01,2019-07-29,819.7,JPY,False,True,"Mecentley,BMV",False,False,False,True
+Engine System,Carburetor (older models) EKN,Generic Carburetor (older models),CVM-83DD-F7FA-5AB8,2024-10-13,808.98,JPY,True,True,"Feramborghini,Mecentley,Nord,BMV",True,True,False,True
+Engine System,Oil Pump GRF,Generic Oil Pump,CVM-3276-401C-54FC,2021-01-04,1726.55,JPY,True,True,Feramborghini,True,True,True,False
+Engine System,Fuel Injectors HZD,Generic Fuel Injectors,CVM-152C-B089-986D,2024-12-30,1660.42,JPY,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",False,True,True,False
+Engine System,Timing Cover R2L,Generic Timing Cover,CVM-4B83-FBD7-3566,2022-05-10,368.42,JPY,True,False,"Nord,WV",True,True,True,True
+Engine System,Spark Plugs WMP,Ignite air/fuel mixture in combustion chamber.,CVM-C28E-BD1D-83F7,2021-10-03,621.1,JPY,True,True,"BMV,Nord",True,True,True,True
+Engine System,Air Filter 1BI,Filters air before it enters the engine.,CVM-59E7-FB1D-B192,2022-08-12,751.02,JPY,True,False,"WV,Nord,Mecentley,BMV,Feramborghini",True,False,True,True
+Engine System,Pistons RSJ,Move up and down in cylinders to compress and combust fuel.,CVM-3B7E-D227-7DB8,2024-10-06,267.31,JPY,True,True,"BMV,Mecentley,Feramborghini,WV",False,True,True,False
+Engine System,Spark Plugs 34J,Ignite air/fuel mixture in combustion chamber.,CVM-E417-8664-2100,2025-07-10,665.66,JPY,True,False,"Nord,WV,Feramborghini,Mecentley,BMV",True,True,True,False
+Engine System,Dipstick 3CK,Generic Dipstick,CVM-E076-4B32-7EEF,2021-02-06,20.23,JPY,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,True,False
+Engine System,Camshaft Q5C,Operates the engine’s valves via lobes.,CVM-1626-AC68-D1D7,2015-09-25,685.51,JPY,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,True,False,True
+Engine System,Cylinder Head GB2,Generic Cylinder Head,CVM-628A-D368-DF9F,2016-05-15,197.39,JPY,True,True,WV,True,True,True,False
+Engine System,Timing Belt / Chain YC2,Generic Timing Belt / Chain,CVM-66C0-D762-E0C1,2017-08-13,799.48,JPY,True,True,WV,True,True,False,True
+Engine System,Oil Pump 3RQ,Generic Oil Pump,CVM-12F2-4032-B7BD,2021-10-20,76.22,JPY,True,True,"BMV,WV,Mecentley,Feramborghini",True,True,True,True
+Engine System,Dipstick V1W,Generic Dipstick,CVM-92E9-C20A-AD72,2020-11-04,809.52,JPY,False,True,WV,True,True,False,True
+Engine System,Drive Belt 9H3,"Drives alternator, AC compressor, etc.",CVM-C290-8803-1E44,2021-07-27,1249.75,JPY,True,True,"Nord,BMV,Mecentley",True,True,False,True
+Engine System,Oil Pan VCN,Holds engine oil.,CVM-7A6D-74E2-DBB4,2016-07-04,344.93,JPY,True,True,"Feramborghini,Nord",False,True,True,False
+Engine System,"Valves (Intake, Exhaust) 0OQ","Generic Valves (Intake, Exhaust)",CVM-7904-987F-6C11,2021-11-20,748.68,JPY,True,False,"Feramborghini,Nord,WV",True,False,True,True
+Engine System,Oil Pan 801,Generic Oil Pan,CVM-EF7B-BE57-4934,2023-07-15,1897.29,JPY,True,True,"BMV,Mecentley,Nord,WV,Feramborghini",False,True,False,True
+Engine System,Serpentine Belt TZX,Drives multiple engine accessories.,CVM-EBBB-D3D4-712E,2020-03-24,789.56,JPY,True,True,"Mecentley,Feramborghini",False,True,False,False
+Engine System,Engine Block VJA,Main structure housing cylinders and other components.,CVM-71E9-624C-EE52,2023-04-30,855.77,JPY,True,True,"Feramborghini,Mecentley,WV,Nord",False,True,True,True
+Engine System,Timing Chain MKV,Metal chain version of timing belt.,CVM-38A1-B2C7-505E,2017-12-04,1428.48,JPY,True,True,"Nord,Feramborghini",False,False,False,True
+Engine System,Valves 271,Control intake and exhaust of air/fuel mixture.,CVM-BD00-48A3-A361,2016-01-10,861.45,JPY,False,True,"BMV,Feramborghini",True,False,True,True
+Engine System,Crankshaft H63,Converts piston movement into rotational motion.,CVM-46E1-12B3-DCAE,2016-11-27,271.3,JPY,True,False,"Feramborghini,BMV",True,False,True,False
+Engine System,Cylinder Head F24,Generic Cylinder Head,CVM-0C7F-FAB2-B607,2021-04-30,1587.15,JPY,True,True,"WV,Nord,BMV,Feramborghini,Mecentley",False,True,False,False
+Engine System,Spark Plugs H0D,Ignite air/fuel mixture in combustion chamber.,CVM-30C0-76CD-6263,2016-12-31,1717.62,JPY,True,False,"Mecentley,WV,Nord,Feramborghini,BMV",False,False,False,True
+Engine System,Cylinder Head QID,"Sits on top of the engine block, holds valves and spark plugs.",CVM-DAF7-8961-FF1B,2021-07-14,893.47,JPY,True,True,"BMV,Nord,Feramborghini,Mecentley,WV",True,True,False,False
+Engine System,Engine Control Unit (ECU) DAP,Generic Engine Control Unit (ECU),CVM-32FA-4BAB-8ECB,2018-03-14,1577.49,JPY,True,True,WV,True,True,False,True
+Engine System,Fuel Injectors R00,Spray fuel into the engine's cylinders.,CVM-037D-4D10-B604,2021-03-11,1236.58,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord",True,True,True,False
+Engine System,Distributor HSR,Generic Distributor,CVM-7C17-8D2E-4F12,2025-12-24,689.3,JPY,True,True,Feramborghini,True,False,True,False
+Engine System,Drive Belt KUZ,Generic Drive Belt,CVM-736D-7243-CD27,2017-06-21,1914.73,JPY,False,True,"Nord,WV,Feramborghini",True,True,True,False
+Engine System,Harmonic Balancer OG5,Reduces engine vibration.,CVM-E26C-50C2-09EF,2016-02-07,615.71,JPY,True,True,"Mecentley,Nord,BMV",False,True,False,False
+Engine System,Turbocharger WA1,Forces more air into the engine.,CVM-7AAC-E9FF-0908,2020-04-07,890.17,JPY,False,False,"WV,Mecentley",False,False,True,False
+Engine System,Timing Belt / Chain 7E5,Generic Timing Belt / Chain,CVM-F2A4-EBBE-C1BF,2020-05-02,463.04,JPY,False,False,WV,False,True,True,False
+Engine System,Pistons 7IP,Move up and down in cylinders to compress and combust fuel.,CVM-C82A-69DE-E33C,2016-08-24,1493.3,JPY,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",True,True,False,True
+Engine System,Tappets CC3,Link camshaft with pushrods.,CVM-653D-482F-5CEC,2019-12-26,1952.77,JPY,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,False,True
+Engine System,Carburetor (older models) U3D,Generic Carburetor (older models),CVM-8DE5-118B-2E56,2018-10-12,715.3,JPY,False,True,"WV,BMV",True,False,True,False
+Engine System,Oil Filter NBY,Generic Oil Filter,CVM-F6E5-565A-B89E,2023-10-23,976.21,JPY,False,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,False,False,False
+Engine System,Fuel Injectors NRH,Generic Fuel Injectors,CVM-B04A-1F28-A3E7,2024-03-18,403.19,JPY,True,True,"BMV,WV",False,True,True,False
+Engine System,Dipstick JPD,Measures oil level.,CVM-72EC-3FBB-BE8C,2019-05-04,859.38,JPY,True,True,"WV,Mecentley,Nord",True,False,True,False
+Engine System,Ignition Coils Y15,Generate high voltage for spark plugs.,CVM-C791-818B-D79D,2021-01-28,444.76,JPY,True,True,"Feramborghini,Mecentley,BMV",True,False,True,True
+Engine System,Cylinder Head DDF,"Sits on top of the engine block, holds valves and spark plugs.",CVM-2A49-620E-D4EA,2019-11-04,1282.82,JPY,True,False,Feramborghini,True,False,True,False
+Engine System,Oil Pump H7M,Circulates oil through the engine.,CVM-1E88-4B4E-3205,2021-04-19,1492.47,JPY,True,True,"WV,Mecentley,BMV",False,False,True,True
+Engine System,Cylinder Head 6PV,"Sits on top of the engine block, holds valves and spark plugs.",CVM-3772-81BF-2180,2023-12-14,1540.53,JPY,True,True,"Feramborghini,BMV,Nord",True,False,True,True
+Engine System,Spark Plugs Y16,Ignite air/fuel mixture in combustion chamber.,CVM-2DD5-EB2C-1FC0,2018-10-14,219.92,JPY,True,True,"Nord,WV,Feramborghini",True,True,False,True
+Engine System,Air Filter ENK,Filters air before it enters the engine.,CVM-016A-D410-E700,2019-02-20,1986.06,JPY,True,True,"Feramborghini,Mecentley,BMV",True,True,True,True
+Engine System,Turbocharger / Supercharger PS3,Generic Turbocharger / Supercharger,CVM-A786-9091-1012,2016-03-27,1305.42,JPY,True,True,"WV,Feramborghini",False,False,True,True
+Engine System,Rocker Arms 4QO,Transfer movement from camshaft to valves.,CVM-EFDD-B244-8012,2020-12-16,1442.92,JPY,True,True,"Feramborghini,Mecentley,BMV",True,True,True,True
+Engine System,Glow Plugs (Diesel) WX4,Generic Glow Plugs (Diesel),CVM-24BB-6542-3C38,2025-06-04,660.45,JPY,True,True,"Nord,Feramborghini,WV,Mecentley",True,True,True,False
+Engine System,Intercooler FFY,Generic Intercooler,CVM-FC93-C6BA-D800,2022-06-26,1685.27,JPY,True,False,"WV,Nord,Mecentley,Feramborghini,BMV",False,True,True,False
+Engine System,Distributor TO3,Distributes spark to the correct cylinder.,CVM-C38A-D6FE-7027,2017-09-20,73.87,JPY,True,False,Feramborghini,True,False,True,True
+Engine System,Timing Cover E2Q,Generic Timing Cover,CVM-7378-9214-0E62,2015-12-19,1070.15,JPY,False,True,"Feramborghini,BMV,WV,Mecentley",True,True,False,False
+Engine System,Engine Mounts 38S,Generic Engine Mounts,CVM-B03F-9E87-A3B4,2023-12-01,1606.19,JPY,False,True,"Mecentley,Feramborghini,Nord,WV,BMV",True,True,False,False
+Engine System,Ignition Coils 0N2,Generic Ignition Coils,CVM-4A32-48ED-34AB,2023-06-29,290.96,JPY,True,True,"BMV,WV",False,False,True,True
+Engine System,Harmonic Balancer MFP,Generic Harmonic Balancer,CVM-3FC4-A1A2-FBC2,2023-12-27,1265.67,JPY,True,True,"WV,BMV,Nord",True,False,False,False
+Engine System,Supercharger 4NJ,Boosts engine power via air compression.,CVM-6679-25FF-3AAA,2022-03-27,524.1,JPY,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,True,False,False
+Engine System,Turbocharger CWJ,Forces more air into the engine.,CVM-D5F2-D78E-5C16,2024-11-09,1086.33,JPY,True,False,Mecentley,False,True,True,False
+Engine System,"Valves (Intake, Exhaust) X8X","Generic Valves (Intake, Exhaust)",CVM-46ED-7EA9-DEB9,2024-06-10,1879.24,JPY,True,True,"BMV,Mecentley,WV,Nord",True,False,True,True
+Engine System,Ignition Coils 5MO,Generate high voltage for spark plugs.,CVM-C8C1-795B-EEC6,2021-08-05,1558.02,JPY,True,True,"Mecentley,WV,Nord",False,False,True,True
+Engine System,Drive Belt NR0,"Drives alternator, AC compressor, etc.",CVM-1DD3-99B8-26D7,2020-12-13,132.59,JPY,True,True,"WV,BMV,Nord,Mecentley",False,True,False,True
+Engine System,Harmonic Balancer GT5,Generic Harmonic Balancer,CVM-AEF3-28EC-9258,2024-02-20,1144.23,JPY,True,False,"Feramborghini,BMV,WV,Nord,Mecentley",True,True,True,False
+Engine System,Valve Springs UQD,Generic Valve Springs,CVM-713D-9381-DFE7,2015-05-21,1884.33,JPY,True,True,Nord,True,False,False,False
+Engine System,Oil Pan SC3,Holds engine oil.,CVM-9448-B75F-24EB,2018-11-14,1486.99,JPY,True,True,"BMV,Nord,Mecentley",True,False,False,True
+Engine System,Camshaft 0Z0,Operates the engine’s valves via lobes.,CVM-9379-BD23-236A,2015-08-04,1341.61,JPY,True,True,Mecentley,True,True,False,False
+Engine System,Air Filter OIN,Filters air before it enters the engine.,CVM-8950-597F-B2F8,2016-07-04,1143.55,JPY,True,True,"Mecentley,WV",False,True,False,False
+Engine System,Oil Filter I3I,Removes contaminants from engine oil.,CVM-8E01-7A32-2160,2015-01-11,1308.91,JPY,True,True,"Mecentley,Nord",True,False,False,False
+Engine System,Crankshaft RV6,Generic Crankshaft,CVM-3F06-0ECC-358B,2024-10-11,52.66,JPY,True,False,"BMV,Feramborghini",True,True,True,True
+Engine System,Exhaust Manifold XBY,Generic Exhaust Manifold,CVM-7C85-5D65-BD46,2017-03-08,1127.58,JPY,True,True,"WV,Feramborghini,Mecentley",False,True,True,False
+Engine System,Pushrods S6F,Generic Pushrods,CVM-9DFB-9CC0-4698,2023-06-19,921.23,JPY,True,True,"BMV,Feramborghini,Mecentley",True,True,False,True
+Engine System,Engine Mounts WTD,Generic Engine Mounts,CVM-0A82-4CD5-2F5F,2018-06-07,1950.71,JPY,True,False,"WV,Nord,Feramborghini",True,True,False,True
+Engine System,Tappets / Lifters Y5H,Generic Tappets / Lifters,CVM-C624-E36B-FCE9,2015-01-02,1481.2,JPY,False,True,"Mecentley,Nord,BMV,WV,Feramborghini",True,False,False,True
+Engine System,Camshaft PHY,Operates the engine’s valves via lobes.,CVM-900F-4B98-E4B8,2015-02-14,1338.58,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,True,True,False
+Engine System,Ignition Coils TXY,Generate high voltage for spark plugs.,CVM-BD66-B481-A329,2015-04-18,477.74,JPY,True,False,"BMV,WV,Feramborghini,Mecentley",True,False,False,False
+Engine System,Intake Manifold J49,Distributes air to the engine cylinders.,CVM-37BD-220B-FD52,2019-03-03,1410.29,JPY,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",False,True,True,False
+Engine System,Engine Mounts N0Z,Generic Engine Mounts,CVM-7570-1AA9-5F5A,2022-11-07,1586.68,JPY,True,True,"Feramborghini,WV,Nord",True,True,False,True
+Engine System,Timing Belt / Chain 37L,Synchronizes rotation of the crankshaft and camshaft.,CVM-4FA1-FB80-EC01,2025-08-14,254.89,JPY,True,True,"BMV,Feramborghini,WV",True,True,False,False
+Engine System,Intake Manifold 2G6,Generic Intake Manifold,CVM-1ED0-B13D-8D0A,2015-07-12,759.31,JPY,True,True,Nord,False,False,False,True
+Engine System,Oil Cooler WTL,Cools the engine oil.,CVM-E90E-6CC2-83BC,2018-02-15,372.0,JPY,False,True,"Mecentley,BMV,Nord,Feramborghini,WV",False,True,True,True
+Engine System,Dipstick 1IC,Measures oil level.,CVM-9F14-F43F-C162,2017-10-26,467.72,JPY,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",True,True,True,True
+Engine System,Distributor LCO,Distributes spark to the correct cylinder.,CVM-9171-4EDD-D5D4,2021-06-18,1687.58,JPY,True,True,"WV,BMV,Nord",False,True,True,True
+Engine System,Intake Manifold XF3,Distributes air to the engine cylinders.,CVM-AADE-6AB3-B5AE,2021-01-15,890.62,JPY,True,True,"Nord,Feramborghini,BMV",False,False,True,False
+Engine System,Spark Plugs 1TM,Generic Spark Plugs,CVM-693A-3111-189C,2016-09-04,680.76,JPY,False,True,"Nord,BMV,Feramborghini,WV,Mecentley",True,True,False,True
+Engine System,Crankshaft TM8,Converts piston movement into rotational motion.,CVM-7EBA-3B33-DBC7,2021-11-28,115.32,JPY,True,True,"Feramborghini,BMV,Nord,Mecentley,WV",True,True,False,True
+Engine System,Ignition Coils U1D,Generate high voltage for spark plugs.,CVM-C26C-49CB-8DF0,2024-05-11,952.91,JPY,False,True,"Nord,Mecentley,BMV,Feramborghini",False,True,True,True
+Engine System,Pistons 95V,Move up and down in cylinders to compress and combust fuel.,CVM-E390-2622-3786,2019-09-27,1669.27,JPY,True,True,"Nord,BMV",False,False,False,False
+Engine System,Exhaust Manifold J73,Generic Exhaust Manifold,CVM-ECAC-25CD-6C5A,2023-06-06,877.53,JPY,True,True,BMV,True,True,True,False
+Engine System,Timing Belt IQZ,Synchronizes rotation of the crankshaft and camshaft.,CVM-1CBB-1480-1320,2015-01-08,1281.23,JPY,True,True,BMV,False,True,False,True
+Engine System,"Valves (Intake, Exhaust) QSM","Generic Valves (Intake, Exhaust)",CVM-836F-054D-3C69,2023-12-11,1715.26,JPY,False,True,"BMV,WV,Mecentley,Nord",True,False,True,False
+Engine System,Cylinder Head YKX,Generic Cylinder Head,CVM-45B9-B71F-DC3E,2015-01-09,1402.46,JPY,True,True,"Nord,Feramborghini,BMV",False,False,True,True
+Engine System,"Valves (Intake, Exhaust) TSL","Generic Valves (Intake, Exhaust)",CVM-EAE7-EB72-4228,2023-03-01,908.81,JPY,False,True,"WV,BMV,Nord",False,True,True,True
+Engine System,Cylinder Head Z3H,"Sits on top of the engine block, holds valves and spark plugs.",CVM-5ECD-238C-7C9E,2018-01-24,1425.61,JPY,True,True,"Mecentley,WV",False,True,True,False
+Engine System,Oil Cooler HOJ,Cools the engine oil.,CVM-6C30-321C-E78C,2019-09-17,241.43,JPY,True,True,"Mecentley,Nord,BMV",False,False,False,True
+Engine System,Pistons 5FM,Move up and down in cylinders to compress and combust fuel.,CVM-E919-5170-4B0E,2018-04-02,1452.77,JPY,True,True,"BMV,Feramborghini",True,False,True,False
+Engine System,Timing Cover ZFN,Protects the timing belt or chain.,CVM-9844-7CD6-F4C1,2015-01-29,845.28,JPY,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",False,True,True,True
+Engine System,Exhaust Manifold RLA,Collects exhaust gases from cylinders.,CVM-44AC-FAB9-59D3,2021-05-11,1467.04,JPY,False,True,"Mecentley,WV,Feramborghini,Nord,BMV",False,True,False,False
+Engine System,Oil Pan Q8Y,Generic Oil Pan,CVM-8008-508E-1232,2015-06-12,463.21,JPY,True,True,"BMV,WV,Mecentley",True,True,True,True
+Engine System,Pushrods KPH,Transfer motion in OHV engines.,CVM-F6CF-3C6C-8C3A,2020-03-21,1293.5,JPY,False,True,"WV,Feramborghini,Nord,Mecentley,BMV",True,True,True,True
+Engine System,Serpentine Belt H7U,Drives multiple engine accessories.,CVM-8238-7FD9-19B7,2020-09-26,1114.66,JPY,True,True,"Mecentley,Nord,WV,Feramborghini,BMV",False,False,False,True
+Engine System,Harmonic Balancer PYZ,Reduces engine vibration.,CVM-3317-CA47-41A0,2025-02-11,1515.31,JPY,True,False,"Mecentley,WV,BMV,Nord,Feramborghini",True,True,False,False
+Engine System,Cylinder Head 5TO,"Sits on top of the engine block, holds valves and spark plugs.",CVM-92EE-D906-DFFB,2024-07-02,343.11,JPY,True,True,BMV,True,False,True,False
+Engine System,Glow Plugs GRP,Preheat air in diesel engines.,CVM-4402-ACA9-8F9F,2025-04-12,190.09,JPY,True,True,"BMV,Mecentley,Feramborghini,WV",True,True,False,True
+Engine System,Carburetor (older models) LEZ,Generic Carburetor (older models),CVM-4E73-8C08-5837,2016-01-31,1020.55,JPY,True,True,"Nord,BMV,Mecentley,Feramborghini",True,True,True,True
+Engine System,Crankshaft TZ9,Generic Crankshaft,CVM-E3D6-22F4-1CC5,2024-01-23,1106.43,JPY,True,True,"Mecentley,WV,Feramborghini,Nord",False,True,False,True
+Engine System,Spark Plugs WMY,Ignite air/fuel mixture in combustion chamber.,CVM-38E2-A524-2FFA,2018-07-01,1932.02,JPY,False,True,"Mecentley,Feramborghini,Nord,BMV",False,True,False,True
+Engine System,Distributor WNV,Generic Distributor,CVM-4781-5042-C44C,2024-05-15,323.64,JPY,True,False,"BMV,Feramborghini",False,True,False,True
+Engine System,Air Filter 5D3,Filters air before it enters the engine.,CVM-B23C-AFF1-4186,2019-11-17,816.61,JPY,True,True,"BMV,Nord,WV",False,True,True,False
+Engine System,Oil Filter G2C,Removes contaminants from engine oil.,CVM-69BB-28FF-CADC,2021-12-12,41.14,JPY,True,True,"Nord,WV",True,False,False,False
+Engine System,Pistons B71,Move up and down in cylinders to compress and combust fuel.,CVM-1191-437B-508B,2025-08-10,130.66,JPY,True,True,"WV,BMV,Nord",False,False,False,True
+Engine System,Crankshaft CZK,Generic Crankshaft,CVM-BA26-C50B-0C41,2020-06-01,945.93,JPY,True,True,"BMV,Nord,Feramborghini,Mecentley",False,False,True,False
+Engine System,Spark Plugs YGU,Ignite air/fuel mixture in combustion chamber.,CVM-E7C2-0C00-B7DF,2018-12-15,1560.62,JPY,True,False,"BMV,WV,Feramborghini,Mecentley,Nord",True,False,True,True
+Engine System,Crankshaft OXJ,Generic Crankshaft,CVM-B04C-1790-221D,2016-12-16,1949.65,JPY,False,True,"WV,Nord",False,True,True,True
+Engine System,Turbocharger / Supercharger 43C,Generic Turbocharger / Supercharger,CVM-A1EE-02CC-85C4,2022-07-04,445.55,JPY,True,True,"BMV,Mecentley",True,True,True,True
+Engine System,Spark Plugs N3L,Ignite air/fuel mixture in combustion chamber.,CVM-6EB7-223B-AADA,2018-11-10,1464.62,JPY,False,True,"WV,Mecentley,Nord,Feramborghini,BMV",True,True,True,False
+Engine System,Pushrods JCK,Transfer motion in OHV engines.,CVM-32EE-14A5-C020,2020-11-25,230.77,JPY,True,True,"Nord,BMV,Mecentley,WV,Feramborghini",False,True,False,True
+Drivetrain,Aftermarket LSD DKK,Improves grip in cornering and acceleration.,CVM-7C2F-24B1-293F,2025-08-17,1648.7,JPY,True,True,"BMV,Nord,WV",True,True,True,False
+Drivetrain,Lightweight Flywheel 175,Improves throttle response.,CVM-8156-6422-F167,2022-08-29,520.72,JPY,True,False,Feramborghini,False,False,True,False
+Drivetrain,Limited Slip Differential N8G,Distributes torque more efficiently to wheels.,CVM-279B-174D-A6FA,2021-11-14,1251.58,JPY,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",True,True,False,True
+Drivetrain,Performance Clutch Kit E5N,Handles more torque from tuned engines.,CVM-A1D5-99EC-B349,2016-01-10,441.41,JPY,True,True,"Nord,BMV",False,True,False,True
+Drivetrain,Limited Slip Differential K3U,Distributes torque more efficiently to wheels.,CVM-436F-312E-2E55,2017-01-12,431.07,JPY,True,True,"Nord,Mecentley,WV,Feramborghini",True,True,False,True
+Drivetrain,Lightweight Flywheel 5BB,Improves throttle response.,CVM-6FC3-4358-FEA0,2020-06-25,363.78,JPY,True,True,"Mecentley,Feramborghini,Nord,WV",False,True,True,True
+Drivetrain,Performance Clutch Kit I56,Handles more torque from tuned engines.,CVM-902E-E9B5-C9AD,2025-01-07,1050.98,JPY,True,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,True,True,True
+Drivetrain,Lightweight Flywheel ZJN,Improves throttle response.,CVM-71F2-26F7-4CA7,2016-01-20,1247.82,JPY,True,True,"Mecentley,BMV,Nord",False,True,True,False
+Drivetrain,Aftermarket LSD 4CT,Improves grip in cornering and acceleration.,CVM-7BE3-7B5C-8E78,2018-08-25,1827.27,JPY,False,True,"Feramborghini,BMV,Nord,WV",False,False,True,True
+Drivetrain,Performance Clutch Kit 9JD,Handles more torque from tuned engines.,CVM-86FB-B5BB-9CE8,2021-09-15,1800.12,JPY,True,True,"Nord,WV,Feramborghini,BMV",False,True,True,False
+Drivetrain,Lightweight Flywheel HYB,Improves throttle response.,CVM-9335-CB53-44C8,2018-06-22,850.44,JPY,False,True,"Feramborghini,WV,BMV",True,True,True,False
+Drivetrain,Limited Slip Differential D10,Distributes torque more efficiently to wheels.,CVM-C212-E057-5F82,2024-08-16,132.72,JPY,False,True,"BMV,Feramborghini",True,True,True,True
+Drivetrain,Limited Slip Differential JML,Distributes torque more efficiently to wheels.,CVM-265E-F406-864B,2015-04-17,47.23,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",False,False,False,False
+Drivetrain,Lightweight Flywheel 7NX,Improves throttle response.,CVM-4A95-4C3F-B7E0,2022-10-02,1102.17,JPY,True,True,"WV,Mecentley,BMV",True,False,True,True
+Drivetrain,Lightweight Flywheel UWB,Improves throttle response.,CVM-D969-5AA2-7CE6,2015-01-13,1702.27,JPY,True,True,"Mecentley,Nord,WV",True,True,True,True
+Drivetrain,Limited Slip Differential TJZ,Distributes torque more efficiently to wheels.,CVM-7385-2EEE-A8C0,2019-10-26,1485.95,JPY,True,True,"Nord,Feramborghini",True,True,False,True
+Drivetrain,Aftermarket LSD 2ZZ,Improves grip in cornering and acceleration.,CVM-4839-B885-C01C,2023-04-18,713.95,JPY,True,True,BMV,True,False,True,True
+Drivetrain,Performance Clutch Kit SNY,Handles more torque from tuned engines.,CVM-30B3-8E87-4618,2020-05-27,337.02,JPY,True,False,"Nord,WV,BMV,Feramborghini,Mecentley",True,True,True,False
+Drivetrain,Limited Slip Differential C7S,Distributes torque more efficiently to wheels.,CVM-2628-E5F2-958A,2024-06-28,788.0,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",False,True,True,True
+Drivetrain,Aftermarket LSD 7LL,Improves grip in cornering and acceleration.,CVM-7D05-7073-1A60,2022-06-10,563.77,JPY,False,True,"Feramborghini,Nord",False,True,False,False
+Interior Components,Glove Box V91,Compartment for storing small items.,CVM-8102-2A82-F568,2020-09-11,1341.86,JPY,True,True,"WV,Mecentley,BMV",True,False,True,True
+Interior Components,Seat Motors SHN,Generic Seat Motors,CVM-AC4A-0D62-E213,2021-03-29,1088.67,JPY,True,False,"BMV,Mecentley",True,False,True,False
+Interior Components,Headliner UGJ,Generic Headliner,CVM-D160-1D35-038A,2016-08-24,510.4,JPY,True,True,"WV,BMV,Mecentley,Feramborghini,Nord",True,True,True,True
+Interior Components,Seatbelts R99,Secure passengers to reduce injury risk.,CVM-7291-1149-DDA3,2021-08-01,385.96,JPY,True,False,"Nord,WV",True,True,False,True
+Interior Components,Seats SEL,Generic Seats,CVM-E4EE-2F6D-1DC2,2022-08-03,666.17,JPY,True,False,"Nord,Mecentley,BMV,WV",True,True,True,False
+Interior Components,Center Console L7D,Generic Center Console,CVM-0EE9-22B6-2798,2022-05-04,464.98,JPY,True,True,"Mecentley,Feramborghini,BMV",True,True,True,True
+Interior Components,Handbrake Lever S64,Generic Handbrake Lever,CVM-1CC0-BBCC-01D4,2015-05-13,969.18,JPY,True,False,"Feramborghini,Mecentley,WV,BMV,Nord",False,True,True,True
+Interior Components,Handbrake Lever A18,Generic Handbrake Lever,CVM-02B2-0E61-D1B4,2024-03-28,1004.37,JPY,True,True,"Feramborghini,WV,Mecentley,Nord,BMV",True,False,True,True
+Interior Components,Dashboard 2MA,Houses instruments and controls in front of driver.,CVM-2506-69AB-1D21,2016-12-12,838.91,JPY,True,True,"Nord,Feramborghini",True,True,False,True
+Interior Components,Carpet TJC,Generic Carpet,CVM-BE3C-14C8-97E8,2019-08-03,843.61,JPY,False,True,"Feramborghini,WV,Mecentley,BMV,Nord",False,True,True,True
+Interior Components,Seatbelts FKN,Generic Seatbelts,CVM-FAEC-1751-659A,2024-02-27,85.03,JPY,False,True,"Mecentley,Nord",True,True,False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 7NR","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",CVM-23B0-31F9-BE27,2016-09-21,1877.62,JPY,True,True,"Nord,BMV",False,True,True,True
+Interior Components,Sun Visors TH3,Generic Sun Visors,CVM-56DF-8BEA-F7A4,2015-01-28,1294.28,JPY,True,True,"WV,BMV",True,True,False,False
+Interior Components,Glove Box HJZ,Generic Glove Box,CVM-7151-681B-5791,2017-01-06,1266.49,JPY,False,True,BMV,True,True,False,False
+Interior Components,Dashboard QUK,Generic Dashboard,CVM-CE69-5C3B-01A2,2020-04-07,159.13,JPY,False,True,"BMV,Mecentley",False,False,False,True
+Interior Components,Seats M7O,Provide seating for vehicle occupants.,CVM-6454-64F5-2576,2018-10-31,1335.4,JPY,False,True,"Feramborghini,BMV,Mecentley,WV",True,False,True,False
+Interior Components,Seatbelts LLD,Generic Seatbelts,CVM-2FDD-2F95-8D6F,2020-04-23,1429.11,JPY,True,True,"Feramborghini,BMV,WV,Nord",True,True,True,False
+Interior Components,Sun Visors YKN,Generic Sun Visors,CVM-36D4-DED6-FCA4,2016-10-07,650.73,JPY,False,False,Nord,True,True,True,False
+Interior Components,Carpet MAA,Generic Carpet,CVM-8019-36CC-D5B1,2019-04-30,1759.5,JPY,True,False,"Feramborghini,Nord,Mecentley,BMV",False,True,True,False
+Interior Components,Glove Box U1T,Generic Glove Box,CVM-65AE-3D5B-C430,2021-04-11,1318.03,JPY,False,True,"WV,Feramborghini",True,False,True,False
+Interior Components,Seats OWV,Generic Seats,CVM-8D69-84AC-F31A,2021-02-05,613.76,JPY,False,True,"BMV,Feramborghini",True,False,True,True
+Interior Components,Seat Motors DEW,Generic Seat Motors,CVM-1B07-B569-868B,2024-06-25,1445.0,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,True,True,True
+Interior Components,Center Console AUJ,Generic Center Console,CVM-4AC3-CA94-992D,2019-03-13,1298.74,JPY,False,True,BMV,True,True,True,True
+Interior Components,Sun Visors WR9,Generic Sun Visors,CVM-F6DB-67F3-80B0,2017-04-12,474.27,JPY,True,True,"Feramborghini,Nord,WV,Mecentley",True,True,True,False
+Interior Components,Center Console C9T,Generic Center Console,CVM-5F43-4986-7D6D,2016-02-13,1995.54,JPY,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",False,True,False,True
+Interior Components,Sun Visors 5LW,Generic Sun Visors,CVM-14C4-40D7-1023,2019-12-01,243.6,JPY,False,True,"Nord,BMV,Feramborghini",True,False,False,False
+Interior Components,Sun Visors 5DN,Generic Sun Visors,CVM-71D5-6D27-E92A,2023-12-02,81.64,JPY,False,True,Nord,True,True,False,True
+Interior Components,Seats BOC,Provide seating for vehicle occupants.,CVM-292F-A8FF-2C5D,2019-09-08,895.81,JPY,True,True,"Nord,BMV,WV",False,True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 5TW","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",CVM-19F0-B777-4E6F,2016-06-23,919.45,JPY,True,True,"Nord,BMV,Mecentley",True,False,False,True
+Interior Components,Seats J7Z,Provide seating for vehicle occupants.,CVM-F673-D401-A8C5,2023-04-16,46.29,JPY,False,True,"Mecentley,WV,BMV,Nord,Feramborghini",True,True,True,True
+Interior Components,Carpet NOU,Generic Carpet,CVM-FD64-5FE2-34BF,2025-07-13,983.74,JPY,True,True,"WV,Mecentley,Feramborghini",False,False,True,True
+Interior Components,Glove Box MSP,Compartment for storing small items.,CVM-BB07-67DD-34EB,2025-09-25,79.67,JPY,False,True,"Nord,WV,Feramborghini,BMV,Mecentley",True,True,True,True
+Interior Components,Headliner Q3E,Generic Headliner,CVM-CAD4-C45F-8F9D,2024-01-10,1367.18,JPY,True,True,Mecentley,False,False,True,True
+Interior Components,Gear Shift Knob 6K1,Generic Gear Shift Knob,CVM-E0C9-3CAE-2F75,2016-10-04,1980.77,JPY,False,True,WV,True,True,True,True
+Interior Components,Glove Box JA3,Compartment for storing small items.,CVM-951E-14B6-8B73,2016-12-26,1678.7,JPY,False,True,Feramborghini,False,True,True,True
+Interior Components,Seatbelts T6B,Secure passengers to reduce injury risk.,CVM-12EF-6D6E-FBE8,2024-01-16,1595.31,JPY,True,True,Mecentley,True,False,False,True
+Interior Components,Seats 1QC,Provide seating for vehicle occupants.,CVM-C096-D070-0AAF,2018-11-07,1604.9,JPY,False,True,"Nord,Feramborghini,WV,Mecentley",True,True,True,True
+Interior Components,Sun Visors 55J,Generic Sun Visors,CVM-C1C7-EFFF-0A42,2024-03-10,218.9,JPY,True,True,"Feramborghini,Mecentley,BMV,Nord",True,False,False,False
+Suspension,Adjustable Coilovers 57K,Allow height and damping adjustment.,CVM-DAF8-410B-6A32,2025-07-27,1682.19,JPY,True,True,"BMV,WV",True,True,True,True
+Suspension,Lowering Springs R7B,Lowers ride height and improves handling.,CVM-D400-46DB-FD05,2021-09-12,1336.34,JPY,True,True,WV,False,False,True,True
+Suspension,Strut Tower Brace 5TN,Improves chassis rigidity and cornering.,CVM-16C5-F758-BA68,2019-02-20,835.48,JPY,True,True,Mecentley,True,True,True,True
+Suspension,Lowering Springs T93,Lowers ride height and improves handling.,CVM-CE2A-6974-5A05,2022-07-11,251.51,JPY,True,True,"Nord,Mecentley,Feramborghini,WV",True,True,False,True
+Transmission System,Gearbox MMA,Changes vehicle speed and torque.,CVM-1891-1100-3F33,2017-04-16,1104.91,JPY,True,True,"Mecentley,WV,Feramborghini,Nord",True,True,True,True
+Transmission System,Drive Shaft EBT,Transfers torque from transmission to wheels.,CVM-9F89-84CF-652A,2019-11-01,465.71,JPY,True,True,"WV,Feramborghini,Nord",False,False,True,False
+Transmission System,Axles UX7,Generic Axles,CVM-187B-5B09-EE02,2018-02-02,736.55,JPY,True,False,"WV,Mecentley,Nord,BMV",False,True,True,True
+Transmission System,Differential HV0,Distributes engine torque to drive wheels.,CVM-FC29-9AB2-C9DA,2023-02-14,896.85,JPY,False,True,"Mecentley,Feramborghini",True,False,False,False
+Transmission System,CV Joints KF0,Generic CV Joints,CVM-3253-FF3B-E3B9,2021-07-07,256.28,JPY,False,True,"Feramborghini,WV",False,False,True,True
+Transmission System,Clutch Slave Cylinder 5VL,Generic Clutch Slave Cylinder,CVM-3F2D-0D04-958B,2020-04-02,1899.91,JPY,False,True,"Feramborghini,Nord,WV,BMV",True,False,True,False
+Transmission System,Pressure Plate P9O,Generic Pressure Plate,CVM-A573-6243-BC0E,2024-09-23,254.3,JPY,True,False,"Nord,WV,BMV",False,True,False,True
+Transmission System,Transmission 4BW,Transfers power from engine to wheels.,CVM-DA47-AB4E-B47F,2024-03-03,1358.09,JPY,False,True,"Feramborghini,Mecentley,Nord,WV",True,False,True,True
+Transmission System,Gearbox 07A,Changes vehicle speed and torque.,CVM-AC89-4C4D-852C,2015-03-07,793.65,JPY,True,True,"Mecentley,Nord,BMV",True,True,True,False
+Transmission System,Drive Shaft MDK,Transfers torque from transmission to wheels.,CVM-51E5-A896-1ED8,2020-09-29,1498.95,JPY,True,True,"WV,Nord,Mecentley",False,True,True,False
+Transmission System,Transmission Mount SVI,Generic Transmission Mount,CVM-B4F8-1A88-C061,2019-08-22,357.91,JPY,True,True,Mecentley,True,False,True,False
+Transmission System,Gearbox 0A5,Changes vehicle speed and torque.,CVM-10F5-6DF2-FA6C,2020-11-09,1734.18,JPY,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,False,True,True
+Transmission System,Torque Converter OL2,Generic Torque Converter,CVM-D544-16E4-72C1,2023-11-15,948.98,JPY,True,True,"Nord,Mecentley",False,False,True,False
+Transmission System,Clutch Slave Cylinder MQ1,Generic Clutch Slave Cylinder,CVM-1C1A-FDD3-E7DB,2015-12-31,1489.81,JPY,False,True,"BMV,Mecentley,Nord,WV",False,False,True,False
+Transmission System,Clutch Master Cylinder 7O2,Generic Clutch Master Cylinder,CVM-6801-A11D-09A2,2023-11-15,1864.58,JPY,True,True,Nord,False,False,True,False
+Transmission System,Clutch Slave Cylinder I2S,Generic Clutch Slave Cylinder,CVM-AEC6-45B3-4DDC,2017-03-17,993.38,JPY,True,True,"BMV,WV,Mecentley,Feramborghini,Nord",True,True,True,True
+Transmission System,Drive Shaft T78,Transfers torque from transmission to wheels.,CVM-35CD-0833-F393,2015-09-02,339.73,JPY,True,True,"WV,Nord,Mecentley,Feramborghini,BMV",False,False,True,True
+Transmission System,Torque Converter WVG,Generic Torque Converter,CVM-00F8-211E-E632,2025-05-30,1267.01,JPY,True,True,"Feramborghini,Nord",True,True,True,True
+Transmission System,CV Joints LLQ,Generic CV Joints,CVM-4B98-578C-1C0B,2023-10-21,640.91,JPY,True,True,BMV,True,True,False,True
+Transmission System,Transmission (Manual / Automatic) ORF,Generic Transmission (Manual / Automatic),CVM-4B8D-F393-5664,2016-02-16,565.03,JPY,True,True,"Feramborghini,WV,Nord",True,True,True,True
+Transmission System,Axles N27,Generic Axles,CVM-911D-A23C-E654,2022-01-29,574.03,JPY,True,True,"Mecentley,BMV,WV,Feramborghini,Nord",True,False,False,True
+Transmission System,Drive Shaft LVR,Transfers torque from transmission to wheels.,CVM-8DDB-FDCA-7B2F,2022-06-17,897.38,JPY,True,True,"BMV,Nord",True,True,False,True
+Transmission System,CV Joints RDF,Generic CV Joints,CVM-49B2-C607-8F95,2019-08-26,1903.08,JPY,True,True,Feramborghini,True,True,True,True
+Transmission System,Clutch Plate LA6,Engages and disengages power to transmission.,CVM-1BC5-3530-642B,2020-08-06,1994.71,JPY,False,True,"Mecentley,Nord,WV,BMV,Feramborghini",False,False,False,True
+Transmission System,Synchromesh Gears QJQ,Generic Synchromesh Gears,CVM-5C44-0ACF-529C,2019-10-24,934.53,JPY,True,True,"WV,Feramborghini,Nord,Mecentley",False,False,False,True
+Transmission System,Clutch Plate H4W,Engages and disengages power to transmission.,CVM-77AA-251D-DFF1,2021-03-04,165.88,JPY,True,True,"WV,Feramborghini,Nord",True,False,False,True
+Transmission System,Pressure Plate UW6,Generic Pressure Plate,CVM-C83A-B544-A9FC,2015-04-15,1609.2,JPY,False,True,WV,False,False,False,False
+Transmission System,Clutch Plate 9Z1,Engages and disengages power to transmission.,CVM-3E5B-E5A1-6770,2015-03-02,213.32,JPY,True,False,"Nord,WV",True,True,False,False
+Transmission System,Flywheel WZC,Generic Flywheel,CVM-4D5D-F360-EEE2,2020-03-19,875.63,JPY,True,True,"BMV,Mecentley,WV,Nord",False,False,True,False
+Transmission System,Clutch Master Cylinder 5M6,Generic Clutch Master Cylinder,CVM-ADD2-4231-B37F,2023-03-12,653.07,JPY,False,True,"BMV,WV,Nord",False,True,True,True
+Transmission System,Drive Shaft HB7,Generic Drive Shaft,CVM-6056-0B39-D9EC,2018-07-13,1892.0,JPY,False,True,"Feramborghini,BMV,Nord",False,False,True,False
+Transmission System,Clutch Slave Cylinder 2E7,Generic Clutch Slave Cylinder,CVM-A7F2-50B0-DB3B,2015-04-30,1238.61,JPY,True,True,"Feramborghini,BMV,Nord",True,True,True,True
+Transmission System,Flywheel UO1,Generic Flywheel,CVM-A859-9E66-90DA,2021-02-06,1851.27,JPY,True,True,"WV,Mecentley,BMV",True,False,False,False
+Transmission System,Drive Shaft ED8,Generic Drive Shaft,CVM-ED01-5E29-11C7,2021-03-09,726.91,JPY,False,True,"Mecentley,Feramborghini,WV,Nord",False,False,True,True
+Transmission System,Gearbox A2I,Changes vehicle speed and torque.,CVM-9177-437D-BE6C,2020-08-18,597.96,JPY,True,True,"Feramborghini,WV",False,True,True,True
+Transmission System,Drive Shaft TWX,Transfers torque from transmission to wheels.,CVM-154E-055B-95B4,2024-08-08,1904.72,JPY,True,False,"WV,Feramborghini,Nord",True,True,False,True
+Transmission System,Shift Linkage QSJ,Generic Shift Linkage,CVM-A427-48E7-21EF,2024-02-29,1391.61,JPY,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",True,True,False,True
+Transmission System,Shift Linkage 5N6,Generic Shift Linkage,CVM-7830-99E6-41B5,2016-09-02,881.45,JPY,True,True,"Feramborghini,Nord,BMV",False,False,True,False
+Transmission System,Clutch Plate IS7,Engages and disengages power to transmission.,CVM-B002-440A-6838,2022-04-28,1008.97,JPY,True,True,WV,True,True,False,True
+Transmission System,Gearbox RKI,Generic Gearbox,CVM-04F0-BF3D-0EC9,2016-11-14,1588.3,JPY,True,True,"BMV,WV,Nord,Feramborghini,Mecentley",True,False,True,False
+Transmission System,Transmission Q4K,Transfers power from engine to wheels.,CVM-8C55-9A20-9FD4,2020-12-12,520.67,JPY,True,True,"Nord,Feramborghini",True,False,True,False
+Transmission System,Torque Converter LM0,Generic Torque Converter,CVM-E67A-2995-4E50,2024-05-25,1940.19,JPY,True,False,Feramborghini,True,True,True,False
+Transmission System,Gearbox HER,Changes vehicle speed and torque.,CVM-FCD9-78BB-0608,2020-05-09,967.18,JPY,True,True,"WV,Feramborghini,BMV",True,False,False,True
+Transmission System,Axles 1K8,Generic Axles,CVM-A2F5-F239-9EE0,2016-01-08,858.47,JPY,True,True,BMV,True,True,True,True
+Transmission System,Clutch Plate 7NZ,Generic Clutch Plate,CVM-B2FE-C66A-58DE,2020-10-19,1601.82,JPY,False,True,"WV,BMV,Nord,Feramborghini",False,False,False,True
+Transmission System,Drive Shaft DDY,Generic Drive Shaft,CVM-148D-8268-3CC1,2020-08-22,184.35,JPY,True,True,"Mecentley,Feramborghini",True,False,True,True
+Transmission System,Synchromesh Gears 6JR,Generic Synchromesh Gears,CVM-C196-416D-8387,2021-12-07,378.43,JPY,False,True,"Nord,Feramborghini,BMV",False,True,False,True
+Transmission System,Differential 89X,Distributes engine torque to drive wheels.,CVM-8A51-D661-D468,2025-06-23,124.58,JPY,True,True,"Feramborghini,WV,BMV,Mecentley",False,True,True,False
+Transmission System,Gearbox DN3,Changes vehicle speed and torque.,CVM-25FD-A176-90C1,2020-05-27,1707.17,JPY,True,True,"BMV,WV,Nord,Feramborghini",True,False,True,True
+Transmission System,Drive Shaft H5S,Transfers torque from transmission to wheels.,CVM-2078-5A63-D1E3,2015-08-12,950.71,JPY,True,True,"WV,Feramborghini,Mecentley,Nord,BMV",False,True,True,False
+Transmission System,Differential C3I,Generic Differential,CVM-A6F0-B891-ABEF,2016-09-17,370.29,JPY,False,True,"WV,Feramborghini,Mecentley,Nord,BMV",False,True,True,True
+Transmission System,Shift Linkage 1GT,Generic Shift Linkage,CVM-3AB2-6707-DE63,2024-04-01,429.95,JPY,True,True,"Mecentley,Feramborghini",False,True,True,True
+Transmission System,Clutch Plate VMA,Generic Clutch Plate,CVM-E166-2F48-D9B7,2015-10-08,766.85,JPY,True,True,"Feramborghini,BMV,Nord,WV",False,False,True,False
+Transmission System,Shift Linkage B0J,Generic Shift Linkage,CVM-BE33-B5C1-96AC,2015-06-21,1353.44,JPY,True,True,"Mecentley,WV,Nord,BMV,Feramborghini",False,True,True,True
+Transmission System,Clutch Plate ER1,Engages and disengages power to transmission.,CVM-F0D7-CD11-072E,2021-08-17,648.33,JPY,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,True,True,True
+Transmission System,Drive Shaft LYC,Transfers torque from transmission to wheels.,CVM-4D59-260B-6FCD,2017-10-31,495.92,JPY,True,True,BMV,False,True,False,True
+Transmission System,CV Joints TPJ,Generic CV Joints,CVM-7EAC-2125-81E5,2025-01-07,1375.68,JPY,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",True,False,True,True
+Transmission System,Clutch Plate TXN,Generic Clutch Plate,CVM-C757-0955-49F8,2022-12-22,1052.65,JPY,False,False,"BMV,Mecentley",False,True,True,True
+Transmission System,Differential UEU,Generic Differential,CVM-FAEC-8B24-1911,2021-12-18,218.79,JPY,True,False,"Feramborghini,BMV,Mecentley",True,True,True,True
+Transmission System,Differential SCM,Generic Differential,CVM-8853-EDDF-ADDE,2020-02-25,1354.15,JPY,True,True,"WV,Mecentley",True,False,True,True
+Transmission System,CV Joints DMZ,Generic CV Joints,CVM-25D9-8A57-F3AC,2025-10-24,1795.53,JPY,False,True,"WV,Mecentley",True,True,True,False
+Transmission System,Shift Linkage WEI,Generic Shift Linkage,CVM-0B87-D9AC-2624,2019-11-19,388.56,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord",True,True,False,True
+Transmission System,Clutch Plate ORV,Engages and disengages power to transmission.,CVM-1B35-F0DA-AA4D,2023-09-05,1244.29,JPY,True,True,WV,True,False,True,True
+Transmission System,Shift Linkage M7O,Generic Shift Linkage,CVM-9358-5EBC-C3A6,2022-09-02,305.42,JPY,False,True,"WV,Nord,Mecentley",True,True,False,True
+Transmission System,Differential OSI,Distributes engine torque to drive wheels.,CVM-D439-44C0-A253,2022-06-30,526.87,JPY,True,True,"Nord,Feramborghini,Mecentley,BMV,WV",True,True,False,False
+Transmission System,Transmission Cooler QTA,Generic Transmission Cooler,CVM-3D2C-7139-65F7,2021-01-20,900.78,JPY,True,True,"Nord,BMV",True,False,True,True
+Transmission System,Synchromesh Gears 7J9,Generic Synchromesh Gears,CVM-B721-77A7-13B6,2025-10-18,571.83,JPY,False,False,"BMV,WV,Mecentley,Feramborghini",False,True,True,True
+Transmission System,Clutch Plate 1H7,Engages and disengages power to transmission.,CVM-9835-A2F6-9E82,2023-11-28,1092.93,JPY,True,True,"Mecentley,Nord,BMV",False,True,True,False
+Transmission System,Clutch Plate Y0D,Engages and disengages power to transmission.,CVM-4391-0279-8616,2019-06-18,814.49,JPY,True,True,Nord,False,True,True,True
+Transmission System,Gearbox MVG,Generic Gearbox,CVM-B68D-4E51-62F3,2015-03-08,114.86,JPY,True,True,"Nord,Feramborghini,BMV,WV,Mecentley",False,False,False,True
+Transmission System,CV Joints OED,Generic CV Joints,CVM-8449-7628-5A81,2022-10-22,135.35,JPY,True,True,Mecentley,False,False,False,False
+Transmission System,Clutch Plate NN4,Engages and disengages power to transmission.,CVM-8B1D-997F-EC6F,2016-11-25,813.17,JPY,True,True,"WV,Feramborghini,BMV,Nord",True,True,True,False
+Transmission System,Shift Linkage XF6,Generic Shift Linkage,CVM-ACB6-6D79-05E2,2017-08-01,871.59,JPY,True,True,Mecentley,False,False,True,True
+Transmission System,Axles K91,Generic Axles,CVM-AC41-D604-9FF6,2025-06-16,483.79,JPY,True,True,"WV,BMV,Feramborghini,Nord",False,True,False,True
+Transmission System,Shift Linkage Z8L,Generic Shift Linkage,CVM-72A8-AE3B-F39B,2020-07-27,1271.15,JPY,True,True,"WV,Nord",False,True,False,True
+Transmission System,Clutch Master Cylinder 4GD,Generic Clutch Master Cylinder,CVM-B096-1495-45AD,2025-01-10,1418.84,JPY,True,True,"Feramborghini,Mecentley",False,True,True,True
+Transmission System,Differential 1EI,Generic Differential,CVM-C706-A70A-9943,2023-09-06,686.45,JPY,True,True,Mecentley,False,False,False,False
+Transmission System,Transmission Cooler 3MR,Generic Transmission Cooler,CVM-4C41-5E4D-7147,2021-09-03,285.68,JPY,True,True,"Feramborghini,Nord,BMV,WV",False,True,True,True
+Transmission System,Transmission Cooler 1VY,Generic Transmission Cooler,CVM-92A1-F087-D750,2019-08-23,1779.85,JPY,True,True,"Feramborghini,WV",True,False,False,True
+Transmission System,Shift Linkage 4WV,Generic Shift Linkage,CVM-0B20-0996-4CF2,2015-05-29,71.01,JPY,True,True,"Mecentley,Nord",True,True,True,False
+Transmission System,Transmission (Manual / Automatic) 2IX,Generic Transmission (Manual / Automatic),CVM-8088-584D-E3AE,2025-06-24,1531.59,JPY,True,False,"WV,Mecentley,Feramborghini",True,False,False,False
+Transmission System,Drive Shaft 9B8,Transfers torque from transmission to wheels.,CVM-A336-422A-A3A7,2023-10-03,412.63,JPY,True,True,"BMV,Mecentley,Nord,Feramborghini",True,False,False,True
+Transmission System,Transmission Mount ZFP,Generic Transmission Mount,CVM-9053-C669-83B3,2025-04-19,1708.64,JPY,False,True,"Feramborghini,Nord,WV",True,True,True,True
+Transmission System,Flywheel 78Y,Generic Flywheel,CVM-15D4-EE5A-6DF9,2019-04-05,407.85,JPY,False,True,"Feramborghini,BMV",False,False,True,True
+Transmission System,Drive Shaft 6CS,Transfers torque from transmission to wheels.,CVM-F772-2BF4-81AF,2023-07-03,1730.79,JPY,True,True,Feramborghini,False,True,False,False
+Transmission System,Synchromesh Gears 8H5,Generic Synchromesh Gears,CVM-B286-7779-FF10,2015-12-20,1338.2,JPY,True,True,Mecentley,False,True,True,True
+Transmission System,Clutch Master Cylinder K0I,Generic Clutch Master Cylinder,CVM-ED0A-8751-FC7D,2017-08-11,1496.4,JPY,True,True,"WV,Mecentley",True,True,True,True
+Transmission System,Torque Converter 8M0,Generic Torque Converter,CVM-DF53-CBFA-E6C9,2024-05-15,1780.46,JPY,True,True,"WV,Feramborghini,Nord",True,False,False,False
+Transmission System,CV Joints Z5D,Generic CV Joints,CVM-714D-9E35-57D0,2018-04-22,1803.28,JPY,True,True,Mecentley,True,False,True,True
+Transmission System,Pressure Plate Q3M,Generic Pressure Plate,CVM-CAB4-CC43-E2FC,2022-11-08,934.85,JPY,False,True,"BMV,WV,Feramborghini,Nord,Mecentley",True,False,False,True
+Transmission System,CV Joints ZFZ,Generic CV Joints,CVM-A9AE-F22B-E0BF,2019-08-05,1395.39,JPY,True,True,Mecentley,False,False,True,True
+Transmission System,Gearbox VU5,Generic Gearbox,CVM-16F0-20FA-7700,2023-10-05,599.84,JPY,True,False,"WV,Feramborghini,BMV",False,True,True,False
+Transmission System,Axles BPS,Generic Axles,CVM-02FE-81F0-4D38,2018-01-22,1928.97,JPY,False,True,"BMV,WV,Feramborghini",False,False,False,False
+Transmission System,Drive Shaft MW2,Transfers torque from transmission to wheels.,CVM-B977-A547-2C0A,2018-05-06,530.01,JPY,True,True,"BMV,Mecentley,Feramborghini,WV",True,False,False,True
+Transmission System,Clutch Master Cylinder ZPT,Generic Clutch Master Cylinder,CVM-B4D6-E3B8-10C8,2022-07-06,1444.84,JPY,False,True,"Nord,Mecentley,Feramborghini",False,True,True,False
+Transmission System,Clutch Master Cylinder YPM,Generic Clutch Master Cylinder,CVM-3B3C-E98A-7202,2024-05-14,1518.55,JPY,False,True,"Nord,Mecentley",False,False,False,False
+Transmission System,Transmission Mount SCE,Generic Transmission Mount,CVM-071E-C486-6A05,2021-09-07,1706.41,JPY,True,True,"Feramborghini,Nord,Mecentley,BMV,WV",False,True,True,True
+Transmission System,Clutch Slave Cylinder DWD,Generic Clutch Slave Cylinder,CVM-1E9C-E4CE-CF57,2018-06-09,1467.73,JPY,True,True,"Nord,WV",False,False,True,True
+Transmission System,Drive Shaft UN3,Generic Drive Shaft,CVM-A616-1440-6FEF,2023-01-28,575.96,JPY,True,True,Feramborghini,False,True,True,False
+Engine Care,Oil Catch Can 46E,Traps oil vapor and prevents intake fouling.,CVM-4AC7-ADD0-7C51,2023-02-11,1569.16,JPY,True,True,"Feramborghini,Nord,WV,Mecentley",False,False,True,False
+Engine Care,Oil Catch Can RBB,Traps oil vapor and prevents intake fouling.,CVM-2263-579E-C2F5,2019-02-15,1826.21,JPY,True,True,"WV,BMV",False,True,False,True
+Engine Care,Oil Catch Can ISB,Traps oil vapor and prevents intake fouling.,CVM-82B5-E0AB-B494,2016-02-08,1333.92,JPY,False,True,"WV,Mecentley,Nord,BMV",True,False,False,True
+Electrical and Ignition,O2 Sensor F9J,Monitors oxygen levels in exhaust.,CVM-D3D8-8E5E-38E7,2021-03-29,1596.01,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",True,False,True,True
+Electrical and Ignition,Starter Motor GJU,Cranks the engine to start it.,CVM-2858-23E8-B036,2017-10-08,731.57,JPY,True,True,Mecentley,False,True,False,False
+Electrical and Ignition,Camshaft Position Sensor NL2,Generic Camshaft Position Sensor,CVM-2818-C6F3-024F,2018-09-10,1115.63,JPY,False,True,"BMV,WV,Feramborghini,Nord,Mecentley",False,True,False,False
+Electrical and Ignition,Crankshaft Position Sensor L0W,Tracks crankshaft position.,CVM-5188-E7D7-8729,2018-10-03,1933.56,JPY,True,True,"WV,Mecentley",False,False,False,False
+Electrical and Ignition,Tail Lights QF4,Generic Tail Lights,CVM-8E6D-59AF-ACDC,2024-02-19,1883.36,JPY,True,True,"Feramborghini,Nord",True,False,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) CGG","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",CVM-7795-1D42-E304,2025-08-18,875.18,JPY,True,True,BMV,False,False,True,False
+Electrical and Ignition,Ignition Coils YQL,Generic Ignition Coils,CVM-3E44-18B2-53AC,2017-01-20,933.22,JPY,True,True,"Nord,Feramborghini",True,False,False,True
+Electrical and Ignition,Turn Signals 8IU,Generic Turn Signals,CVM-3C89-0AC2-445E,2025-01-24,1054.61,JPY,True,True,"Mecentley,Nord,Feramborghini",True,False,False,True
+Electrical and Ignition,Camshaft Position Sensor 8OY,Tracks camshaft position.,CVM-5C12-5AC3-CB3F,2020-06-19,702.07,JPY,True,False,"Nord,Mecentley,WV",True,False,True,False
+Electrical and Ignition,Speedometer Sensor K6G,Generic Speedometer Sensor,CVM-57A1-F60F-EC74,2025-12-31,1272.32,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini",True,False,False,True
+Electrical and Ignition,Horn X7L,Generic Horn,CVM-8F59-0B9B-45E2,2023-06-06,955.23,JPY,True,True,"WV,Nord,Feramborghini,BMV",True,False,True,False
+Electrical and Ignition,Speedometer Sensor 5ON,Measures vehicle speed.,CVM-7ED5-2544-F10C,2016-10-13,1152.88,JPY,True,True,Nord,False,False,False,False
+Electrical and Ignition,ECU / PCM / BCM 2K0,Generic ECU / PCM / BCM,CVM-8513-EDC7-0C51,2017-11-12,1943.83,JPY,True,False,"WV,BMV",False,True,True,True
+Electrical and Ignition,Voltage Regulator N70,Controls alternator output.,CVM-274E-BD56-E55B,2024-09-23,601.79,JPY,True,True,"Nord,Feramborghini,BMV",True,True,False,False
+Electrical and Ignition,Wiring Harness BL5,Generic Wiring Harness,CVM-DC9C-7031-1BBC,2019-06-08,846.42,JPY,True,True,"Feramborghini,Nord",True,True,True,False
+Electrical and Ignition,Relays 0BI,Electrically operated switches.,CVM-7DDA-8023-A5CE,2023-07-22,1356.2,JPY,True,False,"Nord,BMV",False,True,False,False
+Electrical and Ignition,Speedometer Sensor PEX,Generic Speedometer Sensor,CVM-332B-1DAF-E265,2022-03-31,1716.08,JPY,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",False,True,True,True
+Electrical and Ignition,Alternator EIR,Charges the battery and powers electrical systems.,CVM-A288-DCE1-0A04,2016-05-23,1809.65,JPY,True,True,"Nord,Feramborghini,BMV,WV",False,True,True,True
+Electrical and Ignition,Turn Signals 8NK,Generic Turn Signals,CVM-9AD4-6609-10EE,2023-03-14,763.24,JPY,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",False,False,False,True
+Electrical and Ignition,Crankshaft Position Sensor EAD,Generic Crankshaft Position Sensor,CVM-2B20-CA8F-5126,2024-02-04,1848.74,JPY,True,True,"Mecentley,WV,BMV,Nord",True,True,False,False
+Electrical and Ignition,Battery L65,Powers vehicle electronics and starts engine.,CVM-417A-68F8-D825,2015-02-08,1271.2,JPY,True,False,"Mecentley,Nord,BMV,Feramborghini,WV",False,False,False,True
+Electrical and Ignition,O2 Sensor 90D,Monitors oxygen levels in exhaust.,CVM-10B7-71D7-86EC,2021-02-12,379.75,JPY,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,True,True,True
+Electrical and Ignition,Battery GE6,Generic Battery,CVM-DB09-7F5D-C2C9,2019-08-20,1456.05,JPY,True,True,"Feramborghini,Nord",False,False,True,True
+Electrical and Ignition,Wiring Harness 0IL,Bundle of wires for electrical connections.,CVM-3A0A-D89D-BAA4,2015-07-31,1170.34,JPY,True,True,"Feramborghini,Nord,Mecentley",True,False,True,True
+Electrical and Ignition,Headlights SSB,Illuminate the road ahead at night.,CVM-9C62-D5DF-5690,2025-05-02,486.94,JPY,True,False,"BMV,Nord,WV",False,True,True,True
+Electrical and Ignition,Crankshaft Position Sensor BCH,Generic Crankshaft Position Sensor,CVM-4D41-50D9-9E11,2024-10-23,1669.46,JPY,False,True,"Feramborghini,Mecentley,WV,BMV,Nord",True,True,False,True
+Electrical and Ignition,TPS Sensor KBG,Measures throttle position.,CVM-7BC1-B61A-D99A,2017-03-03,1172.09,JPY,True,True,"BMV,WV,Mecentley",False,True,False,False
+Electrical and Ignition,Electric Window Motors Y4V,Generic Electric Window Motors,CVM-A82F-3B54-0D48,2021-02-21,1250.55,JPY,True,True,"BMV,WV,Nord,Mecentley",False,True,False,False
+Electrical and Ignition,Crankshaft Position Sensor VRQ,Generic Crankshaft Position Sensor,CVM-E240-B5BD-B227,2025-11-19,46.79,JPY,False,False,Feramborghini,True,True,False,True
+Electrical and Ignition,Alternator N0N,Generic Alternator,CVM-83C1-0420-8401,2024-11-08,95.93,JPY,True,False,Feramborghini,False,True,False,True
+Electrical and Ignition,Fuse Box 89H,Houses fuses that protect circuits.,CVM-4319-9169-6FE4,2020-01-17,1120.52,JPY,True,True,"Feramborghini,WV",True,False,True,True
+Electrical and Ignition,Fuse Box BWY,Generic Fuse Box,CVM-7712-5D72-93C7,2016-07-06,1183.7,JPY,True,True,BMV,True,True,False,True
+Electrical and Ignition,Tail Lights YJ9,Generic Tail Lights,CVM-DA4B-D628-972A,2018-02-25,1163.3,JPY,True,True,"WV,Nord,Feramborghini,Mecentley",True,True,True,False
+Electrical and Ignition,Turn Signals BB2,Indicate direction of intended turns.,CVM-5DD7-1327-C740,2019-03-14,298.1,JPY,False,False,Nord,True,True,True,True
+Electrical and Ignition,MAF Sensor 6ST,Measures air intake for engine.,CVM-DDC3-C407-17AE,2023-11-19,791.62,JPY,True,True,WV,True,True,True,True
+Electrical and Ignition,Battery QET,Powers vehicle electronics and starts engine.,CVM-A115-74DF-E48B,2023-03-21,162.42,JPY,False,True,"Nord,Mecentley,WV,Feramborghini,BMV",True,False,False,False
+Electrical and Ignition,Turn Signals 4JS,Indicate direction of intended turns.,CVM-5B4B-7FF6-089E,2022-06-29,1207.17,JPY,True,False,BMV,True,True,True,False
+Electrical and Ignition,Wiring Harness W2C,Generic Wiring Harness,CVM-6AC5-BE42-2C79,2024-02-21,165.89,JPY,False,True,Nord,True,True,True,True
+Electrical and Ignition,Voltage Regulator BDC,Generic Voltage Regulator,CVM-925E-F0A6-F630,2022-11-09,729.82,JPY,True,True,"WV,Nord,BMV,Mecentley",True,False,True,True
+Electrical and Ignition,Interior Lights H6D,Generic Interior Lights,CVM-A34E-8908-C931,2022-11-06,573.8,JPY,True,True,"BMV,Feramborghini,Mecentley",True,False,False,True
+Electrical and Ignition,Fuse Box 7FM,Protects circuits with fuses.,CVM-A956-2078-1D7A,2021-11-09,757.23,JPY,True,False,"BMV,Feramborghini,Nord,Mecentley",False,True,True,False
+Electrical and Ignition,Wiring Harness FEX,Generic Wiring Harness,CVM-59E0-AED0-4A93,2017-05-23,387.08,JPY,True,False,"BMV,Feramborghini,WV,Mecentley,Nord",True,True,True,True
+Electrical and Ignition,Battery RJ7,Provides electrical power to start the engine.,CVM-16C8-7AE3-2598,2024-12-31,923.93,JPY,True,True,"Feramborghini,BMV",True,True,True,True
+Electrical and Ignition,Relays UC4,Electrically operated switches.,CVM-9197-CEB3-5198,2024-06-26,1298.31,JPY,True,True,Mecentley,True,True,True,True
+Electrical and Ignition,Light Bulbs 79J,Generic Light Bulbs,CVM-F715-5734-A6B3,2022-02-07,437.94,JPY,True,True,"Feramborghini,WV",True,True,False,True
+Electrical and Ignition,Camshaft Position Sensor TQL,Tracks camshaft position.,CVM-4A2B-AC0B-E902,2015-02-20,1299.34,JPY,True,True,"Nord,Feramborghini,Mecentley",True,True,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) IYB","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",CVM-1438-E463-7127,2017-08-30,1271.8,JPY,True,False,BMV,False,False,True,False
+Electrical and Ignition,Knock Sensor 1D7,Detects engine knock.,CVM-D5C1-97E3-5780,2023-12-10,1122.29,JPY,True,False,"Mecentley,Feramborghini",False,True,False,True
+Electrical and Ignition,Alternator 6ID,Charges battery and powers electronics.,CVM-7AFA-5D26-5BF2,2025-11-25,373.83,JPY,False,True,"WV,Nord,BMV",False,False,True,True
+Electrical and Ignition,Speedometer Sensor IB6,Generic Speedometer Sensor,CVM-02E1-15F9-3438,2018-11-04,1556.44,JPY,False,True,"Mecentley,WV,BMV",True,True,False,True
+Electrical and Ignition,Key Fob RS1,Generic Key Fob,CVM-B4A6-3DEA-9191,2015-06-24,653.82,JPY,True,True,"Mecentley,Nord,Feramborghini",True,False,False,False
+Electrical and Ignition,Turn Signals T3Y,Indicate direction of intended turns.,CVM-BB0C-16D5-2536,2021-07-27,1287.78,JPY,True,False,"Mecentley,Nord,WV,BMV,Feramborghini",True,True,True,False
+Electrical and Ignition,Fuse Box 5MZ,Generic Fuse Box,CVM-8298-1AA9-6E3E,2017-11-24,867.47,JPY,False,True,"BMV,Feramborghini,Nord,Mecentley,WV",False,True,True,False
+Electrical and Ignition,Ignition Switch CK7,Generic Ignition Switch,CVM-CFC1-1AEB-829A,2019-10-26,241.09,JPY,False,True,WV,False,True,False,True
+Electrical and Ignition,Turn Signals LU8,Generic Turn Signals,CVM-340E-393F-4FC3,2022-12-28,273.12,JPY,True,True,"Nord,Feramborghini",True,False,False,True
+Electrical and Ignition,Wiring Harness A27,Generic Wiring Harness,CVM-F6DA-2D9F-4E5C,2015-10-06,1697.24,JPY,False,True,"WV,Nord",True,True,True,False
+Electrical and Ignition,MAF Sensor CQM,Measures air intake for engine.,CVM-6CD3-50C3-64AC,2020-03-16,647.6,JPY,False,True,"Mecentley,Feramborghini,Nord,BMV",False,True,True,True
+Electrical and Ignition,Relays IM5,Generic Relays,CVM-0626-551A-6DFA,2016-02-04,25.72,JPY,True,True,WV,False,False,False,True
+Electrical and Ignition,Relays HKL,Generic Relays,CVM-F13F-7100-2D5D,2016-03-26,1069.96,JPY,True,True,"Nord,Mecentley,Feramborghini",False,True,True,True
+Electrical and Ignition,Alternator T9Z,Charges the battery and powers electrical systems.,CVM-7898-22C9-6189,2020-07-25,1300.86,JPY,True,False,BMV,False,False,False,False
+Electrical and Ignition,Crankshaft Position Sensor NAA,Tracks crankshaft position.,CVM-8270-238B-A959,2022-05-14,920.49,JPY,False,True,"Feramborghini,WV,Nord",False,True,True,True
+Electrical and Ignition,Spark Plugs 4CQ,Generic Spark Plugs,CVM-9A94-A7B3-4459,2019-04-01,1149.43,JPY,True,True,"Nord,Feramborghini,WV",True,True,False,True
+Electrical and Ignition,Ignition Switch 0GC,Starts the vehicle.,CVM-71F2-E7AF-DD11,2024-07-27,813.22,JPY,True,True,"Feramborghini,BMV",True,True,False,False
+Electrical and Ignition,Fuse Box 2D1,Generic Fuse Box,CVM-6ABE-B74D-0A84,2016-08-24,1288.7,JPY,False,True,"BMV,Nord",True,True,True,False
+Electrical and Ignition,Light Bulbs 4KO,Generic Light Bulbs,CVM-E1CA-C05B-810D,2022-12-17,381.94,JPY,True,True,"Nord,WV,Mecentley",True,True,False,False
+Electrical and Ignition,Light Bulbs 2Y7,Generic Light Bulbs,CVM-F62B-8E1B-6475,2021-06-13,1522.7,JPY,True,True,"Feramborghini,Nord,WV",True,False,False,False
+Electrical and Ignition,Turn Signals 63P,Generic Turn Signals,CVM-1245-74C0-AF52,2018-09-20,947.19,JPY,True,True,"Mecentley,BMV",False,False,False,False
+Electrical and Ignition,Spark Plugs OSD,Generic Spark Plugs,CVM-D7AE-EA68-7FFC,2021-08-18,147.45,JPY,True,True,"BMV,Nord,Mecentley",True,True,True,False
+Electrical and Ignition,Headlights MMI,Illuminate the road ahead at night.,CVM-C6A5-4BEF-9831,2017-04-27,1240.99,JPY,True,True,Nord,False,False,True,False
+Electrical and Ignition,Crankshaft Position Sensor ZVH,Generic Crankshaft Position Sensor,CVM-686F-8756-A204,2015-09-07,784.1,JPY,True,True,"WV,Mecentley,Nord",True,False,False,True
+Electrical and Ignition,Relays UKU,Electrically operated switches.,CVM-738E-B584-9A38,2022-10-05,400.05,JPY,False,False,"WV,Feramborghini,BMV,Nord,Mecentley",False,True,False,False
+Electrical and Ignition,MAP Sensor 7UI,Monitors air pressure in intake manifold.,CVM-C254-2C6A-981F,2024-02-18,722.09,JPY,True,False,"BMV,Nord,WV",True,True,True,False
+Electrical and Ignition,Wiring Harness YRI,Generic Wiring Harness,CVM-35D5-8293-A5DE,2021-12-25,1084.52,JPY,False,True,Mecentley,False,True,False,False
+Electrical and Ignition,ECU / PCM / BCM E8E,Generic ECU / PCM / BCM,CVM-BC4C-1D68-B87D,2016-01-15,88.47,JPY,False,False,"WV,Mecentley",True,False,False,True
+Electrical and Ignition,Ignition Switch PSX,Generic Ignition Switch,CVM-D3EE-E500-7793,2021-07-09,993.59,JPY,True,True,"WV,BMV,Feramborghini,Nord",True,False,True,True
+Electrical and Ignition,Spark Plugs QRK,Generic Spark Plugs,CVM-4D92-1C85-8764,2024-05-06,744.29,JPY,True,False,"Mecentley,WV,Feramborghini,Nord,BMV",False,True,True,True
+Electrical and Ignition,MAF Sensor F1T,Measures air intake for engine.,CVM-870B-3190-3A14,2024-03-18,1711.3,JPY,True,False,"Nord,BMV",True,True,False,True
+Electrical and Ignition,TPS Sensor YAF,Measures throttle position.,CVM-7B94-15B1-5818,2015-03-30,675.4,JPY,True,True,"WV,BMV,Nord",True,False,True,False
+Electrical and Ignition,Speedometer Sensor 4I2,Generic Speedometer Sensor,CVM-5310-0F99-DFD2,2020-10-04,78.46,JPY,True,True,Mecentley,False,True,False,False
+Electrical and Ignition,Battery 1OK,Powers vehicle electronics and starts engine.,CVM-C0C3-01D3-A818,2025-01-23,956.22,JPY,True,True,"BMV,Mecentley,Feramborghini,Nord",True,True,True,True
+Electrical and Ignition,Wiring Harness AX0,Generic Wiring Harness,CVM-A456-97F1-1B3F,2015-07-24,938.71,JPY,True,True,"BMV,Mecentley",True,False,True,True
+Electrical and Ignition,Starter Motor WPO,Generic Starter Motor,CVM-6EB8-3E48-F0BB,2023-08-31,670.51,JPY,True,True,"Feramborghini,Mecentley,WV",True,True,False,False
+Electrical and Ignition,Battery J0P,Powers vehicle electronics and starts engine.,CVM-413B-26D0-380D,2022-09-19,1708.29,JPY,True,True,"WV,BMV,Nord,Feramborghini,Mecentley",False,True,False,True
+Electrical and Ignition,Spark Plugs AQM,Generic Spark Plugs,CVM-58D9-DF39-D8DD,2025-11-05,1945.06,JPY,True,False,"BMV,Feramborghini",True,False,True,True
+Electrical and Ignition,Voltage Regulator EH5,Controls alternator output.,CVM-7654-FA4D-69A6,2017-07-22,1931.73,JPY,False,True,"Mecentley,Nord,BMV,Feramborghini,WV",True,True,False,False
+Electrical and Ignition,Ignition Coils O7N,Generic Ignition Coils,CVM-2825-00FF-8CB0,2022-09-14,501.29,JPY,True,True,"BMV,Mecentley",True,False,True,True
+Electrical and Ignition,Battery BBH,Provides electrical power to start the engine.,CVM-6A31-F247-F308,2019-01-05,1955.77,JPY,True,True,WV,False,False,False,False
+Electrical and Ignition,MAF Sensor XTM,Measures air intake for engine.,CVM-2664-3AD9-8D4E,2020-01-18,1847.8,JPY,True,True,"Feramborghini,Mecentley",False,True,False,True
+Electrical and Ignition,Starter Motor MJF,Cranks the engine to start it.,CVM-B8AA-350C-F5F4,2024-03-30,1897.58,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",False,True,False,True
+Electrical and Ignition,Horn 6CP,Generic Horn,CVM-4D36-27B9-B01F,2019-10-03,1418.01,JPY,True,True,"Nord,Mecentley",True,True,True,False
+Cooling & HVAC System,Water Pump 4GL,Generic Water Pump,CVM-067B-CC69-86DA,2021-11-28,1212.1,JPY,True,True,"Nord,WV,BMV,Mecentley",True,False,True,False
+Cooling & HVAC System,Radiator Cap E45,Seals radiator and maintains pressure.,CVM-41F2-55B7-F432,2024-10-21,18.86,JPY,True,True,"Nord,WV,Mecentley",False,False,False,False
+Cooling & HVAC System,Cabin Air Filter CJD,Filters air inside the car.,CVM-FEF7-E325-2AC0,2024-04-27,575.29,JPY,True,True,"Mecentley,WV",True,True,True,True
+Cooling & HVAC System,A/C Compressor KNY,Generic A/C Compressor,CVM-C0F7-622C-3053,2024-06-09,1548.39,JPY,True,True,"WV,BMV",True,True,False,True
+Cooling & HVAC System,Heater Blower Motor STH,Drives air through HVAC system.,CVM-D83E-2374-C1D7,2020-07-29,814.74,JPY,True,True,"WV,BMV,Feramborghini,Mecentley",False,True,False,False
+Cooling & HVAC System,Heater Core 5XY,Generic Heater Core,CVM-0EB8-7F45-CFE9,2020-12-08,369.74,JPY,True,True,"Mecentley,BMV,Feramborghini",True,True,True,True
+Cooling & HVAC System,A/C Dryer T2A,Generic A/C Dryer,CVM-2626-025E-AC1C,2020-01-17,148.8,JPY,True,True,"Mecentley,Nord",True,True,False,True
+Cooling & HVAC System,Expansion Valve 24J,Generic Expansion Valve,CVM-636E-D678-9480,2021-08-01,1755.87,JPY,True,True,Feramborghini,False,True,True,True
+Cooling & HVAC System,Heater Blower Motor J8C,Generic Heater Blower Motor,CVM-8019-AE91-043C,2024-03-19,1866.64,JPY,True,True,"BMV,Nord,WV,Mecentley",True,True,False,True
+Cooling & HVAC System,Cabin Air Filter 6V3,Filters air inside the car.,CVM-1112-4676-97D9,2016-07-24,281.92,JPY,False,False,Nord,False,True,False,True
+Cooling & HVAC System,Cabin Air Filter TZO,Filters air inside the car.,CVM-36AE-BD49-5380,2022-04-08,1068.0,JPY,True,True,"BMV,Feramborghini",True,True,False,True
+Cooling & HVAC System,Thermostat Z8I,Generic Thermostat,CVM-B018-9C01-CCFE,2016-02-09,125.12,JPY,True,True,WV,True,False,True,False
+Cooling & HVAC System,Water Pump MRK,Circulates coolant through engine.,CVM-CA1E-7FDF-4F9D,2022-03-07,1294.12,JPY,True,False,"BMV,Feramborghini,Mecentley,Nord,WV",False,True,False,False
+Cooling & HVAC System,Thermostat Housing QNX,Encases the thermostat.,CVM-BCA5-A78D-0234,2017-01-26,1446.09,JPY,True,True,"Mecentley,Nord,Feramborghini,WV",False,False,True,True
+Cooling & HVAC System,A/C Dryer NQ7,Generic A/C Dryer,CVM-D549-0037-03F9,2024-10-23,69.44,JPY,True,True,"WV,Mecentley,Feramborghini,BMV,Nord",True,True,False,True
+Cooling & HVAC System,Cooling Fan BVB,Assists in radiator cooling.,CVM-9EC9-B8C2-082D,2024-01-03,417.28,JPY,False,True,"BMV,WV,Nord,Mecentley",True,False,True,True
+Cooling & HVAC System,Expansion Valve 5KI,Generic Expansion Valve,CVM-356E-942C-FA3D,2021-07-14,1730.33,JPY,True,True,"Mecentley,Nord,Feramborghini",True,True,True,False
+Cooling & HVAC System,A/C Compressor LHS,Compresses refrigerant for air conditioning.,CVM-99E2-E857-B381,2019-11-12,844.46,JPY,True,True,"Feramborghini,Nord,Mecentley,WV,BMV",False,True,False,True
+Cooling & HVAC System,Expansion Valve 944,Generic Expansion Valve,CVM-99D3-1BAF-4D06,2025-04-03,976.75,JPY,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",False,True,True,True
+Cooling & HVAC System,Heater Blower Motor 7GU,Generic Heater Blower Motor,CVM-B90F-9EC6-4EFC,2020-05-05,765.22,JPY,False,True,"Feramborghini,Nord",False,True,False,True
+Cooling & HVAC System,Thermostat USY,Generic Thermostat,CVM-C2B7-BF21-69CD,2018-08-04,673.27,JPY,False,True,Feramborghini,True,True,True,True
+Cooling & HVAC System,Expansion Valve VEJ,Controls refrigerant flow.,CVM-DBA4-9425-B6A7,2025-04-08,179.56,JPY,False,True,"Feramborghini,Nord",True,True,True,True
+Cooling & HVAC System,A/C Compressor 3CU,Generic A/C Compressor,CVM-29C1-1EF5-CA2B,2018-01-04,1332.75,JPY,False,True,"Feramborghini,Mecentley,BMV,Nord,WV",False,False,True,False
+Cooling & HVAC System,Thermostat Housing H3T,Generic Thermostat Housing,CVM-066B-955C-5153,2021-04-10,1987.09,JPY,True,True,"WV,Nord,Feramborghini",True,False,True,False
+Cooling & HVAC System,Radiator Hoses DUR,Carry coolant to and from radiator.,CVM-C88D-9B08-2CAB,2017-01-17,1211.85,JPY,True,True,Feramborghini,True,True,True,False
+Cooling & HVAC System,Water Pump D1X,Circulates coolant through engine.,CVM-71D1-DF2E-0D9F,2019-11-18,1047.17,JPY,True,True,"WV,Nord,Feramborghini",True,False,True,True
+Cooling & HVAC System,Thermostat EIV,Regulates engine coolant temperature.,CVM-8943-8AC0-1359,2016-05-29,1327.35,JPY,True,False,Mecentley,True,False,False,True
+Cooling & HVAC System,Expansion Valve IR1,Generic Expansion Valve,CVM-1894-4E57-617D,2017-02-13,180.33,JPY,False,True,"Nord,Mecentley,BMV,WV,Feramborghini",True,False,False,True
+Cooling & HVAC System,Radiator Cap E1R,Generic Radiator Cap,CVM-E240-4E40-6C9C,2024-04-30,1585.6,JPY,False,True,"Nord,Feramborghini,WV,Mecentley,BMV",False,False,True,True
+Cooling & HVAC System,Thermostat TLK,Generic Thermostat,CVM-8EFB-E2DA-1806,2016-09-20,534.57,JPY,True,False,"BMV,Feramborghini",True,True,True,True
+Cooling & HVAC System,Radiator Cap P2A,Seals radiator and maintains pressure.,CVM-1510-47EC-91D1,2018-04-26,1689.91,JPY,True,True,"Mecentley,BMV,WV,Nord,Feramborghini",False,False,True,False
+Cooling & HVAC System,Cabin Air Filter SAO,Generic Cabin Air Filter,CVM-77E2-3F51-85CC,2023-04-13,582.56,JPY,True,True,"Feramborghini,WV,BMV",False,True,True,True
+Cooling & HVAC System,Thermostat R1N,Regulates engine coolant temperature.,CVM-8032-78B0-3F97,2016-08-15,1827.53,JPY,False,False,Mecentley,True,False,True,True
+Cooling & HVAC System,Water Pump NIH,Generic Water Pump,CVM-D711-2DB2-A589,2023-10-09,1431.82,JPY,False,False,"BMV,Nord,WV,Feramborghini",True,False,False,True
+Cooling & HVAC System,Thermostat Housing 5I5,Encases the thermostat.,CVM-E6E5-25DF-4E5B,2018-07-02,1999.89,JPY,False,False,"Feramborghini,Nord,WV",True,True,True,True
+Cooling & HVAC System,Cooling Fan DVK,Assists in radiator cooling.,CVM-F17D-B2BB-BA50,2024-05-25,1501.33,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",False,False,True,True
+Cooling & HVAC System,Water Pump YYT,Generic Water Pump,CVM-6121-8689-7C75,2023-05-14,1349.47,JPY,True,True,"WV,Feramborghini",True,True,True,True
+Cooling & HVAC System,A/C Lines A8T,Generic A/C Lines,CVM-1B6A-5EA3-37AF,2015-06-06,1423.68,JPY,True,True,"WV,BMV,Nord",True,True,True,True
+Cooling & HVAC System,A/C Condenser AJR,Generic A/C Condenser,CVM-076E-E407-4D90,2018-04-03,312.66,JPY,False,True,"WV,Nord",True,True,True,False
+Cooling & HVAC System,A/C Condenser 1DW,Generic A/C Condenser,CVM-5DD3-D572-2A28,2018-06-06,1840.24,JPY,True,True,"BMV,WV,Nord",False,False,False,False
+Cooling & HVAC System,A/C Compressor EI7,Compresses refrigerant for air conditioning.,CVM-A21B-7468-6BA0,2016-01-22,1631.95,JPY,True,True,"WV,Mecentley,Feramborghini,BMV",True,False,True,False
+Cooling & HVAC System,A/C Condenser QFA,Generic A/C Condenser,CVM-6069-8F08-9A8E,2022-06-10,1985.6,JPY,True,True,"Nord,WV,Feramborghini,Mecentley",False,False,False,False
+Cooling & HVAC System,A/C Condenser 0E8,Releases heat from compressed refrigerant.,CVM-4D0A-7B36-DC47,2016-03-27,926.24,JPY,True,True,"BMV,Nord",True,False,False,True
+Cooling & HVAC System,Heater Blower Motor YRO,Drives air through HVAC system.,CVM-1B44-C522-4F98,2019-08-03,439.41,JPY,False,True,Feramborghini,True,False,False,True
+Cooling & HVAC System,Cooling Fan XKT,Generic Cooling Fan,CVM-81B8-D1AD-56BE,2016-11-02,1938.9,JPY,True,True,"WV,BMV,Feramborghini",True,True,True,False
+Cooling & HVAC System,A/C Compressor 64G,Generic A/C Compressor,CVM-9FA9-BD1F-7C6A,2024-12-20,603.52,JPY,True,True,"BMV,Feramborghini,WV,Mecentley",True,False,True,True
+Cooling & HVAC System,Heater Blower Motor UEN,Drives air through HVAC system.,CVM-9A01-1B13-C009,2023-08-21,1046.65,JPY,True,True,"Mecentley,WV",False,False,True,True
+Cooling & HVAC System,Cabin Air Filter M0B,Generic Cabin Air Filter,CVM-EC9B-5ABB-D16C,2016-03-30,54.29,JPY,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",False,True,True,False
+Cooling & HVAC System,Expansion Valve Z2U,Generic Expansion Valve,CVM-4150-490C-7A31,2025-07-14,1401.77,JPY,True,True,"Nord,WV",False,False,False,True
+Cooling & HVAC System,A/C Dryer DUX,Removes moisture from refrigerant.,CVM-57E7-B863-417F,2017-03-24,1759.3,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord",False,True,True,False
+Cooling & HVAC System,A/C Lines BU9,Transport refrigerant.,CVM-A0D7-B780-80F7,2023-02-07,1272.96,JPY,True,False,"Mecentley,Feramborghini,WV",True,True,True,False
+Cooling & HVAC System,Cabin Air Filter 74R,Generic Cabin Air Filter,CVM-B8AA-21C4-482C,2017-04-22,532.25,JPY,True,True,"BMV,Feramborghini,Mecentley,Nord",True,True,True,True
+Cooling & HVAC System,Cabin Air Filter 5KT,Filters air inside the car.,CVM-B084-FC9F-5BDD,2019-09-07,268.89,JPY,True,True,"BMV,Feramborghini,Nord,WV",True,True,False,True
+Cooling & HVAC System,A/C Dryer IT6,Generic A/C Dryer,CVM-236D-D1C7-7AFD,2018-01-12,823.42,JPY,True,True,"BMV,Feramborghini,Nord,WV",True,False,True,False
+Cooling & HVAC System,Thermostat XAX,Regulates engine coolant temperature.,CVM-DD89-1C3E-EC0E,2020-11-01,1701.79,JPY,True,True,"WV,Nord,Mecentley,Feramborghini,BMV",True,True,True,True
+Cooling & HVAC System,A/C Compressor UFM,Generic A/C Compressor,CVM-370A-F380-DEFD,2020-07-13,992.76,JPY,True,True,"BMV,Feramborghini,Nord",True,True,False,True
+Cooling & HVAC System,Fan Clutch GKG,Generic Fan Clutch,CVM-7CEC-C188-C446,2019-09-21,1261.07,JPY,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",True,True,True,True
+Cooling & HVAC System,Thermostat Housing 2LZ,Generic Thermostat Housing,CVM-0A8E-69CE-370E,2023-07-11,566.4,JPY,True,True,"Mecentley,Nord,BMV,Feramborghini,WV",True,False,True,True
+Cooling & HVAC System,Cooling Fan 390,Assists in radiator cooling.,CVM-E940-252B-6C82,2015-04-01,1418.42,JPY,True,True,"Feramborghini,WV,BMV,Mecentley",True,True,False,True
+Cooling & HVAC System,A/C Compressor WOL,Generic A/C Compressor,CVM-19FF-0ED9-5BC5,2019-06-17,1281.43,JPY,True,False,"BMV,Mecentley,Nord",True,True,False,False
+Cooling & HVAC System,Thermostat 57H,Regulates engine coolant temperature.,CVM-A5AF-44F6-E96A,2023-12-26,609.22,JPY,True,True,"BMV,Mecentley,Feramborghini",False,False,True,True
+Cooling & HVAC System,Cabin Air Filter PNS,Filters air inside the car.,CVM-5175-FD7C-A53C,2020-05-08,404.23,JPY,True,True,"WV,BMV,Feramborghini,Mecentley",True,True,True,True
+Cooling & HVAC System,Radiator Hoses R8C,Carry coolant to and from radiator.,CVM-CFAA-988C-3476,2023-01-11,1271.91,JPY,False,True,"BMV,Nord,WV,Feramborghini",False,True,True,False
+Cooling & HVAC System,Thermostat Housing AGX,Generic Thermostat Housing,CVM-F3EC-94B9-827A,2025-11-28,1411.71,JPY,True,True,Feramborghini,True,False,True,True
+Safety Systems,Roll Cage (in racing cars) FYJ,Generic Roll Cage (in racing cars),CVM-45F5-9F19-F9C9,2015-05-03,601.06,JPY,True,True,WV,False,True,True,True
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) TMW","Generic Airbags (Front, Side, Curtain, Knee)",CVM-C7EA-8D97-9465,2018-10-07,34.85,JPY,True,True,"Nord,Feramborghini",True,True,False,True
+Suspension and Steering,Control Arms 42C,Generic Control Arms,CVM-9991-700E-7F9F,2024-10-19,861.04,JPY,True,True,"Mecentley,Feramborghini,BMV",True,True,True,True
+Suspension and Steering,Coil Springs 2BD,Support vehicle weight and absorb shocks.,CVM-E412-9C74-6D18,2022-10-25,555.44,JPY,False,True,"Mecentley,Feramborghini,WV",False,True,True,False
+Suspension and Steering,Steering Rack 9QL,Generic Steering Rack,CVM-1980-02FE-CF93,2024-06-13,849.33,JPY,True,True,"Mecentley,WV",True,True,False,True
+Suspension and Steering,Alignment Shims S9U,Generic Alignment Shims,CVM-6478-41EE-8F4F,2018-08-31,1921.16,JPY,False,False,Nord,False,False,False,True
+Suspension and Steering,Leaf Springs IX1,Generic Leaf Springs,CVM-663D-F20A-E15B,2018-08-17,1905.1,JPY,False,True,"WV,Nord,BMV,Mecentley",False,False,False,True
+Suspension and Steering,Control Arms XMB,Generic Control Arms,CVM-D1DD-0FF0-B587,2016-03-24,960.47,JPY,True,False,"Nord,WV,Mecentley,Feramborghini",False,False,False,False
+Suspension and Steering,Tie Rods D0X,Generic Tie Rods,CVM-4E84-B2DA-6CC9,2019-05-15,1685.46,JPY,True,True,"Feramborghini,WV,BMV",False,True,True,False
+Suspension and Steering,Steering Wheel WQ1,Generic Steering Wheel,CVM-72E0-0A9E-F977,2023-06-23,536.56,JPY,True,True,"Feramborghini,Nord,WV,Mecentley",True,True,True,True
+Suspension and Steering,Wheel Hub IMB,Generic Wheel Hub,CVM-DFFA-2F52-C4DF,2021-01-19,1480.32,JPY,True,True,"Nord,BMV,Feramborghini,WV,Mecentley",True,False,False,False
+Suspension and Steering,Steering Wheel 5RK,Generic Steering Wheel,CVM-A8F2-F02B-B7DE,2021-07-02,647.55,JPY,False,True,"Nord,BMV",True,False,False,False
+Suspension and Steering,Coil Springs 5XL,Support vehicle weight and absorb shocks.,CVM-607A-6BB0-28CF,2018-10-27,1336.44,JPY,True,True,Feramborghini,True,True,False,True
+Suspension and Steering,Coil Springs 0QX,Generic Coil Springs,CVM-76EB-F13C-30C6,2018-06-15,299.06,JPY,False,False,"Nord,WV,Mecentley,Feramborghini,BMV",True,False,False,True
+Suspension and Steering,Shock Absorbers 45P,Dampen spring movement for smoother ride.,CVM-082B-C6EF-9C3F,2016-03-27,761.92,JPY,False,True,Nord,True,False,False,True
+Suspension and Steering,Wheel Bearings TFN,Generic Wheel Bearings,CVM-5626-07AE-384C,2020-12-19,741.36,JPY,True,True,"Feramborghini,BMV,WV",True,False,False,True
+Suspension and Steering,Control Arms 5XD,Generic Control Arms,CVM-3DEB-25E5-9390,2021-04-24,965.84,JPY,True,True,Nord,True,True,False,True
+Suspension and Steering,Wheel Bearings ZJG,Generic Wheel Bearings,CVM-52C3-D0F8-4031,2020-04-23,622.93,JPY,True,True,Mecentley,True,True,False,True
+Suspension and Steering,Power Steering Pump C3S,Generic Power Steering Pump,CVM-6FB3-8002-8392,2016-05-04,78.16,JPY,True,True,"Mecentley,WV,Feramborghini,BMV",False,False,True,False
+Suspension and Steering,Wheel Hub 55J,Generic Wheel Hub,CVM-3576-2E8B-9F97,2016-08-31,1072.34,JPY,True,False,"Mecentley,WV,Feramborghini,BMV",True,True,True,False
+Suspension and Steering,Shock Absorbers 0KE,Dampen spring movement for smoother ride.,CVM-279F-6E73-8474,2016-04-28,1054.42,JPY,True,True,"BMV,Feramborghini,Mecentley,WV,Nord",True,False,False,False
+Suspension and Steering,Steering Rack 0I7,Generic Steering Rack,CVM-9295-D7A3-4EE2,2022-09-15,1039.81,JPY,False,True,"Mecentley,Nord,BMV",False,False,False,True
+Suspension and Steering,Steering Column NNP,Generic Steering Column,CVM-1EAE-4220-1102,2016-10-29,300.25,JPY,True,False,"BMV,Nord,Feramborghini,Mecentley,WV",True,False,False,False
+Suspension and Steering,Steering Wheel UST,Generic Steering Wheel,CVM-C37C-79C1-95C0,2015-05-22,827.37,JPY,True,False,"WV,Feramborghini,Mecentley,Nord",True,True,True,True
+Suspension and Steering,Control Arms 3YU,Connect wheel hub to vehicle frame.,CVM-1E38-6566-6639,2025-01-10,890.46,JPY,True,True,"Nord,Feramborghini",False,True,False,True
+Suspension and Steering,Coil Springs CN9,Support vehicle weight and absorb shocks.,CVM-12F3-57A0-0A32,2020-11-03,1089.35,JPY,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,True,True,True
+Suspension and Steering,Coil Springs KMG,Support vehicle weight and absorb shocks.,CVM-4686-6C30-5376,2023-08-31,625.72,JPY,True,False,"WV,BMV,Nord,Feramborghini",False,False,True,True
+Suspension and Steering,Shock Absorbers OOH,Dampen spring movement for smoother ride.,CVM-EA4E-C49B-6820,2021-08-02,125.29,JPY,True,True,"Mecentley,Feramborghini,WV,Nord",False,True,False,True
+Suspension and Steering,Steering Wheel F1Y,Allows driver to steer the vehicle.,CVM-CC33-27B5-8EA8,2015-01-20,768.82,JPY,False,True,BMV,False,True,True,True
+Suspension and Steering,Wheel Hub NLZ,Generic Wheel Hub,CVM-D840-1039-AD5A,2015-05-05,148.06,JPY,True,True,WV,True,True,True,True
+Suspension and Steering,Control Arms EPZ,Connect wheel hub to vehicle frame.,CVM-D275-6C43-EFF3,2018-09-03,878.3,JPY,True,True,"Mecentley,BMV,WV,Nord",False,True,True,False
+Suspension and Steering,Control Arms GCX,Connect wheel hub to vehicle frame.,CVM-DD55-05E1-3359,2016-04-30,53.81,JPY,True,True,WV,True,True,True,True
+Suspension and Steering,Ball Joints RZT,Generic Ball Joints,CVM-B9EC-A1CD-3CE5,2015-03-21,1745.48,JPY,False,True,"WV,Mecentley,Nord",True,True,True,False
+Suspension and Steering,Coil Springs JHN,Generic Coil Springs,CVM-B7AC-9450-F2F4,2020-10-05,953.01,JPY,True,True,"Feramborghini,BMV",True,True,True,False
+Suspension and Steering,Tie Rods O4I,Generic Tie Rods,CVM-65A5-234D-B96A,2015-05-16,934.78,JPY,False,True,"Feramborghini,WV,BMV,Mecentley",True,True,False,False
+Suspension and Steering,Power Steering Pump 6AZ,Generic Power Steering Pump,CVM-3809-03FA-7FD1,2019-08-19,881.81,JPY,True,True,"Mecentley,BMV,Nord,WV",False,True,True,True
+Suspension and Steering,Wheel Hub BOT,Generic Wheel Hub,CVM-A9E3-51CF-9896,2019-06-21,1552.89,JPY,False,True,"BMV,WV,Mecentley,Feramborghini",False,True,False,False
+Suspension and Steering,Wheel Hub 43H,Generic Wheel Hub,CVM-6AD7-F0E1-2F1F,2015-06-25,1936.87,JPY,True,True,"Mecentley,BMV,Nord,Feramborghini",True,False,True,True
+Suspension and Steering,Coil Springs V9E,Support vehicle weight and absorb shocks.,CVM-52E7-1F2D-CD5A,2025-03-20,1818.47,JPY,True,True,"BMV,WV,Mecentley",False,True,False,True
+Suspension and Steering,Power Steering Pump L6L,Generic Power Steering Pump,CVM-9AB4-AB87-938A,2023-12-28,1785.85,JPY,True,True,"Feramborghini,BMV,Mecentley,WV",True,True,True,True
+Suspension and Steering,Coil Springs 9FU,Generic Coil Springs,CVM-F175-E7C1-1F7B,2019-04-19,253.43,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",False,True,True,True
+Suspension and Steering,Tie Rods B8O,Generic Tie Rods,CVM-E54F-F7E2-41C5,2022-10-11,1246.01,JPY,True,False,"WV,Mecentley,Feramborghini,Nord",False,False,False,True
+Suspension and Steering,Steering Wheel C1Q,Generic Steering Wheel,CVM-95C6-231D-13BE,2021-07-08,1851.92,JPY,True,True,"Nord,Mecentley,BMV,WV,Feramborghini",True,True,True,True
+Suspension and Steering,Wheel Bearings IE8,Generic Wheel Bearings,CVM-DD3B-C8DF-6612,2019-11-23,80.74,JPY,True,True,WV,True,False,True,True
+Suspension and Steering,Control Arms CMQ,Generic Control Arms,CVM-B703-9083-B4D3,2023-02-03,1554.81,JPY,True,True,"WV,Feramborghini,Nord,BMV",False,False,True,False
+Suspension and Steering,Alignment Shims QIB,Generic Alignment Shims,CVM-E5A6-660C-F2EF,2021-09-08,1032.7,JPY,False,True,"Mecentley,BMV,Feramborghini,WV,Nord",False,False,True,True
+Suspension and Steering,Wheel Hub 7WS,Generic Wheel Hub,CVM-7D0E-B901-D9A9,2016-01-19,797.1,JPY,True,True,BMV,False,True,False,True
+Suspension and Steering,Steering Rack JOK,Generic Steering Rack,CVM-02F4-3708-95F6,2024-10-21,1682.1,JPY,True,True,"Feramborghini,WV",True,True,True,False
+Suspension and Steering,Leaf Springs IS6,Generic Leaf Springs,CVM-3892-A8E4-35E3,2017-02-21,323.2,JPY,True,True,"Mecentley,WV,Feramborghini",False,False,True,True
+Suspension and Steering,Steering Wheel 1SU,Generic Steering Wheel,CVM-B37A-F514-B3FC,2015-05-05,1771.52,JPY,True,True,Mecentley,True,True,True,True
+Suspension and Steering,Coil Springs QER,Generic Coil Springs,CVM-72C2-BBE9-280C,2022-02-13,1110.32,JPY,True,False,"Mecentley,BMV",True,True,True,True
+Suspension and Steering,Ball Joints 5XR,Generic Ball Joints,CVM-58D0-DB90-E12C,2019-08-02,985.97,JPY,True,True,"Nord,WV",True,True,False,True
+Suspension and Steering,Wheel Hub X6Y,Generic Wheel Hub,CVM-DD13-B072-CA2F,2019-03-08,374.08,JPY,True,True,"BMV,WV",False,True,False,True
+Suspension and Steering,Shock Absorbers / Struts DKO,Generic Shock Absorbers / Struts,CVM-81B0-A27C-EFA3,2019-04-09,1372.16,JPY,True,True,"WV,Nord,BMV,Mecentley",False,True,True,True
+Suspension and Steering,Ball Joints 30S,Generic Ball Joints,CVM-CFFC-6879-37A9,2022-03-07,1708.69,JPY,False,True,Mecentley,True,True,True,False
+Suspension and Steering,Coil Springs P4I,Generic Coil Springs,CVM-B745-9231-7148,2017-05-15,1292.82,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,True,True,True
+Suspension and Steering,Control Arms M39,Connect wheel hub to vehicle frame.,CVM-2C8A-7FD7-5194,2015-03-31,1605.58,JPY,True,True,Mecentley,False,False,True,True
+Suspension and Steering,Coil Springs CNL,Support vehicle weight and absorb shocks.,CVM-3FE6-9D3B-704B,2021-11-07,1691.07,JPY,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",True,False,True,True
+Suspension and Steering,Tie Rods 5H2,Generic Tie Rods,CVM-7B80-5CB9-05EA,2024-11-18,1915.92,JPY,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,False,False,True
+Suspension and Steering,Steering Column FPB,Generic Steering Column,CVM-DFF5-B372-0F6B,2020-05-07,340.08,JPY,False,True,"BMV,Feramborghini,Nord,WV",True,False,True,True
+Suspension and Steering,Control Arms 1JV,Connect wheel hub to vehicle frame.,CVM-C28D-6F79-8934,2021-07-25,1593.6,JPY,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",False,True,True,True
+Suspension and Steering,Power Steering Pump 0HC,Generic Power Steering Pump,CVM-225C-E027-7939,2017-07-03,786.57,JPY,True,True,"Nord,Feramborghini,WV,Mecentley",True,True,False,True
+Suspension and Steering,Wheel Hub W0K,Generic Wheel Hub,CVM-4425-9B0A-BA2E,2015-01-19,1010.08,JPY,True,True,"BMV,Feramborghini",True,True,True,False
+Suspension and Steering,Wheel Bearings CMW,Generic Wheel Bearings,CVM-A2F7-A872-67A0,2022-11-03,701.22,JPY,True,True,"WV,Mecentley",True,True,True,False
+Suspension and Steering,Coil Springs 00B,Support vehicle weight and absorb shocks.,CVM-EFDB-E0FF-3451,2022-04-20,1892.56,JPY,True,False,Nord,False,True,True,False
+Suspension and Steering,Torsion Bar 9XV,Generic Torsion Bar,CVM-3C70-91BB-8C00,2016-05-15,872.94,JPY,True,True,BMV,True,False,True,False
+Suspension and Steering,Sway Bar / Anti-roll Bar E6V,Generic Sway Bar / Anti-roll Bar,CVM-D752-015D-EBC2,2019-01-24,1025.43,JPY,True,True,"Feramborghini,BMV",True,False,True,False
+Suspension and Steering,Coil Springs AZH,Generic Coil Springs,CVM-BE51-5B2D-1CB4,2019-10-22,1995.01,JPY,True,True,"Nord,WV",True,True,True,True
+Suspension and Steering,Coil Springs 12U,Generic Coil Springs,CVM-029F-C7CB-512B,2015-07-20,1730.83,JPY,True,False,"BMV,Feramborghini",True,True,True,False
+Suspension and Steering,Coil Springs IOO,Support vehicle weight and absorb shocks.,CVM-2274-2C0E-0B48,2025-09-18,112.93,JPY,True,True,"WV,BMV,Mecentley",False,True,True,True
+Suspension and Steering,Steering Wheel FCO,Allows driver to steer the vehicle.,CVM-0ACE-B8BB-65CE,2016-11-07,1680.25,JPY,False,True,"Mecentley,BMV,Nord,WV,Feramborghini",True,False,True,True
+Suspension and Steering,Steering Wheel N63,Allows driver to steer the vehicle.,CVM-BE29-3E93-FF69,2024-06-27,1821.66,JPY,True,True,WV,False,False,True,True
+Cooling System,Performance Radiator RG1,Increased cooling capacity for high performance.,CVM-D6D4-DB02-F788,2016-12-02,960.39,JPY,True,True,"WV,Nord,Mecentley,Feramborghini",True,True,False,False
+Cooling System,Performance Radiator OQP,Increased cooling capacity for high performance.,CVM-912E-7368-E3CB,2019-02-05,1805.72,JPY,True,False,"Feramborghini,BMV,Mecentley,Nord",False,True,True,True
+Cooling System,Performance Radiator PY2,Increased cooling capacity for high performance.,CVM-9E20-25CF-EC38,2022-05-02,1622.2,JPY,True,True,"WV,BMV,Feramborghini",True,False,True,False
+Cooling System,Performance Radiator H8P,Increased cooling capacity for high performance.,CVM-7400-0718-FD96,2016-02-28,58.59,JPY,True,True,"Mecentley,BMV,Nord,WV,Feramborghini",False,True,False,True
+Ignition System,High-Performance Spark Plugs FSD,Provide better combustion efficiency.,CVM-A5D6-1F5E-497F,2017-04-07,1758.86,JPY,False,True,"BMV,Feramborghini",False,True,True,False
+Ignition System,High-Performance Spark Plugs 585,Provide better combustion efficiency.,CVM-5264-6A3F-76E0,2021-11-01,106.33,JPY,False,True,Nord,False,False,True,False
+Wheels and Tires,Tires QIQ,Generic Tires,CVM-8DBF-2BD4-3667,2022-02-04,1807.08,JPY,True,True,"Nord,BMV",False,True,True,True
+Wheels and Tires,Hubcaps TSS,Generic Hubcaps,CVM-3787-6911-0BA5,2024-05-13,114.86,JPY,True,True,WV,False,True,False,True
+Transmission,Short Throw Shifter CAD,Reduces shift distance for quicker gear changes.,CVM-96D5-9E38-BF15,2020-03-10,1222.27,JPY,True,True,"Nord,Feramborghini,BMV,WV",True,True,True,True
+Transmission,Short Throw Shifter KWT,Reduces shift distance for quicker gear changes.,CVM-4092-A634-BB37,2015-06-13,768.24,JPY,True,True,Feramborghini,False,True,True,False
+Transmission,Short Throw Shifter 46G,Reduces shift distance for quicker gear changes.,CVM-4B2E-E2EF-EAF5,2024-02-27,1590.99,JPY,False,True,"BMV,WV,Feramborghini",True,False,True,True
+Transmission,Short Throw Shifter 2B4,Reduces shift distance for quicker gear changes.,CVM-85FE-DC4C-D993,2022-08-08,63.41,JPY,True,False,"Feramborghini,WV,BMV",False,True,False,False
+Transmission,Short Throw Shifter QTB,Reduces shift distance for quicker gear changes.,CVM-AC46-5822-5A1F,2016-10-15,856.29,JPY,True,True,"Nord,BMV,Mecentley",False,False,True,True

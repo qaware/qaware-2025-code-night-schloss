@@ -1,0 +1,2460 @@
+[
+  {
+    "category": "Wheels and Tires",
+    "name": "271 Tires",
+    "description": "Generic Tires",
+    "serial": "MG-SN20250625-3954",
+    "production_date": "2024-08-06",
+    "price": 104.73,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Wheels and Tires",
+    "name": "557 Hubcaps",
+    "description": "Generic Hubcaps",
+    "serial": "MG-SN20250625-7848",
+    "production_date": "2015-04-26",
+    "price": 1922.1,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Wheels and Tires",
+    "name": "339 Valve Stems",
+    "description": "Generic Valve Stems",
+    "serial": "MG-SN20250625-5010",
+    "production_date": "2018-06-18",
+    "price": 1475.73,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Wheels and Tires",
+    "name": "435 Rims / Wheels",
+    "description": "Generic Rims / Wheels",
+    "serial": "MG-SN20250625-2296",
+    "production_date": "2016-09-22",
+    "price": 1814.45,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Wheels and Tires",
+    "name": "332 Wheel Bolts / Lug Nuts",
+    "description": "Generic Wheel Bolts / Lug Nuts",
+    "serial": "MG-SN20250625-1623",
+    "production_date": "2024-11-29",
+    "price": 882.47,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "157 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-6713",
+    "production_date": "2022-08-07",
+    "price": 801.44,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "Mecentley",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "464 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-1917",
+    "production_date": "2018-05-13",
+    "price": 1083.82,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley",
+      "Nord",
+      "BMV",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "542 Aero Canards",
+    "description": "Enhance airflow and cornering stability.",
+    "serial": "MG-SN20250625-3852",
+    "production_date": "2022-03-12",
+    "price": 489.53,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "650 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-5415",
+    "production_date": "2024-09-27",
+    "price": 16.32,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "WV",
+      "Nord",
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "020 Rear Diffuser",
+    "description": "Improves underbody airflow and downforce.",
+    "serial": "MG-SN20250625-9771",
+    "production_date": "2021-10-16",
+    "price": 996.11,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "BMV",
+      "WV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "919 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-3852",
+    "production_date": "2021-12-26",
+    "price": 1283.33,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord",
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "020 Carbon Fiber Spoiler",
+    "description": "Increases rear downforce.",
+    "serial": "MG-SN20250625-5580",
+    "production_date": "2015-12-15",
+    "price": 589.57,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "943 Rear Diffuser",
+    "description": "Improves underbody airflow and downforce.",
+    "serial": "MG-SN20250625-2525",
+    "production_date": "2023-07-24",
+    "price": 1307.62,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "WV",
+      "Nord",
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "844 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-9054",
+    "production_date": "2020-09-30",
+    "price": 238.34,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "095 Rear Diffuser",
+    "description": "Improves underbody airflow and downforce.",
+    "serial": "MG-SN20250625-8053",
+    "production_date": "2019-02-16",
+    "price": 807.45,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "604 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-4406",
+    "production_date": "2025-10-10",
+    "price": 219.32,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "777 Aero Canards",
+    "description": "Enhance airflow and cornering stability.",
+    "serial": "MG-SN20250625-7377",
+    "production_date": "2015-11-02",
+    "price": 1621.48,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "441 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-7381",
+    "production_date": "2022-09-08",
+    "price": 1428.66,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "660 Aero Canards",
+    "description": "Enhance airflow and cornering stability.",
+    "serial": "MG-SN20250625-5514",
+    "production_date": "2024-05-18",
+    "price": 916.46,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "Feramborghini",
+      "WV",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "951 Widebody Kit",
+    "description": "Allows wider tires and improves stance.",
+    "serial": "MG-SN20250625-2421",
+    "production_date": "2015-09-25",
+    "price": 1472.13,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley",
+      "WV",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "565 Widebody Kit",
+    "description": "Allows wider tires and improves stance.",
+    "serial": "MG-SN20250625-2436",
+    "production_date": "2019-02-07",
+    "price": 268.2,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "Mecentley",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "737 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-1367",
+    "production_date": "2020-01-17",
+    "price": 1290.66,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "155 Rear Diffuser",
+    "description": "Improves underbody airflow and downforce.",
+    "serial": "MG-SN20250625-9183",
+    "production_date": "2018-02-16",
+    "price": 582.81,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "718 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-2101",
+    "production_date": "2018-01-01",
+    "price": 1474.49,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "BMV",
+      "Mecentley",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "671 Aero Canards",
+    "description": "Enhance airflow and cornering stability.",
+    "serial": "MG-SN20250625-3315",
+    "production_date": "2019-10-31",
+    "price": 613.42,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "044 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-1747",
+    "production_date": "2017-10-08",
+    "price": 1579.44,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "137 Aero Canards",
+    "description": "Enhance airflow and cornering stability.",
+    "serial": "MG-SN20250625-3544",
+    "production_date": "2021-06-11",
+    "price": 191.19,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley",
+      "WV",
+      "Feramborghini",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "613 Carbon Fiber Spoiler",
+    "description": "Increases rear downforce.",
+    "serial": "MG-SN20250625-5651",
+    "production_date": "2016-08-12",
+    "price": 1043.9,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "679 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-2684",
+    "production_date": "2023-06-10",
+    "price": 979.89,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "223 Carbon Fiber Hood",
+    "description": "Reduces weight and improves aerodynamics.",
+    "serial": "MG-SN20250625-3718",
+    "production_date": "2018-06-10",
+    "price": 535.96,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Feramborghini",
+      "Mecentley",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "517 Widebody Kit",
+    "description": "Allows wider tires and improves stance.",
+    "serial": "MG-SN20250625-3934",
+    "production_date": "2021-05-15",
+    "price": 392.71,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "709 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-6620",
+    "production_date": "2021-05-09",
+    "price": 1597.98,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "BMV",
+      "Feramborghini",
+      "Nord",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Exterior",
+    "name": "405 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-3366",
+    "production_date": "2017-05-19",
+    "price": 602.09,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "729 Front Splitter",
+    "description": "Adds front-end downforce.",
+    "serial": "MG-SN20250625-6624",
+    "production_date": "2023-06-10",
+    "price": 246.84,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Exterior",
+    "name": "524 Rear Diffuser",
+    "description": "Improves underbody airflow and downforce.",
+    "serial": "MG-SN20250625-4155",
+    "production_date": "2024-01-25",
+    "price": 574.72,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "153 Side Mirrors",
+    "description": "Generic Side Mirrors",
+    "serial": "MG-SN20250625-5093",
+    "production_date": "2018-08-15",
+    "price": 81.4,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord",
+      "Mecentley",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "921 Wiper Arms",
+    "description": "Generic Wiper Arms",
+    "serial": "MG-SN20250625-7224",
+    "production_date": "2022-09-12",
+    "price": 139.53,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "267 Windshield",
+    "description": "Front glass panel for visibility and protection.",
+    "serial": "MG-SN20250625-4853",
+    "production_date": "2024-03-29",
+    "price": 290.5,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "444 Trunk",
+    "description": "Storage compartment at rear of vehicle.",
+    "serial": "MG-SN20250625-5736",
+    "production_date": "2018-01-06",
+    "price": 890.12,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "Nord",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "597 Roof Rack",
+    "description": "Generic Roof Rack",
+    "serial": "MG-SN20250625-9784",
+    "production_date": "2017-03-06",
+    "price": 1421.77,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "WV",
+      "BMV",
+      "Feramborghini",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "104 Windshield Washer Pump",
+    "description": "Generic Windshield Washer Pump",
+    "serial": "MG-SN20250625-5954",
+    "production_date": "2022-01-18",
+    "price": 183.03,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "BMV",
+      "Mecentley",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "830 Emblems / Badges",
+    "description": "Generic Emblems / Badges",
+    "serial": "MG-SN20250625-8307",
+    "production_date": "2021-04-27",
+    "price": 1565.08,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord",
+      "BMV",
+      "WV",
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "914 Doors",
+    "description": "Allow entry and exit from the vehicle.",
+    "serial": "MG-SN20250625-4007",
+    "production_date": "2015-12-28",
+    "price": 1619.12,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "608 Roof Rack",
+    "description": "Generic Roof Rack",
+    "serial": "MG-SN20250625-7140",
+    "production_date": "2023-08-25",
+    "price": 1653.2,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "BMV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "072 Bumpers",
+    "description": "Protects car front and rear from impacts.",
+    "serial": "MG-SN20250625-4569",
+    "production_date": "2023-08-29",
+    "price": 959.06,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "261 Emblems / Badges",
+    "description": "Generic Emblems / Badges",
+    "serial": "MG-SN20250625-5960",
+    "production_date": "2025-04-17",
+    "price": 1806.26,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "514 Window Seals",
+    "description": "Generic Window Seals",
+    "serial": "MG-SN20250625-9891",
+    "production_date": "2017-01-13",
+    "price": 169.17,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "693 Emblems / Badges",
+    "description": "Generic Emblems / Badges",
+    "serial": "MG-SN20250625-3235",
+    "production_date": "2025-10-02",
+    "price": 885.86,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "337 Bumpers (Front, Rear)",
+    "description": "Generic Bumpers (Front, Rear)",
+    "serial": "MG-SN20250625-2707",
+    "production_date": "2021-09-25",
+    "price": 761.91,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "869 Grille",
+    "description": "Generic Grille",
+    "serial": "MG-SN20250625-9952",
+    "production_date": "2019-07-03",
+    "price": 1687.98,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley",
+      "Feramborghini",
+      "WV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "015 Wiper Arms",
+    "description": "Generic Wiper Arms",
+    "serial": "MG-SN20250625-8044",
+    "production_date": "2017-08-09",
+    "price": 1602.45,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord",
+      "WV",
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "950 Bumpers",
+    "description": "Protects car front and rear from impacts.",
+    "serial": "MG-SN20250625-7677",
+    "production_date": "2020-01-01",
+    "price": 608.6,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "Nord",
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "715 Doors",
+    "description": "Generic Doors",
+    "serial": "MG-SN20250625-9695",
+    "production_date": "2020-02-22",
+    "price": 983.47,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "WV",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "253 Rear Window",
+    "description": "Generic Rear Window",
+    "serial": "MG-SN20250625-7138",
+    "production_date": "2020-07-18",
+    "price": 795.35,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "465 Wiper Blades",
+    "description": "Generic Wiper Blades",
+    "serial": "MG-SN20250625-3502",
+    "production_date": "2023-01-06",
+    "price": 1388.42,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "WV",
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "079 Bumpers",
+    "description": "Protects car front and rear from impacts.",
+    "serial": "MG-SN20250625-5376",
+    "production_date": "2019-06-02",
+    "price": 1865.53,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "Mecentley",
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "941 Bumpers (Front, Rear)",
+    "description": "Generic Bumpers (Front, Rear)",
+    "serial": "MG-SN20250625-5766",
+    "production_date": "2021-01-27",
+    "price": 646.04,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "261 Wiper Blades",
+    "description": "Generic Wiper Blades",
+    "serial": "MG-SN20250625-9538",
+    "production_date": "2018-06-24",
+    "price": 305.44,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Mecentley",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "374 Windshield",
+    "description": "Front glass panel for visibility and protection.",
+    "serial": "MG-SN20250625-3980",
+    "production_date": "2023-09-06",
+    "price": 1036.55,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "990 Window Seals",
+    "description": "Generic Window Seals",
+    "serial": "MG-SN20250625-5994",
+    "production_date": "2018-07-24",
+    "price": 1327.92,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Feramborghini",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "285 Grille",
+    "description": "Generic Grille",
+    "serial": "MG-SN20250625-5934",
+    "production_date": "2015-08-18",
+    "price": 204.35,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "BMV",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "414 Doors",
+    "description": "Allow entry and exit from the vehicle.",
+    "serial": "MG-SN20250625-6840",
+    "production_date": "2023-05-23",
+    "price": 533.77,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Feramborghini",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "864 Bumpers (Front, Rear)",
+    "description": "Generic Bumpers (Front, Rear)",
+    "serial": "MG-SN20250625-2320",
+    "production_date": "2021-07-11",
+    "price": 1994.06,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "217 Wiper Blades",
+    "description": "Generic Wiper Blades",
+    "serial": "MG-SN20250625-9348",
+    "production_date": "2023-01-09",
+    "price": 1957.87,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "534 Antenna",
+    "description": "Generic Antenna",
+    "serial": "MG-SN20250625-4552",
+    "production_date": "2024-09-13",
+    "price": 158.42,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "428 Wiper Blades",
+    "description": "Generic Wiper Blades",
+    "serial": "MG-SN20250625-7725",
+    "production_date": "2024-11-08",
+    "price": 1322.76,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Feramborghini",
+      "Nord",
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "709 Trunk",
+    "description": "Storage compartment at rear of vehicle.",
+    "serial": "MG-SN20250625-5810",
+    "production_date": "2016-10-02",
+    "price": 1864.92,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "BMV",
+      "Nord",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "910 Doors",
+    "description": "Allow entry and exit from the vehicle.",
+    "serial": "MG-SN20250625-3244",
+    "production_date": "2020-01-14",
+    "price": 704.6,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "WV",
+      "BMV",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "498 Hood / Bonnet",
+    "description": "Generic Hood / Bonnet",
+    "serial": "MG-SN20250625-7678",
+    "production_date": "2021-01-30",
+    "price": 1471.28,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "BMV",
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "521 Rear Window",
+    "description": "Generic Rear Window",
+    "serial": "MG-SN20250625-3248",
+    "production_date": "2024-12-09",
+    "price": 799.45,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "WV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "783 Grille",
+    "description": "Generic Grille",
+    "serial": "MG-SN20250625-4682",
+    "production_date": "2023-02-20",
+    "price": 1789.18,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "641 Fenders",
+    "description": "Generic Fenders",
+    "serial": "MG-SN20250625-5747",
+    "production_date": "2015-05-29",
+    "price": 1239.81,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord",
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "876 Grille",
+    "description": "Generic Grille",
+    "serial": "MG-SN20250625-7820",
+    "production_date": "2021-02-07",
+    "price": 282.32,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "966 Side Mirrors",
+    "description": "Generic Side Mirrors",
+    "serial": "MG-SN20250625-3000",
+    "production_date": "2022-10-05",
+    "price": 1081.6,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "673 Windshield Washer Pump",
+    "description": "Generic Windshield Washer Pump",
+    "serial": "MG-SN20250625-6526",
+    "production_date": "2016-12-12",
+    "price": 1689.07,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "BMV",
+      "WV",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "312 Grille",
+    "description": "Generic Grille",
+    "serial": "MG-SN20250625-6877",
+    "production_date": "2023-04-09",
+    "price": 1504.7,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Feramborghini",
+      "Nord",
+      "WV",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "568 Rear Window",
+    "description": "Generic Rear Window",
+    "serial": "MG-SN20250625-2066",
+    "production_date": "2023-07-25",
+    "price": 349.62,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "530 Fenders",
+    "description": "Generic Fenders",
+    "serial": "MG-SN20250625-5035",
+    "production_date": "2019-06-17",
+    "price": 489.6,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord",
+      "BMV",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "436 Side Windows",
+    "description": "Generic Side Windows",
+    "serial": "MG-SN20250625-2798",
+    "production_date": "2024-12-04",
+    "price": 1288.03,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "116 Side Mirrors",
+    "description": "Generic Side Mirrors",
+    "serial": "MG-SN20250625-7389",
+    "production_date": "2016-02-22",
+    "price": 696.39,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "839 Wiper Arms",
+    "description": "Generic Wiper Arms",
+    "serial": "MG-SN20250625-4648",
+    "production_date": "2025-05-18",
+    "price": 1914.23,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "084 Window Seals",
+    "description": "Generic Window Seals",
+    "serial": "MG-SN20250625-1517",
+    "production_date": "2016-10-18",
+    "price": 996.5,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "202 Doors",
+    "description": "Generic Doors",
+    "serial": "MG-SN20250625-2381",
+    "production_date": "2022-10-03",
+    "price": 956.3,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "238 Side Windows",
+    "description": "Generic Side Windows",
+    "serial": "MG-SN20250625-9789",
+    "production_date": "2021-01-30",
+    "price": 1496.21,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord",
+      "BMV",
+      "Mecentley",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "030 Hood / Bonnet",
+    "description": "Generic Hood / Bonnet",
+    "serial": "MG-SN20250625-9156",
+    "production_date": "2016-07-14",
+    "price": 1878.83,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": false,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "825 Rear Window",
+    "description": "Generic Rear Window",
+    "serial": "MG-SN20250625-4715",
+    "production_date": "2015-01-09",
+    "price": 27.38,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "WV",
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "815 Wiper Arms",
+    "description": "Generic Wiper Arms",
+    "serial": "MG-SN20250625-6213",
+    "production_date": "2016-12-17",
+    "price": 779.4,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Mecentley",
+      "BMV",
+      "Nord",
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "821 Window Seals",
+    "description": "Generic Window Seals",
+    "serial": "MG-SN20250625-5009",
+    "production_date": "2016-10-16",
+    "price": 1710.77,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "229 Windshield",
+    "description": "Generic Windshield",
+    "serial": "MG-SN20250625-1167",
+    "production_date": "2021-09-01",
+    "price": 1935.96,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "686 Emblems / Badges",
+    "description": "Generic Emblems / Badges",
+    "serial": "MG-SN20250625-3172",
+    "production_date": "2018-04-07",
+    "price": 651.6,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "WV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "928 License Plate Holder",
+    "description": "Generic License Plate Holder",
+    "serial": "MG-SN20250625-9036",
+    "production_date": "2023-07-15",
+    "price": 1105.45,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "989 Side Mirrors",
+    "description": "Allow driver to view rear/side traffic.",
+    "serial": "MG-SN20250625-3400",
+    "production_date": "2024-03-27",
+    "price": 494.33,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "455 Wiper Blades",
+    "description": "Generic Wiper Blades",
+    "serial": "MG-SN20250625-9959",
+    "production_date": "2020-04-17",
+    "price": 1685.43,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "524 Antenna",
+    "description": "Generic Antenna",
+    "serial": "MG-SN20250625-7997",
+    "production_date": "2025-09-02",
+    "price": 1216.49,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley",
+      "Nord",
+      "WV",
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "177 Windshield Washer Pump",
+    "description": "Generic Windshield Washer Pump",
+    "serial": "MG-SN20250625-6424",
+    "production_date": "2021-10-06",
+    "price": 1858.21,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "526 Hood",
+    "description": "Covers the engine compartment.",
+    "serial": "MG-SN20250625-9952",
+    "production_date": "2017-01-19",
+    "price": 22.82,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "568 Doors",
+    "description": "Generic Doors",
+    "serial": "MG-SN20250625-7303",
+    "production_date": "2025-03-01",
+    "price": 79.78,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "094 Antenna",
+    "description": "Generic Antenna",
+    "serial": "MG-SN20250625-7185",
+    "production_date": "2023-02-08",
+    "price": 630.7,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "WV",
+      "BMV",
+      "Nord",
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "644 Window Seals",
+    "description": "Generic Window Seals",
+    "serial": "MG-SN20250625-8611",
+    "production_date": "2020-05-27",
+    "price": 1449.91,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "Feramborghini",
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "730 Doors",
+    "description": "Allow entry and exit from the vehicle.",
+    "serial": "MG-SN20250625-1552",
+    "production_date": "2016-06-19",
+    "price": 325.07,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "475 Doors",
+    "description": "Generic Doors",
+    "serial": "MG-SN20250625-9596",
+    "production_date": "2015-12-30",
+    "price": 782.85,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "648 Antenna",
+    "description": "Generic Antenna",
+    "serial": "MG-SN20250625-9364",
+    "production_date": "2017-11-24",
+    "price": 1847.35,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "751 Emblems / Badges",
+    "description": "Generic Emblems / Badges",
+    "serial": "MG-SN20250625-6462",
+    "production_date": "2016-02-17",
+    "price": 1826.59,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "WV",
+      "Mecentley",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "394 Windshield",
+    "description": "Generic Windshield",
+    "serial": "MG-SN20250625-8551",
+    "production_date": "2020-01-20",
+    "price": 1075.49,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "BMV",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "566 Windshield",
+    "description": "Generic Windshield",
+    "serial": "MG-SN20250625-7466",
+    "production_date": "2017-05-28",
+    "price": 1582.66,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "185 Side Mirrors",
+    "description": "Generic Side Mirrors",
+    "serial": "MG-SN20250625-2700",
+    "production_date": "2022-03-27",
+    "price": 128.99,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "WV",
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "786 Fenders",
+    "description": "Generic Fenders",
+    "serial": "MG-SN20250625-6310",
+    "production_date": "2020-03-01",
+    "price": 629.33,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "BMV",
+      "WV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "399 Spoiler",
+    "description": "Generic Spoiler",
+    "serial": "MG-SN20250625-6380",
+    "production_date": "2019-01-15",
+    "price": 806.34,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "371 Bumpers",
+    "description": "Protects car front and rear from impacts.",
+    "serial": "MG-SN20250625-3163",
+    "production_date": "2017-11-16",
+    "price": 1520.39,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "WV",
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "520 Spoiler",
+    "description": "Generic Spoiler",
+    "serial": "MG-SN20250625-8663",
+    "production_date": "2016-10-17",
+    "price": 714.11,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "615 Doors",
+    "description": "Allow entry and exit from the vehicle.",
+    "serial": "MG-SN20250625-1593",
+    "production_date": "2021-05-24",
+    "price": 1381.66,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "WV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "647 Window Seals",
+    "description": "Generic Window Seals",
+    "serial": "MG-SN20250625-4312",
+    "production_date": "2022-08-08",
+    "price": 1765.14,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Feramborghini",
+      "BMV",
+      "Mecentley",
+      "WV",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "408 Doors",
+    "description": "Generic Doors",
+    "serial": "MG-SN20250625-9878",
+    "production_date": "2016-01-27",
+    "price": 1017.97,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "WV",
+      "Mecentley",
+      "Nord",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "691 Spoiler",
+    "description": "Generic Spoiler",
+    "serial": "MG-SN20250625-8226",
+    "production_date": "2015-06-03",
+    "price": 516.46,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "BMV",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "545 Trunk",
+    "description": "Storage compartment at rear of vehicle.",
+    "serial": "MG-SN20250625-3475",
+    "production_date": "2019-11-12",
+    "price": 1292.33,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley",
+      "Nord",
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "439 Trunk",
+    "description": "Storage compartment at rear of vehicle.",
+    "serial": "MG-SN20250625-4908",
+    "production_date": "2019-03-21",
+    "price": 1990.88,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley",
+      "BMV",
+      "Nord",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "784 Side Windows",
+    "description": "Generic Side Windows",
+    "serial": "MG-SN20250625-4421",
+    "production_date": "2021-04-09",
+    "price": 1528.52,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Mecentley",
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "811 Spoiler",
+    "description": "Generic Spoiler",
+    "serial": "MG-SN20250625-7378",
+    "production_date": "2020-05-29",
+    "price": 259.68,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "761 Wiper Arms",
+    "description": "Generic Wiper Arms",
+    "serial": "MG-SN20250625-9180",
+    "production_date": "2024-03-16",
+    "price": 73.93,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "593 Side Mirrors",
+    "description": "Generic Side Mirrors",
+    "serial": "MG-SN20250625-7813",
+    "production_date": "2025-07-20",
+    "price": 611.55,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Feramborghini",
+      "Nord",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "340 Roof Rack",
+    "description": "Generic Roof Rack",
+    "serial": "MG-SN20250625-8019",
+    "production_date": "2024-10-22",
+    "price": 785.14,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "504 Doors",
+    "description": "Allow entry and exit from the vehicle.",
+    "serial": "MG-SN20250625-3434",
+    "production_date": "2024-03-22",
+    "price": 1720.68,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley",
+      "WV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "786 Bumpers (Front, Rear)",
+    "description": "Generic Bumpers (Front, Rear)",
+    "serial": "MG-SN20250625-9547",
+    "production_date": "2017-04-28",
+    "price": 1118.02,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "BMV",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "619 Antenna",
+    "description": "Generic Antenna",
+    "serial": "MG-SN20250625-1159",
+    "production_date": "2018-07-27",
+    "price": 1201.88,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Mecentley",
+      "WV",
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "005 Windshield",
+    "description": "Front glass panel for visibility and protection.",
+    "serial": "MG-SN20250625-6220",
+    "production_date": "2025-09-10",
+    "price": 1120.05,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "369 Emblems / Badges",
+    "description": "Generic Emblems / Badges",
+    "serial": "MG-SN20250625-2002",
+    "production_date": "2024-12-13",
+    "price": 904.05,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "418 Doors",
+    "description": "Generic Doors",
+    "serial": "MG-SN20250625-6616",
+    "production_date": "2021-09-28",
+    "price": 565.89,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "WV",
+      "BMV",
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "579 Wiper Blades",
+    "description": "Generic Wiper Blades",
+    "serial": "MG-SN20250625-8641",
+    "production_date": "2018-04-21",
+    "price": 681.36,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "WV",
+      "Nord",
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "313 Trunk",
+    "description": "Storage compartment at rear of vehicle.",
+    "serial": "MG-SN20250625-2833",
+    "production_date": "2016-04-24",
+    "price": 951.61,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "456 Trunk / Boot",
+    "description": "Generic Trunk / Boot",
+    "serial": "MG-SN20250625-3385",
+    "production_date": "2025-12-02",
+    "price": 382.47,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "206 Hood",
+    "description": "Covers the engine compartment.",
+    "serial": "MG-SN20250625-3502",
+    "production_date": "2019-02-18",
+    "price": 156.74,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "721 License Plate Holder",
+    "description": "Generic License Plate Holder",
+    "serial": "MG-SN20250625-5121",
+    "production_date": "2020-12-14",
+    "price": 169.73,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "WV",
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "317 Antenna",
+    "description": "Generic Antenna",
+    "serial": "MG-SN20250625-5887",
+    "production_date": "2024-06-16",
+    "price": 1618.14,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "743 Hood / Bonnet",
+    "description": "Generic Hood / Bonnet",
+    "serial": "MG-SN20250625-4663",
+    "production_date": "2019-10-04",
+    "price": 1424.86,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Body and Exterior",
+    "name": "264 Windshield Washer Pump",
+    "description": "Generic Windshield Washer Pump",
+    "serial": "MG-SN20250625-8120",
+    "production_date": "2020-03-16",
+    "price": 493.39,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Ignition System",
+    "name": "032 High-Performance Spark Plugs",
+    "description": "Provide better combustion efficiency.",
+    "serial": "MG-SN20250625-8822",
+    "production_date": "2023-06-15",
+    "price": 887.73,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Mecentley",
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Ignition System",
+    "name": "094 High-Performance Spark Plugs",
+    "description": "Provide better combustion efficiency.",
+    "serial": "MG-SN20250625-3200",
+    "production_date": "2023-01-05",
+    "price": 1225.54,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Ignition System",
+    "name": "535 High-Performance Spark Plugs",
+    "description": "Provide better combustion efficiency.",
+    "serial": "MG-SN20250625-7533",
+    "production_date": "2019-12-16",
+    "price": 522.72,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "WV",
+      "Feramborghini",
+      "Mecentley",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Ignition System",
+    "name": "627 High-Performance Spark Plugs",
+    "description": "Provide better combustion efficiency.",
+    "serial": "MG-SN20250625-4089",
+    "production_date": "2024-09-09",
+    "price": 1116.36,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Ignition System",
+    "name": "224 High-Performance Spark Plugs",
+    "description": "Provide better combustion efficiency.",
+    "serial": "MG-SN20250625-7233",
+    "production_date": "2020-07-20",
+    "price": 466.78,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Engine Care",
+    "name": "822 Oil Catch Can",
+    "description": "Traps oil vapor and prevents intake fouling.",
+    "serial": "MG-SN20250625-9767",
+    "production_date": "2025-07-30",
+    "price": 1596.66,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Feramborghini",
+      "Nord",
+      "BMV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Engine Care",
+    "name": "251 Oil Catch Can",
+    "description": "Traps oil vapor and prevents intake fouling.",
+    "serial": "MG-SN20250625-3693",
+    "production_date": "2015-10-28",
+    "price": 1332.9,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Mecentley",
+      "Nord",
+      "WV",
+      "BMV"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Wheels & Tires",
+    "name": "248 Lightweight Wheels",
+    "description": "Reduce unsprung mass for quicker acceleration.",
+    "serial": "MG-SN20250625-7567",
+    "production_date": "2022-02-10",
+    "price": 1301.68,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Feramborghini",
+      "WV"
+    ],
+    "recalled": true
+  },
+  {
+    "category": "Wheels & Tires",
+    "name": "917 Lightweight Wheels",
+    "description": "Reduce unsprung mass for quicker acceleration.",
+    "serial": "MG-SN20250625-5624",
+    "production_date": "2025-01-19",
+    "price": 763.24,
+    "currency": "CHF",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "recalled": false
+  },
+  {
+    "category": "Wheels & Tires",
+    "name": "897 Low Profile Tires",
+    "description": "Better grip and handling performance.",
+    "serial": "MG-SN20250625-9765",
+    "production_date": "2021-08-10",
+    "price": 853.34,
+    "currency": "CHF",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Feramborghini"
+    ],
+    "recalled": true
+  }
+]

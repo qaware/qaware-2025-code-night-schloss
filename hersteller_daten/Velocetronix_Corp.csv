@@ -1,0 +1,474 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,requiresCalibration,hazardousMaterial
+Drivetrain,Limited Slip Differential 728,Distributes torque more efficiently to wheels.,VC-QA-2022-54820,2025-12-29,187.84,EUR,False,False,"Mecentley,WV,Feramborghini,BMV",True,False
+Drivetrain,Aftermarket LSD 557,Improves grip in cornering and acceleration.,VC-QA-2020-07841,2015-01-15,1567.7,EUR,True,True,"Mecentley,BMV",False,False
+Drivetrain,Performance Clutch Kit 600,Handles more torque from tuned engines.,VC-QA-2020-58782,2015-07-18,1733.92,EUR,True,True,"Nord,WV,BMV",True,True
+Drivetrain,Aftermarket LSD 198,Improves grip in cornering and acceleration.,VC-QA-2021-15297,2017-11-28,1144.68,EUR,True,True,"WV,Mecentley",True,False
+Drivetrain,Limited Slip Differential 929,Distributes torque more efficiently to wheels.,VC-QA-2021-68806,2016-06-29,206.64,EUR,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,True
+Drivetrain,Performance Clutch Kit 654,Handles more torque from tuned engines.,VC-QA-2025-39266,2023-06-14,1648.07,EUR,True,True,"Nord,Mecentley",True,True
+Suspension and Steering,Control Arms 421,Connect wheel hub to vehicle frame.,VC-QA-2021-48861,2018-01-04,1262.92,EUR,False,False,"Mecentley,Feramborghini,BMV",True,True
+Suspension and Steering,Tie Rods 624,Generic Tie Rods,VC-QA-2025-17847,2016-07-25,679.31,EUR,True,True,Mecentley,False,True
+Suspension and Steering,Coil Springs 535,Generic Coil Springs,VC-QA-2025-42156,2024-05-27,1262.42,EUR,True,True,Mecentley,True,False
+Suspension and Steering,Wheel Hub 658,Generic Wheel Hub,VC-QA-2020-92228,2024-01-13,1090.41,EUR,True,True,"Nord,WV,Mecentley,BMV,Feramborghini",False,False
+Suspension and Steering,Bushings 644,Generic Bushings,VC-QA-2025-89797,2021-04-19,413.35,EUR,True,False,Nord,True,True
+Suspension and Steering,Coil Springs 543,Support vehicle weight and absorb shocks.,VC-QA-2023-77445,2018-12-24,1387.44,EUR,True,False,"Nord,BMV,WV,Mecentley",False,False
+Suspension and Steering,Coil Springs 120,Generic Coil Springs,VC-QA-2024-56803,2018-09-01,1637.55,EUR,False,True,"Feramborghini,WV",True,True
+Suspension and Steering,Control Arms 273,Connect wheel hub to vehicle frame.,VC-QA-2020-94167,2024-09-25,688.5,EUR,True,True,"Nord,Mecentley,BMV",True,True
+Suspension and Steering,Torsion Bar 187,Generic Torsion Bar,VC-QA-2020-26749,2023-04-10,1326.94,EUR,False,True,"Nord,Feramborghini",False,True
+Suspension and Steering,Tie Rods 293,Generic Tie Rods,VC-QA-2023-79343,2015-04-01,913.82,EUR,False,True,"BMV,WV,Mecentley,Nord,Feramborghini",False,False
+Suspension and Steering,Shock Absorbers 008,Dampen spring movement for smoother ride.,VC-QA-2024-47955,2025-08-21,1263.2,EUR,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",True,False
+Suspension and Steering,Sway Bar / Anti-roll Bar 643,Generic Sway Bar / Anti-roll Bar,VC-QA-2023-72588,2023-09-10,1949.12,EUR,False,False,"Mecentley,WV,Feramborghini",True,False
+Suspension and Steering,Steering Wheel 315,Generic Steering Wheel,VC-QA-2023-83421,2021-03-26,1482.96,EUR,True,False,"WV,Mecentley,Feramborghini,Nord,BMV",True,True
+Suspension and Steering,Wheel Hub 354,Generic Wheel Hub,VC-QA-2022-59307,2016-08-07,1721.81,EUR,True,True,"BMV,Nord",True,True
+Suspension and Steering,Bushings 265,Generic Bushings,VC-QA-2024-59122,2015-08-31,1409.7,EUR,True,True,"Nord,BMV,Mecentley",False,False
+Suspension and Steering,Bushings 702,Generic Bushings,VC-QA-2021-84041,2023-05-24,520.42,EUR,True,True,Mecentley,False,False
+Suspension and Steering,Control Arms 419,Connect wheel hub to vehicle frame.,VC-QA-2020-29034,2016-08-28,692.19,EUR,False,True,"Mecentley,BMV,Feramborghini,Nord,WV",False,False
+Suspension and Steering,Bushings 257,Generic Bushings,VC-QA-2020-21484,2017-07-05,1906.32,EUR,True,True,"Nord,WV",True,True
+Suspension and Steering,Steering Wheel 155,Allows driver to steer the vehicle.,VC-QA-2023-06051,2016-06-30,677.17,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",True,True
+Suspension and Steering,Bushings 214,Generic Bushings,VC-QA-2021-75694,2018-06-28,319.4,EUR,True,True,"Nord,Mecentley,Feramborghini,WV",False,True
+Suspension and Steering,Control Arms 652,Connect wheel hub to vehicle frame.,VC-QA-2021-69447,2019-01-06,1672.15,EUR,False,True,"WV,Feramborghini,Mecentley",True,False
+Suspension and Steering,Shock Absorbers / Struts 775,Generic Shock Absorbers / Struts,VC-QA-2022-25472,2020-02-23,193.53,EUR,True,True,Mecentley,True,False
+Suspension and Steering,Tie Rods 709,Generic Tie Rods,VC-QA-2024-59417,2017-01-10,1168.9,EUR,True,True,"Mecentley,Nord,Feramborghini,BMV,WV",True,True
+Suspension and Steering,Steering Rack 434,Generic Steering Rack,VC-QA-2021-56594,2020-11-15,332.83,EUR,True,True,"Nord,WV,Feramborghini",False,False
+Suspension and Steering,Shock Absorbers / Struts 018,Generic Shock Absorbers / Struts,VC-QA-2020-41057,2021-04-26,1212.02,EUR,False,True,"Feramborghini,WV,Mecentley,Nord",False,False
+Suspension and Steering,Bushings 287,Generic Bushings,VC-QA-2023-60667,2023-05-08,340.37,EUR,True,True,Nord,True,False
+Suspension and Steering,Sway Bar / Anti-roll Bar 661,Generic Sway Bar / Anti-roll Bar,VC-QA-2024-76719,2016-02-09,726.89,EUR,False,False,"WV,Mecentley,Feramborghini",True,True
+Suspension and Steering,Wheel Bearings 595,Generic Wheel Bearings,VC-QA-2024-67164,2018-02-19,461.08,EUR,True,True,"Feramborghini,WV",True,False
+Suspension and Steering,Wheel Hub 753,Generic Wheel Hub,VC-QA-2021-88242,2017-05-20,395.43,EUR,True,True,Feramborghini,False,False
+Suspension and Steering,Tie Rods 628,Generic Tie Rods,VC-QA-2020-53759,2019-01-15,584.8,EUR,True,True,"WV,BMV,Nord",True,True
+Suspension and Steering,Tie Rods 266,Generic Tie Rods,VC-QA-2023-54190,2025-12-01,120.7,EUR,False,False,BMV,True,True
+Suspension and Steering,Wheel Bearings 945,Generic Wheel Bearings,VC-QA-2020-51728,2020-10-27,497.19,EUR,True,True,"Feramborghini,WV",True,True
+Suspension and Steering,Tie Rods 981,Generic Tie Rods,VC-QA-2020-78125,2021-03-27,1612.19,EUR,True,False,"Nord,Feramborghini,Mecentley,WV,BMV",True,True
+Suspension and Steering,Steering Column 423,Generic Steering Column,VC-QA-2022-41213,2016-09-09,1723.3,EUR,True,True,"WV,Feramborghini",False,False
+Suspension and Steering,Coil Springs 388,Support vehicle weight and absorb shocks.,VC-QA-2021-79928,2023-02-14,43.61,EUR,True,True,"Feramborghini,Mecentley,BMV,Nord",True,True
+Suspension and Steering,Leaf Springs 757,Generic Leaf Springs,VC-QA-2023-39092,2016-03-24,592.15,EUR,True,False,"Feramborghini,BMV,Mecentley,Nord",True,True
+Suspension and Steering,Coil Springs 945,Generic Coil Springs,VC-QA-2024-78447,2024-10-07,1074.59,EUR,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True
+Suspension and Steering,Ball Joints 904,Generic Ball Joints,VC-QA-2024-17840,2021-10-30,407.16,EUR,True,False,"WV,BMV",False,True
+Suspension and Steering,Steering Wheel 305,Generic Steering Wheel,VC-QA-2025-70577,2016-10-29,1677.08,EUR,True,True,"Feramborghini,WV,Mecentley,BMV,Nord",False,False
+Suspension and Steering,Ball Joints 039,Generic Ball Joints,VC-QA-2022-24326,2022-06-15,376.2,EUR,False,True,"Mecentley,BMV,Feramborghini",True,True
+Suspension and Steering,Shock Absorbers 772,Dampen spring movement for smoother ride.,VC-QA-2020-49551,2019-05-02,291.85,EUR,False,True,Mecentley,True,True
+Suspension and Steering,Torsion Bar 613,Generic Torsion Bar,VC-QA-2022-13929,2024-11-24,636.37,EUR,True,True,"WV,Feramborghini,Nord,Mecentley",False,False
+Suspension and Steering,Sway Bar / Anti-roll Bar 768,Generic Sway Bar / Anti-roll Bar,VC-QA-2022-97891,2022-09-30,765.79,EUR,True,False,"Nord,BMV,Feramborghini",False,False
+Suspension and Steering,Coil Springs 854,Generic Coil Springs,VC-QA-2022-72966,2025-03-05,959.14,EUR,True,True,BMV,True,True
+Suspension and Steering,Steering Wheel 250,Generic Steering Wheel,VC-QA-2021-61129,2017-11-13,667.53,EUR,True,True,"Mecentley,BMV,Nord",False,True
+Suspension and Steering,Steering Rack 391,Generic Steering Rack,VC-QA-2025-69191,2015-07-29,1150.27,EUR,True,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,False
+Suspension and Steering,Alignment Shims 301,Generic Alignment Shims,VC-QA-2025-66240,2021-11-23,279.28,EUR,True,False,"BMV,Nord",False,False
+Suspension and Steering,Control Arms 041,Connect wheel hub to vehicle frame.,VC-QA-2020-33453,2020-03-30,362.5,EUR,False,True,"Mecentley,BMV,Nord",True,False
+Suspension and Steering,Bushings 241,Generic Bushings,VC-QA-2025-90232,2025-09-29,1717.36,EUR,False,True,"WV,Feramborghini",False,True
+Suspension and Steering,Ball Joints 421,Generic Ball Joints,VC-QA-2021-15843,2019-10-07,1575.84,EUR,True,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True
+Suspension and Steering,Torsion Bar 969,Generic Torsion Bar,VC-QA-2025-93493,2021-04-25,1569.66,EUR,True,True,Nord,False,True
+Suspension and Steering,Shock Absorbers 161,Dampen spring movement for smoother ride.,VC-QA-2022-23865,2021-10-02,1084.71,EUR,True,True,"BMV,Mecentley,WV,Nord",True,False
+Suspension and Steering,Sway Bar / Anti-roll Bar 700,Generic Sway Bar / Anti-roll Bar,VC-QA-2025-29893,2017-06-21,1417.68,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley",True,True
+Suspension and Steering,Coil Springs 643,Generic Coil Springs,VC-QA-2023-44683,2015-07-19,533.1,EUR,False,True,"BMV,Nord,Feramborghini",True,False
+Suspension and Steering,Steering Column 482,Generic Steering Column,VC-QA-2024-64995,2025-08-17,520.85,EUR,True,True,WV,False,True
+Suspension and Steering,Shock Absorbers / Struts 018,Generic Shock Absorbers / Struts,VC-QA-2022-73334,2020-02-23,1303.22,EUR,True,True,"Nord,BMV",False,True
+Suspension and Steering,Tie Rods 461,Generic Tie Rods,VC-QA-2025-22656,2023-09-30,1293.81,EUR,True,True,"Feramborghini,Mecentley,Nord,WV",True,False
+Suspension and Steering,Steering Rack 135,Generic Steering Rack,VC-QA-2024-02978,2016-05-20,1662.03,EUR,True,True,"BMV,Mecentley,Nord,Feramborghini",False,True
+Suspension and Steering,Steering Rack 729,Generic Steering Rack,VC-QA-2021-24839,2018-08-08,1813.48,EUR,False,False,"Mecentley,BMV",True,False
+Suspension and Steering,Shock Absorbers / Struts 757,Generic Shock Absorbers / Struts,VC-QA-2022-98659,2024-07-28,1538.42,EUR,True,True,"WV,Mecentley,Feramborghini,BMV",False,True
+Suspension and Steering,Bushings 010,Generic Bushings,VC-QA-2023-15877,2021-05-29,523.85,EUR,True,True,"WV,BMV",True,False
+Suspension and Steering,Wheel Hub 321,Generic Wheel Hub,VC-QA-2022-02749,2025-12-27,789.09,EUR,False,True,"WV,Mecentley,BMV,Nord",True,True
+Suspension and Steering,Sway Bar / Anti-roll Bar 043,Generic Sway Bar / Anti-roll Bar,VC-QA-2021-89076,2017-01-10,1565.71,EUR,False,True,"Mecentley,BMV,Feramborghini",False,True
+Suspension and Steering,Steering Wheel 349,Allows driver to steer the vehicle.,VC-QA-2020-21892,2024-09-20,1221.7,EUR,True,True,"Feramborghini,BMV,WV,Mecentley,Nord",True,False
+Suspension and Steering,Power Steering Pump 134,Generic Power Steering Pump,VC-QA-2024-86512,2023-01-26,1609.62,EUR,True,True,"BMV,Feramborghini",True,True
+Suspension and Steering,Sway Bar / Anti-roll Bar 130,Generic Sway Bar / Anti-roll Bar,VC-QA-2022-71757,2015-09-30,1073.89,EUR,True,True,"WV,BMV,Mecentley,Nord",True,True
+Suspension and Steering,Steering Column 048,Generic Steering Column,VC-QA-2020-54472,2024-11-15,538.06,EUR,True,False,"Mecentley,Feramborghini,Nord",True,False
+Suspension and Steering,Ball Joints 346,Generic Ball Joints,VC-QA-2020-60709,2022-12-12,1783.09,EUR,True,True,"Nord,BMV",False,False
+Suspension and Steering,Alignment Shims 216,Generic Alignment Shims,VC-QA-2023-59234,2017-12-24,1682.03,EUR,True,True,"Feramborghini,Mecentley,BMV,WV",True,True
+Suspension and Steering,Wheel Bearings 860,Generic Wheel Bearings,VC-QA-2021-52074,2016-09-28,363.3,EUR,False,True,BMV,True,True
+Suspension and Steering,Coil Springs 689,Support vehicle weight and absorb shocks.,VC-QA-2025-98924,2025-10-03,1677.52,EUR,True,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True
+Suspension and Steering,Sway Bar / Anti-roll Bar 252,Generic Sway Bar / Anti-roll Bar,VC-QA-2025-17602,2018-09-17,646.42,EUR,True,True,"WV,Feramborghini,Mecentley",True,False
+Suspension and Steering,Wheel Hub 574,Generic Wheel Hub,VC-QA-2021-39933,2022-06-14,664.13,EUR,True,True,"WV,Mecentley",True,True
+Suspension and Steering,Tie Rods 295,Transmit steering input to wheels.,VC-QA-2021-01233,2016-10-23,482.39,EUR,True,True,"Nord,Mecentley,WV,Feramborghini,BMV",True,False
+Suspension and Steering,Leaf Springs 939,Generic Leaf Springs,VC-QA-2023-90811,2025-10-12,1716.49,EUR,False,True,"WV,Mecentley",False,True
+Suspension and Steering,Bushings 161,Generic Bushings,VC-QA-2024-87128,2025-12-16,827.14,EUR,True,True,"BMV,WV,Feramborghini,Nord",False,True
+Suspension and Steering,Control Arms 343,Connect wheel hub to vehicle frame.,VC-QA-2020-34774,2018-12-10,736.42,EUR,True,True,"Feramborghini,Mecentley",True,False
+Suspension and Steering,Wheel Hub 997,Generic Wheel Hub,VC-QA-2020-49454,2019-07-17,490.08,EUR,True,True,"Feramborghini,BMV,WV,Nord",True,False
+Suspension and Steering,Steering Wheel 259,Allows driver to steer the vehicle.,VC-QA-2023-17761,2016-02-04,132.95,EUR,True,True,"Feramborghini,Mecentley",True,True
+Suspension and Steering,Shock Absorbers / Struts 966,Generic Shock Absorbers / Struts,VC-QA-2021-00270,2025-07-30,454.48,EUR,True,False,"Feramborghini,WV",True,True
+Suspension and Steering,Steering Wheel 736,Generic Steering Wheel,VC-QA-2025-54617,2016-02-15,1836.17,EUR,True,True,"Nord,WV",True,True
+Suspension and Steering,Steering Wheel 850,Generic Steering Wheel,VC-QA-2024-02670,2019-12-03,1023.02,EUR,True,True,"Feramborghini,Mecentley,Nord,WV",False,False
+Suspension and Steering,Bushings 736,Generic Bushings,VC-QA-2020-37701,2019-06-10,221.68,EUR,False,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,False
+Suspension and Steering,Steering Column 533,Generic Steering Column,VC-QA-2024-33308,2024-10-23,325.19,EUR,False,True,"Feramborghini,Nord,Mecentley",False,True
+Suspension and Steering,Wheel Hub 345,Generic Wheel Hub,VC-QA-2021-66091,2021-08-29,1868.21,EUR,True,False,Feramborghini,False,True
+Suspension and Steering,Tie Rods 554,Transmit steering input to wheels.,VC-QA-2020-74380,2020-06-27,635.43,EUR,True,True,"Mecentley,WV,BMV,Nord",True,True
+Suspension and Steering,Steering Wheel 192,Allows driver to steer the vehicle.,VC-QA-2025-66954,2019-04-28,1308.32,EUR,True,True,"BMV,Nord",False,True
+Suspension and Steering,Tie Rods 358,Generic Tie Rods,VC-QA-2023-57985,2017-02-28,1534.44,EUR,True,False,"WV,BMV",False,False
+Suspension and Steering,Leaf Springs 025,Generic Leaf Springs,VC-QA-2022-59019,2018-10-19,705.22,EUR,True,True,"BMV,Feramborghini",False,True
+Suspension and Steering,Wheel Bearings 263,Generic Wheel Bearings,VC-QA-2024-98635,2020-01-10,78.62,EUR,True,True,"BMV,Mecentley",True,True
+Structural and Chassis,Wheel Wells 081,Generic Wheel Wells,VC-QA-2025-16633,2018-11-25,20.65,EUR,False,True,"BMV,Mecentley,Nord",False,True
+Structural and Chassis,Crossmember 990,Generic Crossmember,VC-QA-2022-05173,2025-07-21,560.25,EUR,True,True,"BMV,Nord,Feramborghini,WV",False,True
+Structural and Chassis,Frame / Chassis 215,Generic Frame / Chassis,VC-QA-2023-07401,2019-03-14,1073.48,EUR,True,True,"Feramborghini,Nord",False,True
+Structural and Chassis,Crossmember 055,Generic Crossmember,VC-QA-2025-21625,2020-07-22,1316.8,EUR,True,False,"Mecentley,Nord,Feramborghini",True,False
+Structural and Chassis,Subframe 306,Generic Subframe,VC-QA-2021-48666,2016-03-08,1703.78,EUR,True,True,"Nord,BMV,Feramborghini",True,False
+Structural and Chassis,Wheel Wells 271,Generic Wheel Wells,VC-QA-2024-48210,2022-12-14,1519.12,EUR,True,True,"Nord,WV,Feramborghini",True,False
+Structural and Chassis,Rocker Panels 684,Generic Rocker Panels,VC-QA-2025-17878,2018-05-20,1032.75,EUR,True,True,"BMV,Nord",True,False
+Structural and Chassis,Crossmember 515,Generic Crossmember,VC-QA-2021-51326,2021-04-17,724.48,EUR,True,True,Feramborghini,True,True
+Structural and Chassis,"Pillars (A, B, C) 579","Generic Pillars (A, B, C)",VC-QA-2025-17278,2022-12-09,1483.18,EUR,True,True,"WV,Feramborghini,BMV",True,False
+Structural and Chassis,Floor Pan 911,Generic Floor Pan,VC-QA-2022-59435,2021-11-01,1774.41,EUR,False,False,"Mecentley,WV",True,True
+Structural and Chassis,Rocker Panels 226,Generic Rocker Panels,VC-QA-2023-47147,2021-09-13,539.02,EUR,True,True,"Mecentley,Feramborghini,WV",True,False
+Structural and Chassis,Rocker Panels 236,Generic Rocker Panels,VC-QA-2023-45370,2022-08-08,1664.61,EUR,False,True,"Feramborghini,WV,Mecentley",True,False
+Structural and Chassis,Crossmember 922,Generic Crossmember,VC-QA-2022-04700,2024-09-12,801.48,EUR,False,True,"BMV,Mecentley,Feramborghini",False,True
+Structural and Chassis,Wheel Wells 286,Generic Wheel Wells,VC-QA-2021-28584,2016-04-03,1963.63,EUR,True,False,"BMV,Nord,WV,Feramborghini",True,True
+Structural and Chassis,Subframe 612,Generic Subframe,VC-QA-2024-79562,2020-06-17,1732.85,EUR,True,True,"Feramborghini,BMV,WV,Mecentley",True,True
+Structural and Chassis,Wheel Wells 170,Generic Wheel Wells,VC-QA-2025-33790,2022-12-01,1681.92,EUR,True,False,"Mecentley,Nord",False,False
+Control and Comfort Features,Infotainment System 827,Generic Infotainment System,VC-QA-2020-67607,2017-12-05,1546.07,EUR,True,True,"WV,Feramborghini,Nord",False,False
+Control and Comfort Features,Mirror Adjustment Switches 544,Generic Mirror Adjustment Switches,VC-QA-2023-35014,2018-08-23,268.57,EUR,False,False,Feramborghini,True,True
+Control and Comfort Features,Cruise Control System 056,Generic Cruise Control System,VC-QA-2024-72205,2022-12-30,34.65,EUR,True,True,"Nord,WV,Mecentley,Feramborghini",True,False
+Control and Comfort Features,Infotainment System 255,Generic Infotainment System,VC-QA-2023-18866,2022-04-14,377.94,EUR,True,False,"WV,Mecentley,BMV,Nord,Feramborghini",True,False
+Control and Comfort Features,Blind Spot Monitor 612,Generic Blind Spot Monitor,VC-QA-2023-65088,2017-12-17,375.43,EUR,True,True,"WV,BMV,Feramborghini",True,True
+Control and Comfort Features,Power Windows Switches 009,Generic Power Windows Switches,VC-QA-2021-51290,2015-02-05,870.5,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini",False,True
+Control and Comfort Features,Lane Assist System 132,Generic Lane Assist System,VC-QA-2020-89548,2019-11-19,1323.91,EUR,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,True
+Control and Comfort Features,Cruise Control System 475,Generic Cruise Control System,VC-QA-2022-51830,2025-08-28,247.83,EUR,True,True,Mecentley,True,True
+Control and Comfort Features,Power Windows Switches 211,Generic Power Windows Switches,VC-QA-2021-37383,2015-09-19,340.0,EUR,True,True,Feramborghini,True,True
+Control and Comfort Features,Lane Assist System 085,Generic Lane Assist System,VC-QA-2020-38080,2022-08-08,609.26,EUR,False,False,WV,True,True
+Control and Comfort Features,Cruise Control System 753,Maintains a constant vehicle speed.,VC-QA-2020-01558,2020-03-22,1965.23,EUR,False,True,"WV,Feramborghini,Mecentley,BMV,Nord",False,False
+Control and Comfort Features,Parking Sensors 436,Generic Parking Sensors,VC-QA-2023-14266,2018-03-16,858.98,EUR,True,True,"WV,BMV,Feramborghini,Mecentley",True,False
+Control and Comfort Features,Cruise Control System 694,Maintains a constant vehicle speed.,VC-QA-2020-69205,2017-07-06,21.44,EUR,True,True,"Mecentley,WV,Nord",False,True
+Control and Comfort Features,Mirror Adjustment Switches 409,Generic Mirror Adjustment Switches,VC-QA-2020-51397,2018-04-13,936.56,EUR,True,True,"Feramborghini,Mecentley",False,True
+Control and Comfort Features,Mirror Adjustment Switches 880,Generic Mirror Adjustment Switches,VC-QA-2021-27340,2016-05-01,1292.41,EUR,False,True,WV,False,True
+Control and Comfort Features,Navigation System (GPS) 949,Generic Navigation System (GPS),VC-QA-2020-48294,2017-07-26,360.04,EUR,True,True,Mecentley,True,False
+Control and Comfort Features,Infotainment System 398,"Central interface for audio, navigation, etc.",VC-QA-2021-98708,2023-06-13,1932.04,EUR,True,False,Mecentley,True,True
+Control and Comfort Features,Speakers 657,Generic Speakers,VC-QA-2025-97706,2025-10-15,326.63,EUR,True,True,"Feramborghini,Nord,BMV,WV",False,True
+Control and Comfort Features,Heated Seats 538,Generic Heated Seats,VC-QA-2025-92444,2019-01-18,216.14,EUR,True,False,"Feramborghini,Mecentley,WV,Nord,BMV",True,False
+Control and Comfort Features,Backup Camera 924,Generic Backup Camera,VC-QA-2022-34288,2017-12-28,1799.9,EUR,False,True,"Nord,Feramborghini,BMV",True,True
+Control and Comfort Features,Cruise Control System 135,Generic Cruise Control System,VC-QA-2020-06020,2015-08-13,1813.31,EUR,True,True,"Mecentley,BMV",True,True
+Control and Comfort Features,Mirror Adjustment Switches 381,Generic Mirror Adjustment Switches,VC-QA-2020-41714,2017-10-04,741.53,EUR,True,True,BMV,True,True
+Control and Comfort Features,Mirror Adjustment Switches 150,Generic Mirror Adjustment Switches,VC-QA-2021-09838,2019-05-21,1620.91,EUR,True,True,"Feramborghini,Nord,BMV",False,True
+Control and Comfort Features,Mirror Adjustment Switches 292,Generic Mirror Adjustment Switches,VC-QA-2023-61039,2018-10-06,77.14,EUR,True,False,"Nord,Mecentley,BMV,WV",True,True
+Control and Comfort Features,Mirror Adjustment Switches 204,Generic Mirror Adjustment Switches,VC-QA-2022-10223,2021-12-17,1827.43,EUR,True,False,Nord,True,True
+Control and Comfort Features,Blind Spot Monitor 537,Generic Blind Spot Monitor,VC-QA-2024-12724,2021-08-30,154.38,EUR,True,True,"WV,BMV,Nord",False,False
+Control and Comfort Features,Electronic Stability Control 190,Generic Electronic Stability Control,VC-QA-2021-25985,2018-05-22,746.68,EUR,True,True,"Feramborghini,Mecentley",True,True
+Control and Comfort Features,Electronic Stability Control 067,Generic Electronic Stability Control,VC-QA-2021-80731,2017-12-07,1985.42,EUR,True,True,"BMV,Mecentley",True,True
+Control and Comfort Features,Speakers 003,Output sound for entertainment or alerts.,VC-QA-2024-58562,2016-01-13,313.52,EUR,True,True,Nord,True,False
+Control and Comfort Features,Cruise Control System 883,Maintains a constant vehicle speed.,VC-QA-2021-91822,2018-07-16,91.79,EUR,False,True,"Nord,Feramborghini,Mecentley,WV",True,True
+Control and Comfort Features,Electronic Stability Control 659,Generic Electronic Stability Control,VC-QA-2023-30142,2019-01-30,1166.72,EUR,True,True,"BMV,Nord,Mecentley",True,False
+Control and Comfort Features,Backup Camera 599,Generic Backup Camera,VC-QA-2020-46731,2024-07-20,1098.81,EUR,False,True,"Mecentley,Nord,WV,BMV,Feramborghini",True,True
+Control and Comfort Features,Adaptive Cruise Control 355,Generic Adaptive Cruise Control,VC-QA-2024-93646,2023-04-21,1420.55,EUR,False,True,"Feramborghini,Nord,WV,BMV",True,True
+Control and Comfort Features,Electronic Stability Control 129,Generic Electronic Stability Control,VC-QA-2025-33324,2021-09-17,1759.5,EUR,False,False,"Nord,Mecentley,WV",False,True
+Control and Comfort Features,Heated Seats 779,Generic Heated Seats,VC-QA-2022-32454,2017-08-15,981.77,EUR,True,True,"Nord,WV",True,True
+Control and Comfort Features,Mirror Adjustment Switches 702,Generic Mirror Adjustment Switches,VC-QA-2025-75249,2024-12-09,998.82,EUR,True,False,"Feramborghini,Mecentley,WV,Nord,BMV",True,True
+Control and Comfort Features,Infotainment System 067,Generic Infotainment System,VC-QA-2020-40560,2022-08-05,647.51,EUR,True,True,"BMV,Nord,Feramborghini",True,False
+Control and Comfort Features,Speakers 307,Generic Speakers,VC-QA-2022-44297,2024-06-27,874.75,EUR,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,True
+Control and Comfort Features,Parking Sensors 304,Generic Parking Sensors,VC-QA-2025-06796,2022-02-16,1793.5,EUR,True,True,"WV,Mecentley,Nord",False,False
+Control and Comfort Features,Backup Camera 041,Generic Backup Camera,VC-QA-2025-01142,2021-10-26,383.16,EUR,True,True,"Mecentley,Nord,BMV,WV",True,False
+Control and Comfort Features,Electronic Stability Control 861,Generic Electronic Stability Control,VC-QA-2021-83271,2020-11-23,634.28,EUR,True,True,"BMV,WV",True,False
+Control and Comfort Features,Mirror Adjustment Switches 505,Generic Mirror Adjustment Switches,VC-QA-2025-28686,2019-08-31,407.41,EUR,True,False,"Mecentley,Nord,BMV,Feramborghini",False,True
+Control and Comfort Features,Blind Spot Monitor 508,Generic Blind Spot Monitor,VC-QA-2021-91425,2017-09-15,1891.09,EUR,True,True,"Nord,WV,Mecentley",True,True
+Control and Comfort Features,Blind Spot Monitor 147,Generic Blind Spot Monitor,VC-QA-2023-14514,2023-03-18,1975.57,EUR,True,True,Nord,False,True
+Control and Comfort Features,Speakers 852,Generic Speakers,VC-QA-2020-60834,2019-01-11,715.17,EUR,True,True,BMV,False,True
+Control and Comfort Features,Climate Control Unit 780,Generic Climate Control Unit,VC-QA-2020-31865,2020-10-24,1158.56,EUR,True,True,"Mecentley,Feramborghini,BMV,WV",True,False
+Control and Comfort Features,Adaptive Cruise Control 344,Generic Adaptive Cruise Control,VC-QA-2020-50333,2022-10-31,479.25,EUR,True,True,"WV,Mecentley,Feramborghini",True,False
+Control and Comfort Features,Backup Camera 134,Generic Backup Camera,VC-QA-2020-45627,2020-06-17,564.68,EUR,False,False,"WV,Nord,BMV",False,True
+Control and Comfort Features,Infotainment System 012,Generic Infotainment System,VC-QA-2025-75966,2024-05-26,1283.35,EUR,True,True,"Mecentley,WV,Feramborghini,Nord",False,False
+Control and Comfort Features,Navigation System (GPS) 816,Generic Navigation System (GPS),VC-QA-2025-33333,2021-12-07,1334.03,EUR,True,True,"Nord,WV,Mecentley,BMV,Feramborghini",True,False
+Control and Comfort Features,Navigation System (GPS) 501,Generic Navigation System (GPS),VC-QA-2025-62136,2016-10-12,333.2,EUR,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True
+Control and Comfort Features,Speakers 990,Output sound for entertainment or alerts.,VC-QA-2021-09270,2020-07-09,1688.46,EUR,True,True,"BMV,WV",False,True
+Control and Comfort Features,Infotainment System 134,Generic Infotainment System,VC-QA-2025-90655,2020-06-17,1871.77,EUR,True,True,"WV,Feramborghini,Mecentley,BMV,Nord",True,True
+Control and Comfort Features,Parking Sensors 147,Generic Parking Sensors,VC-QA-2025-34244,2015-11-07,697.15,EUR,False,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True
+Control and Comfort Features,Adaptive Cruise Control 051,Generic Adaptive Cruise Control,VC-QA-2020-47792,2017-04-03,1575.58,EUR,False,True,"Mecentley,WV,Feramborghini,Nord,BMV",False,True
+Control and Comfort Features,Speakers 835,Output sound for entertainment or alerts.,VC-QA-2020-12797,2025-03-13,1269.98,EUR,False,True,"Nord,BMV",True,True
+Control and Comfort Features,Navigation System (GPS) 868,Generic Navigation System (GPS),VC-QA-2025-46281,2015-07-01,774.77,EUR,True,False,"Mecentley,WV",True,True
+Control and Comfort Features,Electronic Stability Control 165,Generic Electronic Stability Control,VC-QA-2021-12849,2023-08-23,873.46,EUR,False,True,"Feramborghini,BMV,WV,Mecentley",True,True
+Control and Comfort Features,Cruise Control System 243,Maintains a constant vehicle speed.,VC-QA-2020-38503,2025-08-25,1898.27,EUR,True,False,"BMV,Mecentley,WV",True,True
+Control and Comfort Features,Climate Control Unit 565,Generic Climate Control Unit,VC-QA-2020-99578,2015-10-02,283.92,EUR,True,False,"Feramborghini,BMV,Nord,Mecentley,WV",True,True
+Control and Comfort Features,Power Windows Switches 393,Generic Power Windows Switches,VC-QA-2023-02017,2021-07-05,1082.88,EUR,False,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,False
+Control and Comfort Features,Heated Seats 777,Generic Heated Seats,VC-QA-2022-31699,2020-09-28,606.83,EUR,False,False,"Nord,WV,BMV",False,True
+Control and Comfort Features,Heated Seats 546,Generic Heated Seats,VC-QA-2020-27114,2022-04-21,1408.39,EUR,True,True,"Nord,Mecentley,WV,BMV",True,True
+Control and Comfort Features,Parking Sensors 371,Generic Parking Sensors,VC-QA-2021-86956,2015-09-16,1957.99,EUR,True,False,"Mecentley,BMV",True,True
+Control and Comfort Features,Blind Spot Monitor 705,Generic Blind Spot Monitor,VC-QA-2025-74301,2022-12-20,369.83,EUR,True,True,Mecentley,True,False
+Control and Comfort Features,Infotainment System 987,Generic Infotainment System,VC-QA-2025-00739,2025-06-13,142.89,EUR,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",True,False
+Control and Comfort Features,Lane Assist System 569,Generic Lane Assist System,VC-QA-2024-73949,2019-05-06,1121.15,EUR,True,False,BMV,False,False
+Control and Comfort Features,Electronic Stability Control 120,Generic Electronic Stability Control,VC-QA-2022-83275,2024-02-18,1686.52,EUR,True,True,"WV,Feramborghini,Mecentley,BMV,Nord",True,True
+Control and Comfort Features,Adaptive Cruise Control 748,Generic Adaptive Cruise Control,VC-QA-2025-96644,2015-08-31,1635.44,EUR,False,False,"WV,Feramborghini,Nord,BMV,Mecentley",True,False
+Control and Comfort Features,Infotainment System 614,"Central interface for audio, navigation, etc.",VC-QA-2020-60136,2021-03-02,1695.02,EUR,True,True,"Mecentley,WV,Nord",True,False
+Control and Comfort Features,Cruise Control System 429,Maintains a constant vehicle speed.,VC-QA-2025-32088,2022-08-06,1438.53,EUR,False,True,"Feramborghini,Mecentley",False,True
+Control and Comfort Features,Power Windows Switches 902,Generic Power Windows Switches,VC-QA-2023-03519,2025-02-09,364.88,EUR,True,True,BMV,False,False
+Control and Comfort Features,Mirror Adjustment Switches 982,Generic Mirror Adjustment Switches,VC-QA-2022-99287,2018-06-02,456.8,EUR,True,True,"Feramborghini,Nord",False,True
+Control and Comfort Features,Speakers 482,Output sound for entertainment or alerts.,VC-QA-2022-89716,2015-02-21,1633.78,EUR,False,True,Feramborghini,True,True
+Control and Comfort Features,Backup Camera 060,Generic Backup Camera,VC-QA-2023-09779,2024-03-03,1871.8,EUR,True,True,"Nord,Feramborghini,Mecentley,WV,BMV",True,True
+Control and Comfort Features,Climate Control Unit 522,Generic Climate Control Unit,VC-QA-2023-59977,2015-05-14,1492.49,EUR,True,True,"Feramborghini,Mecentley,BMV,WV",True,True
+Control and Comfort Features,Cruise Control System 381,Maintains a constant vehicle speed.,VC-QA-2023-87274,2019-07-25,1066.64,EUR,True,False,"WV,Nord,Mecentley",True,True
+Control and Comfort Features,Infotainment System 142,"Central interface for audio, navigation, etc.",VC-QA-2021-02578,2017-03-21,1968.33,EUR,True,True,"WV,Nord",False,True
+Control and Comfort Features,Infotainment System 270,"Central interface for audio, navigation, etc.",VC-QA-2025-57775,2015-05-25,1046.19,EUR,True,True,"Nord,Feramborghini,WV,BMV",True,False
+Control and Comfort Features,Cruise Control System 447,Maintains a constant vehicle speed.,VC-QA-2025-97009,2015-12-19,1660.77,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini",True,True
+Control and Comfort Features,Speakers 942,Generic Speakers,VC-QA-2021-56376,2019-10-17,904.1,EUR,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",False,True
+Control and Comfort Features,Heated Seats 155,Generic Heated Seats,VC-QA-2020-20152,2021-10-23,880.15,EUR,True,True,"Nord,BMV,Feramborghini",False,False
+Control and Comfort Features,Infotainment System 914,"Central interface for audio, navigation, etc.",VC-QA-2020-33039,2019-05-19,1757.37,EUR,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",True,True
+Transmission System,Transmission 504,Transfers power from engine to wheels.,VC-QA-2020-40037,2023-12-21,1969.86,EUR,True,True,"BMV,Nord",False,False
+Transmission System,Torque Converter 093,Generic Torque Converter,VC-QA-2020-38108,2015-03-19,1306.92,EUR,True,True,"Nord,BMV",True,False
+Transmission System,Synchromesh Gears 041,Generic Synchromesh Gears,VC-QA-2023-07414,2019-12-10,10.04,EUR,True,False,"Nord,WV",True,True
+Transmission System,Axles 656,Generic Axles,VC-QA-2024-24720,2016-01-12,1133.66,EUR,True,True,"BMV,Mecentley",False,False
+Transmission System,Gearbox 768,Changes vehicle speed and torque.,VC-QA-2021-35445,2015-11-30,1469.38,EUR,False,True,Feramborghini,False,False
+Transmission System,Transmission Cooler 042,Generic Transmission Cooler,VC-QA-2025-26662,2024-01-23,1817.75,EUR,True,True,"WV,Nord,Feramborghini,Mecentley",False,True
+Transmission System,Transmission Mount 719,Generic Transmission Mount,VC-QA-2020-39928,2020-01-21,870.91,EUR,False,True,"Nord,BMV,Mecentley,WV,Feramborghini",False,True
+Transmission System,Transmission (Manual / Automatic) 764,Generic Transmission (Manual / Automatic),VC-QA-2024-52674,2023-08-16,1043.89,EUR,True,False,"WV,Nord,BMV,Mecentley,Feramborghini",True,False
+Transmission System,Gearbox 253,Changes vehicle speed and torque.,VC-QA-2025-77129,2020-01-27,925.68,EUR,False,False,"Feramborghini,Nord,BMV,Mecentley",True,True
+Transmission System,Drive Shaft 736,Generic Drive Shaft,VC-QA-2021-99082,2015-10-18,1796.0,EUR,True,True,"WV,BMV",False,False
+Transmission System,Torque Converter 475,Generic Torque Converter,VC-QA-2021-61978,2016-01-09,1130.47,EUR,False,True,"BMV,WV,Feramborghini",False,True
+Transmission System,Flywheel 758,Generic Flywheel,VC-QA-2024-21913,2015-09-25,1732.81,EUR,True,False,"Mecentley,Nord,Feramborghini,WV,BMV",True,True
+Transmission System,Clutch Slave Cylinder 980,Generic Clutch Slave Cylinder,VC-QA-2023-69260,2025-04-16,1411.0,EUR,True,False,"Mecentley,WV,Nord,Feramborghini,BMV",False,True
+Transmission System,Transmission (Manual / Automatic) 394,Generic Transmission (Manual / Automatic),VC-QA-2025-27649,2023-02-06,899.24,EUR,True,True,"Feramborghini,WV",False,True
+Transmission System,Transmission Mount 878,Generic Transmission Mount,VC-QA-2023-87500,2020-08-10,605.43,EUR,True,False,"WV,Mecentley,Nord,Feramborghini",False,True
+Transmission System,Differential 318,Generic Differential,VC-QA-2024-85864,2015-10-17,1850.88,EUR,False,False,"Mecentley,Nord",True,False
+Transmission System,Torque Converter 344,Generic Torque Converter,VC-QA-2020-69662,2021-10-19,219.67,EUR,False,True,WV,False,True
+Transmission System,Transmission (Manual / Automatic) 081,Generic Transmission (Manual / Automatic),VC-QA-2024-81898,2018-09-18,974.07,EUR,False,True,"Feramborghini,BMV,Nord,Mecentley,WV",False,False
+Transmission System,Clutch Master Cylinder 137,Generic Clutch Master Cylinder,VC-QA-2020-52677,2025-07-02,1373.64,EUR,True,False,"Mecentley,BMV",True,False
+Transmission System,Gearbox 090,Generic Gearbox,VC-QA-2020-48105,2022-07-13,586.26,EUR,True,True,BMV,True,False
+Transmission System,Synchromesh Gears 993,Generic Synchromesh Gears,VC-QA-2020-38914,2021-06-19,368.35,EUR,True,True,"Feramborghini,Nord,Mecentley,BMV,WV",False,True
+Transmission System,Clutch Plate 727,Engages and disengages power to transmission.,VC-QA-2023-28295,2018-10-17,1575.43,EUR,True,True,"BMV,Feramborghini,Mecentley,Nord",True,True
+Transmission System,Clutch Slave Cylinder 276,Generic Clutch Slave Cylinder,VC-QA-2022-54460,2021-01-13,1061.05,EUR,True,True,"Mecentley,BMV,Feramborghini",False,True
+Transmission System,Clutch Slave Cylinder 563,Generic Clutch Slave Cylinder,VC-QA-2020-56819,2019-07-30,1238.72,EUR,True,True,"Mecentley,Nord,BMV,Feramborghini",False,False
+Transmission System,Clutch Master Cylinder 157,Generic Clutch Master Cylinder,VC-QA-2021-17870,2015-05-08,1599.07,EUR,True,True,"Nord,Feramborghini,WV,BMV,Mecentley",True,True
+Transmission System,Drive Shaft 076,Generic Drive Shaft,VC-QA-2025-01719,2021-10-03,568.5,EUR,True,True,"BMV,WV,Mecentley",False,True
+Transmission System,Differential 357,Distributes engine torque to drive wheels.,VC-QA-2024-58677,2017-02-12,1410.66,EUR,True,True,Mecentley,True,True
+Transmission System,Transmission 363,Transfers power from engine to wheels.,VC-QA-2025-51661,2016-10-18,1175.33,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini",True,False
+Transmission System,Torque Converter 464,Generic Torque Converter,VC-QA-2024-97421,2025-04-06,1744.31,EUR,False,True,"Nord,WV,BMV",True,True
+Transmission System,Drive Shaft 624,Transfers torque from transmission to wheels.,VC-QA-2022-71330,2020-09-05,647.74,EUR,True,False,"Feramborghini,Nord,WV,Mecentley",True,False
+Transmission System,CV Joints 298,Generic CV Joints,VC-QA-2022-81360,2024-11-20,1061.31,EUR,True,False,"WV,Nord",False,False
+Transmission System,Shift Linkage 466,Generic Shift Linkage,VC-QA-2022-84592,2022-12-15,278.31,EUR,True,True,"WV,Nord",True,True
+Transmission System,Clutch Master Cylinder 495,Generic Clutch Master Cylinder,VC-QA-2024-21142,2023-05-12,1043.71,EUR,False,True,"Feramborghini,Nord,WV,BMV,Mecentley",True,True
+Transmission System,Pressure Plate 505,Generic Pressure Plate,VC-QA-2021-89462,2022-02-24,698.19,EUR,True,False,"Mecentley,BMV,WV,Feramborghini",False,False
+Transmission System,Drive Shaft 072,Transfers torque from transmission to wheels.,VC-QA-2025-13075,2019-05-16,481.38,EUR,False,True,"BMV,Mecentley",False,False
+Transmission System,Differential 234,Distributes engine torque to drive wheels.,VC-QA-2020-66465,2019-09-05,1414.45,EUR,True,True,"Nord,Mecentley,WV",True,False
+Transmission System,Pressure Plate 451,Generic Pressure Plate,VC-QA-2021-62234,2017-09-13,1545.18,EUR,True,False,"BMV,Mecentley,Nord",True,True
+Transmission System,Differential 744,Generic Differential,VC-QA-2022-57897,2017-01-05,701.08,EUR,True,False,BMV,False,True
+Transmission System,Shift Linkage 626,Generic Shift Linkage,VC-QA-2023-00406,2015-07-10,1957.25,EUR,False,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,False
+Transmission System,Gearbox 543,Generic Gearbox,VC-QA-2021-90956,2017-06-04,1550.43,EUR,True,True,"Mecentley,WV,BMV,Nord",True,False
+Transmission System,Shift Linkage 674,Generic Shift Linkage,VC-QA-2025-16642,2025-03-11,1139.71,EUR,True,True,"WV,Nord",True,True
+Transmission System,Transmission 473,Transfers power from engine to wheels.,VC-QA-2022-43298,2024-09-02,908.59,EUR,True,True,"BMV,Feramborghini",True,True
+Transmission System,Torque Converter 769,Generic Torque Converter,VC-QA-2020-05101,2025-12-20,1783.65,EUR,True,False,Nord,True,True
+Transmission System,Clutch Slave Cylinder 980,Generic Clutch Slave Cylinder,VC-QA-2021-13069,2020-02-03,1748.79,EUR,False,True,Feramborghini,False,True
+Transmission System,Clutch Slave Cylinder 704,Generic Clutch Slave Cylinder,VC-QA-2025-55391,2023-01-16,315.5,EUR,True,False,"Feramborghini,Mecentley",False,False
+Transmission System,Transmission (Manual / Automatic) 673,Generic Transmission (Manual / Automatic),VC-QA-2021-99602,2022-08-28,707.39,EUR,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,False
+Transmission System,Differential 284,Distributes engine torque to drive wheels.,VC-QA-2025-72973,2016-03-16,1885.05,EUR,False,True,"Nord,Feramborghini",False,True
+Transmission System,Clutch Slave Cylinder 289,Generic Clutch Slave Cylinder,VC-QA-2023-08021,2025-11-07,500.56,EUR,True,True,"BMV,Feramborghini,Nord",True,True
+Transmission System,Gearbox 190,Changes vehicle speed and torque.,VC-QA-2022-19202,2015-02-22,603.26,EUR,True,True,"Mecentley,Nord,BMV,Feramborghini",True,False
+Transmission System,Pressure Plate 006,Generic Pressure Plate,VC-QA-2022-57762,2016-12-02,1071.43,EUR,True,True,BMV,False,True
+Transmission System,Drive Shaft 363,Transfers torque from transmission to wheels.,VC-QA-2020-52509,2019-02-21,1429.4,EUR,True,True,"Feramborghini,Mecentley,Nord",True,True
+Transmission System,Differential 060,Distributes engine torque to drive wheels.,VC-QA-2024-28452,2021-08-08,1624.18,EUR,True,True,"Feramborghini,BMV,Mecentley",True,False
+Transmission System,Transmission Cooler 796,Generic Transmission Cooler,VC-QA-2025-29374,2019-03-16,673.68,EUR,True,True,Feramborghini,False,True
+Transmission System,Transmission 260,Transfers power from engine to wheels.,VC-QA-2022-72388,2017-11-20,11.62,EUR,False,False,"BMV,Nord",False,True
+Transmission System,Differential 798,Distributes engine torque to drive wheels.,VC-QA-2021-58387,2017-05-24,1890.82,EUR,True,False,"Feramborghini,WV,Nord,Mecentley",True,True
+Transmission System,Transmission 399,Transfers power from engine to wheels.,VC-QA-2023-44556,2022-09-29,1015.74,EUR,True,False,"Nord,Feramborghini",True,True
+Transmission System,Transmission (Manual / Automatic) 903,Generic Transmission (Manual / Automatic),VC-QA-2020-92017,2016-05-03,1673.96,EUR,True,False,"Nord,WV,Mecentley,BMV",False,True
+Transmission System,Torque Converter 586,Generic Torque Converter,VC-QA-2022-85613,2025-03-12,172.13,EUR,True,False,Feramborghini,False,True
+Transmission System,Shift Linkage 438,Generic Shift Linkage,VC-QA-2022-62574,2023-05-14,73.83,EUR,True,True,BMV,False,True
+Transmission System,Clutch Plate 346,Engages and disengages power to transmission.,VC-QA-2022-55380,2021-11-03,766.19,EUR,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True
+Transmission System,Drive Shaft 867,Generic Drive Shaft,VC-QA-2024-76353,2016-03-26,693.94,EUR,True,False,"Feramborghini,Mecentley,Nord,WV,BMV",False,False
+Transmission System,CV Joints 984,Generic CV Joints,VC-QA-2024-40709,2023-12-06,1941.14,EUR,True,True,"Mecentley,BMV,Feramborghini,WV,Nord",False,False
+Transmission System,Clutch Master Cylinder 225,Generic Clutch Master Cylinder,VC-QA-2024-01771,2025-12-27,159.12,EUR,True,False,"Feramborghini,BMV,Mecentley,Nord",False,False
+Transmission System,Differential 790,Distributes engine torque to drive wheels.,VC-QA-2021-78873,2023-04-19,976.3,EUR,False,False,"Feramborghini,Mecentley,Nord",True,False
+Transmission System,Transmission (Manual / Automatic) 367,Generic Transmission (Manual / Automatic),VC-QA-2022-83082,2022-04-26,579.56,EUR,True,False,"WV,BMV,Mecentley,Nord",True,True
+Transmission System,Flywheel 282,Generic Flywheel,VC-QA-2022-03921,2017-05-07,27.79,EUR,False,True,"Feramborghini,Nord",False,False
+Transmission System,Clutch Master Cylinder 182,Generic Clutch Master Cylinder,VC-QA-2022-31613,2020-08-16,937.73,EUR,False,True,"Nord,Mecentley,Feramborghini,WV,BMV",False,True
+Transmission System,CV Joints 935,Generic CV Joints,VC-QA-2022-58744,2023-12-07,1972.34,EUR,True,True,"Nord,WV,BMV,Feramborghini",False,False
+Transmission System,Drive Shaft 775,Generic Drive Shaft,VC-QA-2022-34580,2020-07-10,516.3,EUR,True,True,BMV,False,False
+Transmission System,Drive Shaft 653,Generic Drive Shaft,VC-QA-2021-72698,2015-05-05,1023.04,EUR,True,True,"WV,Feramborghini,Mecentley,BMV,Nord",False,True
+Transmission System,Drive Shaft 520,Generic Drive Shaft,VC-QA-2021-96487,2022-03-14,1279.23,EUR,True,True,"Nord,WV",True,False
+Transmission System,Clutch Slave Cylinder 447,Generic Clutch Slave Cylinder,VC-QA-2024-04844,2020-01-15,1659.06,EUR,True,False,Nord,True,False
+Transmission System,Torque Converter 739,Generic Torque Converter,VC-QA-2022-58249,2019-07-03,522.71,EUR,True,True,BMV,False,False
+Transmission System,Transmission 878,Transfers power from engine to wheels.,VC-QA-2021-70936,2017-07-20,543.33,EUR,True,True,"Nord,Feramborghini,Mecentley",True,True
+Transmission System,Flywheel 959,Generic Flywheel,VC-QA-2021-36962,2015-01-01,170.29,EUR,True,True,Nord,True,True
+Transmission System,Transmission Cooler 179,Generic Transmission Cooler,VC-QA-2025-30811,2021-11-10,1853.32,EUR,True,True,"Feramborghini,BMV",True,True
+Transmission System,Drive Shaft 498,Generic Drive Shaft,VC-QA-2024-95034,2018-08-12,1301.57,EUR,True,True,"Nord,BMV,Feramborghini",False,True
+Transmission System,Differential 561,Distributes engine torque to drive wheels.,VC-QA-2023-12739,2019-10-16,1951.71,EUR,True,True,Nord,True,True
+Transmission System,Clutch Plate 503,Engages and disengages power to transmission.,VC-QA-2020-76433,2020-05-04,339.61,EUR,False,False,"Nord,Feramborghini,WV",False,False
+Transmission System,Differential 990,Generic Differential,VC-QA-2023-61577,2023-03-19,849.45,EUR,True,True,"Feramborghini,Mecentley,Nord,BMV,WV",False,False
+Transmission System,Clutch Plate 406,Generic Clutch Plate,VC-QA-2020-21733,2018-07-21,1702.06,EUR,True,True,"WV,Feramborghini,BMV",True,True
+Transmission System,Clutch Plate 342,Engages and disengages power to transmission.,VC-QA-2023-15239,2016-11-02,1725.97,EUR,True,True,"WV,Feramborghini,Mecentley,Nord",True,False
+Transmission System,Transmission Mount 077,Generic Transmission Mount,VC-QA-2022-35586,2015-12-13,1601.26,EUR,False,True,WV,True,False
+Transmission System,Clutch Master Cylinder 493,Generic Clutch Master Cylinder,VC-QA-2020-06110,2020-10-21,387.46,EUR,True,True,"WV,Mecentley",True,True
+Transmission System,Transmission Cooler 376,Generic Transmission Cooler,VC-QA-2025-02452,2018-10-01,1623.85,EUR,False,False,"Feramborghini,Mecentley",True,True
+Transmission System,Clutch Plate 335,Generic Clutch Plate,VC-QA-2021-38275,2022-02-05,1185.21,EUR,True,True,"Mecentley,BMV,Nord,Feramborghini,WV",True,True
+Transmission System,CV Joints 154,Generic CV Joints,VC-QA-2025-28440,2023-02-17,1583.59,EUR,True,True,"BMV,WV,Nord",False,False
+Transmission System,Flywheel 560,Generic Flywheel,VC-QA-2023-86793,2016-02-14,800.66,EUR,True,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True
+Transmission System,Transmission 003,Transfers power from engine to wheels.,VC-QA-2025-63196,2024-10-13,557.54,EUR,True,True,"Nord,Feramborghini,WV,Mecentley",True,False
+Transmission System,Axles 644,Generic Axles,VC-QA-2020-00784,2022-11-10,149.57,EUR,False,False,"WV,Nord,Feramborghini,Mecentley,BMV",False,False
+Transmission System,Clutch Plate 586,Engages and disengages power to transmission.,VC-QA-2022-82381,2016-05-13,567.33,EUR,True,False,"Feramborghini,BMV,WV,Nord",True,True
+Transmission System,CV Joints 398,Generic CV Joints,VC-QA-2020-24410,2022-11-25,1492.18,EUR,False,False,"Mecentley,BMV,Feramborghini,WV,Nord",False,False
+Transmission System,Transmission (Manual / Automatic) 419,Generic Transmission (Manual / Automatic),VC-QA-2020-28324,2024-07-22,1112.33,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",True,False
+Transmission System,Synchromesh Gears 496,Generic Synchromesh Gears,VC-QA-2025-42979,2025-08-16,1829.8,EUR,True,True,"Mecentley,Feramborghini",True,False
+Transmission System,Clutch Plate 491,Engages and disengages power to transmission.,VC-QA-2020-19579,2025-06-09,420.06,EUR,True,True,"Feramborghini,Nord,BMV,Mecentley,WV",True,True
+Transmission System,Synchromesh Gears 011,Generic Synchromesh Gears,VC-QA-2025-28778,2022-01-06,1553.75,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini",False,False
+Transmission System,Clutch Plate 158,Generic Clutch Plate,VC-QA-2024-59394,2025-08-13,1576.3,EUR,False,False,"BMV,Nord,Feramborghini,WV",True,False
+Transmission System,Differential 322,Distributes engine torque to drive wheels.,VC-QA-2020-84106,2017-07-24,1934.38,EUR,True,False,"Mecentley,Nord,Feramborghini,BMV,WV",False,True
+Transmission System,Drive Shaft 148,Transfers torque from transmission to wheels.,VC-QA-2021-05425,2022-06-27,1270.16,EUR,True,True,"Feramborghini,Nord",True,True
+Transmission System,Clutch Slave Cylinder 000,Generic Clutch Slave Cylinder,VC-QA-2020-51857,2015-12-17,1325.28,EUR,False,False,Nord,False,True
+Transmission System,Shift Linkage 934,Generic Shift Linkage,VC-QA-2023-89979,2024-10-23,913.69,EUR,True,False,"WV,Feramborghini",True,False
+Transmission System,Drive Shaft 639,Transfers torque from transmission to wheels.,VC-QA-2021-17451,2023-09-14,226.7,EUR,True,True,"Nord,BMV",True,False
+Transmission System,Clutch Slave Cylinder 722,Generic Clutch Slave Cylinder,VC-QA-2021-87039,2024-02-14,432.27,EUR,True,True,"Nord,Feramborghini",False,True
+Transmission System,Clutch Plate 369,Generic Clutch Plate,VC-QA-2022-23861,2018-09-12,25.51,EUR,True,False,"Mecentley,Nord,Feramborghini,BMV,WV",True,False
+Transmission System,Clutch Master Cylinder 539,Generic Clutch Master Cylinder,VC-QA-2023-08730,2022-03-10,1632.58,EUR,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",True,False
+Fuel System,Fuel Rail 735,Distributes fuel to injectors.,VC-QA-2025-96946,2019-02-08,1086.42,EUR,True,False,"Nord,BMV,Mecentley",False,False
+Fuel System,Fuel Tank 757,Stores fuel used by the vehicle.,VC-QA-2024-63951,2025-09-12,171.32,EUR,True,True,Nord,False,False
+Fuel System,Fuel Filter 748,Filters impurities from fuel.,VC-QA-2025-12920,2018-10-23,274.63,EUR,True,True,Mecentley,True,True
+Fuel System,Fuel Lines 672,Generic Fuel Lines,VC-QA-2020-59691,2023-03-03,744.28,EUR,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",False,True
+Fuel System,Fuel Rail 414,Distributes fuel to injectors.,VC-QA-2024-19527,2020-07-09,223.11,EUR,True,True,"Feramborghini,Nord,BMV",True,True
+Fuel System,Fuel Rail 346,Distributes fuel to injectors.,VC-QA-2020-88011,2017-07-12,59.05,EUR,True,False,Feramborghini,True,True
+Fuel System,Fuel Tank 496,Stores fuel used by the vehicle.,VC-QA-2023-87723,2022-01-20,1223.63,EUR,True,True,WV,True,True
+Fuel System,Fuel Tank 814,Stores fuel used by the vehicle.,VC-QA-2024-94333,2021-04-27,1720.18,EUR,True,True,"WV,Nord,Mecentley,Feramborghini",True,False
+Fuel System,Fuel Lines 939,Generic Fuel Lines,VC-QA-2023-44087,2018-12-13,1270.04,EUR,False,True,BMV,False,True
+Fuel System,Upgraded Fuel Injectors 941,Deliver more fuel for high-performance engines.,VC-QA-2020-60971,2018-09-19,151.33,EUR,True,True,"WV,BMV,Feramborghini",True,False
+Fuel System,Fuel Rail 911,Generic Fuel Rail,VC-QA-2020-64642,2025-12-16,448.3,EUR,True,True,Nord,False,True
+Fuel System,Fuel Lines 892,Carry fuel to the engine.,VC-QA-2020-25468,2022-12-15,808.82,EUR,True,True,WV,False,True
+Fuel System,Performance Fuel Pump 797,Increased fuel delivery rate for tuned engines.,VC-QA-2020-10371,2021-10-21,950.96,EUR,True,False,"Feramborghini,Mecentley,Nord,WV",True,False
+Fuel System,Fuel Tank 672,Stores fuel used by the vehicle.,VC-QA-2024-47768,2020-11-20,822.34,EUR,True,False,"WV,BMV,Feramborghini,Nord",False,False
+Fuel System,Fuel Pump 578,Delivers fuel from tank to engine.,VC-QA-2020-54163,2025-02-17,229.55,EUR,True,False,"Nord,WV,Mecentley",True,True
+Fuel System,Fuel Pressure Regulator 053,Maintains correct fuel pressure.,VC-QA-2021-64569,2021-03-23,1982.38,EUR,False,True,Feramborghini,False,True
+Fuel System,Fuel Pressure Regulator 215,Maintains correct fuel pressure.,VC-QA-2022-56342,2024-12-24,1937.0,EUR,True,False,BMV,True,True
+Fuel System,Fuel Injectors 094,Spray fuel into the engine's cylinders.,VC-QA-2020-27202,2019-01-24,687.48,EUR,True,True,"Feramborghini,BMV,Nord,WV,Mecentley",True,True
+Fuel System,Performance Fuel Pump 842,Increased fuel delivery rate for tuned engines.,VC-QA-2020-79962,2021-04-29,1794.12,EUR,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,True
+Fuel System,Gas Cap 522,Seals the fuel tank.,VC-QA-2024-43058,2019-11-12,1278.75,EUR,True,True,"BMV,Feramborghini,Nord",True,False
+Fuel System,Fuel Lines 644,Generic Fuel Lines,VC-QA-2021-81062,2021-07-10,1569.96,EUR,False,True,"Mecentley,Nord",True,False
+Fuel System,Fuel Rail 632,Distributes fuel to injectors.,VC-QA-2024-73465,2022-12-21,1042.05,EUR,True,True,"Nord,Feramborghini,BMV",True,False
+Fuel System,Fuel Tank 028,Generic Fuel Tank,VC-QA-2021-52686,2016-09-19,1567.97,EUR,False,False,"WV,Feramborghini,BMV,Mecentley",True,True
+Fuel System,Performance Fuel Pump 389,Increased fuel delivery rate for tuned engines.,VC-QA-2025-01152,2016-12-10,180.3,EUR,True,False,"Nord,Mecentley,BMV",True,False
+Fuel System,Fuel Pressure Regulator 546,Maintains correct fuel pressure.,VC-QA-2024-90522,2020-04-23,1028.99,EUR,True,True,"Feramborghini,Nord,WV",False,True
+Fuel System,Performance Fuel Pump 869,Increased fuel delivery rate for tuned engines.,VC-QA-2022-94687,2018-10-14,146.21,EUR,True,True,"BMV,Nord",False,False
+Fuel System,Fuel Pressure Regulator 966,Maintains correct fuel pressure.,VC-QA-2023-63864,2020-10-27,44.19,EUR,True,True,Nord,False,True
+Interior,Roll Cage 043,Improves safety and chassis rigidity.,VC-QA-2022-27006,2024-05-05,20.11,EUR,True,True,"WV,Feramborghini,Mecentley,BMV",True,True
+Interior,Racing Harness 127,Keeps driver securely in seat.,VC-QA-2025-84272,2015-04-09,93.02,EUR,False,True,"Feramborghini,Mecentley,BMV,WV",False,False
+Interior,Roll Cage 366,Improves safety and chassis rigidity.,VC-QA-2020-21003,2022-07-14,1246.25,EUR,False,True,"Feramborghini,Mecentley,WV,BMV,Nord",False,True
+Interior,Digital Gauges 627,"Monitor boost, oil pressure, and air/fuel ratio.",VC-QA-2021-95343,2016-12-26,625.4,EUR,True,True,"WV,Mecentley,Feramborghini",False,False
+Interior,Racing Harness 425,Keeps driver securely in seat.,VC-QA-2024-21285,2016-02-23,333.4,EUR,False,True,BMV,True,False
+Suspension,Adjustable Coilovers 973,Allow height and damping adjustment.,VC-QA-2023-11960,2020-08-18,1039.91,EUR,False,True,Feramborghini,False,False
+Suspension,Strut Tower Brace 797,Improves chassis rigidity and cornering.,VC-QA-2023-34814,2024-09-22,313.29,EUR,True,True,"Feramborghini,BMV",True,False
+Suspension,Strut Tower Brace 495,Improves chassis rigidity and cornering.,VC-QA-2021-60348,2021-12-26,259.46,EUR,True,True,"WV,BMV,Feramborghini,Nord",False,True
+Suspension,Strut Tower Brace 485,Improves chassis rigidity and cornering.,VC-QA-2024-92137,2025-02-14,1610.26,EUR,False,True,"Mecentley,Nord",False,True
+Transmission,Short Throw Shifter 758,Reduces shift distance for quicker gear changes.,VC-QA-2023-61901,2015-10-26,1773.5,EUR,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,False
+Interior Components,Headliner 170,Generic Headliner,VC-QA-2023-23010,2018-07-08,764.01,EUR,True,True,"Feramborghini,Mecentley",False,True
+Interior Components,Center Console 376,Generic Center Console,VC-QA-2021-95989,2017-11-27,1508.3,EUR,True,True,"Feramborghini,WV",True,True
+Interior Components,Seats 811,Provide seating for vehicle occupants.,VC-QA-2022-48268,2020-07-22,49.53,EUR,True,True,"Mecentley,WV",True,True
+Interior Components,Handbrake Lever 411,Generic Handbrake Lever,VC-QA-2025-64682,2025-02-28,1549.24,EUR,False,False,"BMV,Feramborghini",False,True
+Interior Components,Glove Box 594,Generic Glove Box,VC-QA-2023-90324,2024-12-22,622.78,EUR,True,True,"WV,BMV",True,False
+Interior Components,Carpet 648,Generic Carpet,VC-QA-2020-64526,2024-05-19,1875.65,EUR,True,True,"Nord,Feramborghini,Mecentley,BMV,WV",False,True
+Interior Components,Gear Shift Knob 376,Generic Gear Shift Knob,VC-QA-2021-10613,2019-11-28,93.03,EUR,True,True,"WV,Nord",False,True
+Interior Components,Seats 823,Provide seating for vehicle occupants.,VC-QA-2020-93117,2021-06-20,794.51,EUR,True,False,Nord,True,False
+Interior Components,Handbrake Lever 671,Generic Handbrake Lever,VC-QA-2020-87801,2025-08-12,706.68,EUR,True,True,Nord,False,True
+Interior Components,Dashboard 993,Generic Dashboard,VC-QA-2021-71974,2016-01-22,391.66,EUR,True,True,"Feramborghini,Nord,Mecentley",False,True
+Interior Components,Floor Mats 131,Generic Floor Mats,VC-QA-2023-12535,2016-12-14,1366.75,EUR,True,True,Feramborghini,False,True
+Interior Components,Dashboard 226,Houses instruments and controls in front of driver.,VC-QA-2022-62635,2024-05-25,188.46,EUR,True,True,Mecentley,True,True
+Interior Components,Carpet 863,Generic Carpet,VC-QA-2021-80372,2023-11-10,1606.7,EUR,True,True,Mecentley,True,True
+Interior Components,Handbrake Lever 610,Generic Handbrake Lever,VC-QA-2020-33505,2016-01-06,1174.17,EUR,True,True,BMV,True,False
+Interior Components,Seats 161,Provide seating for vehicle occupants.,VC-QA-2020-74978,2017-01-10,1826.19,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini",False,False
+Interior Components,Headliner 505,Generic Headliner,VC-QA-2021-92745,2017-01-27,1411.37,EUR,True,True,"Feramborghini,BMV,Nord,WV",True,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 803","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",VC-QA-2022-82732,2020-02-04,139.77,EUR,True,True,BMV,True,True
+Interior Components,Floor Mats 699,Generic Floor Mats,VC-QA-2024-17360,2023-12-11,333.07,EUR,True,True,"BMV,Nord",True,False
+Interior Components,Handbrake Lever 083,Generic Handbrake Lever,VC-QA-2024-24361,2018-10-04,1233.95,EUR,False,False,"Nord,WV",False,False
+Interior Components,Glove Box 823,Generic Glove Box,VC-QA-2025-72272,2021-03-12,1662.05,EUR,False,True,"Mecentley,Nord",True,False
+Interior Components,Dashboard 016,Generic Dashboard,VC-QA-2020-97231,2021-12-20,1317.46,EUR,True,True,"Mecentley,Nord,BMV,WV",False,False
+Interior Components,Seat Motors 541,Generic Seat Motors,VC-QA-2025-33452,2019-03-22,1873.66,EUR,False,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True
+Interior Components,Seat Motors 947,Generic Seat Motors,VC-QA-2025-45746,2021-05-30,1080.3,EUR,True,True,Nord,True,True
+Interior Components,Floor Mats 102,Generic Floor Mats,VC-QA-2021-46669,2018-12-15,160.29,EUR,True,True,Mecentley,True,False
+Interior Components,Interior Trim Panels 483,Generic Interior Trim Panels,VC-QA-2021-57795,2015-10-07,442.32,EUR,False,True,BMV,False,False
+Interior Components,Seat Motors 191,Generic Seat Motors,VC-QA-2021-22308,2020-04-15,1459.69,EUR,True,True,"Nord,WV",True,True
+Interior Components,Seatbelts 342,Generic Seatbelts,VC-QA-2023-33200,2016-07-12,1567.11,EUR,True,True,"Nord,Feramborghini,Mecentley,WV,BMV",False,True
+Interior Components,Glove Box 956,Compartment for storing small items.,VC-QA-2021-25370,2022-10-28,185.82,EUR,True,True,Mecentley,True,False
+Interior Components,Dashboard 790,Houses instruments and controls in front of driver.,VC-QA-2025-39519,2023-12-21,1247.51,EUR,True,True,"BMV,Nord",False,True
+Interior Components,Floor Mats 018,Generic Floor Mats,VC-QA-2020-26365,2025-03-14,106.09,EUR,True,True,"BMV,WV,Mecentley,Nord",True,False
+Interior Components,Dashboard 818,Houses instruments and controls in front of driver.,VC-QA-2025-41423,2024-01-15,1431.18,EUR,False,True,"Mecentley,Feramborghini,BMV,Nord,WV",True,False
+Interior Components,Sun Visors 440,Generic Sun Visors,VC-QA-2023-88616,2017-03-31,1906.46,EUR,True,True,WV,False,True
+Interior Components,Floor Mats 110,Generic Floor Mats,VC-QA-2020-14032,2017-10-01,1195.49,EUR,True,True,"BMV,Mecentley,Nord,Feramborghini",False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 380","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",VC-QA-2023-92779,2023-05-08,484.0,EUR,True,True,"Mecentley,WV,BMV,Nord",False,True
+Interior Components,Floor Mats 744,Generic Floor Mats,VC-QA-2021-92508,2023-07-02,1625.53,EUR,True,False,"Mecentley,Nord,Feramborghini,WV",False,False
+Interior Components,Handbrake Lever 063,Generic Handbrake Lever,VC-QA-2022-40409,2021-10-02,1480.98,EUR,True,True,"Mecentley,Nord",False,True
+Interior Components,Carpet 818,Generic Carpet,VC-QA-2024-35906,2024-07-14,1493.5,EUR,True,True,"Feramborghini,Mecentley,BMV,Nord",False,False
+Interior Components,Rearview Mirror 363,Generic Rearview Mirror,VC-QA-2022-35093,2020-08-25,433.12,EUR,False,True,"Mecentley,BMV,Feramborghini,WV",True,True
+Interior Components,Seatbelts 185,Generic Seatbelts,VC-QA-2022-78177,2020-08-10,1648.46,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",False,True
+Interior Components,Seatbelts 507,Secure passengers to reduce injury risk.,VC-QA-2023-35349,2020-07-09,1813.58,EUR,False,True,"WV,Feramborghini,Nord,BMV",False,False
+Interior Components,Dashboard 622,Generic Dashboard,VC-QA-2022-07687,2020-03-25,1675.42,EUR,True,False,"BMV,Mecentley,Nord,Feramborghini,WV",True,True
+Interior Components,Gear Shift Knob 966,Generic Gear Shift Knob,VC-QA-2021-69488,2025-05-11,1886.94,EUR,True,True,"Feramborghini,BMV",True,False
+Interior Components,Sun Visors 319,Generic Sun Visors,VC-QA-2020-27359,2021-10-11,1357.33,EUR,True,False,"WV,Mecentley",True,False
+Interior Components,Gear Shift Knob 559,Generic Gear Shift Knob,VC-QA-2025-33045,2025-07-10,1969.92,EUR,True,True,"Nord,Feramborghini,BMV,Mecentley,WV",False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 976","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",VC-QA-2023-39687,2024-11-24,1227.69,EUR,True,False,Nord,True,True
+Interior Components,Seats 617,Provide seating for vehicle occupants.,VC-QA-2020-45527,2021-05-08,902.37,EUR,False,True,Mecentley,False,True
+Interior Components,Center Console 508,Generic Center Console,VC-QA-2020-87363,2018-04-26,1657.46,EUR,True,False,"WV,Mecentley,Nord,Feramborghini",True,True
+Interior Components,Headliner 395,Generic Headliner,VC-QA-2021-77533,2020-12-31,758.68,EUR,True,False,"BMV,Mecentley,Feramborghini,Nord",True,False
+Interior Components,Seatbelts 249,Generic Seatbelts,VC-QA-2021-90993,2015-12-16,139.86,EUR,True,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,True
+Interior Components,Seat Motors 762,Generic Seat Motors,VC-QA-2025-49495,2023-11-24,736.43,EUR,False,True,"WV,BMV,Nord,Feramborghini,Mecentley",False,False
+Interior Components,Carpet 535,Generic Carpet,VC-QA-2022-18304,2021-05-06,911.49,EUR,True,True,"Mecentley,Feramborghini,Nord,WV",False,True
+Interior Components,Interior Trim Panels 011,Generic Interior Trim Panels,VC-QA-2022-18542,2017-02-07,1383.93,EUR,True,True,"Feramborghini,WV,Mecentley",True,True
+Interior Components,Dashboard 713,Houses instruments and controls in front of driver.,VC-QA-2021-20872,2023-06-04,88.09,EUR,True,True,"WV,BMV,Mecentley,Nord",True,False
+Interior Components,Carpet 992,Generic Carpet,VC-QA-2024-91350,2019-08-30,1662.65,EUR,True,True,"Nord,WV,Feramborghini,Mecentley",True,True
+Interior Components,Handbrake Lever 879,Generic Handbrake Lever,VC-QA-2025-76484,2021-09-10,1650.69,EUR,True,True,"Feramborghini,BMV",True,False
+Interior Components,Glove Box 235,Compartment for storing small items.,VC-QA-2025-03877,2023-08-08,883.52,EUR,True,True,"Nord,WV,BMV,Feramborghini,Mecentley",False,False
+Interior Components,Sun Visors 616,Generic Sun Visors,VC-QA-2024-86250,2017-04-18,388.69,EUR,True,True,"Nord,Mecentley,Feramborghini,BMV",True,False
+Interior Components,Glove Box 641,Generic Glove Box,VC-QA-2022-62677,2023-06-21,1026.07,EUR,True,True,"Mecentley,BMV,Feramborghini,WV",False,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 892","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",VC-QA-2020-07724,2024-05-21,215.89,EUR,True,True,"WV,Nord,Mecentley,BMV,Feramborghini",False,True
+Interior Components,Gear Shift Knob 152,Generic Gear Shift Knob,VC-QA-2021-01189,2021-02-12,1727.28,EUR,True,True,"Nord,BMV,Mecentley,WV,Feramborghini",True,True
+Interior Components,Seatbelts 230,Secure passengers to reduce injury risk.,VC-QA-2022-24671,2019-06-12,20.26,EUR,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",False,True
+Interior Components,Dashboard 662,Generic Dashboard,VC-QA-2024-39049,2017-10-05,1711.66,EUR,True,True,"Mecentley,BMV,WV",True,True
+Interior Components,Floor Mats 559,Generic Floor Mats,VC-QA-2021-19284,2020-06-14,105.17,EUR,True,False,"Feramborghini,Mecentley",False,True
+Interior Components,Seats 045,Provide seating for vehicle occupants.,VC-QA-2023-48808,2019-07-25,1374.11,EUR,False,False,"Nord,Feramborghini",True,False
+Interior Components,Glove Box 047,Generic Glove Box,VC-QA-2024-51932,2017-08-13,1882.04,EUR,True,True,"WV,Feramborghini,Mecentley,Nord",False,True
+Wheels and Tires,Tires 348,Generic Tires,VC-QA-2021-13765,2023-04-16,257.77,EUR,True,False,"Nord,WV",True,False
+Wheels and Tires,Valve Stems 318,Generic Valve Stems,VC-QA-2025-34807,2017-10-02,84.67,EUR,True,True,"BMV,Feramborghini,Mecentley,WV",False,False
+Wheels and Tires,Valve Stems 870,Generic Valve Stems,VC-QA-2022-10510,2018-05-19,371.82,EUR,True,True,Feramborghini,True,False
+Wheels and Tires,Tires 024,Generic Tires,VC-QA-2025-41256,2025-03-24,859.57,EUR,True,True,"BMV,Nord",True,True
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 150,Generic Tire Pressure Monitoring Sensors (TPMS),VC-QA-2022-38167,2018-08-28,1235.57,EUR,True,True,"Feramborghini,Nord",True,True
+Wheels and Tires,Rims / Wheels 948,Generic Rims / Wheels,VC-QA-2020-28278,2024-10-08,1402.86,EUR,False,True,"WV,Feramborghini,Nord",True,True
+Wheels and Tires,Rims / Wheels 315,Generic Rims / Wheels,VC-QA-2023-02068,2021-01-10,882.76,EUR,False,False,"Feramborghini,Mecentley,WV,BMV,Nord",False,True
+Wheels and Tires,Valve Stems 240,Generic Valve Stems,VC-QA-2025-84065,2020-03-25,1898.91,EUR,True,False,Feramborghini,True,False
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 536,Generic Tire Pressure Monitoring Sensors (TPMS),VC-QA-2022-96330,2017-01-21,586.66,EUR,True,True,Nord,True,True
+Wheels and Tires,Hubcaps 197,Generic Hubcaps,VC-QA-2022-13588,2024-05-26,892.14,EUR,True,True,Mecentley,True,True
+Wheels and Tires,Wheel Bolts / Lug Nuts 502,Generic Wheel Bolts / Lug Nuts,VC-QA-2020-22798,2022-10-12,356.12,EUR,True,True,"Mecentley,Feramborghini,BMV,Nord",True,True
+Cooling System,Performance Radiator 432,Increased cooling capacity for high performance.,VC-QA-2022-98589,2018-11-14,1224.9,EUR,False,False,WV,False,False
+Cooling System,Performance Radiator 318,Increased cooling capacity for high performance.,VC-QA-2024-33283,2024-06-18,868.7,EUR,True,False,"Nord,BMV,WV",True,True
+Ignition System,High-Performance Spark Plugs 159,Provide better combustion efficiency.,VC-QA-2023-16638,2021-03-02,1096.3,EUR,False,True,"Feramborghini,Nord,BMV",False,True
+Ignition System,High-Performance Spark Plugs 041,Provide better combustion efficiency.,VC-QA-2021-06401,2020-09-05,1305.27,EUR,True,True,"Feramborghini,Mecentley,WV",True,True
+Electrical and Ignition,Speedometer Sensor 845,Measures vehicle speed.,VC-QA-2025-07432,2019-02-10,1667.77,EUR,True,True,Nord,True,False
+Electrical and Ignition,Turn Signals 515,Indicate direction of intended turns.,VC-QA-2022-14582,2021-08-02,1221.53,EUR,True,False,"Mecentley,Nord,BMV,WV",True,True
+Electrical and Ignition,Battery 613,Provides electrical power to start the engine.,VC-QA-2020-51024,2019-01-10,907.5,EUR,False,False,"Nord,WV,BMV",False,False
+Electrical and Ignition,Fuse Box 711,Generic Fuse Box,VC-QA-2022-35277,2015-09-09,1819.78,EUR,False,True,"WV,BMV,Nord,Feramborghini",True,True
+Electrical and Ignition,O2 Sensor 241,Monitors oxygen levels in exhaust.,VC-QA-2022-72978,2015-08-09,1174.94,EUR,False,True,"BMV,Feramborghini,WV,Nord,Mecentley",True,True
+Electrical and Ignition,Tail Lights 419,Generic Tail Lights,VC-QA-2023-83360,2022-02-15,1723.07,EUR,True,True,"Nord,BMV",True,True
+Electrical and Ignition,Camshaft Position Sensor 434,Generic Camshaft Position Sensor,VC-QA-2020-34925,2022-01-20,1693.61,EUR,False,True,"WV,Mecentley,BMV,Feramborghini",False,True
+Electrical and Ignition,Alternator 864,Charges battery and powers electronics.,VC-QA-2021-35778,2019-10-10,1653.65,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord",False,True
+Electrical and Ignition,Electric Window Motors 615,Generic Electric Window Motors,VC-QA-2020-88885,2019-12-19,591.33,EUR,True,True,"BMV,WV,Mecentley",True,False
+Electrical and Ignition,Tail Lights 271,Signal braking and presence to rear traffic.,VC-QA-2020-81793,2023-04-03,1393.94,EUR,True,False,"Mecentley,BMV",True,True
+Electrical and Ignition,Voltage Regulator 183,Generic Voltage Regulator,VC-QA-2024-26868,2015-08-14,1292.59,EUR,False,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,False
+Electrical and Ignition,Fuse Box 290,Generic Fuse Box,VC-QA-2021-61967,2018-02-01,452.54,EUR,False,True,BMV,True,False
+Electrical and Ignition,Camshaft Position Sensor 384,Tracks camshaft position.,VC-QA-2020-42240,2019-08-29,203.57,EUR,True,True,"Feramborghini,Mecentley,Nord,WV",True,True
+Electrical and Ignition,Fuse Box 708,Houses fuses that protect circuits.,VC-QA-2021-47847,2016-06-07,1630.82,EUR,True,True,"Mecentley,BMV",False,True
+Electrical and Ignition,Turn Signals 052,Indicate direction of intended turns.,VC-QA-2025-41513,2015-08-15,296.41,EUR,True,False,"BMV,Mecentley,Feramborghini",True,False
+Electrical and Ignition,Ignition Coils 562,Generic Ignition Coils,VC-QA-2020-84353,2024-06-22,1727.56,EUR,True,False,"Mecentley,Feramborghini",True,False
+Electrical and Ignition,O2 Sensor 664,Monitors oxygen levels in exhaust.,VC-QA-2021-37401,2025-05-27,402.1,EUR,True,True,Nord,True,True
+Electrical and Ignition,Ignition Coils 404,Generic Ignition Coils,VC-QA-2025-69222,2023-01-05,779.43,EUR,True,True,"Feramborghini,Nord",False,False
+Electrical and Ignition,Ignition Switch 557,Generic Ignition Switch,VC-QA-2020-39014,2017-08-19,1349.82,EUR,True,True,"Nord,Mecentley,Feramborghini",True,False
+Electrical and Ignition,Spark Plugs 080,Generic Spark Plugs,VC-QA-2025-46776,2022-02-03,1116.74,EUR,True,True,"Nord,BMV,Feramborghini,WV",True,False
+Electrical and Ignition,Electric Mirror Motors 989,Generic Electric Mirror Motors,VC-QA-2021-16739,2019-07-03,1384.49,EUR,False,True,"Nord,Mecentley,BMV,Feramborghini,WV",True,True
+Electrical and Ignition,Camshaft Position Sensor 048,Generic Camshaft Position Sensor,VC-QA-2025-77149,2022-05-22,167.5,EUR,True,True,BMV,True,True
+Electrical and Ignition,Ignition Switch 706,Starts the vehicle.,VC-QA-2021-80154,2024-06-04,1058.08,EUR,True,True,"Feramborghini,WV",True,True
+Electrical and Ignition,Key Fob 691,Remote key with lock/unlock functions.,VC-QA-2022-42856,2019-03-30,1081.27,EUR,False,False,"Nord,BMV",True,True
+Electrical and Ignition,ECU 996,Controls various engine and car functions.,VC-QA-2024-05888,2016-02-28,1609.93,EUR,False,True,"Feramborghini,Nord,WV,Mecentley,BMV",False,False
+Electrical and Ignition,Alternator 827,Charges the battery and powers electrical systems.,VC-QA-2025-47029,2016-12-15,1549.96,EUR,True,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True
+Electrical and Ignition,Voltage Regulator 675,Controls alternator output.,VC-QA-2020-59325,2018-05-26,1645.96,EUR,False,True,Nord,True,False
+Electrical and Ignition,Headlights 786,Illuminate the road ahead at night.,VC-QA-2021-33561,2023-01-12,1568.88,EUR,True,True,"BMV,Mecentley",True,True
+Electrical and Ignition,Crankshaft Position Sensor 661,Tracks crankshaft position.,VC-QA-2023-71548,2022-09-29,1023.32,EUR,True,True,"Mecentley,Feramborghini,WV",False,True
+Electrical and Ignition,Starter Motor 748,Generic Starter Motor,VC-QA-2022-56569,2019-07-31,157.03,EUR,True,True,"WV,Nord,BMV",False,True
+Electrical and Ignition,Headlights 041,Generic Headlights,VC-QA-2021-90340,2024-03-04,608.48,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",False,True
+Electrical and Ignition,Turn Signals 269,Generic Turn Signals,VC-QA-2022-78160,2016-08-05,1487.34,EUR,True,True,"Mecentley,Nord,WV,BMV,Feramborghini",True,True
+Electrical and Ignition,Crankshaft Position Sensor 486,Tracks crankshaft position.,VC-QA-2025-99964,2016-01-03,200.56,EUR,False,True,BMV,True,True
+Electrical and Ignition,Turn Signals 176,Generic Turn Signals,VC-QA-2023-45807,2020-07-15,1727.08,EUR,True,True,"WV,Mecentley,BMV,Feramborghini",True,True
+Electrical and Ignition,Speedometer Sensor 342,Generic Speedometer Sensor,VC-QA-2025-97190,2024-09-27,1402.33,EUR,True,True,"Nord,Feramborghini,BMV,Mecentley",False,True
+Electrical and Ignition,Tail Lights 889,Generic Tail Lights,VC-QA-2024-01776,2022-03-30,891.75,EUR,True,False,"Mecentley,BMV,Feramborghini",True,True
+Electrical and Ignition,Electric Mirror Motors 467,Generic Electric Mirror Motors,VC-QA-2025-68929,2020-02-09,789.9,EUR,True,True,"Nord,WV,BMV",False,False
+Electrical and Ignition,Starter Motor 267,Cranks the engine to start it.,VC-QA-2023-63102,2022-09-01,1759.85,EUR,True,True,"Feramborghini,BMV,Mecentley",False,False
+Electrical and Ignition,Starter Motor 065,Cranks the engine to start it.,VC-QA-2020-33980,2021-08-05,1490.29,EUR,True,False,"BMV,Feramborghini,WV,Mecentley",True,False
+Electrical and Ignition,Ignition Coils 686,Generic Ignition Coils,VC-QA-2022-60074,2018-07-22,63.12,EUR,False,True,"Feramborghini,WV,BMV",True,False
+Electrical and Ignition,Knock Sensor 212,Detects engine knock.,VC-QA-2020-72323,2024-11-11,1370.23,EUR,True,False,"Mecentley,Feramborghini,WV",True,False
+Electrical and Ignition,Relays 003,Generic Relays,VC-QA-2022-23045,2018-02-05,1539.97,EUR,True,True,"WV,Nord,Mecentley",True,True
+Electrical and Ignition,Ignition Switch 135,Generic Ignition Switch,VC-QA-2024-23272,2023-10-16,1421.9,EUR,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,True
+Exterior,Carbon Fiber Hood 369,Reduces weight and improves aerodynamics.,VC-QA-2020-37339,2020-06-23,134.99,EUR,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",True,True
+Exterior,Front Splitter 078,Adds front-end downforce.,VC-QA-2023-21417,2018-08-06,799.08,EUR,True,True,"Nord,Feramborghini",True,True
+Exterior,Front Splitter 807,Adds front-end downforce.,VC-QA-2022-40308,2017-08-14,806.83,EUR,True,True,"Nord,BMV,Feramborghini",True,True
+Exterior,Rear Diffuser 585,Improves underbody airflow and downforce.,VC-QA-2020-92130,2023-07-13,706.81,EUR,True,False,"Feramborghini,BMV,Nord",True,True
+Exterior,Aero Canards 654,Enhance airflow and cornering stability.,VC-QA-2022-13047,2018-03-10,1549.35,EUR,True,True,"BMV,WV,Nord,Mecentley,Feramborghini",False,False
+Exterior,Widebody Kit 398,Allows wider tires and improves stance.,VC-QA-2021-90958,2022-10-19,1118.99,EUR,True,True,"Feramborghini,Mecentley",True,False
+Exterior,Aero Canards 291,Enhance airflow and cornering stability.,VC-QA-2020-74622,2025-04-18,657.41,EUR,False,True,Mecentley,True,True
+Exterior,Carbon Fiber Spoiler 576,Increases rear downforce.,VC-QA-2021-92031,2020-04-16,1192.62,EUR,True,True,"Nord,WV,Mecentley",True,True
+Exterior,Carbon Fiber Spoiler 260,Increases rear downforce.,VC-QA-2021-82309,2019-03-24,643.17,EUR,True,True,"BMV,Mecentley,Feramborghini,Nord,WV",False,True
+Exterior,Front Splitter 533,Adds front-end downforce.,VC-QA-2024-85534,2025-10-31,347.41,EUR,True,True,Nord,False,True
+Exterior,Front Splitter 498,Adds front-end downforce.,VC-QA-2025-16895,2020-08-07,571.99,EUR,True,False,"WV,Mecentley,Feramborghini,Nord",True,True
+Exterior,Carbon Fiber Hood 652,Reduces weight and improves aerodynamics.,VC-QA-2023-00144,2021-01-08,289.13,EUR,True,True,"BMV,Feramborghini,Mecentley",True,True
+Exterior,Widebody Kit 812,Allows wider tires and improves stance.,VC-QA-2025-20999,2017-11-20,1872.36,EUR,True,True,"WV,Mecentley,Feramborghini,Nord",True,True

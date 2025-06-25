@@ -1,0 +1,461 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,digitallyTracked,hazardousMaterial,ecoFriendly,refurbished,requiresCalibration,obsolete,recalled
+Cooling & HVAC System,R94 Thermostat,Regulates engine coolant temperature.,OTW-ELE-21Y2-7PB,2025-04-03,855.59,JPY,True,True,"BMV,WV,Mecentley,Feramborghini",False,True,True,False,True,False,True
+Cooling & HVAC System,A66 Expansion Valve,Controls refrigerant flow.,OTW-SUS-PZNC-0BJ,2016-02-13,1040.48,JPY,True,True,"BMV,Nord,Mecentley,WV,Feramborghini",False,True,False,False,True,False,True
+Cooling & HVAC System,T65 A/C Condenser,Releases heat from compressed refrigerant.,OTW-SUS-PFJT-8V2,2017-02-17,1814.2,JPY,True,True,"BMV,Feramborghini,WV,Mecentley",False,True,True,True,False,True,False
+Cooling & HVAC System,U68 Heater Blower Motor,Drives air through HVAC system.,OTW-DRI-JFS2-LJX,2023-12-26,1971.84,JPY,True,False,"Mecentley,WV",True,False,True,False,False,False,True
+Cooling & HVAC System,T70 Water Pump,Generic Water Pump,OTW-DRI-GG9G-QIU,2025-08-26,893.86,JPY,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",False,True,True,True,True,True,True
+Cooling & HVAC System,G52 Radiator,Generic Radiator,OTW-PERF-IXJ4-CHD,2019-04-21,1804.2,JPY,True,True,WV,False,False,False,False,False,True,False
+Cooling & HVAC System,W97 Cabin Air Filter,Filters air inside the car.,OTW-TRN-L3DS-YVJ,2024-06-18,1909.98,JPY,True,True,"WV,BMV,Feramborghini,Nord",False,True,True,True,False,True,False
+Cooling & HVAC System,M72 Cabin Air Filter,Generic Cabin Air Filter,OTW-ELE-QX7Z-5DU,2017-10-05,1371.05,JPY,False,True,WV,True,False,False,True,False,True,True
+Cooling & HVAC System,R10 A/C Compressor,Compresses refrigerant for air conditioning.,OTW-PERF-3L44-AS5,2017-05-31,304.59,JPY,True,False,Mecentley,False,True,True,True,True,True,True
+Cooling & HVAC System,W25 Thermostat Housing,Generic Thermostat Housing,OTW-PERF-6L19-IK1,2024-07-24,1049.73,JPY,False,False,WV,False,True,True,False,False,True,True
+Cooling & HVAC System,B81 Heater Core,Heats cabin air using engine coolant.,OTW-DRI-A2O6-LJN,2019-03-03,1654.34,JPY,True,True,"Feramborghini,BMV,WV",True,True,True,False,True,True,True
+Cooling & HVAC System,S27 A/C Compressor,Generic A/C Compressor,OTW-ENG-6FWP-YYI,2024-07-12,328.35,JPY,True,True,"BMV,Nord,Feramborghini,WV",True,False,True,True,False,False,True
+Cooling & HVAC System,P27 Thermostat Housing,Encases the thermostat.,OTW-COL-UGRG-RF1,2017-11-02,323.07,JPY,True,False,"Feramborghini,BMV,Nord,Mecentley",False,True,True,True,True,True,False
+Cooling & HVAC System,O61 Fan Clutch,Generic Fan Clutch,OTW-ENG-H0E1-TGG,2023-10-16,1103.58,JPY,True,True,BMV,True,True,False,True,False,True,True
+Cooling & HVAC System,B96 A/C Dryer,Removes moisture from refrigerant.,OTW-PERF-IH0G-1NN,2021-02-01,57.59,JPY,False,False,WV,True,False,True,False,True,True,True
+Cooling & HVAC System,V46 A/C Dryer,Generic A/C Dryer,OTW-PERF-7Y9N-A2M,2015-10-24,786.62,JPY,False,True,"Mecentley,Feramborghini,WV,Nord",False,True,True,True,False,True,True
+Cooling & HVAC System,H95 Thermostat,Regulates engine coolant temperature.,OTW-ELE-6O85-SH0,2017-09-02,329.69,JPY,True,False,BMV,False,True,True,True,True,True,True
+Cooling & HVAC System,C15 Thermostat,Regulates engine coolant temperature.,OTW-PERF-7SM3-BGB,2017-06-04,1573.3,JPY,True,False,"Nord,BMV",True,False,False,True,True,False,False
+Cooling & HVAC System,U71 Heater Core,Generic Heater Core,OTW-SUS-GXR7-75L,2015-04-09,78.38,JPY,True,True,"Feramborghini,Nord,Mecentley,BMV,WV",False,True,True,True,True,False,True
+Cooling & HVAC System,F9 Thermostat Housing,Encases the thermostat.,OTW-DRI-0ZGR-R80,2023-01-31,526.27,JPY,True,False,"BMV,Feramborghini",True,True,True,True,True,True,False
+Cooling & HVAC System,J66 A/C Lines,Transport refrigerant.,OTW-ELE-F8P6-BDP,2023-08-26,489.44,JPY,False,False,"BMV,Nord",True,False,False,False,True,True,False
+Cooling & HVAC System,H73 Radiator Hoses,Generic Radiator Hoses,OTW-ENG-3XHL-ZF1,2016-08-29,1338.61,JPY,True,True,"WV,Feramborghini",True,True,True,True,True,False,True
+Cooling & HVAC System,D94 A/C Condenser,Releases heat from compressed refrigerant.,OTW-TRN-HSZI-LP8,2019-04-26,32.01,JPY,True,True,"Feramborghini,Mecentley,BMV",True,True,True,False,False,True,False
+Cooling & HVAC System,U43 Thermostat Housing,Encases the thermostat.,OTW-ENG-3J75-9MM,2015-12-30,309.8,JPY,True,False,Mecentley,False,True,True,False,False,False,True
+Cooling & HVAC System,W46 Thermostat,Generic Thermostat,OTW-TRN-0BUM-MPH,2017-11-28,596.6,JPY,True,True,"Nord,WV,Mecentley,BMV,Feramborghini",True,True,True,True,False,False,True
+Cooling & HVAC System,U44 A/C Compressor,Compresses refrigerant for air conditioning.,OTW-SUS-IIO8-SUV,2020-04-26,1602.14,JPY,True,False,"BMV,Nord,Feramborghini,Mecentley",True,True,False,False,False,True,False
+Cooling & HVAC System,H44 A/C Condenser,Releases heat from compressed refrigerant.,OTW-ENG-L5HF-VDS,2021-09-13,1230.53,JPY,True,True,"Feramborghini,BMV",False,True,False,False,True,True,False
+Cooling & HVAC System,T41 A/C Compressor,Compresses refrigerant for air conditioning.,OTW-DRI-ZL0Y-K3P,2020-08-24,584.78,JPY,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,False,True,True,False,False,False
+Cooling & HVAC System,F57 A/C Condenser,Releases heat from compressed refrigerant.,OTW-TRN-JZYW-G4C,2024-01-20,801.42,JPY,True,True,"Feramborghini,Nord,BMV,WV",True,False,True,True,False,True,False
+Cooling & HVAC System,U30 Radiator Hoses,Generic Radiator Hoses,OTW-ELE-H77A-OVV,2022-07-18,173.65,JPY,False,False,"Feramborghini,BMV,Nord,WV",True,True,True,True,True,True,False
+Cooling & HVAC System,G58 Cooling Fan,Assists in radiator cooling.,OTW-PERF-013T-IDH,2025-11-19,1569.17,JPY,True,True,Feramborghini,False,False,True,False,False,False,True
+Cooling & HVAC System,O58 Heater Core,Heats cabin air using engine coolant.,OTW-DRI-T85T-LOD,2023-10-19,1132.04,JPY,True,True,BMV,False,False,False,True,False,True,True
+Cooling & HVAC System,T99 Thermostat,Regulates engine coolant temperature.,OTW-ENG-FK7M-A0T,2023-10-31,488.47,JPY,True,True,Nord,True,False,True,True,True,False,False
+Cooling & HVAC System,H66 A/C Compressor,Compresses refrigerant for air conditioning.,OTW-PERF-3CZG-1QY,2020-05-15,1578.21,JPY,True,True,"WV,Feramborghini",False,True,True,False,True,True,True
+Cooling & HVAC System,K50 A/C Dryer,Generic A/C Dryer,OTW-ENG-5HWK-QO0,2017-02-27,147.66,JPY,True,True,"Mecentley,WV,BMV,Feramborghini",False,False,True,True,True,False,False
+Cooling & HVAC System,H73 Expansion Valve,Generic Expansion Valve,OTW-PERF-98LK-J49,2016-04-01,654.47,JPY,True,True,Mecentley,False,True,True,True,False,False,True
+Cooling & HVAC System,U75 Fan Clutch,Generic Fan Clutch,OTW-ENG-XKK3-5YS,2016-12-09,990.93,JPY,False,False,"Nord,Mecentley,BMV,Feramborghini",True,False,True,True,False,True,False
+Cooling & HVAC System,C89 Cabin Air Filter,Generic Cabin Air Filter,OTW-COL-LW75-DGR,2019-06-18,1264.16,JPY,True,True,"Mecentley,BMV,WV",True,True,True,False,True,True,False
+Cooling & HVAC System,M13 Expansion Valve,Generic Expansion Valve,OTW-TRN-EGII-95N,2017-10-30,1697.43,JPY,True,True,Feramborghini,False,True,True,False,False,True,True
+Cooling & HVAC System,H90 Fan Clutch,Generic Fan Clutch,OTW-SUS-HP4Y-08H,2024-09-12,93.09,JPY,False,True,Mecentley,True,False,True,False,True,True,False
+Cooling & HVAC System,U12 Radiator Hoses,Carry coolant to and from radiator.,OTW-DRI-RQND-URY,2018-02-19,1643.05,JPY,True,False,Nord,True,True,False,True,True,True,True
+Cooling & HVAC System,O68 Cabin Air Filter,Filters air inside the car.,OTW-DRI-8WXT-BTD,2016-03-07,1878.64,JPY,True,True,"Mecentley,Nord,Feramborghini,WV",True,True,True,True,True,True,True
+Cooling & HVAC System,E57 Heater Blower Motor,Generic Heater Blower Motor,OTW-BRK-PMBI-JEB,2022-03-15,383.08,JPY,True,True,"Feramborghini,WV,BMV,Mecentley",True,True,True,True,True,False,False
+Cooling & HVAC System,Y57 Fan Clutch,Generic Fan Clutch,OTW-SUS-BT94-8IX,2024-06-05,1495.97,JPY,True,False,WV,True,False,False,True,True,True,False
+Cooling & HVAC System,D39 Heater Blower Motor,Drives air through HVAC system.,OTW-PERF-8OZO-L6O,2022-10-23,1407.36,JPY,True,True,"BMV,Mecentley,WV,Feramborghini,Nord",False,True,True,False,True,True,False
+Cooling & HVAC System,Y6 A/C Compressor,Generic A/C Compressor,OTW-ELE-6VN6-FKU,2022-09-22,76.34,JPY,True,True,Nord,True,False,True,False,True,True,True
+Cooling & HVAC System,X69 Thermostat Housing,Encases the thermostat.,OTW-BRK-3JQ9-FFO,2024-04-27,440.6,JPY,True,True,"BMV,Feramborghini,Nord",True,True,True,False,False,False,False
+Cooling & HVAC System,L50 Radiator Cap,Generic Radiator Cap,OTW-SUS-JIEQ-CO8,2024-02-12,1349.05,JPY,False,True,"WV,Nord",False,False,False,False,False,False,True
+Cooling & HVAC System,M78 Heater Core,Heats cabin air using engine coolant.,OTW-SUS-RDWI-3AD,2022-02-06,1045.24,JPY,False,True,"WV,Feramborghini,Nord,Mecentley",False,False,False,False,True,False,True
+Cooling & HVAC System,F52 A/C Lines,Generic A/C Lines,OTW-PERF-1PSH-7SQ,2022-02-06,401.39,JPY,True,True,"BMV,WV,Mecentley,Nord",False,True,False,True,True,False,True
+Cooling & HVAC System,Q48 Radiator,Dissipates heat from engine coolant.,OTW-BRK-CV7I-QSI,2016-07-08,1363.7,JPY,True,True,"BMV,WV,Mecentley",False,True,True,False,False,True,True
+Cooling & HVAC System,J46 A/C Lines,Transport refrigerant.,OTW-COL-FEHB-5O4,2025-05-03,1437.33,JPY,True,True,"WV,Nord,Feramborghini,Mecentley,BMV",True,False,False,True,False,True,True
+Cooling & HVAC System,N94 Fan Clutch,Engages fan as needed.,OTW-ELE-3WDW-RM1,2020-01-12,583.12,JPY,True,True,"WV,Feramborghini",False,True,True,True,True,True,True
+Cooling & HVAC System,J74 A/C Condenser,Releases heat from compressed refrigerant.,OTW-DRI-VDIR-61K,2023-09-11,712.5,JPY,True,True,"WV,Feramborghini,Mecentley",True,True,True,False,True,True,False
+Cooling & HVAC System,B32 Thermostat,Generic Thermostat,OTW-PERF-B04O-CIL,2025-06-05,1208.03,JPY,True,True,Feramborghini,False,True,True,True,False,True,True
+Cooling & HVAC System,J77 A/C Condenser,Releases heat from compressed refrigerant.,OTW-PERF-DWHO-Y02,2020-06-22,1967.46,JPY,True,True,"Mecentley,BMV,WV,Feramborghini",False,False,True,False,True,True,False
+Cooling & HVAC System,V71 Radiator,Dissipates heat from engine coolant.,OTW-PERF-FQAR-9SU,2017-09-23,754.45,JPY,True,True,WV,False,False,True,True,True,False,True
+Cooling & HVAC System,E86 Radiator Hoses,Carry coolant to and from radiator.,OTW-ENG-I504-4YP,2025-01-03,29.47,JPY,True,True,"Nord,Mecentley",True,False,True,True,True,True,True
+Cooling & HVAC System,H92 A/C Condenser,Releases heat from compressed refrigerant.,OTW-ENG-AW1W-XH1,2024-07-17,194.36,JPY,True,True,"WV,BMV,Feramborghini",True,True,True,True,False,True,False
+Cooling & HVAC System,E43 A/C Condenser,Releases heat from compressed refrigerant.,OTW-COL-R9OU-ZUK,2016-10-17,389.12,JPY,True,False,"Mecentley,BMV",True,False,True,False,False,True,True
+Cooling & HVAC System,V84 Cabin Air Filter,Generic Cabin Air Filter,OTW-COL-Z5X5-BWV,2021-08-29,1011.98,JPY,False,True,"WV,Nord,Mecentley",True,True,False,True,True,False,False
+Cooling & HVAC System,J99 A/C Compressor,Compresses refrigerant for air conditioning.,OTW-ELE-LONS-Q9A,2022-03-21,500.53,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,False,False,False,True,False,False
+Cooling & HVAC System,T91 Radiator,Generic Radiator,OTW-ELE-OIEY-TCV,2021-11-13,438.78,JPY,True,True,"Mecentley,Feramborghini",False,False,True,False,True,False,False
+Cooling & HVAC System,D82 Thermostat,Generic Thermostat,OTW-ENG-20RG-VOZ,2019-02-14,1499.35,JPY,True,False,"BMV,Nord,Feramborghini,Mecentley",False,False,False,True,True,True,True
+Cooling & HVAC System,L5 Thermostat,Regulates engine coolant temperature.,OTW-COL-P9GX-IXO,2024-07-16,1401.18,JPY,True,False,"Mecentley,WV,Nord",False,True,True,False,True,True,False
+Cooling & HVAC System,P24 Radiator,Dissipates heat from engine coolant.,OTW-TRN-K9AP-V8L,2021-03-12,1103.93,JPY,True,True,"WV,Mecentley,BMV,Nord",False,True,True,True,False,True,False
+Cooling & HVAC System,S14 Heater Blower Motor,Drives air through HVAC system.,OTW-TRN-2V3O-GW3,2022-05-29,1786.26,JPY,True,True,"Mecentley,BMV,Nord,WV,Feramborghini",False,False,True,False,False,False,False
+Cooling & HVAC System,E14 Thermostat,Regulates engine coolant temperature.,OTW-BRK-UOAO-BU4,2023-05-18,374.7,JPY,True,True,"Nord,WV,Feramborghini,Mecentley,BMV",True,True,True,True,True,True,True
+Cooling & HVAC System,W15 Heater Blower Motor,Drives air through HVAC system.,OTW-DRI-XRWN-JMA,2017-06-09,914.82,JPY,True,True,"Mecentley,WV,Nord,BMV,Feramborghini",True,True,True,True,True,False,False
+Cooling & HVAC System,R92 Heater Blower Motor,Drives air through HVAC system.,OTW-PERF-KRAD-ISR,2018-09-30,579.46,JPY,True,True,"Nord,BMV,WV",False,True,False,True,False,False,True
+Cooling & HVAC System,Q20 Radiator,Dissipates heat from engine coolant.,OTW-ELE-RV3Q-9NV,2017-12-11,1478.2,JPY,True,True,"Mecentley,Feramborghini,WV",True,False,False,True,True,True,False
+Cooling & HVAC System,U84 A/C Condenser,Generic A/C Condenser,OTW-ENG-M32J-I5W,2015-10-07,1182.87,JPY,True,True,"WV,Mecentley,BMV,Nord",True,True,True,False,False,True,True
+Cooling & HVAC System,M74 Thermostat,Regulates engine coolant temperature.,OTW-COL-YYHY-RTG,2021-09-16,1053.03,JPY,False,True,"Mecentley,Feramborghini,BMV",True,True,True,True,True,True,True
+Cooling & HVAC System,K82 A/C Compressor,Compresses refrigerant for air conditioning.,OTW-ELE-F82O-W8S,2025-09-14,1609.9,JPY,True,True,"Nord,WV,Feramborghini,Mecentley,BMV",False,True,True,True,True,True,True
+Cooling & HVAC System,Q49 A/C Dryer,Removes moisture from refrigerant.,OTW-ELE-9T9B-8DJ,2023-08-18,50.28,JPY,True,True,"BMV,Mecentley",True,True,False,False,True,False,False
+Cooling & HVAC System,T47 Radiator,Dissipates heat from engine coolant.,OTW-ELE-FXUB-26Z,2017-02-07,1828.22,JPY,True,True,"WV,Feramborghini",True,True,True,True,True,False,True
+Cooling & HVAC System,J74 A/C Dryer,Generic A/C Dryer,OTW-TRN-SVVJ-6W5,2016-07-28,1305.32,JPY,False,True,"Feramborghini,WV,Nord",False,False,False,True,False,False,True
+Cooling & HVAC System,Q10 A/C Condenser,Releases heat from compressed refrigerant.,OTW-BRK-3553-3KC,2025-02-18,715.47,JPY,True,True,"WV,Feramborghini,Mecentley",True,True,True,False,True,False,False
+Cooling & HVAC System,G41 Radiator Cap,Seals radiator and maintains pressure.,OTW-COL-4GQ5-9TH,2023-06-29,301.13,JPY,True,True,Feramborghini,False,False,True,False,False,True,True
+Cooling & HVAC System,L39 A/C Condenser,Generic A/C Condenser,OTW-ENG-4PLJ-ZG5,2021-10-27,573.67,JPY,False,True,"Nord,WV,Feramborghini",False,False,True,False,True,False,True
+Control and Comfort Features,Z69 Cruise Control System,Generic Cruise Control System,OTW-PERF-ZN9I-99O,2018-09-04,1285.51,JPY,True,True,"Mecentley,BMV,Nord",False,False,False,False,False,True,False
+Control and Comfort Features,F96 Navigation System (GPS),Generic Navigation System (GPS),OTW-BRK-AVBS-7TH,2022-01-12,1713.72,JPY,True,False,"Mecentley,BMV",True,True,True,False,True,False,True
+Control and Comfort Features,N44 Adaptive Cruise Control,Generic Adaptive Cruise Control,OTW-SUS-RSWV-SG7,2016-01-08,1881.47,JPY,True,False,"BMV,Mecentley,Feramborghini,WV,Nord",True,True,False,True,True,False,True
+Control and Comfort Features,G71 Power Windows Switches,Generic Power Windows Switches,OTW-TRN-91BY-CLP,2016-01-01,1193.63,JPY,True,True,"Nord,Feramborghini",False,False,True,False,True,True,True
+Control and Comfort Features,P17 Infotainment System,"Central interface for audio, navigation, etc.",OTW-BRK-3R1Q-6AJ,2015-07-31,891.88,JPY,True,True,"BMV,Feramborghini,Mecentley,WV,Nord",False,False,True,True,False,False,False
+Control and Comfort Features,I30 Mirror Adjustment Switches,Generic Mirror Adjustment Switches,OTW-ENG-F6ZH-8ZD,2020-11-10,1668.76,JPY,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,False,False,True,False,False,False
+Control and Comfort Features,R26 Lane Assist System,Generic Lane Assist System,OTW-DRI-MI12-57F,2016-05-16,799.67,JPY,True,True,"Mecentley,Feramborghini,Nord,WV",True,True,True,True,True,True,False
+Control and Comfort Features,G69 Cruise Control System,Generic Cruise Control System,OTW-ELE-3S9N-XGV,2015-07-03,1031.62,JPY,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,False,True,True,False,False,True
+Control and Comfort Features,Y59 Electronic Stability Control,Generic Electronic Stability Control,OTW-PERF-UWRT-ED8,2022-01-10,642.89,JPY,True,True,"Nord,WV,BMV,Mecentley,Feramborghini",True,True,True,True,True,True,False
+Control and Comfort Features,E94 Electronic Stability Control,Generic Electronic Stability Control,OTW-ELE-4S0Z-PXJ,2024-12-08,921.45,JPY,True,False,"WV,Nord,Mecentley,Feramborghini,BMV",True,True,True,True,True,True,True
+Control and Comfort Features,S55 Infotainment System,"Central interface for audio, navigation, etc.",OTW-ENG-SSIW-WVK,2023-12-20,1719.71,JPY,True,True,"Mecentley,WV",True,False,True,True,False,True,False
+Control and Comfort Features,G96 Adaptive Cruise Control,Generic Adaptive Cruise Control,OTW-ENG-3FJP-32D,2025-09-14,1500.84,JPY,False,False,"Feramborghini,BMV,Nord",True,True,True,True,False,False,True
+Control and Comfort Features,E19 Infotainment System,Generic Infotainment System,OTW-ENG-NKYG-BKT,2020-10-06,1715.23,JPY,True,False,"WV,BMV",False,False,False,True,True,True,True
+Control and Comfort Features,N84 Backup Camera,Generic Backup Camera,OTW-SUS-Q96W-97V,2018-03-28,1841.53,JPY,True,True,"Nord,Mecentley,Feramborghini",False,False,True,False,True,True,False
+Control and Comfort Features,H10 Backup Camera,Generic Backup Camera,OTW-BRK-F67V-9XF,2020-06-02,24.57,JPY,True,False,"Nord,WV",True,False,True,False,True,True,True
+Control and Comfort Features,T32 Lane Assist System,Generic Lane Assist System,OTW-TRN-UFLT-E7W,2015-08-22,652.84,JPY,True,True,"Feramborghini,BMV,Mecentley,Nord",True,False,False,True,False,True,False
+Control and Comfort Features,X16 Speakers,Generic Speakers,OTW-DRI-HERR-Q4M,2015-11-24,1882.81,JPY,False,True,"WV,BMV",False,True,True,True,True,True,True
+Control and Comfort Features,U36 Mirror Adjustment Switches,Generic Mirror Adjustment Switches,OTW-DRI-N3EI-XNT,2018-07-17,1721.92,JPY,True,True,"Mecentley,Feramborghini",False,True,True,True,False,False,True
+Control and Comfort Features,Y35 Navigation System (GPS),Generic Navigation System (GPS),OTW-COL-4PZH-I4T,2020-02-27,1369.53,JPY,True,False,"Feramborghini,Nord,BMV,Mecentley,WV",False,True,False,True,True,False,False
+Control and Comfort Features,A72 Blind Spot Monitor,Generic Blind Spot Monitor,OTW-COL-M3SN-BKH,2022-09-11,1309.56,JPY,True,True,"BMV,Mecentley,WV",True,False,False,True,True,False,False
+Control and Comfort Features,L21 Mirror Adjustment Switches,Generic Mirror Adjustment Switches,OTW-BRK-7KMC-1DX,2022-10-23,99.32,JPY,True,False,"Nord,Feramborghini,Mecentley,BMV,WV",True,True,True,True,True,True,False
+Control and Comfort Features,M53 Cruise Control System,Generic Cruise Control System,OTW-DRI-2W64-6W9,2018-02-22,1888.12,JPY,True,True,"WV,BMV",True,True,True,True,True,False,True
+Control and Comfort Features,J18 Cruise Control System,Maintains a constant vehicle speed.,OTW-DRI-I4XI-UUP,2016-02-26,24.66,JPY,True,True,BMV,False,True,True,False,False,False,True
+Control and Comfort Features,K83 Cruise Control System,Maintains a constant vehicle speed.,OTW-ELE-5ACB-KD3,2019-11-12,1742.99,JPY,True,True,WV,True,True,False,True,False,False,True
+Control and Comfort Features,E28 Climate Control Unit,Generic Climate Control Unit,OTW-ENG-CWU2-FQB,2023-10-23,1515.42,JPY,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",True,True,False,True,True,False,True
+Control and Comfort Features,S70 Speakers,Output sound for entertainment or alerts.,OTW-TRN-WHKJ-Q3D,2018-08-16,432.06,JPY,True,False,Mecentley,True,False,True,True,False,True,True
+Control and Comfort Features,A39 Electronic Stability Control,Generic Electronic Stability Control,OTW-DRI-S0Q0-9XM,2018-03-01,76.76,JPY,True,True,"Feramborghini,BMV,Nord,WV",True,False,True,False,True,False,False
+Control and Comfort Features,C91 Blind Spot Monitor,Generic Blind Spot Monitor,OTW-ENG-JIVB-SLA,2015-12-08,1693.46,JPY,True,True,BMV,True,True,False,True,True,False,False
+Control and Comfort Features,E74 Infotainment System,Generic Infotainment System,OTW-TRN-WJZL-B1Q,2016-09-24,163.79,JPY,True,True,"Nord,BMV,WV",True,True,True,True,True,True,True
+Control and Comfort Features,V82 Infotainment System,"Central interface for audio, navigation, etc.",OTW-TRN-S7ZJ-SNM,2020-08-08,1618.92,JPY,True,True,"Mecentley,BMV",False,False,False,False,True,True,False
+Control and Comfort Features,N26 Lane Assist System,Generic Lane Assist System,OTW-SUS-JK1A-H3S,2019-04-04,16.95,JPY,True,True,WV,True,True,True,False,True,False,True
+Control and Comfort Features,J87 Backup Camera,Generic Backup Camera,OTW-COL-OGMU-VOT,2019-05-05,500.4,JPY,True,True,"BMV,Mecentley,Feramborghini,WV",True,False,False,False,True,False,True
+Control and Comfort Features,Q61 Mirror Adjustment Switches,Generic Mirror Adjustment Switches,OTW-ENG-4BV6-XGK,2015-04-29,1152.42,JPY,True,True,"WV,BMV,Mecentley,Nord,Feramborghini",True,False,True,True,True,False,True
+Control and Comfort Features,M4 Climate Control Unit,Generic Climate Control Unit,OTW-DRI-9F2B-4EQ,2025-04-21,985.75,JPY,True,True,"BMV,Nord,Feramborghini,Mecentley",True,False,True,True,True,True,False
+Control and Comfort Features,N78 Backup Camera,Generic Backup Camera,OTW-COL-Z65O-GSM,2024-06-16,1859.08,JPY,False,False,Mecentley,True,True,True,False,False,False,False
+Control and Comfort Features,K75 Parking Sensors,Generic Parking Sensors,OTW-SUS-DJ0P-G52,2025-12-30,965.92,JPY,True,True,Nord,False,False,True,True,True,False,False
+Control and Comfort Features,M98 Speakers,Output sound for entertainment or alerts.,OTW-ELE-UQ8K-XLA,2017-05-18,955.08,JPY,True,True,"Nord,Mecentley,Feramborghini",True,True,True,False,False,True,True
+Control and Comfort Features,B40 Lane Assist System,Generic Lane Assist System,OTW-DRI-902W-6B3,2018-09-19,523.99,JPY,True,True,"Nord,Feramborghini,Mecentley",True,False,True,True,False,True,True
+Control and Comfort Features,Y15 Navigation System (GPS),Generic Navigation System (GPS),OTW-ELE-1WUE-C9N,2023-09-02,1992.07,JPY,True,True,Feramborghini,True,True,True,False,True,False,True
+Control and Comfort Features,C64 Speakers,Output sound for entertainment or alerts.,OTW-ENG-JXF1-HVF,2019-08-14,1695.83,JPY,True,True,"Nord,Feramborghini,WV,BMV,Mecentley",False,True,True,False,False,True,False
+Control and Comfort Features,I18 Heated Seats,Generic Heated Seats,OTW-SUS-D5WD-GP0,2022-08-05,1380.64,JPY,False,True,"Mecentley,WV,Feramborghini,BMV,Nord",True,False,True,False,False,True,True
+Control and Comfort Features,X11 Mirror Adjustment Switches,Generic Mirror Adjustment Switches,OTW-TRN-ONN0-38M,2015-08-04,966.52,JPY,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",True,True,True,False,False,True,False
+Control and Comfort Features,J83 Climate Control Unit,Generic Climate Control Unit,OTW-DRI-CX70-S3B,2021-03-24,1626.21,JPY,True,False,"BMV,WV,Nord",True,True,True,False,False,True,True
+Control and Comfort Features,V55 Parking Sensors,Generic Parking Sensors,OTW-COL-X5YV-QMV,2025-10-12,1410.66,JPY,True,True,BMV,True,False,True,False,False,False,True
+Control and Comfort Features,B89 Speakers,Output sound for entertainment or alerts.,OTW-TRN-5O8C-ADE,2023-04-30,662.81,JPY,True,True,"Mecentley,Nord",True,True,False,False,True,False,False
+Control and Comfort Features,A64 Infotainment System,Generic Infotainment System,OTW-ELE-5I8G-VX0,2020-02-05,1328.45,JPY,True,True,"Nord,Mecentley",False,False,True,False,True,True,False
+Control and Comfort Features,X21 Adaptive Cruise Control,Generic Adaptive Cruise Control,OTW-ENG-E1W3-4XY,2019-11-11,552.02,JPY,True,False,Feramborghini,False,False,True,True,True,True,False
+Control and Comfort Features,T87 Speakers,Generic Speakers,OTW-BRK-62BK-ECW,2019-06-11,968.86,JPY,True,True,"Feramborghini,Nord,Mecentley,BMV,WV",True,True,False,False,False,True,False
+Control and Comfort Features,T13 Climate Control Unit,Generic Climate Control Unit,OTW-ELE-IT5S-1QK,2019-06-29,486.12,JPY,True,False,"BMV,WV",True,True,True,False,True,False,True
+Control and Comfort Features,O84 Speakers,Generic Speakers,OTW-COL-4GWM-PFL,2019-11-09,237.52,JPY,True,True,"Mecentley,Nord",True,False,False,True,True,True,False
+Control and Comfort Features,N34 Cruise Control System,Maintains a constant vehicle speed.,OTW-ELE-44FY-FRF,2021-06-08,1555.81,JPY,False,True,Nord,True,True,False,False,True,False,True
+Control and Comfort Features,G62 Speakers,Output sound for entertainment or alerts.,OTW-ELE-0DA6-XWB,2019-11-11,956.04,JPY,True,True,"Feramborghini,WV,Mecentley,BMV",False,False,True,True,True,True,False
+Control and Comfort Features,K3 Speakers,Output sound for entertainment or alerts.,OTW-SUS-SR1S-F2G,2025-10-09,236.49,JPY,True,True,"WV,Nord,Mecentley",True,False,False,False,True,False,True
+Control and Comfort Features,D37 Cruise Control System,Maintains a constant vehicle speed.,OTW-SUS-I97K-9FF,2025-12-09,1190.28,JPY,True,True,"Feramborghini,WV",True,False,False,False,True,True,False
+Control and Comfort Features,J27 Power Windows Switches,Generic Power Windows Switches,OTW-ELE-OUPW-GK9,2023-09-28,570.58,JPY,True,True,"Mecentley,BMV",True,True,False,False,True,False,True
+Control and Comfort Features,Q95 Electronic Stability Control,Generic Electronic Stability Control,OTW-ENG-O7F3-KV9,2018-09-04,285.19,JPY,True,True,"Feramborghini,BMV,Nord",True,True,True,True,True,True,False
+Control and Comfort Features,K35 Cruise Control System,Maintains a constant vehicle speed.,OTW-BRK-EVPR-WUI,2015-01-24,643.49,JPY,True,True,BMV,True,False,True,True,True,False,False
+Control and Comfort Features,X83 Electronic Stability Control,Generic Electronic Stability Control,OTW-SUS-CKKH-5WF,2022-03-23,1986.1,JPY,False,True,"WV,Feramborghini,Nord,BMV",False,True,True,False,False,True,True
+Control and Comfort Features,R4 Adaptive Cruise Control,Generic Adaptive Cruise Control,OTW-TRN-V2R5-L2X,2025-01-25,1997.93,JPY,True,True,"Nord,Mecentley",True,False,False,False,True,False,False
+Control and Comfort Features,M10 Adaptive Cruise Control,Generic Adaptive Cruise Control,OTW-PERF-52R9-ROJ,2016-02-27,1436.42,JPY,True,True,"Mecentley,BMV,WV,Nord",True,False,True,False,False,True,True
+Control and Comfort Features,S98 Backup Camera,Generic Backup Camera,OTW-DRI-2C7R-I82,2023-08-20,471.05,JPY,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,False,False,True,False,True,True
+Control and Comfort Features,B3 Speakers,Generic Speakers,OTW-PERF-JK83-2G8,2021-01-24,307.26,JPY,True,True,"Feramborghini,BMV",True,True,False,True,False,True,False
+Control and Comfort Features,I78 Infotainment System,Generic Infotainment System,OTW-COL-8G4K-ZP1,2020-09-08,1243.65,JPY,True,True,Nord,False,False,False,True,False,True,True
+Suspension and Steering,G51 Tie Rods,Transmit steering input to wheels.,OTW-SUS-9X4T-2UG,2016-01-21,1040.61,JPY,False,True,"Nord,BMV,WV",False,True,True,True,True,True,True
+Suspension and Steering,V35 Steering Column,Generic Steering Column,OTW-ELE-9EYC-5Q6,2015-04-19,1590.42,JPY,True,False,"BMV,Nord",False,False,True,False,True,False,False
+Suspension and Steering,P2 Steering Wheel,Generic Steering Wheel,OTW-ELE-YJ8F-MKR,2020-09-18,1988.71,JPY,True,True,Mecentley,False,True,False,True,True,False,False
+Suspension and Steering,K66 Power Steering Pump,Generic Power Steering Pump,OTW-PERF-EMBC-EH4,2021-04-25,189.26,JPY,True,True,"Nord,BMV,Mecentley,Feramborghini,WV",True,True,True,True,False,False,False
+Suspension and Steering,J91 Sway Bar / Anti-roll Bar,Generic Sway Bar / Anti-roll Bar,OTW-SUS-LTS4-2V4,2024-01-19,1947.6,JPY,False,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True,True,False,True,False,True
+Suspension and Steering,E16 Wheel Hub,Generic Wheel Hub,OTW-BRK-81OQ-U96,2022-10-30,1993.97,JPY,False,True,WV,False,False,True,False,True,False,True
+Suspension and Steering,K86 Coil Springs,Generic Coil Springs,OTW-COL-RJG8-608,2021-02-23,302.69,JPY,True,True,"Feramborghini,BMV,Nord",True,True,True,True,True,True,False
+Suspension and Steering,H12 Steering Wheel,Allows driver to steer the vehicle.,OTW-BRK-JHTS-UT4,2016-05-22,290.37,JPY,True,True,"WV,BMV,Nord,Mecentley",True,True,True,False,False,False,True
+Suspension and Steering,X28 Steering Column,Generic Steering Column,OTW-ELE-ZATD-TJP,2021-06-14,1532.94,JPY,True,False,"WV,BMV,Nord,Feramborghini,Mecentley",True,False,True,False,False,True,False
+Suspension and Steering,J24 Steering Column,Generic Steering Column,OTW-TRN-8V1H-IO7,2024-12-29,1791.84,JPY,True,True,Nord,True,True,True,False,True,True,True
+Suspension and Steering,D32 Torsion Bar,Generic Torsion Bar,OTW-BRK-SOIL-X75,2019-03-13,779.81,JPY,False,True,"Feramborghini,WV,Nord,BMV",False,True,True,True,False,True,True
+Suspension and Steering,Q30 Steering Wheel,Allows driver to steer the vehicle.,OTW-DRI-SEWI-93J,2021-04-19,1882.99,JPY,True,True,"Nord,Mecentley,WV,Feramborghini",True,True,True,True,False,False,False
+Suspension and Steering,X55 Leaf Springs,Generic Leaf Springs,OTW-DRI-U29C-X3O,2022-04-14,1663.79,JPY,True,True,"Mecentley,Feramborghini,BMV,Nord,WV",False,True,True,False,True,False,True
+Suspension and Steering,H71 Steering Wheel,Generic Steering Wheel,OTW-DRI-0TCV-MBJ,2024-06-10,532.9,JPY,True,True,Mecentley,True,True,False,True,False,False,True
+Suspension and Steering,X99 Ball Joints,Generic Ball Joints,OTW-DRI-1JRB-MHS,2018-08-28,1310.02,JPY,True,True,Nord,False,False,False,True,False,True,False
+Suspension and Steering,O95 Sway Bar / Anti-roll Bar,Generic Sway Bar / Anti-roll Bar,OTW-PERF-E06W-5Q7,2016-11-28,160.2,JPY,True,True,"BMV,Feramborghini",True,True,True,False,True,False,True
+Suspension and Steering,Y20 Sway Bar / Anti-roll Bar,Generic Sway Bar / Anti-roll Bar,OTW-SUS-XASP-UAH,2020-04-27,1698.44,JPY,True,False,Feramborghini,True,False,True,False,True,True,True
+Suspension and Steering,J94 Steering Rack,Generic Steering Rack,OTW-TRN-ANQT-HJF,2016-08-20,107.61,JPY,True,True,"BMV,Nord,Feramborghini",False,True,False,True,False,False,True
+Suspension and Steering,Y78 Ball Joints,Generic Ball Joints,OTW-DRI-8VPY-15M,2019-07-27,1923.56,JPY,True,True,"Feramborghini,Nord",True,False,True,True,True,True,True
+Suspension and Steering,P44 Bushings,Generic Bushings,OTW-COL-33O0-HJ3,2017-06-10,662.61,JPY,True,False,"BMV,Nord",True,True,False,False,False,True,True
+Suspension and Steering,N9 Wheel Bearings,Generic Wheel Bearings,OTW-PERF-NEZJ-4HK,2016-09-09,779.16,JPY,True,True,"Feramborghini,WV,Nord",True,True,True,True,False,True,False
+Suspension and Steering,Y96 Alignment Shims,Generic Alignment Shims,OTW-COL-BP8R-GT7,2021-02-24,773.43,JPY,True,True,WV,True,False,True,True,True,True,True
+Suspension and Steering,Z58 Tie Rods,Transmit steering input to wheels.,OTW-TRN-M460-4AA,2017-12-01,976.72,JPY,True,True,"BMV,Feramborghini",True,True,True,False,False,True,True
+Suspension and Steering,E81 Control Arms,Connect wheel hub to vehicle frame.,OTW-PERF-AD7R-ABB,2023-09-27,586.39,JPY,True,False,Nord,True,True,True,True,True,True,True
+Suspension and Steering,X73 Steering Rack,Generic Steering Rack,OTW-BRK-FY49-EIA,2016-12-30,1557.27,JPY,True,True,"Mecentley,BMV,WV,Nord,Feramborghini",True,True,True,False,False,True,False
+Suspension and Steering,H85 Leaf Springs,Generic Leaf Springs,OTW-COL-WR1H-7CC,2021-03-17,839.95,JPY,True,False,Nord,True,True,False,True,True,False,True
+Suspension and Steering,Y33 Alignment Shims,Generic Alignment Shims,OTW-COL-IMQM-ZKJ,2021-10-15,803.4,JPY,True,False,"BMV,Mecentley,WV,Nord,Feramborghini",True,True,True,False,False,True,True
+Suspension and Steering,B14 Wheel Hub,Generic Wheel Hub,OTW-DRI-5QIH-TDI,2018-09-15,1160.0,JPY,True,True,"WV,Feramborghini,Nord,Mecentley",True,False,False,False,True,True,False
+Suspension and Steering,Q43 Steering Column,Generic Steering Column,OTW-PERF-ENE0-8YQ,2017-08-23,574.77,JPY,True,True,"WV,Feramborghini,Mecentley,BMV",True,True,True,False,True,True,True
+Suspension and Steering,I60 Tie Rods,Transmit steering input to wheels.,OTW-SUS-MP9A-FSV,2024-01-01,1134.28,JPY,True,True,"Nord,Feramborghini,WV,BMV,Mecentley",True,True,True,False,False,False,True
+Suspension and Steering,Q74 Alignment Shims,Generic Alignment Shims,OTW-SUS-GQDY-4JO,2017-01-23,1389.95,JPY,True,True,Mecentley,True,True,False,True,True,True,False
+Suspension and Steering,O27 Steering Wheel,Generic Steering Wheel,OTW-ELE-AD4X-ECS,2024-06-29,1668.29,JPY,False,False,Nord,False,True,False,False,False,True,True
+Suspension and Steering,I40 Control Arms,Connect wheel hub to vehicle frame.,OTW-TRN-R8K1-MYD,2023-05-12,1624.99,JPY,True,False,"Mecentley,WV,Feramborghini",False,False,False,True,True,False,True
+Suspension and Steering,S68 Shock Absorbers / Struts,Generic Shock Absorbers / Struts,OTW-ENG-NZUP-1VA,2018-03-19,398.79,JPY,True,False,"Feramborghini,WV,Nord",True,True,False,True,False,True,False
+Suspension and Steering,F24 Shock Absorbers,Dampen spring movement for smoother ride.,OTW-ENG-RU5O-N46,2021-12-02,948.95,JPY,True,True,"Mecentley,WV,Feramborghini,BMV,Nord",True,False,True,False,False,True,False
+Suspension and Steering,G19 Tie Rods,Generic Tie Rods,OTW-ENG-62IS-7JB,2023-04-20,1106.98,JPY,True,True,"Nord,Mecentley",False,False,False,True,True,True,False
+Suspension and Steering,O35 Steering Wheel,Generic Steering Wheel,OTW-ENG-PPVM-LWC,2017-10-08,246.54,JPY,False,True,"Nord,Feramborghini,Mecentley",True,False,False,True,False,True,True
+Suspension and Steering,K15 Shock Absorbers / Struts,Generic Shock Absorbers / Struts,OTW-TRN-3104-GRG,2021-11-19,834.01,JPY,True,True,"BMV,Mecentley,Nord,WV",True,False,False,True,False,False,True
+Suspension and Steering,E74 Coil Springs,Support vehicle weight and absorb shocks.,OTW-ELE-C16B-OE0,2019-01-31,1395.22,JPY,True,False,"Nord,Mecentley,BMV",False,True,True,True,True,True,False
+Suspension and Steering,T58 Ball Joints,Generic Ball Joints,OTW-PERF-ON3B-94K,2021-06-28,713.42,JPY,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,True,True,False,True,False,True
+Suspension and Steering,U98 Tie Rods,Generic Tie Rods,OTW-COL-QRY7-FIK,2016-07-18,1917.14,JPY,True,True,"BMV,Mecentley,Feramborghini,Nord",True,False,True,True,True,True,True
+Suspension and Steering,B57 Tie Rods,Transmit steering input to wheels.,OTW-ENG-KPU3-FQG,2021-05-07,996.58,JPY,True,True,"WV,Mecentley",True,True,False,True,False,False,True
+Suspension and Steering,L98 Steering Wheel,Generic Steering Wheel,OTW-DRI-QZMM-W0F,2022-04-09,180.15,JPY,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",False,True,False,True,True,True,True
+Suspension and Steering,K31 Steering Wheel,Generic Steering Wheel,OTW-TRN-MASO-NZI,2023-09-26,1731.79,JPY,True,True,"WV,Nord",False,False,False,False,True,True,False
+Suspension and Steering,O43 Bushings,Generic Bushings,OTW-ELE-VRX2-T3C,2024-05-31,1476.31,JPY,True,True,"WV,Feramborghini",True,True,True,True,True,True,True
+Suspension and Steering,O50 Tie Rods,Generic Tie Rods,OTW-ELE-MHZH-IB1,2021-12-27,786.92,JPY,False,True,"Feramborghini,Nord,WV,BMV",True,True,False,True,False,False,False
+Suspension and Steering,J10 Steering Wheel,Allows driver to steer the vehicle.,OTW-ENG-NHEX-2VT,2016-12-19,1519.86,JPY,True,True,"Nord,WV",False,True,True,False,True,True,True
+Suspension and Steering,N78 Wheel Hub,Generic Wheel Hub,OTW-PERF-PYQ6-B2X,2019-09-30,296.92,JPY,True,False,"BMV,Mecentley,WV",False,True,True,True,True,False,True
+Suspension and Steering,J24 Shock Absorbers / Struts,Generic Shock Absorbers / Struts,OTW-ELE-QGFC-CI4,2019-01-06,436.12,JPY,False,True,"Mecentley,Nord,Feramborghini,WV",True,False,False,True,True,False,True
+Suspension and Steering,T70 Tie Rods,Generic Tie Rods,OTW-ELE-ESUC-QBW,2025-02-07,1277.35,JPY,True,True,"Mecentley,Nord",True,False,True,False,False,True,True
+Suspension and Steering,H35 Steering Column,Generic Steering Column,OTW-BRK-MOL6-0BE,2023-07-02,1138.38,JPY,True,False,"Nord,Feramborghini,BMV,Mecentley,WV",True,False,False,True,True,True,False
+Suspension and Steering,T81 Tie Rods,Generic Tie Rods,OTW-DRI-35CI-SEL,2017-08-18,976.26,JPY,True,True,"WV,Feramborghini",True,False,False,False,True,True,False
+Suspension and Steering,S6 Alignment Shims,Generic Alignment Shims,OTW-TRN-XXGY-XKU,2022-07-30,840.38,JPY,True,True,"BMV,Mecentley",True,False,True,True,False,False,True
+Suspension and Steering,O64 Steering Rack,Generic Steering Rack,OTW-BRK-LNI7-4EW,2018-02-01,1196.22,JPY,True,True,"Feramborghini,Mecentley,Nord,BMV",False,True,True,True,True,True,False
+Suspension and Steering,X54 Leaf Springs,Generic Leaf Springs,OTW-COL-L571-B6D,2023-08-02,658.79,JPY,True,True,"Mecentley,Nord",True,True,True,True,False,False,True
+Suspension and Steering,I92 Torsion Bar,Generic Torsion Bar,OTW-SUS-3DUC-NOQ,2024-12-09,1279.47,JPY,False,True,"Mecentley,Nord,BMV,Feramborghini,WV",True,False,False,False,True,False,False
+Suspension and Steering,D50 Coil Springs,Generic Coil Springs,OTW-PERF-R1QF-24Q,2025-04-26,1157.73,JPY,False,False,Nord,False,True,True,True,True,True,False
+Suspension and Steering,C89 Tie Rods,Generic Tie Rods,OTW-BRK-QKXQ-UP8,2016-10-14,1238.02,JPY,True,False,"Nord,Feramborghini",True,True,False,False,True,True,True
+Suspension and Steering,B25 Shock Absorbers / Struts,Generic Shock Absorbers / Struts,OTW-DRI-Y41V-6B7,2024-05-03,166.17,JPY,False,False,"BMV,Mecentley",False,True,True,False,False,False,True
+Suspension and Steering,N92 Steering Rack,Generic Steering Rack,OTW-ENG-NMVS-LUB,2017-05-07,1347.84,JPY,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,True,True,False,True,False,True
+Drivetrain,G54 Lightweight Flywheel,Improves throttle response.,OTW-PERF-NSIN-QHT,2020-11-10,1260.08,JPY,False,True,"Nord,BMV,Mecentley,Feramborghini,WV",False,False,False,False,False,True,True
+Drivetrain,R87 Aftermarket LSD,Improves grip in cornering and acceleration.,OTW-ELE-W765-GUN,2015-04-21,1055.0,JPY,True,True,WV,False,False,True,False,True,True,True
+Drivetrain,S85 Aftermarket LSD,Improves grip in cornering and acceleration.,OTW-DRI-N81L-WAG,2024-05-17,930.37,JPY,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,False,True,True,True,True,True
+Drivetrain,P67 Limited Slip Differential,Distributes torque more efficiently to wheels.,OTW-COL-LM7R-JI6,2020-08-31,1813.39,JPY,False,True,"Nord,Mecentley,WV",True,False,True,True,False,False,True
+Drivetrain,I91 Limited Slip Differential,Distributes torque more efficiently to wheels.,OTW-SUS-ZIPI-ITH,2018-12-24,396.11,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",True,True,False,True,False,False,True
+Drivetrain,P86 Performance Clutch Kit,Handles more torque from tuned engines.,OTW-DRI-ZN24-1NW,2022-02-28,733.65,JPY,True,False,"Nord,Feramborghini,BMV,Mecentley",False,False,True,False,True,True,False
+Drivetrain,M63 Lightweight Flywheel,Improves throttle response.,OTW-ENG-9J1E-MQL,2015-04-13,1032.16,JPY,True,True,Nord,True,True,True,False,False,True,True
+Drivetrain,P48 Performance Clutch Kit,Handles more torque from tuned engines.,OTW-ENG-K1UE-C7H,2020-02-08,1026.75,JPY,False,True,"Nord,Mecentley,WV",True,False,False,True,True,False,True
+Drivetrain,N31 Limited Slip Differential,Distributes torque more efficiently to wheels.,OTW-SUS-AV2K-L9X,2025-07-07,1571.34,JPY,True,False,"Nord,BMV,Feramborghini,Mecentley",True,False,False,True,True,True,True
+Drivetrain,G9 Aftermarket LSD,Improves grip in cornering and acceleration.,OTW-PERF-6DB4-IAM,2016-03-10,1377.16,JPY,False,True,"Mecentley,Nord,BMV",True,False,True,False,True,False,False
+Drivetrain,M70 Lightweight Flywheel,Improves throttle response.,OTW-COL-32TB-CVE,2017-10-25,1525.85,JPY,True,True,"Mecentley,WV,BMV",False,True,False,False,True,True,True
+Drivetrain,X10 Aftermarket LSD,Improves grip in cornering and acceleration.,OTW-TRN-KZH7-YCE,2017-06-20,743.19,JPY,False,False,"WV,Feramborghini,BMV,Mecentley",True,False,False,True,True,False,False
+Drivetrain,I71 Performance Clutch Kit,Handles more torque from tuned engines.,OTW-DRI-2K5H-CXO,2025-05-30,1100.99,JPY,True,True,"Feramborghini,WV,Mecentley,BMV",False,False,False,True,True,False,False
+Drivetrain,M21 Performance Clutch Kit,Handles more torque from tuned engines.,OTW-PERF-YL5S-MKV,2021-07-11,1016.32,JPY,True,True,WV,True,True,False,False,False,True,False
+Drivetrain,O79 Lightweight Flywheel,Improves throttle response.,OTW-ENG-46U2-ME0,2018-03-26,298.1,JPY,True,False,WV,False,True,True,False,True,True,True
+Drivetrain,Z26 Performance Clutch Kit,Handles more torque from tuned engines.,OTW-ENG-F1DT-8DG,2016-11-21,1914.69,JPY,True,False,WV,False,True,True,True,False,False,True
+Drivetrain,U89 Lightweight Flywheel,Improves throttle response.,OTW-PERF-VQGK-84Z,2016-08-22,170.54,JPY,False,True,"Feramborghini,BMV,Nord",False,True,False,False,True,True,True
+Interior,A13 Digital Gauges,"Monitor boost, oil pressure, and air/fuel ratio.",OTW-ELE-LM5W-56C,2024-11-07,1243.0,JPY,True,True,"BMV,Nord",True,False,False,False,False,True,True
+Interior,Q59 Digital Gauges,"Monitor boost, oil pressure, and air/fuel ratio.",OTW-ENG-XMJA-A4C,2017-05-03,1977.54,JPY,True,False,"Nord,Mecentley,BMV,WV,Feramborghini",False,True,False,False,True,False,True
+Interior,X29 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-BRK-N3M4-3AY,2021-07-09,1042.4,JPY,True,False,"Nord,Feramborghini",True,True,False,True,False,True,True
+Interior,C22 Racing Harness,Keeps driver securely in seat.,OTW-COL-4S46-RVS,2017-10-28,978.12,JPY,False,True,WV,False,False,True,True,True,True,True
+Interior,L65 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-ENG-2ZQ4-2O6,2023-06-09,1105.07,JPY,True,True,"Nord,BMV",True,True,False,True,True,False,False
+Interior,X68 Racing Harness,Keeps driver securely in seat.,OTW-DRI-J346-P8L,2017-04-01,820.44,JPY,True,True,"Mecentley,Nord,BMV",True,True,True,False,True,True,False
+Interior,N24 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-ENG-TCH5-XP6,2017-12-10,1399.72,JPY,True,True,"BMV,Feramborghini,Nord,WV",True,False,True,True,False,False,False
+Interior,S63 Roll Cage,Improves safety and chassis rigidity.,OTW-BRK-7MHZ-D3T,2017-05-10,1267.59,JPY,True,True,WV,True,False,False,False,False,False,True
+Interior,O62 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-ELE-ZSLL-67T,2024-08-25,1699.54,JPY,True,True,"BMV,WV,Mecentley,Feramborghini,Nord",True,True,True,False,True,False,True
+Interior,Y35 Digital Gauges,"Monitor boost, oil pressure, and air/fuel ratio.",OTW-BRK-SBXS-IHZ,2015-07-22,1385.05,JPY,False,True,"BMV,Feramborghini,Mecentley",False,True,True,True,True,True,True
+Interior,A52 Bucket Seats,Provide support for high-G driving.,OTW-SUS-A2YF-6H7,2022-05-28,1809.55,JPY,True,True,"Nord,BMV,Mecentley,WV",False,False,False,False,False,True,False
+Interior,D12 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-ENG-43VB-79P,2015-12-18,421.81,JPY,False,True,"WV,Feramborghini,Mecentley,BMV,Nord",False,True,True,True,True,False,False
+Interior,W33 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-DRI-HDLD-9UH,2020-11-30,1952.89,JPY,True,True,Feramborghini,False,False,True,True,True,True,False
+Interior,A59 Roll Cage,Improves safety and chassis rigidity.,OTW-SUS-DBLI-4YV,2017-11-16,1711.12,JPY,True,False,Mecentley,False,False,False,False,True,True,True
+Interior,C40 Digital Gauges,"Monitor boost, oil pressure, and air/fuel ratio.",OTW-BRK-K0AH-VL8,2025-04-09,1453.16,JPY,True,True,Mecentley,True,False,True,True,False,True,True
+Interior,Q12 Digital Gauges,"Monitor boost, oil pressure, and air/fuel ratio.",OTW-COL-EIJX-AI7,2016-06-23,1755.05,JPY,False,True,"Mecentley,WV,Feramborghini,BMV",True,True,True,True,True,True,False
+Interior,Z28 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-COL-SSZM-OTX,2025-11-17,1555.83,JPY,True,True,"Mecentley,WV,Nord,BMV,Feramborghini",True,True,True,False,True,True,False
+Interior,U82 Quick Release Steering Wheel,Allows faster entry/exit and theft prevention.,OTW-COL-8PIE-ME2,2017-03-21,1828.97,JPY,True,True,Nord,True,False,False,True,True,True,True
+Interior,C42 Racing Harness,Keeps driver securely in seat.,OTW-COL-TV32-SRH,2017-12-11,1117.23,JPY,True,False,"Nord,WV",False,True,False,False,True,False,False
+Transmission,K87 Short Throw Shifter,Reduces shift distance for quicker gear changes.,OTW-SUS-DWJV-DOH,2018-09-04,1382.43,JPY,True,True,"WV,Feramborghini,BMV",False,False,True,False,True,True,True
+Transmission,X82 Short Throw Shifter,Reduces shift distance for quicker gear changes.,OTW-TRN-B6AR-NVA,2017-04-24,398.63,JPY,True,True,"Feramborghini,WV",False,True,False,False,True,False,True
+Interior Components,X1 Seatbelts,Secure passengers to reduce injury risk.,OTW-SUS-W4NF-I8P,2022-02-06,284.42,JPY,False,True,Feramborghini,False,False,True,False,True,False,True
+Interior Components,N57 Glove Box,Compartment for storing small items.,OTW-COL-3W8A-BE8,2017-01-14,31.29,JPY,True,True,"BMV,Nord,Feramborghini,WV,Mecentley",True,False,True,True,False,True,True
+Interior Components,V25 Center Console,Generic Center Console,OTW-ENG-FUGH-R4K,2019-11-12,152.21,JPY,True,True,"Feramborghini,Mecentley",True,False,True,False,True,False,True
+Interior Components,N89 Gear Shift Knob,Generic Gear Shift Knob,OTW-DRI-XB8N-874,2025-07-27,838.26,JPY,True,True,"Mecentley,WV,Feramborghini",False,True,False,True,True,True,False
+Interior Components,W70 Carpet,Generic Carpet,OTW-SUS-PZ2X-MN7,2024-02-14,483.92,JPY,True,True,"Nord,WV",True,True,False,True,False,False,False
+Interior Components,V81 Glove Box,Compartment for storing small items.,OTW-COL-KIQ2-GPC,2024-12-26,1833.97,JPY,False,False,Nord,True,True,True,True,True,True,True
+Interior Components,M22 Carpet,Generic Carpet,OTW-SUS-PG1J-2G0,2022-11-28,1860.58,JPY,True,True,"Feramborghini,WV,Nord",False,False,True,True,False,True,False
+Interior Components,L77 Sun Visors,Generic Sun Visors,OTW-COL-3RXQ-AVP,2016-11-19,893.69,JPY,True,True,Nord,False,False,True,True,False,False,True
+Interior Components,P51 Sun Visors,Generic Sun Visors,OTW-ELE-G5S5-G3X,2015-02-23,1488.69,JPY,True,True,"Nord,Feramborghini,Mecentley,WV,BMV",True,True,True,True,False,True,False
+Interior Components,F40 Rearview Mirror,Generic Rearview Mirror,OTW-BRK-X8AB-O00,2023-02-06,726.14,JPY,True,True,"Nord,BMV,Mecentley,WV,Feramborghini",True,False,False,True,True,True,False
+Interior Components,R51 Seats,Generic Seats,OTW-SUS-TRNP-WLT,2015-04-28,331.4,JPY,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,False,True,True,True,True,False
+Interior Components,"T71 Gauges (Speedometer, Tachometer, Fuel, Temp)","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",OTW-PERF-7BYN-I47,2021-01-10,1575.45,JPY,True,True,WV,False,True,True,True,True,True,True
+Interior Components,Z31 Handbrake Lever,Generic Handbrake Lever,OTW-COL-1ELZ-RXD,2025-08-16,1631.09,JPY,True,True,WV,True,False,False,False,True,False,False
+Interior Components,S47 Seatbelts,Generic Seatbelts,OTW-SUS-SE60-1IA,2023-03-11,323.23,JPY,False,True,Feramborghini,True,False,True,False,True,True,False
+Interior Components,J23 Rearview Mirror,Generic Rearview Mirror,OTW-COL-3VXZ-BQ9,2025-03-26,709.91,JPY,True,True,"Mecentley,BMV",True,True,False,False,False,False,False
+Interior Components,"U57 Gauges (Speedometer, Tachometer, Fuel, Temp)","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",OTW-COL-DMQF-XZZ,2019-12-10,1690.97,JPY,True,True,"WV,Feramborghini",False,True,True,False,True,False,False
+Interior Components,Q96 Gear Shift Knob,Generic Gear Shift Knob,OTW-SUS-2N8G-4R9,2016-03-11,1389.36,JPY,True,True,WV,True,False,True,True,True,True,False
+Interior Components,A21 Seats,Provide seating for vehicle occupants.,OTW-SUS-FQNM-T98,2024-01-25,776.68,JPY,True,True,WV,True,True,True,True,False,False,True
+Interior Components,U64 Gear Shift Knob,Generic Gear Shift Knob,OTW-SUS-2K56-RS1,2016-04-01,871.56,JPY,True,True,WV,True,True,False,True,False,True,True
+Interior Components,T63 Seat Motors,Generic Seat Motors,OTW-ELE-RJDM-HKJ,2016-01-24,247.27,JPY,True,True,Mecentley,True,True,True,True,False,True,True
+Interior Components,W40 Center Console,Generic Center Console,OTW-SUS-BXI7-J8T,2024-02-01,49.38,JPY,True,True,WV,True,True,False,False,False,False,True
+Interior Components,A95 Rearview Mirror,Generic Rearview Mirror,OTW-COL-IKNE-JOY,2017-08-20,597.22,JPY,True,True,Feramborghini,True,False,False,False,True,True,False
+Interior Components,J71 Sun Visors,Generic Sun Visors,OTW-PERF-2BVO-E1D,2024-09-29,1939.61,JPY,True,True,"Mecentley,Feramborghini,BMV,Nord,WV",False,False,True,False,False,False,False
+Interior Components,O68 Glove Box,Compartment for storing small items.,OTW-ENG-VJLS-LGB,2025-08-28,402.74,JPY,True,True,"Mecentley,BMV",False,True,True,True,True,False,True
+Interior Components,Q8 Glove Box,Generic Glove Box,OTW-ENG-NSWQ-HU0,2017-02-28,552.26,JPY,True,False,"Nord,Mecentley",True,True,True,False,True,False,False
+Interior Components,S32 Center Console,Generic Center Console,OTW-SUS-N6VP-5KI,2022-10-18,1698.76,JPY,False,True,"WV,BMV",False,False,True,True,True,True,False
+Interior Components,"A33 Gauges (Speedometer, Tachometer, Fuel, Temp)","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",OTW-ELE-J4A4-R17,2017-04-19,1088.02,JPY,False,True,"BMV,Nord,Feramborghini,WV,Mecentley",True,False,True,True,False,True,True
+Interior Components,X60 Rearview Mirror,Generic Rearview Mirror,OTW-ENG-6W12-MHG,2020-03-23,356.45,JPY,True,True,"Mecentley,Nord",True,True,False,False,True,False,True
+Interior Components,O11 Gear Shift Knob,Generic Gear Shift Knob,OTW-SUS-ZBVW-W7Q,2020-07-13,1674.82,JPY,False,True,Nord,True,True,False,True,True,True,True
+Interior Components,U8 Seatbelts,Secure passengers to reduce injury risk.,OTW-DRI-12JH-CMB,2021-11-27,932.0,JPY,False,False,"Mecentley,BMV,WV,Feramborghini",True,False,True,True,False,True,True
+Interior Components,X78 Headliner,Generic Headliner,OTW-DRI-T2ML-ODT,2022-11-25,832.59,JPY,False,True,"WV,Feramborghini",False,False,True,True,True,False,True
+Interior Components,L17 Headliner,Generic Headliner,OTW-ELE-DROR-CNZ,2017-02-23,1160.66,JPY,True,False,"Nord,Feramborghini,BMV,Mecentley",False,False,True,True,True,False,True
+Interior Components,E15 Dashboard,Houses instruments and controls in front of driver.,OTW-ENG-YO08-PWH,2023-07-02,1242.0,JPY,True,False,"BMV,Mecentley,Nord",True,True,True,False,False,False,True
+Interior Components,E62 Center Console,Generic Center Console,OTW-BRK-QPGE-DIH,2016-06-21,1961.44,JPY,True,True,"Mecentley,Nord",True,True,False,True,True,True,False
+Interior Components,G21 Seats,Provide seating for vehicle occupants.,OTW-COL-O68I-5YV,2020-04-18,94.35,JPY,True,True,"Mecentley,Feramborghini",False,False,True,True,True,True,True
+Interior Components,F40 Floor Mats,Generic Floor Mats,OTW-DRI-EMW3-8A3,2022-08-16,602.83,JPY,True,True,"Nord,BMV",True,True,True,True,False,True,False
+Interior Components,G25 Seatbelts,Generic Seatbelts,OTW-COL-217D-IY4,2015-04-25,1626.66,JPY,False,True,WV,True,False,True,False,True,True,True
+Interior Components,N71 Seats,Generic Seats,OTW-SUS-STJ2-Z9E,2020-09-19,825.98,JPY,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,True,True,False,True,False,True
+Interior Components,D96 Gear Shift Knob,Generic Gear Shift Knob,OTW-SUS-H05L-P6U,2025-12-07,1706.23,JPY,True,True,Feramborghini,True,True,False,True,True,False,False
+Interior Components,N59 Dashboard,Houses instruments and controls in front of driver.,OTW-PERF-Q4CM-FAL,2024-04-12,1675.86,JPY,False,False,"Mecentley,BMV,Nord",True,False,True,True,True,True,True
+Interior Components,"E8 Gauges (Speedometer, Tachometer, Fuel, Temp)","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",OTW-PERF-L7SN-KN1,2015-04-17,58.74,JPY,False,True,"Feramborghini,Mecentley,WV,BMV,Nord",False,True,False,True,True,False,False
+Interior Components,"J49 Gauges (Speedometer, Tachometer, Fuel, Temp)","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",OTW-BRK-KL4C-JYF,2015-07-07,165.27,JPY,True,False,"WV,Feramborghini,BMV",False,True,True,True,True,True,False
+Interior Components,D26 Seats,Provide seating for vehicle occupants.,OTW-COL-AQO9-OXU,2021-03-12,1859.67,JPY,True,True,"BMV,Mecentley,WV",True,True,True,True,True,False,False
+Interior Components,E72 Center Console,Generic Center Console,OTW-ENG-81ZD-JZZ,2023-05-31,1084.63,JPY,True,True,BMV,True,False,True,True,False,False,False
+Interior Components,V24 Interior Trim Panels,Generic Interior Trim Panels,OTW-DRI-9AAC-6LO,2020-09-25,1550.45,JPY,True,True,Feramborghini,True,False,True,True,False,False,True
+Interior Components,X46 Dashboard,Houses instruments and controls in front of driver.,OTW-DRI-YF7U-NAK,2025-03-26,1432.31,JPY,True,True,"BMV,Mecentley",True,True,True,True,True,True,True
+Structural and Chassis,O91 Subframe,Generic Subframe,OTW-SUS-V5LF-B6Y,2023-05-14,240.45,JPY,False,False,"Feramborghini,WV,Nord,BMV,Mecentley",True,True,True,True,False,False,True
+Structural and Chassis,W33 Rocker Panels,Generic Rocker Panels,OTW-TRN-NWGH-FUY,2019-05-14,1864.72,JPY,True,True,"Mecentley,BMV,Nord,WV",True,True,False,True,True,True,True
+Structural and Chassis,H84 Floor Pan,Generic Floor Pan,OTW-BRK-EXKU-XXW,2023-08-17,834.47,JPY,False,True,"Mecentley,WV",False,False,True,False,True,True,True
+Structural and Chassis,X9 Subframe,Generic Subframe,OTW-DRI-K8XN-89J,2020-08-28,1793.46,JPY,True,True,"BMV,Nord,Mecentley,WV,Feramborghini",True,True,False,False,True,True,False
+Structural and Chassis,F88 Floor Pan,Generic Floor Pan,OTW-ELE-JSEI-PM3,2016-04-09,1910.87,JPY,True,True,"WV,Mecentley,Nord",False,True,False,False,True,True,False
+Structural and Chassis,D35 Rocker Panels,Generic Rocker Panels,OTW-PERF-RP83-OOI,2020-05-15,648.62,JPY,True,False,"Mecentley,WV,BMV,Nord,Feramborghini",True,True,True,False,True,True,True
+Structural and Chassis,M82 Floor Pan,Generic Floor Pan,OTW-ENG-7YZA-VT3,2018-04-26,718.21,JPY,True,True,"Mecentley,WV,Nord",False,True,False,False,True,True,True
+Structural and Chassis,Q7 Floor Pan,Generic Floor Pan,OTW-DRI-M6KZ-Q0P,2019-12-06,1005.95,JPY,True,False,"Feramborghini,Nord,WV",True,True,True,True,False,True,True
+Structural and Chassis,"G61 Pillars (A, B, C)","Generic Pillars (A, B, C)",OTW-ELE-OTEE-8UK,2016-01-09,1459.56,JPY,True,True,BMV,False,False,True,True,True,False,False
+Structural and Chassis,X81 Subframe,Generic Subframe,OTW-COL-Z4DP-PHD,2019-04-18,552.19,JPY,True,True,"WV,Mecentley,BMV,Nord",True,True,True,False,False,True,False
+Structural and Chassis,D50 Wheel Wells,Generic Wheel Wells,OTW-ENG-8VNR-OSU,2022-11-23,958.68,JPY,True,True,"Mecentley,Nord",True,False,False,True,False,False,False
+Structural and Chassis,Z29 Subframe,Generic Subframe,OTW-SUS-ATYJ-YN3,2019-10-16,470.37,JPY,False,True,"WV,Nord,BMV,Feramborghini",False,True,True,False,False,True,False
+Structural and Chassis,"C45 Pillars (A, B, C)","Generic Pillars (A, B, C)",OTW-ENG-BPCI-TTX,2016-08-15,941.04,JPY,True,True,"Mecentley,Nord",True,True,False,True,False,False,False
+Structural and Chassis,Z99 Frame / Chassis,Generic Frame / Chassis,OTW-SUS-RK3X-KXM,2015-03-27,251.01,JPY,True,True,"Nord,Mecentley,Feramborghini,WV",False,False,False,True,True,False,True
+Structural and Chassis,W45 Floor Pan,Generic Floor Pan,OTW-SUS-4VEN-0NW,2025-04-16,1175.97,JPY,True,True,"Nord,WV,BMV",True,False,True,False,False,True,True
+Structural and Chassis,U45 Crossmember,Generic Crossmember,OTW-DRI-YT9H-6GA,2021-02-26,1366.99,JPY,False,True,"Mecentley,BMV,WV",True,False,True,True,False,True,True
+Structural and Chassis,K49 Crossmember,Generic Crossmember,OTW-BRK-UHBU-CI5,2015-04-22,108.88,JPY,False,False,"WV,Feramborghini,Nord,BMV",False,True,True,False,True,True,True
+Structural and Chassis,U9 Subframe,Generic Subframe,OTW-ELE-92JT-AMW,2018-01-09,1742.92,JPY,True,True,"WV,BMV",True,False,False,True,True,False,True
+Structural and Chassis,"H16 Pillars (A, B, C)","Generic Pillars (A, B, C)",OTW-TRN-RRGG-JPB,2020-06-06,1821.55,JPY,False,True,"Nord,BMV,Feramborghini",False,True,False,True,False,True,True
+Structural and Chassis,F3 Subframe,Generic Subframe,OTW-TRN-VPCJ-9HX,2017-10-14,618.21,JPY,True,True,Mecentley,False,False,True,False,False,False,True
+Structural and Chassis,X43 Floor Pan,Generic Floor Pan,OTW-BRK-S8Z7-ZFP,2022-06-17,149.38,JPY,True,False,"BMV,Feramborghini",True,True,False,True,True,True,True
+Structural and Chassis,L62 Crossmember,Generic Crossmember,OTW-DRI-NT7U-1AC,2024-03-07,1472.2,JPY,True,True,"Nord,Mecentley",False,True,True,True,False,True,False
+Structural and Chassis,I13 Frame / Chassis,Generic Frame / Chassis,OTW-BRK-SLYI-V4E,2016-04-05,1368.74,JPY,False,True,"WV,Mecentley",True,True,False,True,False,True,True
+Structural and Chassis,J34 Floor Pan,Generic Floor Pan,OTW-SUS-1MY3-AC1,2023-04-30,298.83,JPY,True,True,"Nord,Mecentley",True,True,True,False,True,False,True
+Structural and Chassis,E78 Frame / Chassis,Generic Frame / Chassis,OTW-DRI-7P2T-3CL,2016-08-11,190.19,JPY,True,True,"Mecentley,Nord,Feramborghini,WV,BMV",True,True,False,True,True,False,False
+Structural and Chassis,S89 Frame / Chassis,Generic Frame / Chassis,OTW-DRI-FDZ3-X7I,2022-04-11,1187.16,JPY,True,True,"Nord,BMV,Feramborghini",False,True,False,True,True,True,False
+Structural and Chassis,P5 Floor Pan,Generic Floor Pan,OTW-ELE-PLAP-V9C,2017-11-27,576.39,JPY,True,False,"Mecentley,BMV",True,False,True,False,True,True,True
+Structural and Chassis,C18 Subframe,Generic Subframe,OTW-PERF-BE6I-MRT,2021-05-07,1233.61,JPY,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,True,True,False,False,False,False
+Structural and Chassis,P97 Subframe,Generic Subframe,OTW-TRN-AUQG-YWT,2025-11-03,72.87,JPY,True,True,"Mecentley,BMV,Feramborghini,Nord,WV",True,True,True,True,False,True,True
+Structural and Chassis,V31 Crossmember,Generic Crossmember,OTW-TRN-VMF5-R4I,2017-12-01,1904.98,JPY,True,True,"WV,Feramborghini,Nord",True,True,True,True,False,True,False
+Engine Care,Z75 Oil Catch Can,Traps oil vapor and prevents intake fouling.,OTW-ELE-BGG1-HCP,2022-11-19,1087.49,JPY,True,True,"Nord,WV,Mecentley",False,True,True,True,True,False,False
+Engine Care,C73 Oil Catch Can,Traps oil vapor and prevents intake fouling.,OTW-COL-6K7Z-X45,2016-08-08,137.59,JPY,True,True,"Mecentley,BMV,Nord,WV",True,False,False,True,False,True,False
+Engine Care,R25 Oil Catch Can,Traps oil vapor and prevents intake fouling.,OTW-DRI-V4KE-4JS,2017-01-04,1714.81,JPY,True,True,Nord,True,True,True,False,True,True,False
+Engine Care,D2 Oil Catch Can,Traps oil vapor and prevents intake fouling.,OTW-DRI-9FLQ-Z7B,2024-02-04,1669.77,JPY,True,False,"BMV,WV,Feramborghini,Nord,Mecentley",False,True,False,True,False,True,False
+Body and Exterior,F84 Antenna,Generic Antenna,OTW-ENG-6TCZ-DWY,2020-11-11,661.32,JPY,True,True,"Feramborghini,BMV,Mecentley",True,False,True,False,True,True,False
+Body and Exterior,I90 Trunk / Boot,Generic Trunk / Boot,OTW-DRI-JRGH-DU7,2023-08-14,428.23,JPY,False,True,"Mecentley,BMV,Nord",True,False,True,True,False,True,True
+Body and Exterior,J11 Trunk,Storage compartment at rear of vehicle.,OTW-ENG-PEL1-DXZ,2025-02-05,774.36,JPY,False,True,"Nord,WV,Mecentley,BMV",True,True,True,False,True,True,True
+Body and Exterior,U38 Windshield,Generic Windshield,OTW-COL-EUTE-9J6,2020-11-28,1213.02,JPY,True,False,Mecentley,True,True,True,True,True,True,True
+Body and Exterior,Y18 Trunk / Boot,Generic Trunk / Boot,OTW-BRK-D1BC-ZR6,2025-02-28,21.2,JPY,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,True,False,True,True,True,True
+Body and Exterior,M30 Hood / Bonnet,Generic Hood / Bonnet,OTW-DRI-SF4T-OL4,2023-11-13,877.98,JPY,True,True,"Nord,BMV,WV,Feramborghini",False,False,False,False,True,False,True
+Body and Exterior,C42 Windshield Washer Pump,Generic Windshield Washer Pump,OTW-BRK-FERA-KRX,2020-02-11,440.15,JPY,False,True,BMV,False,True,False,False,True,False,True
+Body and Exterior,S27 Trunk / Boot,Generic Trunk / Boot,OTW-SUS-L3UM-1I3,2019-10-09,1963.68,JPY,True,True,"BMV,Feramborghini,Nord",False,True,True,True,True,False,True
+Body and Exterior,R43 Side Windows,Generic Side Windows,OTW-PERF-WM7X-MZ5,2022-12-11,308.68,JPY,True,True,"Feramborghini,Mecentley",False,True,False,True,True,True,True
+Body and Exterior,V13 Doors,Generic Doors,OTW-SUS-961P-EGM,2018-12-10,580.82,JPY,True,False,"Mecentley,Feramborghini,Nord,WV,BMV",True,True,False,True,True,False,False
+Body and Exterior,S1 Hood / Bonnet,Generic Hood / Bonnet,OTW-TRN-MGJO-S5C,2021-07-18,1522.57,JPY,True,False,"BMV,Nord,Mecentley,Feramborghini,WV",True,False,True,True,True,True,True
+Body and Exterior,Y70 Window Seals,Generic Window Seals,OTW-PERF-U24G-SYT,2016-05-31,1336.73,JPY,True,True,"WV,Mecentley,Feramborghini",True,True,True,True,True,True,True
+Body and Exterior,H35 Windshield,Front glass panel for visibility and protection.,OTW-BRK-69Z7-1FU,2017-09-23,872.53,JPY,True,True,"WV,Feramborghini,Mecentley,BMV",True,False,True,False,True,True,False
+Body and Exterior,N43 Wiper Blades,Generic Wiper Blades,OTW-BRK-L9XC-2ER,2025-07-10,1988.37,JPY,False,False,BMV,True,False,True,True,False,False,True
+Body and Exterior,D97 Trunk / Boot,Generic Trunk / Boot,OTW-BRK-FIPB-IM3,2017-02-09,914.48,JPY,True,True,"Feramborghini,BMV",True,False,False,True,True,False,True
+Body and Exterior,O28 Grille,Generic Grille,OTW-TRN-21KG-FD6,2023-06-19,1402.42,JPY,True,True,"Feramborghini,BMV,Nord,WV",True,True,True,False,True,True,False
+Body and Exterior,R64 Side Mirrors,Generic Side Mirrors,OTW-SUS-3L8C-FY9,2016-01-28,1201.69,JPY,True,True,Nord,True,False,False,True,False,True,False
+Body and Exterior,"U89 Bumpers (Front, Rear)","Generic Bumpers (Front, Rear)",OTW-BRK-3LU0-U61,2021-05-11,477.39,JPY,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,False,True,False,False,True
+Body and Exterior,G96 Trunk,Storage compartment at rear of vehicle.,OTW-BRK-TMIV-J5N,2024-12-23,299.31,JPY,True,True,BMV,False,False,False,True,False,True,False
+Body and Exterior,H11 Windshield,Generic Windshield,OTW-ELE-UXAQ-C31,2025-11-28,497.7,JPY,True,True,"Feramborghini,Nord,WV",False,False,True,False,True,False,False
+Body and Exterior,W34 Windshield,Generic Windshield,OTW-ELE-CTUB-UTM,2018-08-26,908.0,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",False,True,False,False,False,True,True
+Body and Exterior,N39 Antenna,Generic Antenna,OTW-DRI-GA7M-CAJ,2015-12-11,1374.27,JPY,False,True,"Nord,BMV,Mecentley,WV,Feramborghini",False,False,False,True,True,True,True
+Body and Exterior,K35 Window Seals,Generic Window Seals,OTW-COL-KYGW-FE5,2020-08-15,1416.36,JPY,True,False,"WV,Mecentley,BMV,Feramborghini",False,True,True,False,True,True,True
+Body and Exterior,H81 Fenders,Generic Fenders,OTW-ENG-RJ19-T91,2015-05-18,1565.03,JPY,False,True,"Feramborghini,BMV,Nord",False,False,True,True,True,True,False
+Body and Exterior,R91 Antenna,Generic Antenna,OTW-BRK-XDZ8-BG5,2024-09-01,862.03,JPY,True,True,"Mecentley,WV",True,True,True,True,False,True,False
+Body and Exterior,D38 Window Seals,Generic Window Seals,OTW-SUS-B1JS-TLH,2018-05-18,893.9,JPY,True,True,"BMV,Mecentley,Nord,WV",True,True,False,True,False,False,True
+Body and Exterior,G61 Window Seals,Generic Window Seals,OTW-ELE-GJE1-ZWR,2018-09-20,901.9,JPY,True,True,Feramborghini,True,True,False,False,True,True,True
+Body and Exterior,K33 Roof Rack,Generic Roof Rack,OTW-PERF-1QG3-MAY,2023-12-26,1217.29,JPY,False,True,"Feramborghini,Nord,BMV,WV",False,False,False,False,False,True,False
+Body and Exterior,M15 Antenna,Generic Antenna,OTW-PERF-8JIX-R8J,2020-10-24,1541.7,JPY,True,False,BMV,True,False,False,False,True,True,True
+Body and Exterior,O12 Windshield,Front glass panel for visibility and protection.,OTW-ENG-B8UE-NQW,2023-10-18,1240.74,JPY,True,True,"Mecentley,BMV",False,True,True,False,True,True,True
+Body and Exterior,I44 Doors,Allow entry and exit from the vehicle.,OTW-BRK-26BM-NKU,2022-06-10,1130.45,JPY,True,True,"Feramborghini,WV,Mecentley",True,True,False,True,True,True,True
+Body and Exterior,Y28 Emblems / Badges,Generic Emblems / Badges,OTW-DRI-N3JH-06K,2020-07-20,786.74,JPY,True,True,Nord,True,True,True,False,False,True,False
+Body and Exterior,Y90 Roof Rack,Generic Roof Rack,OTW-SUS-MG5W-X6F,2022-04-24,655.48,JPY,True,False,"Mecentley,Feramborghini,BMV,Nord",True,False,True,True,True,True,False
+Body and Exterior,C50 Doors,Generic Doors,OTW-PERF-VR8Y-U6T,2019-08-07,1647.39,JPY,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",True,True,True,False,False,True,True
+Body and Exterior,B36 Wiper Blades,Generic Wiper Blades,OTW-TRN-9RZR-3GW,2017-05-22,407.96,JPY,False,True,"Feramborghini,WV,Nord",True,True,False,False,True,False,True
+Body and Exterior,R15 Rear Window,Generic Rear Window,OTW-TRN-XISY-Y9R,2018-12-24,402.51,JPY,False,True,"Nord,WV,Feramborghini",True,True,True,False,True,True,False
+Body and Exterior,X27 Window Seals,Generic Window Seals,OTW-TRN-1KYI-N5N,2018-02-22,1253.75,JPY,True,True,"BMV,Mecentley,Nord",True,False,True,True,False,True,True
+Body and Exterior,S90 Hood / Bonnet,Generic Hood / Bonnet,OTW-BRK-X2P2-CPS,2022-03-08,1647.88,JPY,True,True,BMV,True,False,True,True,False,False,False
+Body and Exterior,T29 Doors,Allow entry and exit from the vehicle.,OTW-COL-ALSW-8UY,2017-01-08,1525.21,JPY,True,True,"Nord,Feramborghini",True,True,True,True,True,True,True
+Body and Exterior,F54 Windshield,Front glass panel for visibility and protection.,OTW-SUS-YPJA-6EL,2016-12-28,1672.37,JPY,True,True,Feramborghini,False,False,False,True,True,False,True
+Body and Exterior,D11 Windshield,Front glass panel for visibility and protection.,OTW-SUS-ZGNX-ECF,2021-03-16,910.37,JPY,False,True,"Nord,WV",True,False,False,False,False,False,True
+Body and Exterior,Y2 Spoiler,Generic Spoiler,OTW-ENG-4IGD-ZC5,2020-12-21,1492.97,JPY,False,True,"Mecentley,Feramborghini",True,True,True,True,True,True,True
+Body and Exterior,E72 Windshield,Front glass panel for visibility and protection.,OTW-ENG-AMBS-14H,2025-11-15,1458.28,JPY,False,True,"Nord,Mecentley,WV,BMV",True,True,False,True,False,True,False
+Body and Exterior,J18 Trunk,Storage compartment at rear of vehicle.,OTW-ENG-KJME-CH2,2024-01-26,1187.26,JPY,False,True,Feramborghini,True,True,False,False,True,True,True
+Body and Exterior,G20 Doors,Allow entry and exit from the vehicle.,OTW-SUS-GKRC-BQO,2024-04-24,425.03,JPY,True,True,"BMV,Feramborghini,Nord",True,False,False,True,True,False,True
+Body and Exterior,D87 Side Windows,Generic Side Windows,OTW-DRI-U08A-AWT,2015-06-15,931.99,JPY,False,True,"Feramborghini,WV",True,True,True,True,False,True,False
+Body and Exterior,O3 Windshield Washer Pump,Generic Windshield Washer Pump,OTW-BRK-U3HY-JAH,2023-07-22,1644.71,JPY,False,False,"Feramborghini,Mecentley,BMV",False,False,False,False,True,True,True
+Body and Exterior,W80 Wiper Arms,Generic Wiper Arms,OTW-TRN-GHT8-TBN,2018-01-14,1070.03,JPY,True,True,"Mecentley,WV,Feramborghini,Nord",True,False,False,True,False,False,True
+Body and Exterior,N51 Doors,Generic Doors,OTW-SUS-44C9-BW3,2024-07-01,923.63,JPY,True,True,"Nord,WV,BMV,Feramborghini",True,False,True,True,True,False,False
+Body and Exterior,Y2 Spoiler,Generic Spoiler,OTW-ELE-TAIG-SO5,2015-03-13,469.49,JPY,False,True,"BMV,Feramborghini",True,False,True,False,True,True,True
+Body and Exterior,N20 Rear Window,Generic Rear Window,OTW-COL-46KB-4SK,2023-09-09,416.7,JPY,True,True,"WV,BMV",True,True,False,False,True,False,True
+Body and Exterior,F4 Rear Window,Generic Rear Window,OTW-DRI-MYN2-RA0,2021-10-26,1121.58,JPY,True,True,"Mecentley,Feramborghini,BMV,Nord,WV",True,True,False,True,True,False,True
+Body and Exterior,W86 Windshield Washer Pump,Generic Windshield Washer Pump,OTW-TRN-UMBQ-CXG,2020-05-28,1208.31,JPY,True,True,"Feramborghini,Nord,Mecentley,WV,BMV",False,False,True,False,True,True,True
+Body and Exterior,U45 Antenna,Generic Antenna,OTW-BRK-UBEP-9DN,2025-11-13,965.81,JPY,False,False,"BMV,Feramborghini,WV",True,True,True,True,True,False,False
+Body and Exterior,I55 Windshield Washer Pump,Generic Windshield Washer Pump,OTW-ELE-69MB-JIQ,2025-12-03,533.83,JPY,True,True,"Feramborghini,BMV,Nord,Mecentley",True,False,True,False,True,True,True
+Body and Exterior,D43 Side Mirrors,Generic Side Mirrors,OTW-TRN-5RZA-TYG,2020-05-17,1422.73,JPY,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",False,True,False,True,True,True,True
+Body and Exterior,W39 Trunk / Boot,Generic Trunk / Boot,OTW-SUS-7BOK-QIR,2018-09-29,1200.73,JPY,True,True,"WV,Mecentley,Feramborghini,BMV,Nord",False,False,True,True,True,True,False
+Body and Exterior,G93 License Plate Holder,Generic License Plate Holder,OTW-PERF-WDFI-71X,2023-02-17,1744.49,JPY,True,True,Mecentley,False,False,True,True,True,True,True
+Body and Exterior,Z63 Side Mirrors,Allow driver to view rear/side traffic.,OTW-DRI-1DYU-ZYG,2024-06-27,1762.86,JPY,True,True,"WV,BMV,Nord,Feramborghini,Mecentley",True,False,True,True,True,False,False
+Body and Exterior,Y31 Side Windows,Generic Side Windows,OTW-COL-ZFLY-O2U,2019-11-23,729.45,JPY,True,True,"Feramborghini,BMV,Nord,Mecentley",False,True,True,False,False,True,True
+Body and Exterior,F63 Hood,Covers the engine compartment.,OTW-ENG-J03D-NUG,2018-02-25,1311.55,JPY,True,True,WV,False,True,True,True,True,True,False
+Body and Exterior,D73 Spoiler,Generic Spoiler,OTW-ELE-UWG4-S5M,2019-03-14,263.95,JPY,True,False,"Mecentley,Nord,WV,Feramborghini",False,False,True,True,False,False,True
+Body and Exterior,G40 Bumpers,Protects car front and rear from impacts.,OTW-COL-LH1P-INP,2016-03-22,869.65,JPY,True,False,"Feramborghini,Mecentley,WV,Nord",False,False,True,True,True,True,True
+Body and Exterior,X43 Trunk / Boot,Generic Trunk / Boot,OTW-ENG-D7QF-BZ8,2017-10-28,1632.87,JPY,True,False,"WV,Mecentley,Feramborghini,Nord",True,True,False,True,False,True,False
+Body and Exterior,N68 Side Windows,Generic Side Windows,OTW-COL-TT7U-I5M,2025-03-29,674.77,JPY,True,True,"Mecentley,WV,Feramborghini,BMV",False,False,False,True,True,False,True
+Body and Exterior,U41 Side Mirrors,Allow driver to view rear/side traffic.,OTW-SUS-53N8-2CF,2015-08-31,153.33,JPY,True,True,"BMV,Feramborghini,Mecentley,WV,Nord",True,True,True,True,False,True,True
+Body and Exterior,R12 Roof Rack,Generic Roof Rack,OTW-COL-5OF8-HVH,2022-06-10,200.71,JPY,True,True,"Mecentley,Nord",False,False,True,True,False,True,False
+Body and Exterior,L47 Doors,Generic Doors,OTW-BRK-HWB6-B75,2022-10-01,563.14,JPY,True,True,"Nord,BMV,WV,Mecentley,Feramborghini",False,True,True,True,False,True,False
+Body and Exterior,N44 Hood / Bonnet,Generic Hood / Bonnet,OTW-TRN-SASK-X3A,2020-04-09,419.81,JPY,False,True,"Mecentley,Feramborghini,Nord,WV",True,False,True,True,False,True,True
+Body and Exterior,A92 Side Mirrors,Allow driver to view rear/side traffic.,OTW-SUS-93O3-CD0,2024-06-05,1948.81,JPY,False,False,Mecentley,False,True,True,True,False,False,True
+Body and Exterior,N6 Side Mirrors,Generic Side Mirrors,OTW-TRN-BS24-IO9,2025-08-16,1553.36,JPY,True,True,"WV,Nord",False,False,True,False,True,True,True
+Body and Exterior,A11 License Plate Holder,Generic License Plate Holder,OTW-BRK-20S7-CMN,2020-08-26,224.27,JPY,True,True,Nord,True,False,True,True,True,True,True
+Body and Exterior,G48 Hood / Bonnet,Generic Hood / Bonnet,OTW-SUS-VQ61-BNP,2023-06-14,1404.05,JPY,True,False,"BMV,Nord",True,True,True,False,False,False,True
+Body and Exterior,M88 Hood / Bonnet,Generic Hood / Bonnet,OTW-PERF-O9BX-948,2022-09-25,664.39,JPY,True,True,"Nord,Mecentley,Feramborghini",True,True,True,False,False,True,True
+Body and Exterior,B46 Wiper Blades,Generic Wiper Blades,OTW-DRI-02SY-Z1Q,2019-09-08,1345.47,JPY,False,False,"Feramborghini,BMV,Nord,WV",True,True,True,True,False,True,True
+Body and Exterior,R3 Hood,Covers the engine compartment.,OTW-ELE-U1W9-JNK,2016-07-26,183.65,JPY,True,True,"BMV,WV,Feramborghini,Nord",True,False,False,False,True,True,True
+Body and Exterior,W53 Windshield,Generic Windshield,OTW-PERF-87FB-IIH,2022-06-03,1234.74,JPY,True,True,"Mecentley,Nord,WV",False,True,False,False,True,True,True
+Body and Exterior,B32 Antenna,Generic Antenna,OTW-ELE-30BQ-CPI,2018-02-28,192.3,JPY,True,True,BMV,True,True,True,False,True,True,False
+Body and Exterior,L77 Grille,Generic Grille,OTW-ENG-72BT-S11,2024-03-22,534.52,JPY,True,True,"Nord,Mecentley,BMV,Feramborghini",True,False,False,True,True,True,False
+Body and Exterior,E7 Side Windows,Generic Side Windows,OTW-COL-UF2O-5ME,2022-12-11,490.6,JPY,True,True,Feramborghini,False,False,True,True,True,True,True
+Body and Exterior,K68 Wiper Blades,Generic Wiper Blades,OTW-TRN-7RIN-7C0,2025-04-15,1122.64,JPY,True,True,Feramborghini,False,True,True,True,False,True,False
+Body and Exterior,"S84 Bumpers (Front, Rear)","Generic Bumpers (Front, Rear)",OTW-ENG-ITPC-59M,2016-12-29,1125.86,JPY,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",False,True,True,True,False,True,True
+Body and Exterior,C97 License Plate Holder,Generic License Plate Holder,OTW-PERF-GL48-F2W,2025-10-06,1387.12,JPY,True,False,"WV,BMV,Mecentley",True,True,False,False,False,False,True
+Body and Exterior,W67 Hood,Covers the engine compartment.,OTW-DRI-5SPV-I1U,2020-04-05,1333.15,JPY,True,True,"BMV,WV",True,False,True,False,True,True,True
+Body and Exterior,Q19 Hood / Bonnet,Generic Hood / Bonnet,OTW-ELE-JL7I-0JK,2015-01-11,1373.69,JPY,True,True,"BMV,Feramborghini",False,True,False,False,True,True,False
+Body and Exterior,T58 Wiper Arms,Generic Wiper Arms,OTW-ELE-DOU2-4YZ,2019-12-03,1143.07,JPY,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",False,True,False,True,False,True,False
+Body and Exterior,L14 Spoiler,Generic Spoiler,OTW-DRI-TU4Q-E8V,2019-02-14,1658.14,JPY,True,True,"Nord,BMV,Mecentley,WV",True,True,False,True,True,True,True
+Body and Exterior,G39 Window Seals,Generic Window Seals,OTW-PERF-GT7Z-VOM,2024-08-24,243.28,JPY,True,False,"WV,Mecentley,BMV",False,True,True,False,True,True,False
+Body and Exterior,K49 Fenders,Generic Fenders,OTW-PERF-HVI3-QZL,2023-11-26,912.59,JPY,True,True,"BMV,WV,Nord",False,True,False,True,True,False,True
+Body and Exterior,E97 Windshield,Generic Windshield,OTW-TRN-VDO5-GOQ,2022-03-25,351.62,JPY,True,True,WV,True,True,False,True,False,True,True
+Body and Exterior,K59 Windshield,Front glass panel for visibility and protection.,OTW-TRN-F5R2-BZ4,2020-10-19,608.35,JPY,False,True,"Mecentley,Feramborghini,Nord",False,True,False,True,True,False,False
+Body and Exterior,V18 Windshield,Generic Windshield,OTW-BRK-9Y7P-X48,2023-04-05,1142.22,JPY,False,True,Feramborghini,True,True,True,False,True,True,False
+Body and Exterior,P75 Fenders,Generic Fenders,OTW-PERF-N10B-9W9,2018-12-23,324.85,JPY,False,True,"Feramborghini,Nord,WV,Mecentley,BMV",True,False,False,True,True,True,True
+Body and Exterior,C54 Side Windows,Generic Side Windows,OTW-ELE-TA12-G6E,2016-05-25,1006.54,JPY,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,False,False,False,True,True,True
+Body and Exterior,"P47 Bumpers (Front, Rear)","Generic Bumpers (Front, Rear)",OTW-DRI-33PO-QVL,2021-11-26,55.47,JPY,True,True,"Feramborghini,Nord",False,False,True,True,False,True,False
+Suspension,H65 Sway Bars,Reduces body roll in aggressive turns.,OTW-DRI-XNOH-B5W,2017-07-04,667.54,JPY,True,True,Mecentley,True,True,False,True,False,True,True
+Suspension,O36 Strut Tower Brace,Improves chassis rigidity and cornering.,OTW-COL-A1E3-7RJ,2019-08-02,892.19,JPY,True,True,WV,False,True,True,False,False,False,True
+Suspension,S10 Lowering Springs,Lowers ride height and improves handling.,OTW-DRI-6MNV-8KJ,2023-12-31,1882.07,JPY,True,True,Feramborghini,False,False,False,True,True,True,True
+Suspension,J78 Lowering Springs,Lowers ride height and improves handling.,OTW-TRN-8X8B-XES,2021-12-31,1166.14,JPY,True,True,"WV,Mecentley,Nord",False,True,False,True,True,False,False
+Suspension,B38 Strut Tower Brace,Improves chassis rigidity and cornering.,OTW-DRI-QNSQ-RCX,2023-03-11,1204.3,JPY,True,True,"Mecentley,WV,BMV",False,True,True,False,False,True,False
+Suspension,D23 Strut Tower Brace,Improves chassis rigidity and cornering.,OTW-ELE-T0JU-DGS,2015-09-14,1399.52,JPY,True,False,"Feramborghini,Nord,WV,BMV,Mecentley",True,True,False,False,True,False,True
+Suspension,N72 Lowering Springs,Lowers ride height and improves handling.,OTW-BRK-334T-IJU,2018-11-27,568.0,JPY,True,True,"Feramborghini,BMV,Nord,WV,Mecentley",True,True,True,False,False,True,False
+Suspension,F69 Sway Bars,Reduces body roll in aggressive turns.,OTW-PERF-2MJT-W17,2020-08-27,207.49,JPY,True,True,"BMV,Mecentley,Nord,WV",True,True,True,False,True,True,False
+Suspension,O22 Strut Tower Brace,Improves chassis rigidity and cornering.,OTW-ENG-1BK5-43S,2018-09-17,986.53,JPY,True,True,"Mecentley,Feramborghini,Nord,WV",False,True,False,True,True,True,True
+Suspension,T92 Adjustable Coilovers,Allow height and damping adjustment.,OTW-ELE-X1Q3-4DN,2019-07-24,126.18,JPY,False,True,"BMV,Mecentley",False,True,True,True,True,True,False
+Suspension,E39 Strut Tower Brace,Improves chassis rigidity and cornering.,OTW-PERF-SMZW-4KM,2023-07-15,1210.93,JPY,True,False,"Nord,BMV,Mecentley,WV,Feramborghini",True,False,True,False,True,True,False
+Suspension,D31 Lowering Springs,Lowers ride height and improves handling.,OTW-SUS-SBMW-5UJ,2016-12-12,675.47,JPY,True,True,"Feramborghini,BMV",True,True,False,True,False,True,False
+Suspension,K72 Adjustable Coilovers,Allow height and damping adjustment.,OTW-ENG-EJHQ-GE0,2018-09-29,416.18,JPY,True,True,BMV,True,False,True,False,False,True,False
+Fuel System,R14 Fuel Pressure Regulator,Maintains correct fuel pressure.,OTW-ENG-O9IZ-LWE,2025-07-18,928.57,JPY,True,True,Nord,False,False,False,False,True,True,True
+Fuel System,Y84 Fuel Pump,Generic Fuel Pump,OTW-ENG-061S-CV1,2015-09-26,608.18,JPY,True,False,"Nord,Feramborghini,BMV,Mecentley",True,True,False,True,False,True,False
+Fuel System,D16 Gas Cap,Seals the fuel tank.,OTW-ELE-Z4VQ-5NF,2021-05-27,268.2,JPY,True,True,"Feramborghini,Mecentley,BMV",False,True,True,True,True,True,False
+Fuel System,W48 Fuel Tank,Stores fuel used by the vehicle.,OTW-BRK-BCHA-0TJ,2025-08-25,1126.85,JPY,True,True,"Mecentley,BMV,Feramborghini,WV",True,False,False,True,True,True,False
+Fuel System,K61 Fuel Pressure Regulator,Maintains correct fuel pressure.,OTW-ENG-2H52-AYM,2024-03-04,1789.93,JPY,True,True,"Feramborghini,Mecentley",True,False,False,True,False,True,True
+Fuel System,A15 Performance Fuel Pump,Increased fuel delivery rate for tuned engines.,OTW-PERF-9LK4-NKQ,2020-09-02,266.25,JPY,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",False,True,True,False,True,True,False
+Fuel System,C56 Fuel Tank,Generic Fuel Tank,OTW-COL-A7EZ-N82,2017-10-30,1055.81,JPY,False,False,"Feramborghini,Mecentley",True,False,False,False,False,False,False
+Fuel System,R6 Fuel Tank,Stores fuel used by the vehicle.,OTW-COL-UJBO-G7D,2025-02-04,841.32,JPY,True,True,WV,False,False,True,True,True,True,False
+Fuel System,E93 Fuel Injectors,Spray fuel into the engine's cylinders.,OTW-DRI-33GN-8JZ,2021-01-16,40.38,JPY,True,False,"WV,Mecentley,BMV",False,False,True,True,True,False,False
+Fuel System,Z26 Fuel Filter,Filters impurities from fuel.,OTW-SUS-Y5TP-AIS,2021-02-27,368.55,JPY,True,True,"Mecentley,WV,Feramborghini",True,False,True,True,True,False,True
+Fuel System,I67 Fuel Filter,Filters impurities from fuel.,OTW-BRK-GR2X-WWY,2020-08-18,600.92,JPY,True,True,"BMV,Mecentley,Feramborghini",True,True,True,False,False,False,True
+Fuel System,B41 Fuel Tank,Stores fuel used by the vehicle.,OTW-ELE-59FY-EFM,2023-11-18,783.55,JPY,True,True,"Nord,Mecentley,WV,BMV",True,True,False,False,True,False,True
+Fuel System,U68 Fuel Pump,Delivers fuel from tank to engine.,OTW-TRN-0Y40-FP3,2020-03-23,651.76,JPY,True,True,"Nord,BMV",False,True,True,True,True,True,False
+Fuel System,S36 Fuel Tank,Stores fuel used by the vehicle.,OTW-TRN-G6JC-BX5,2017-01-28,1388.27,JPY,True,True,"Feramborghini,BMV,WV",True,True,True,False,True,True,False
+Fuel System,L90 Fuel Lines,Generic Fuel Lines,OTW-BRK-GP1D-E75,2025-05-28,1754.98,JPY,True,True,"BMV,Feramborghini",False,True,False,True,False,False,True
+Fuel System,X10 Performance Fuel Pump,Increased fuel delivery rate for tuned engines.,OTW-ELE-DHBH-JS4,2021-03-04,1129.99,JPY,False,True,"Feramborghini,Nord,WV",True,True,True,False,True,True,True
+Fuel System,A31 Fuel Pump,Delivers fuel from the tank to the engine.,OTW-PERF-W7GH-SEH,2019-10-21,1381.8,JPY,True,True,"Nord,WV,Feramborghini,Mecentley",False,True,True,True,False,True,True
+Fuel System,P69 Performance Fuel Pump,Increased fuel delivery rate for tuned engines.,OTW-COL-RFTF-7JK,2023-05-07,1131.54,JPY,True,True,"Feramborghini,Nord",False,True,False,False,False,True,True
+Fuel System,O85 Fuel Pump,Generic Fuel Pump,OTW-COL-FIM9-KLO,2021-01-08,52.58,JPY,True,True,"BMV,Mecentley,WV,Feramborghini",True,True,True,True,False,True,True
+Fuel System,L4 Fuel Lines,Carry fuel to the engine.,OTW-DRI-H4FM-6R5,2022-12-04,890.77,JPY,True,True,Feramborghini,True,True,True,True,True,True,False
+Fuel System,U50 Fuel Pressure Regulator,Maintains correct fuel pressure.,OTW-DRI-1CTF-L9N,2016-12-24,412.66,JPY,False,True,"BMV,Nord,WV,Feramborghini,Mecentley",True,True,True,False,True,True,True
+Fuel System,K21 Gas Cap,Seals the fuel tank.,OTW-ENG-42XL-OW3,2023-04-15,1499.51,JPY,False,False,"WV,Nord,Feramborghini,Mecentley",False,False,True,True,False,False,True
+Fuel System,F19 Fuel Pump,Generic Fuel Pump,OTW-COL-HCVC-E10,2022-11-18,784.66,JPY,False,True,"Feramborghini,Nord,WV,BMV",True,False,True,True,False,False,True
+Fuel System,A66 Fuel Pressure Regulator,Maintains correct fuel pressure.,OTW-SUS-SD6V-CM0,2022-04-01,1778.16,JPY,True,True,"WV,Mecentley",True,False,False,True,False,False,True
+Fuel System,Q7 Upgraded Fuel Injectors,Deliver more fuel for high-performance engines.,OTW-ENG-FD9D-4M4,2019-12-18,1858.23,JPY,True,True,"Feramborghini,BMV",True,True,True,False,False,False,True
+Fuel System,I11 Fuel Lines,Carry fuel to the engine.,OTW-ENG-8VNL-11M,2016-02-24,140.79,JPY,True,False,"WV,BMV,Mecentley,Nord",False,True,True,False,False,True,False
+Fuel System,F77 Upgraded Fuel Injectors,Deliver more fuel for high-performance engines.,OTW-ENG-U4C6-QKJ,2020-02-21,1825.93,JPY,True,True,"WV,Mecentley,BMV,Nord",True,True,True,True,True,True,True
+Fuel System,Y61 Fuel Pump,Generic Fuel Pump,OTW-PERF-E5TU-MZO,2021-11-08,335.69,JPY,True,True,"Mecentley,BMV,Nord,WV,Feramborghini",True,True,True,True,False,False,True
+Fuel System,B79 Gas Cap,Generic Gas Cap,OTW-TRN-99MN-R2T,2024-10-05,228.19,JPY,True,True,"Feramborghini,WV,BMV,Mecentley,Nord",False,False,False,False,False,True,True
+Fuel System,X84 Fuel Filter,Generic Fuel Filter,OTW-DRI-IOPX-4OJ,2017-03-22,1772.89,JPY,False,True,"Feramborghini,Mecentley,Nord,WV",True,False,False,True,True,True,True
+Fuel System,G51 Fuel Rail,Generic Fuel Rail,OTW-BRK-HUV0-37X,2021-07-23,1060.42,JPY,True,True,Nord,True,True,True,True,False,False,False

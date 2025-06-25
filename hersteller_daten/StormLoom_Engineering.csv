@@ -1,0 +1,354 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,hazardousMaterial,obsolete,requiresCalibration,ecoFriendly,aftermarket,used,recalled,digitallyTracked
+Electronics,Launch Control Module M74,Optimizes power delivery off the line.,SLE-SN20250625-6030,2020-04-02,442.12,CHF,True,True,"Feramborghini,WV,Mecentley",True,True,False,True,False,False,True,True
+Electronics,Launch Control Module Q36,Optimizes power delivery off the line.,SLE-SN20250625-6107,2021-09-18,485.76,CHF,True,True,"Feramborghini,Nord,Mecentley,WV",False,True,True,True,True,False,True,True
+Electronics,Launch Control Module S19,Optimizes power delivery off the line.,SLE-SN20250625-9919,2017-06-06,1365.97,CHF,False,False,"Nord,WV,BMV",True,False,True,True,False,False,True,True
+Electronics,Launch Control Module L72,Optimizes power delivery off the line.,SLE-SN20250625-9259,2021-04-02,1275.16,CHF,True,True,"BMV,WV,Mecentley",False,True,True,False,False,True,True,False
+Electronics,Launch Control Module G40,Optimizes power delivery off the line.,SLE-SN20250625-9151,2019-03-15,1818.81,CHF,True,True,"Mecentley,Nord,Feramborghini,BMV",True,True,True,True,True,True,True,False
+Braking System,Brake Shoes P18,Generic Brake Shoes,SLE-SN20250625-9833,2015-07-31,163.43,CHF,True,True,"BMV,Mecentley,Nord,WV,Feramborghini",False,False,True,True,False,True,False,True
+Braking System,Brake Shoes C29,Generic Brake Shoes,SLE-SN20250625-5126,2016-12-13,1623.16,CHF,True,True,"Nord,WV,Mecentley,Feramborghini",True,False,False,True,False,False,False,False
+Braking System,Brake Calipers I26,Houses the brake pads and pistons.,SLE-SN20250625-4689,2022-04-13,691.87,CHF,True,False,Nord,False,False,True,True,True,True,True,True
+Braking System,Brake Lines L51,Generic Brake Lines,SLE-SN20250625-9641,2017-02-25,1951.84,CHF,True,True,"Mecentley,BMV",True,True,True,False,False,False,False,True
+Braking System,Brake Pads J17,Press against rotors to slow down the vehicle.,SLE-SN20250625-6631,2021-02-11,1081.78,CHF,True,True,"Nord,WV,Feramborghini",False,True,True,False,True,True,True,True
+Braking System,Brake Lines F28,Generic Brake Lines,SLE-SN20250625-9001,2024-06-30,1279.84,CHF,True,True,WV,False,True,True,True,True,True,True,False
+Braking System,Brake Shoes I88,Generic Brake Shoes,SLE-SN20250625-8037,2021-07-11,833.65,CHF,True,True,"Nord,WV",True,False,False,False,True,True,True,False
+Braking System,Brake Lines A31,Carry brake fluid to braking components.,SLE-SN20250625-2946,2019-03-12,1279.5,CHF,True,True,"Feramborghini,Nord,WV,BMV",False,False,False,True,False,True,False,False
+Braking System,Brake Master Cylinder Q55,Generic Brake Master Cylinder,SLE-SN20250625-1125,2016-04-22,1837.58,CHF,True,True,"BMV,Nord,Feramborghini,WV,Mecentley",False,False,False,False,True,True,False,False
+Braking System,Brake Lines R83,Carry brake fluid to braking components.,SLE-SN20250625-7225,2017-06-03,1494.21,CHF,True,True,"BMV,Mecentley",True,False,False,True,False,False,False,True
+Braking System,Brake Fluid Reservoir C21,Generic Brake Fluid Reservoir,SLE-SN20250625-6611,2022-02-27,603.13,CHF,True,False,"WV,Feramborghini,Mecentley,Nord",True,False,True,False,False,True,False,True
+Braking System,Brake Rotors / Discs A29,Generic Brake Rotors / Discs,SLE-SN20250625-6933,2017-06-20,218.51,CHF,True,False,"Feramborghini,WV,BMV",False,True,True,True,True,True,False,False
+Braking System,ABS Sensors I74,Generic ABS Sensors,SLE-SN20250625-7681,2017-03-06,1320.33,CHF,True,False,Feramborghini,False,False,False,True,False,True,True,False
+Braking System,Proportioning Valve H49,Generic Proportioning Valve,SLE-SN20250625-7332,2020-11-24,287.72,CHF,True,True,"WV,Nord,Feramborghini,Mecentley",False,False,False,True,True,True,True,True
+Braking System,Brake Fluid Reservoir B69,Generic Brake Fluid Reservoir,SLE-SN20250625-3860,2019-02-27,985.0,CHF,True,True,WV,False,True,False,True,False,True,True,True
+Braking System,Brake Shoes Q54,Generic Brake Shoes,SLE-SN20250625-5940,2020-08-10,747.45,CHF,True,True,"BMV,Feramborghini,Mecentley,Nord",False,True,False,True,True,False,False,True
+Braking System,Brake Pads F6,Press against rotors to slow down the vehicle.,SLE-SN20250625-6271,2025-02-19,1077.73,CHF,True,True,"WV,Mecentley,BMV,Nord",True,False,False,True,False,False,False,True
+Braking System,Handbrake / Parking Brake E71,Generic Handbrake / Parking Brake,SLE-SN20250625-9600,2016-03-26,705.82,CHF,True,True,Nord,True,True,True,True,True,True,True,False
+Braking System,Brake Pads A6,Generic Brake Pads,SLE-SN20250625-2288,2018-08-16,124.42,CHF,True,True,"Nord,Feramborghini,Mecentley,WV,BMV",False,True,False,True,False,True,False,True
+Braking System,Brake Shoes X43,Generic Brake Shoes,SLE-SN20250625-2822,2017-04-21,654.35,CHF,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",False,False,True,True,True,False,True,True
+Braking System,Handbrake / Parking Brake O13,Generic Handbrake / Parking Brake,SLE-SN20250625-4572,2015-06-14,1642.28,CHF,True,True,"BMV,WV,Feramborghini",True,False,True,False,False,False,False,True
+Braking System,ABS Sensors B75,Generic ABS Sensors,SLE-SN20250625-5711,2025-09-02,28.47,CHF,True,True,Nord,False,False,True,False,True,True,True,False
+Braking System,ABS Sensors V29,Generic ABS Sensors,SLE-SN20250625-2941,2016-05-12,1461.1,CHF,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",True,True,False,True,False,True,True,True
+Braking System,Brake Rotors D37,Discs that brake pads clamp onto.,SLE-SN20250625-5022,2015-11-20,1894.15,CHF,True,True,"BMV,Feramborghini,Mecentley,WV",True,True,False,False,False,True,True,True
+Braking System,ABS Sensors Q10,Generic ABS Sensors,SLE-SN20250625-1020,2019-05-16,1590.61,CHF,True,False,"Nord,BMV,WV,Feramborghini",False,True,False,False,False,False,True,False
+Braking System,Brake Booster F19,Generic Brake Booster,SLE-SN20250625-8187,2020-01-14,1361.55,CHF,True,True,"Nord,Mecentley,BMV,WV,Feramborghini",False,False,False,True,True,True,False,True
+Braking System,Big Brake Kit Q71,Larger brakes for better stopping power.,SLE-SN20250625-6012,2025-05-21,1856.06,CHF,True,True,"Feramborghini,WV,Mecentley,BMV,Nord",True,True,False,True,False,False,True,True
+Braking System,Brake Calipers Z71,Houses the brake pads and pistons.,SLE-SN20250625-6547,2023-02-04,445.37,CHF,True,True,"Feramborghini,Nord",True,True,False,True,False,True,False,False
+Braking System,Proportioning Valve W1,Generic Proportioning Valve,SLE-SN20250625-5053,2023-02-15,137.06,CHF,False,True,"Nord,BMV,WV,Mecentley,Feramborghini",True,True,False,False,True,False,True,True
+Braking System,Slotted Brake Rotors P33,Improves heat dissipation under hard braking.,SLE-SN20250625-9119,2025-03-10,1774.59,CHF,True,False,"WV,Nord,BMV",True,True,True,False,False,True,True,True
+Braking System,Brake Pads L7,Press against rotors to slow down the vehicle.,SLE-SN20250625-5056,2019-12-03,734.76,CHF,True,True,"WV,Nord,BMV,Feramborghini,Mecentley",True,True,True,False,True,True,True,False
+Braking System,ABS Sensors K55,Generic ABS Sensors,SLE-SN20250625-6442,2024-08-22,1326.51,CHF,True,True,Nord,True,True,True,False,True,False,True,False
+Braking System,Handbrake / Parking Brake P38,Generic Handbrake / Parking Brake,SLE-SN20250625-3239,2019-08-02,1893.76,CHF,False,True,"Feramborghini,BMV,Nord,Mecentley,WV",True,False,True,False,True,False,True,True
+Braking System,Brake Fluid Reservoir Y12,Generic Brake Fluid Reservoir,SLE-SN20250625-3691,2021-04-12,1456.5,CHF,False,True,"Nord,Feramborghini,WV",True,True,True,True,True,True,False,True
+Braking System,Proportioning Valve Y94,Generic Proportioning Valve,SLE-SN20250625-8239,2021-04-05,222.99,CHF,False,True,"WV,Nord,Mecentley,Feramborghini,BMV",False,False,True,True,False,True,False,True
+Braking System,Brake Booster F44,Generic Brake Booster,SLE-SN20250625-3772,2021-06-21,1963.53,CHF,True,False,"Nord,WV,Feramborghini",False,True,True,False,False,True,False,True
+Braking System,Performance Brake Pads C12,Designed for high-temperature stopping.,SLE-SN20250625-3433,2024-10-27,193.28,CHF,False,True,Feramborghini,True,False,True,False,False,False,True,True
+Braking System,Big Brake Kit W82,Larger brakes for better stopping power.,SLE-SN20250625-8916,2015-02-17,737.3,CHF,True,True,"WV,Mecentley",True,True,True,True,True,True,True,True
+Braking System,Brake Booster M43,Generic Brake Booster,SLE-SN20250625-7517,2025-01-01,1901.02,CHF,True,True,BMV,True,False,False,True,False,True,True,True
+Braking System,Brake Pedal T39,Generic Brake Pedal,SLE-SN20250625-1791,2021-06-03,845.38,CHF,False,False,"Nord,Mecentley",True,False,False,False,True,False,True,True
+Braking System,Brake Shoes S63,Generic Brake Shoes,SLE-SN20250625-2932,2020-12-17,505.22,CHF,True,True,"Mecentley,WV",True,False,True,False,True,False,True,False
+Braking System,Brake Master Cylinder Y68,Generic Brake Master Cylinder,SLE-SN20250625-4816,2017-12-31,1203.17,CHF,True,False,Feramborghini,True,True,False,False,True,False,False,True
+Braking System,ABS Sensors W34,Generic ABS Sensors,SLE-SN20250625-7885,2020-07-27,1321.36,CHF,False,True,Feramborghini,True,True,True,True,True,True,True,True
+Braking System,Slotted Brake Rotors Z55,Improves heat dissipation under hard braking.,SLE-SN20250625-5652,2017-11-04,1753.53,CHF,True,True,BMV,False,True,True,True,False,True,True,True
+Braking System,Brake Calipers I97,Generic Brake Calipers,SLE-SN20250625-1015,2024-12-28,271.56,CHF,True,True,BMV,False,True,True,True,True,True,True,True
+Braking System,Brake Fluid Reservoir T1,Generic Brake Fluid Reservoir,SLE-SN20250625-9408,2022-11-10,339.76,CHF,True,True,"Feramborghini,WV,Mecentley",False,False,True,True,False,True,True,True
+Braking System,Brake Drums Z42,Generic Brake Drums,SLE-SN20250625-3222,2024-04-21,763.39,CHF,True,True,Feramborghini,False,True,False,False,True,True,False,True
+Braking System,Handbrake / Parking Brake R56,Generic Handbrake / Parking Brake,SLE-SN20250625-6635,2020-08-18,365.37,CHF,True,True,Mecentley,True,False,False,False,True,True,True,False
+Braking System,Handbrake / Parking Brake H98,Generic Handbrake / Parking Brake,SLE-SN20250625-8763,2023-03-12,1177.63,CHF,True,True,"WV,Nord,BMV,Mecentley",True,True,True,False,True,False,True,False
+Braking System,Brake Calipers T70,Houses the brake pads and pistons.,SLE-SN20250625-7687,2020-08-01,764.98,CHF,False,True,"Nord,Feramborghini,WV,BMV,Mecentley",False,False,True,True,False,False,False,True
+Braking System,Brake Shoes G40,Generic Brake Shoes,SLE-SN20250625-2829,2017-05-17,1906.49,CHF,True,True,"Mecentley,WV,BMV",True,True,True,True,True,True,True,True
+Braking System,Proportioning Valve U64,Generic Proportioning Valve,SLE-SN20250625-7677,2024-12-10,66.23,CHF,True,True,BMV,True,False,True,True,False,False,False,True
+Braking System,Brake Lines G66,Generic Brake Lines,SLE-SN20250625-9808,2024-08-09,1702.81,CHF,False,True,BMV,False,True,False,True,True,False,True,True
+Braking System,Brake Rotors I11,Discs that brake pads clamp onto.,SLE-SN20250625-1273,2015-06-03,1452.41,CHF,True,True,"Feramborghini,Mecentley,WV,BMV",True,True,True,False,True,True,True,True
+Braking System,Brake Pads V11,Press against rotors to slow down the vehicle.,SLE-SN20250625-5031,2017-07-03,1523.52,CHF,True,False,"BMV,WV,Nord,Mecentley,Feramborghini",False,False,False,True,False,True,True,True
+Braking System,Brake Lines C58,Generic Brake Lines,SLE-SN20250625-4235,2025-11-16,1290.57,CHF,False,True,Nord,True,False,True,False,True,True,True,True
+Braking System,Brake Calipers B64,Houses the brake pads and pistons.,SLE-SN20250625-4041,2020-05-20,1144.88,CHF,True,True,"Nord,WV,Feramborghini,Mecentley,BMV",False,True,False,True,False,False,True,False
+Braking System,Brake Calipers M18,Houses the brake pads and pistons.,SLE-SN20250625-4535,2015-08-23,1053.65,CHF,True,False,"Mecentley,WV,Nord",True,True,True,True,True,True,False,True
+Braking System,Brake Lines Y11,Carry brake fluid to braking components.,SLE-SN20250625-5833,2023-02-17,1576.84,CHF,True,True,"Nord,Feramborghini,BMV",True,True,False,False,False,True,True,False
+Braking System,Brake Calipers O50,Generic Brake Calipers,SLE-SN20250625-9190,2018-02-26,1395.14,CHF,False,False,"Feramborghini,BMV,Nord,WV",True,True,False,True,False,True,False,False
+Braking System,Brake Fluid Reservoir F64,Generic Brake Fluid Reservoir,SLE-SN20250625-6674,2021-03-07,1067.95,CHF,True,True,"BMV,Mecentley",False,True,False,True,False,False,True,True
+Braking System,Brake Lines O53,Carry brake fluid to braking components.,SLE-SN20250625-4819,2025-02-14,1284.14,CHF,True,False,"Feramborghini,Nord,BMV,Mecentley",True,True,False,True,False,True,False,True
+Braking System,Performance Brake Pads N98,Designed for high-temperature stopping.,SLE-SN20250625-9578,2021-10-06,1769.83,CHF,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",False,False,True,False,True,False,True,True
+Braking System,Brake Rotors / Discs J4,Generic Brake Rotors / Discs,SLE-SN20250625-2776,2020-06-06,19.91,CHF,True,False,"BMV,Mecentley,Nord",True,True,False,True,False,True,False,True
+Braking System,Brake Calipers H22,Houses the brake pads and pistons.,SLE-SN20250625-4757,2025-08-24,1472.86,CHF,True,True,BMV,True,False,True,False,False,True,True,True
+Braking System,Brake Lines I26,Generic Brake Lines,SLE-SN20250625-8588,2020-11-15,1295.01,CHF,True,True,"WV,BMV",True,True,True,False,True,False,True,True
+Braking System,Brake Pads J98,Generic Brake Pads,SLE-SN20250625-8718,2020-08-28,564.01,CHF,False,False,"BMV,Mecentley,Nord,WV",False,True,True,False,False,True,True,True
+Braking System,Brake Master Cylinder N93,Generic Brake Master Cylinder,SLE-SN20250625-5371,2021-08-31,1226.93,CHF,True,True,"BMV,Feramborghini",True,False,True,False,True,False,True,False
+Braking System,Brake Lines Q80,Generic Brake Lines,SLE-SN20250625-9394,2020-03-31,18.43,CHF,True,False,Mecentley,True,True,True,False,False,True,False,False
+Braking System,ABS Sensors D64,Generic ABS Sensors,SLE-SN20250625-8487,2018-10-13,1626.29,CHF,True,True,"Feramborghini,WV,Mecentley",True,False,False,False,True,True,False,True
+Braking System,Brake Booster G85,Generic Brake Booster,SLE-SN20250625-8729,2016-04-20,230.46,CHF,True,True,"Nord,Feramborghini,Mecentley",True,False,True,False,False,False,False,True
+Braking System,Proportioning Valve W98,Generic Proportioning Valve,SLE-SN20250625-6126,2020-12-08,1998.98,CHF,True,True,"Nord,Feramborghini",True,False,True,True,True,False,False,False
+Braking System,Brake Calipers G84,Generic Brake Calipers,SLE-SN20250625-6192,2023-10-29,297.12,CHF,True,True,"Feramborghini,Mecentley",True,False,False,True,True,False,True,False
+Braking System,Brake Master Cylinder W55,Generic Brake Master Cylinder,SLE-SN20250625-7846,2023-05-16,1244.11,CHF,False,False,"BMV,Mecentley",True,True,False,True,False,True,True,False
+Braking System,Brake Pads C82,Generic Brake Pads,SLE-SN20250625-9895,2018-08-20,978.44,CHF,True,True,"Mecentley,WV,Feramborghini",False,True,True,False,False,True,True,False
+Braking System,Brake Fluid Reservoir Z20,Generic Brake Fluid Reservoir,SLE-SN20250625-2175,2019-02-14,856.26,CHF,False,True,"Feramborghini,BMV,Mecentley",True,True,True,False,True,True,True,True
+Braking System,Brake Calipers Q77,Houses the brake pads and pistons.,SLE-SN20250625-8891,2020-09-03,235.76,CHF,True,True,"Feramborghini,Nord,BMV",True,False,False,False,True,True,True,True
+Braking System,Brake Pedal P88,Generic Brake Pedal,SLE-SN20250625-3383,2025-10-17,500.68,CHF,True,True,"Nord,Mecentley,WV",False,True,False,True,True,False,True,False
+Braking System,Brake Calipers G44,Houses the brake pads and pistons.,SLE-SN20250625-9867,2018-06-27,1937.23,CHF,False,True,"BMV,Mecentley,WV,Nord,Feramborghini",False,True,True,False,True,False,False,True
+Braking System,Brake Booster J88,Generic Brake Booster,SLE-SN20250625-1678,2019-07-05,1235.29,CHF,True,True,BMV,True,False,False,True,True,True,True,True
+Braking System,Handbrake / Parking Brake C97,Generic Handbrake / Parking Brake,SLE-SN20250625-8705,2017-11-02,610.02,CHF,True,True,"WV,Nord",False,True,False,True,False,True,False,True
+Braking System,Big Brake Kit R72,Larger brakes for better stopping power.,SLE-SN20250625-6654,2023-09-14,1698.56,CHF,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",False,True,True,True,True,True,True,True
+Braking System,Big Brake Kit H52,Larger brakes for better stopping power.,SLE-SN20250625-1006,2016-02-05,371.4,CHF,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",False,False,True,True,True,True,True,False
+Braking System,Brake Lines R2,Carry brake fluid to braking components.,SLE-SN20250625-2801,2025-05-15,190.46,CHF,True,True,"Feramborghini,Mecentley,BMV",False,True,True,True,False,False,True,True
+Braking System,Brake Shoes S19,Generic Brake Shoes,SLE-SN20250625-7305,2016-12-04,1829.27,CHF,True,True,"Mecentley,Feramborghini,BMV,WV,Nord",True,False,False,True,True,False,True,True
+Braking System,Performance Brake Pads R11,Designed for high-temperature stopping.,SLE-SN20250625-5771,2022-10-25,1920.37,CHF,False,True,"Mecentley,Nord",False,True,False,False,True,True,True,False
+Braking System,Brake Pads Y46,Generic Brake Pads,SLE-SN20250625-9868,2020-02-26,915.47,CHF,True,True,"Feramborghini,BMV,Mecentley",False,True,True,False,False,True,True,True
+Braking System,Proportioning Valve M56,Generic Proportioning Valve,SLE-SN20250625-7571,2016-10-28,436.97,CHF,True,True,"Nord,WV",False,False,False,False,True,False,True,True
+Braking System,Brake Master Cylinder S72,Generic Brake Master Cylinder,SLE-SN20250625-1758,2021-09-09,1546.4,CHF,True,False,Feramborghini,True,True,True,False,True,True,True,False
+Braking System,Slotted Brake Rotors H9,Improves heat dissipation under hard braking.,SLE-SN20250625-2841,2016-07-13,1587.14,CHF,True,False,"Mecentley,Nord,BMV",True,True,False,True,True,False,True,False
+Braking System,Slotted Brake Rotors H21,Improves heat dissipation under hard braking.,SLE-SN20250625-5638,2015-11-25,1338.33,CHF,True,True,"BMV,Nord",False,True,True,True,True,False,True,False
+Body and Exterior,Trunk X8,Storage compartment at rear of vehicle.,SLE-SN20250625-1217,2022-04-15,403.48,CHF,True,False,"Nord,Mecentley,Feramborghini,WV,BMV",True,False,True,False,True,True,False,True
+Body and Exterior,Fenders F87,Generic Fenders,SLE-SN20250625-9851,2016-05-07,502.75,CHF,True,True,WV,False,True,True,True,True,False,True,True
+Body and Exterior,Windshield Washer Pump Z53,Generic Windshield Washer Pump,SLE-SN20250625-9404,2020-02-09,1244.87,CHF,False,True,"Feramborghini,BMV,Mecentley,WV,Nord",True,False,True,True,False,True,True,True
+Body and Exterior,Doors K98,Allow entry and exit from the vehicle.,SLE-SN20250625-3679,2016-05-03,1026.68,CHF,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",False,False,True,True,True,False,True,True
+Body and Exterior,Trunk J43,Storage compartment at rear of vehicle.,SLE-SN20250625-6023,2016-06-08,1123.9,CHF,True,True,"BMV,Feramborghini,Mecentley",False,True,False,False,True,True,True,True
+Body and Exterior,Windshield Washer Pump X60,Generic Windshield Washer Pump,SLE-SN20250625-7278,2016-06-05,276.04,CHF,True,False,"BMV,WV",False,True,True,False,True,True,False,True
+Body and Exterior,Fenders X55,Generic Fenders,SLE-SN20250625-5964,2015-04-08,1325.22,CHF,True,True,"Feramborghini,Mecentley,BMV",False,True,False,True,True,False,False,False
+Body and Exterior,Windshield I57,Generic Windshield,SLE-SN20250625-5245,2016-11-12,1930.89,CHF,True,True,WV,True,False,False,True,True,False,False,True
+Body and Exterior,Doors V77,Allow entry and exit from the vehicle.,SLE-SN20250625-7063,2023-08-26,1897.46,CHF,True,False,"Feramborghini,WV,Mecentley,Nord,BMV",True,True,True,False,False,True,True,False
+Body and Exterior,Trunk / Boot G34,Generic Trunk / Boot,SLE-SN20250625-1511,2016-04-26,1213.19,CHF,True,True,"Mecentley,Nord,BMV",False,False,False,True,False,True,True,False
+Body and Exterior,Hood / Bonnet O4,Generic Hood / Bonnet,SLE-SN20250625-6127,2022-09-27,626.03,CHF,True,False,"Nord,Mecentley",True,True,False,False,True,True,True,False
+Body and Exterior,Grille Q31,Generic Grille,SLE-SN20250625-6121,2024-09-28,1216.1,CHF,True,True,"Mecentley,Nord",True,True,False,False,True,True,True,False
+Body and Exterior,"Bumpers (Front, Rear) T11","Generic Bumpers (Front, Rear)",SLE-SN20250625-3835,2016-10-19,1962.28,CHF,True,True,WV,True,True,True,False,True,True,True,False
+Body and Exterior,Windshield I32,Generic Windshield,SLE-SN20250625-5161,2020-09-05,1694.17,CHF,True,True,"WV,Mecentley,BMV",True,False,True,True,False,True,True,True
+Body and Exterior,Spoiler P79,Generic Spoiler,SLE-SN20250625-3032,2016-10-01,1093.52,CHF,True,True,"Feramborghini,Mecentley",False,True,False,True,True,False,False,True
+Body and Exterior,Side Mirrors P46,Allow driver to view rear/side traffic.,SLE-SN20250625-9894,2020-05-23,1076.67,CHF,True,True,Nord,True,True,True,False,False,True,True,True
+Body and Exterior,License Plate Holder A33,Generic License Plate Holder,SLE-SN20250625-2308,2016-03-02,1264.27,CHF,False,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,True,False,False,True,False,True,True
+Body and Exterior,License Plate Holder G64,Generic License Plate Holder,SLE-SN20250625-1687,2024-10-22,1526.34,CHF,True,True,"BMV,Feramborghini,Mecentley,Nord",True,True,True,True,False,True,False,True
+Body and Exterior,Hood F39,Covers the engine compartment.,SLE-SN20250625-5847,2015-05-22,1110.0,CHF,True,True,"Nord,Feramborghini",False,False,False,False,False,True,True,True
+Body and Exterior,Side Mirrors Y53,Allow driver to view rear/side traffic.,SLE-SN20250625-6917,2023-08-02,1470.44,CHF,True,False,"Mecentley,Nord,BMV,Feramborghini,WV",True,True,True,True,True,False,False,True
+Body and Exterior,Fenders E78,Generic Fenders,SLE-SN20250625-3579,2022-06-17,1475.09,CHF,True,True,"Mecentley,BMV,Nord",True,False,False,False,True,True,True,True
+Body and Exterior,Hood B50,Covers the engine compartment.,SLE-SN20250625-9925,2016-06-29,345.04,CHF,True,True,"Feramborghini,Nord,BMV",False,True,True,True,True,True,False,False
+Body and Exterior,Windshield I71,Generic Windshield,SLE-SN20250625-8694,2022-11-18,981.55,CHF,True,True,"BMV,Feramborghini,WV,Mecentley",False,True,True,False,True,True,False,True
+Body and Exterior,Windshield B31,Front glass panel for visibility and protection.,SLE-SN20250625-1637,2018-11-29,1839.01,CHF,True,True,"WV,Mecentley,BMV",True,True,True,True,False,True,True,True
+Body and Exterior,Grille P58,Generic Grille,SLE-SN20250625-2572,2025-11-18,918.36,CHF,False,True,"WV,BMV,Mecentley",True,True,False,False,False,True,True,True
+Body and Exterior,Side Windows Q14,Generic Side Windows,SLE-SN20250625-8247,2023-12-15,622.96,CHF,True,True,BMV,False,False,False,True,False,False,True,True
+Body and Exterior,Trunk U19,Storage compartment at rear of vehicle.,SLE-SN20250625-8661,2018-08-04,1158.25,CHF,False,True,"BMV,WV,Feramborghini,Mecentley,Nord",False,True,True,False,False,True,True,False
+Body and Exterior,Side Mirrors X88,Allow driver to view rear/side traffic.,SLE-SN20250625-9667,2025-01-27,1262.44,CHF,True,True,"WV,Feramborghini,Nord",True,False,True,False,True,True,True,True
+Body and Exterior,Rear Window C24,Generic Rear Window,SLE-SN20250625-5315,2017-08-11,493.0,CHF,True,True,"Mecentley,WV,Feramborghini,BMV",True,True,False,True,False,False,False,False
+Body and Exterior,Grille K57,Generic Grille,SLE-SN20250625-9503,2017-09-30,1304.1,CHF,False,True,Feramborghini,True,False,False,True,True,True,True,True
+Body and Exterior,Window Seals X54,Generic Window Seals,SLE-SN20250625-2059,2020-08-01,250.58,CHF,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,False,True,True,True,False,True,True
+Body and Exterior,"Bumpers (Front, Rear) I35","Generic Bumpers (Front, Rear)",SLE-SN20250625-7774,2025-06-22,804.82,CHF,True,True,"BMV,Mecentley,WV,Nord,Feramborghini",True,True,True,True,True,True,True,False
+Body and Exterior,Rear Window Q78,Generic Rear Window,SLE-SN20250625-6952,2016-10-22,633.51,CHF,True,True,"BMV,Feramborghini,Nord",True,True,True,False,True,True,True,True
+Body and Exterior,Windshield L41,Generic Windshield,SLE-SN20250625-5347,2020-02-11,1405.54,CHF,True,True,Mecentley,False,False,False,True,False,True,True,False
+Body and Exterior,License Plate Holder K64,Generic License Plate Holder,SLE-SN20250625-6901,2017-02-06,600.11,CHF,True,False,"WV,Feramborghini",True,False,False,True,True,False,True,True
+Body and Exterior,Wiper Arms P24,Generic Wiper Arms,SLE-SN20250625-4450,2016-09-22,29.08,CHF,True,True,"WV,Mecentley,Nord,Feramborghini",True,False,False,True,False,True,True,True
+Body and Exterior,License Plate Holder P97,Generic License Plate Holder,SLE-SN20250625-8903,2017-07-23,568.43,CHF,False,True,"WV,Nord,Mecentley",False,False,True,True,True,True,True,True
+Body and Exterior,Bumpers Z38,Protects car front and rear from impacts.,SLE-SN20250625-6545,2020-04-15,1332.12,CHF,True,True,"Nord,BMV",True,True,True,False,False,True,True,False
+Body and Exterior,Roof Rack F7,Generic Roof Rack,SLE-SN20250625-6036,2021-01-12,1266.63,CHF,True,True,"Mecentley,BMV,Nord,Feramborghini,WV",False,True,True,True,True,False,False,False
+Body and Exterior,"Bumpers (Front, Rear) S10","Generic Bumpers (Front, Rear)",SLE-SN20250625-3720,2019-05-19,820.23,CHF,False,True,"Nord,WV,Mecentley,Feramborghini,BMV",False,False,True,True,True,True,True,True
+Body and Exterior,Emblems / Badges J98,Generic Emblems / Badges,SLE-SN20250625-2524,2021-06-03,1607.56,CHF,True,False,BMV,True,True,True,False,False,False,True,True
+Body and Exterior,Side Windows O5,Generic Side Windows,SLE-SN20250625-7358,2020-01-29,1744.93,CHF,True,True,"Feramborghini,BMV,Mecentley,WV,Nord",False,True,False,False,True,False,False,True
+Body and Exterior,Windshield R28,Generic Windshield,SLE-SN20250625-6568,2016-01-07,1192.47,CHF,True,False,Mecentley,True,False,False,True,True,True,False,True
+Body and Exterior,Emblems / Badges K93,Generic Emblems / Badges,SLE-SN20250625-2677,2017-05-06,435.62,CHF,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",True,False,False,True,True,True,True,False
+Body and Exterior,Rear Window U99,Generic Rear Window,SLE-SN20250625-6768,2017-06-13,1085.44,CHF,True,True,"Nord,BMV,WV",False,True,True,False,True,False,False,False
+Body and Exterior,Windshield F19,Front glass panel for visibility and protection.,SLE-SN20250625-7496,2020-05-02,1761.26,CHF,True,True,BMV,True,False,False,True,True,True,False,False
+Body and Exterior,Windshield Washer Pump O44,Generic Windshield Washer Pump,SLE-SN20250625-2191,2020-08-06,1080.68,CHF,False,True,"WV,Feramborghini,BMV",False,True,True,True,False,False,True,True
+Body and Exterior,Side Windows C69,Generic Side Windows,SLE-SN20250625-9013,2022-07-30,1888.52,CHF,True,False,"Mecentley,BMV,Feramborghini,Nord,WV",True,False,True,True,True,True,True,True
+Body and Exterior,Side Windows X82,Generic Side Windows,SLE-SN20250625-8448,2019-11-20,1452.79,CHF,True,True,"Feramborghini,WV,Nord,Mecentley",False,False,False,False,False,False,True,False
+Body and Exterior,Hood / Bonnet Z17,Generic Hood / Bonnet,SLE-SN20250625-8277,2018-11-03,1268.76,CHF,True,True,"Nord,BMV",True,True,False,False,True,False,False,True
+Body and Exterior,"Bumpers (Front, Rear) R88","Generic Bumpers (Front, Rear)",SLE-SN20250625-9354,2019-09-29,1768.34,CHF,True,True,Nord,False,True,True,False,True,True,False,True
+Body and Exterior,Windshield I63,Generic Windshield,SLE-SN20250625-4145,2024-10-24,1203.42,CHF,True,True,"Mecentley,BMV,Nord,WV,Feramborghini",True,True,True,False,True,True,True,True
+Body and Exterior,Doors X1,Generic Doors,SLE-SN20250625-4350,2025-02-07,1198.22,CHF,False,True,"WV,Nord,Feramborghini",False,False,False,False,True,True,False,True
+Body and Exterior,Fenders Y3,Generic Fenders,SLE-SN20250625-8014,2016-12-28,471.96,CHF,True,True,"Feramborghini,Nord,BMV,Mecentley,WV",False,True,False,True,True,True,True,False
+Body and Exterior,Doors I34,Generic Doors,SLE-SN20250625-8637,2022-08-16,1162.36,CHF,True,True,Nord,True,True,True,False,True,False,False,True
+Body and Exterior,Side Mirrors E74,Allow driver to view rear/side traffic.,SLE-SN20250625-6658,2015-12-01,837.56,CHF,False,True,"Nord,Mecentley,Feramborghini,BMV",True,True,True,False,False,True,False,True
+Body and Exterior,Side Mirrors H95,Generic Side Mirrors,SLE-SN20250625-8068,2015-09-13,1489.08,CHF,True,False,"Mecentley,WV",False,False,False,False,False,True,False,False
+Body and Exterior,Bumpers V13,Protects car front and rear from impacts.,SLE-SN20250625-7968,2015-10-22,1873.15,CHF,True,True,"Feramborghini,Nord,Mecentley,BMV",True,True,True,True,False,True,True,True
+Body and Exterior,License Plate Holder P38,Generic License Plate Holder,SLE-SN20250625-6771,2016-07-14,1901.8,CHF,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",True,False,False,True,True,True,False,False
+Body and Exterior,Fenders C88,Generic Fenders,SLE-SN20250625-5035,2022-08-22,203.11,CHF,True,True,"Nord,Feramborghini,Mecentley",False,True,True,False,True,True,True,True
+Body and Exterior,Antenna D74,Generic Antenna,SLE-SN20250625-4206,2015-09-30,931.81,CHF,True,True,"BMV,Feramborghini,WV",True,True,True,False,True,False,False,True
+Body and Exterior,"Bumpers (Front, Rear) J49","Generic Bumpers (Front, Rear)",SLE-SN20250625-1744,2018-05-07,462.56,CHF,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,False,False,True,True,True,True,True
+Body and Exterior,Bumpers Z24,Protects car front and rear from impacts.,SLE-SN20250625-5051,2015-10-15,1972.32,CHF,True,True,"Feramborghini,WV",True,True,False,True,False,True,False,True
+Body and Exterior,Fenders H26,Generic Fenders,SLE-SN20250625-7014,2020-05-13,1003.76,CHF,True,True,"Nord,BMV",True,True,True,True,True,True,True,False
+Body and Exterior,Spoiler M18,Generic Spoiler,SLE-SN20250625-4622,2021-11-12,425.92,CHF,True,False,Feramborghini,False,True,False,False,False,True,True,False
+Body and Exterior,Doors A20,Allow entry and exit from the vehicle.,SLE-SN20250625-7250,2021-06-03,14.99,CHF,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,True,True,False,True,True,False,False
+Body and Exterior,Hood / Bonnet N97,Generic Hood / Bonnet,SLE-SN20250625-5869,2024-07-11,930.46,CHF,True,True,BMV,False,False,True,False,True,False,False,True
+Body and Exterior,Antenna X34,Generic Antenna,SLE-SN20250625-8268,2023-01-25,742.78,CHF,True,True,"BMV,Feramborghini,Nord",False,True,False,False,False,True,False,True
+Body and Exterior,Doors Y44,Generic Doors,SLE-SN20250625-5279,2015-12-03,1732.46,CHF,True,True,Nord,True,True,False,True,False,False,True,True
+Body and Exterior,Trunk / Boot Q72,Generic Trunk / Boot,SLE-SN20250625-2760,2024-06-04,1043.86,CHF,True,True,"WV,Mecentley,Nord,Feramborghini",False,True,True,False,True,True,True,True
+Body and Exterior,Doors J97,Allow entry and exit from the vehicle.,SLE-SN20250625-8817,2022-08-18,193.01,CHF,True,True,"WV,Nord,BMV",True,True,False,True,False,True,True,False
+Body and Exterior,Antenna T50,Generic Antenna,SLE-SN20250625-8138,2024-08-04,1715.55,CHF,True,True,"WV,Nord",True,False,True,True,False,True,True,False
+Body and Exterior,Side Mirrors U38,Allow driver to view rear/side traffic.,SLE-SN20250625-1973,2025-08-08,1629.2,CHF,True,True,Mecentley,True,False,True,True,False,False,False,False
+Body and Exterior,Side Mirrors Q84,Generic Side Mirrors,SLE-SN20250625-2429,2022-06-21,1014.55,CHF,True,True,BMV,True,True,True,False,True,False,True,False
+Body and Exterior,Wiper Arms S62,Generic Wiper Arms,SLE-SN20250625-5550,2016-10-05,1467.84,CHF,True,True,"Feramborghini,Mecentley,WV,BMV",True,True,True,False,False,True,False,True
+Body and Exterior,Side Mirrors J4,Generic Side Mirrors,SLE-SN20250625-9358,2025-12-20,102.3,CHF,True,False,"Mecentley,Feramborghini,BMV,WV,Nord",True,False,True,False,True,True,True,False
+Body and Exterior,Hood / Bonnet Z25,Generic Hood / Bonnet,SLE-SN20250625-9745,2021-10-23,1718.27,CHF,True,False,"Feramborghini,WV,BMV,Mecentley,Nord",False,True,True,True,True,False,True,False
+Body and Exterior,Fenders Z24,Generic Fenders,SLE-SN20250625-2680,2015-09-30,496.88,CHF,True,True,WV,True,False,True,True,False,True,True,True
+Body and Exterior,Doors I85,Generic Doors,SLE-SN20250625-8558,2017-04-23,1696.81,CHF,False,False,"Feramborghini,BMV",True,False,True,True,True,True,False,True
+Body and Exterior,"Bumpers (Front, Rear) V63","Generic Bumpers (Front, Rear)",SLE-SN20250625-7677,2019-05-06,1736.72,CHF,True,True,"BMV,Feramborghini",False,True,False,False,False,True,True,False
+Body and Exterior,Windshield E80,Front glass panel for visibility and protection.,SLE-SN20250625-1173,2020-10-10,395.93,CHF,True,True,"Mecentley,Feramborghini,Nord,WV",True,True,True,False,True,False,True,True
+Body and Exterior,Side Mirrors O48,Allow driver to view rear/side traffic.,SLE-SN20250625-6255,2024-06-21,1338.42,CHF,True,False,Nord,True,True,True,True,False,True,True,False
+Body and Exterior,Window Seals D41,Generic Window Seals,SLE-SN20250625-4529,2025-04-10,854.4,CHF,True,True,Feramborghini,False,True,False,True,True,True,True,False
+Body and Exterior,Fenders M40,Generic Fenders,SLE-SN20250625-9933,2024-11-06,805.51,CHF,False,True,"Feramborghini,WV,Nord,Mecentley",True,True,True,True,False,False,False,False
+Body and Exterior,Bumpers W23,Protects car front and rear from impacts.,SLE-SN20250625-8340,2016-12-20,305.85,CHF,True,True,Feramborghini,True,False,True,True,False,True,True,False
+Body and Exterior,License Plate Holder V62,Generic License Plate Holder,SLE-SN20250625-6194,2024-02-17,1240.24,CHF,True,True,"Mecentley,WV,BMV",True,True,False,True,True,True,False,True
+Body and Exterior,Doors A57,Allow entry and exit from the vehicle.,SLE-SN20250625-6791,2017-12-16,1391.58,CHF,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,True,True,False,False,True,False,False
+Body and Exterior,Emblems / Badges B33,Generic Emblems / Badges,SLE-SN20250625-9522,2024-12-30,1717.08,CHF,True,True,Mecentley,True,True,True,True,False,False,False,True
+Body and Exterior,Side Mirrors W84,Generic Side Mirrors,SLE-SN20250625-2540,2025-09-26,1565.07,CHF,True,True,Nord,True,True,True,False,True,False,True,True
+Body and Exterior,Window Seals Q50,Generic Window Seals,SLE-SN20250625-4436,2016-03-18,1862.66,CHF,True,True,Nord,False,True,False,False,True,False,True,False
+Body and Exterior,Windshield X72,Generic Windshield,SLE-SN20250625-7566,2024-07-08,482.39,CHF,True,True,"WV,Nord,Feramborghini,Mecentley",True,True,False,True,True,True,True,False
+Body and Exterior,Grille B40,Generic Grille,SLE-SN20250625-4022,2017-10-26,386.97,CHF,True,False,"WV,Nord,Mecentley",True,True,True,False,True,False,False,True
+Body and Exterior,Hood U28,Covers the engine compartment.,SLE-SN20250625-9973,2018-06-18,705.15,CHF,True,True,"Nord,Feramborghini",True,True,True,True,True,False,False,True
+Body and Exterior,License Plate Holder N42,Generic License Plate Holder,SLE-SN20250625-1465,2023-06-07,1141.66,CHF,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,True,False,True,True,True,True,True
+Body and Exterior,Fenders C78,Generic Fenders,SLE-SN20250625-9624,2018-09-01,424.42,CHF,True,True,"Nord,WV,BMV,Feramborghini",True,True,True,True,True,True,False,True
+Body and Exterior,Window Seals Q43,Generic Window Seals,SLE-SN20250625-2196,2024-10-19,1917.09,CHF,True,True,"WV,Nord",True,True,True,True,True,True,True,True
+Body and Exterior,Trunk / Boot M53,Generic Trunk / Boot,SLE-SN20250625-8303,2025-05-22,755.54,CHF,True,False,BMV,False,True,True,True,True,False,False,True
+Body and Exterior,Window Seals Z81,Generic Window Seals,SLE-SN20250625-1396,2024-02-08,992.79,CHF,False,True,"WV,Mecentley,Feramborghini",False,True,True,True,False,True,False,True
+Body and Exterior,Windshield K66,Generic Windshield,SLE-SN20250625-1236,2025-03-01,82.23,CHF,False,True,"WV,Mecentley",True,True,True,True,False,True,True,True
+Body and Exterior,Wiper Arms Z65,Generic Wiper Arms,SLE-SN20250625-3934,2023-10-07,105.68,CHF,True,True,Mecentley,True,True,True,True,True,True,True,True
+Body and Exterior,Antenna N40,Generic Antenna,SLE-SN20250625-4468,2023-03-16,1662.59,CHF,False,True,Nord,False,False,True,True,False,True,True,True
+Body and Exterior,Windshield Washer Pump M44,Generic Windshield Washer Pump,SLE-SN20250625-1881,2023-10-19,1031.55,CHF,False,True,Mecentley,True,False,True,True,False,True,True,False
+Body and Exterior,Hood / Bonnet V3,Generic Hood / Bonnet,SLE-SN20250625-3954,2019-09-20,1494.63,CHF,True,False,"Nord,Feramborghini,WV",True,True,False,False,False,True,False,False
+Body and Exterior,"Bumpers (Front, Rear) E2","Generic Bumpers (Front, Rear)",SLE-SN20250625-8886,2021-06-26,27.54,CHF,True,False,"Mecentley,Nord,Feramborghini,BMV,WV",True,True,True,False,True,False,True,True
+Body and Exterior,Windshield F61,Generic Windshield,SLE-SN20250625-3158,2017-11-23,1237.44,CHF,False,True,"Mecentley,Nord,Feramborghini",False,True,True,True,False,False,True,False
+Body and Exterior,Windshield J43,Front glass panel for visibility and protection.,SLE-SN20250625-4023,2018-11-22,1929.56,CHF,True,True,"Mecentley,Nord,Feramborghini",False,True,False,True,False,True,False,True
+Body and Exterior,Antenna Q64,Generic Antenna,SLE-SN20250625-3933,2024-05-01,1647.81,CHF,False,True,"Nord,WV,Mecentley",False,True,False,True,True,True,True,True
+Body and Exterior,Rear Window K99,Generic Rear Window,SLE-SN20250625-6085,2020-01-21,882.11,CHF,True,True,"Feramborghini,BMV,Mecentley,WV",False,True,False,False,False,True,True,True
+Body and Exterior,Antenna F78,Generic Antenna,SLE-SN20250625-7045,2019-12-18,575.21,CHF,True,True,"Nord,WV,Mecentley,BMV",True,True,True,True,False,True,False,True
+Body and Exterior,Doors J86,Generic Doors,SLE-SN20250625-6230,2023-02-27,1275.55,CHF,True,True,"Nord,BMV,Feramborghini,WV",False,False,False,True,False,False,False,False
+Body and Exterior,Rear Window D36,Generic Rear Window,SLE-SN20250625-2039,2015-06-28,820.03,CHF,True,False,"BMV,Mecentley",True,True,False,True,False,True,False,True
+Body and Exterior,Spoiler S80,Generic Spoiler,SLE-SN20250625-9366,2023-05-01,372.24,CHF,False,True,"WV,BMV,Nord,Mecentley,Feramborghini",False,False,True,True,True,False,False,False
+Body and Exterior,Side Mirrors D6,Allow driver to view rear/side traffic.,SLE-SN20250625-9726,2023-02-10,886.82,CHF,False,True,"Nord,BMV,Feramborghini",True,True,True,True,False,True,False,True
+Body and Exterior,Spoiler Q60,Generic Spoiler,SLE-SN20250625-6604,2023-04-20,446.83,CHF,True,True,"WV,Feramborghini,Mecentley,Nord,BMV",True,True,False,True,True,True,True,False
+Body and Exterior,Roof Rack S74,Generic Roof Rack,SLE-SN20250625-6780,2019-12-10,301.29,CHF,True,True,"BMV,Mecentley,Feramborghini,Nord",False,False,True,True,True,True,False,False
+Body and Exterior,Windshield E2,Generic Windshield,SLE-SN20250625-7975,2022-09-03,1700.99,CHF,True,True,BMV,True,True,True,False,False,False,True,False
+Body and Exterior,Doors N55,Allow entry and exit from the vehicle.,SLE-SN20250625-9820,2017-03-01,1572.58,CHF,True,True,"Nord,Feramborghini,WV",False,True,True,False,False,True,False,False
+Body and Exterior,Wiper Arms C66,Generic Wiper Arms,SLE-SN20250625-8617,2015-12-07,163.99,CHF,True,False,Nord,True,False,False,True,False,True,False,True
+Body and Exterior,License Plate Holder G72,Generic License Plate Holder,SLE-SN20250625-9588,2024-10-24,148.34,CHF,False,True,"Feramborghini,Mecentley,Nord,BMV",False,True,True,True,True,True,True,True
+Body and Exterior,Spoiler Q43,Generic Spoiler,SLE-SN20250625-9135,2016-02-13,95.03,CHF,True,True,"Mecentley,BMV,Nord,Feramborghini",True,True,True,True,False,False,True,True
+Body and Exterior,Wiper Arms Q79,Generic Wiper Arms,SLE-SN20250625-6678,2018-04-17,1662.21,CHF,True,True,"Nord,BMV,Feramborghini",True,True,False,True,True,True,False,True
+Body and Exterior,Roof Rack D37,Generic Roof Rack,SLE-SN20250625-5509,2020-01-23,640.43,CHF,True,True,Mecentley,True,True,True,False,True,False,True,False
+Cooling & HVAC System,Thermostat V35,Regulates engine coolant temperature.,SLE-SN20250625-2511,2017-04-25,290.4,CHF,False,True,"Feramborghini,Mecentley,WV,Nord",False,True,True,True,True,True,False,False
+Cooling & HVAC System,Heater Core R68,Heats cabin air using engine coolant.,SLE-SN20250625-4022,2021-12-15,565.04,CHF,True,True,"Mecentley,Nord,WV",False,True,True,False,True,False,True,True
+Cooling & HVAC System,Radiator Cap T34,Generic Radiator Cap,SLE-SN20250625-2595,2018-03-10,1953.06,CHF,True,True,"Nord,BMV",True,True,False,False,True,True,False,True
+Cooling & HVAC System,Thermostat E38,Regulates engine coolant temperature.,SLE-SN20250625-4525,2020-01-04,1034.62,CHF,True,False,"Mecentley,BMV,Nord,Feramborghini",True,True,False,False,True,True,True,True
+Cooling & HVAC System,Heater Core C69,Generic Heater Core,SLE-SN20250625-7931,2020-07-27,1251.93,CHF,True,True,"BMV,Feramborghini,Mecentley",False,True,False,False,True,True,True,True
+Cooling & HVAC System,Radiator Cap Q22,Generic Radiator Cap,SLE-SN20250625-4295,2025-08-30,630.53,CHF,True,True,WV,True,False,True,False,True,False,False,True
+Cooling & HVAC System,A/C Compressor O54,Generic A/C Compressor,SLE-SN20250625-4571,2023-10-07,555.72,CHF,True,False,"Mecentley,Nord,BMV,Feramborghini",True,True,True,True,True,False,False,False
+Cooling & HVAC System,A/C Compressor A57,Compresses refrigerant for air conditioning.,SLE-SN20250625-5664,2025-08-09,898.02,CHF,True,True,Nord,True,False,True,True,True,False,False,True
+Cooling & HVAC System,A/C Compressor K96,Compresses refrigerant for air conditioning.,SLE-SN20250625-8949,2024-03-04,622.36,CHF,True,True,"Feramborghini,WV,Mecentley,BMV,Nord",True,False,True,True,True,True,True,True
+Cooling & HVAC System,Water Pump P50,Generic Water Pump,SLE-SN20250625-4402,2019-04-02,1051.52,CHF,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,True,False,False,True,False,False,True
+Cooling & HVAC System,Radiator U36,Dissipates heat from engine coolant.,SLE-SN20250625-2638,2015-06-17,1853.3,CHF,False,True,"WV,Feramborghini,BMV,Mecentley,Nord",True,False,True,True,False,True,True,False
+Cooling & HVAC System,A/C Condenser A1,Releases heat from compressed refrigerant.,SLE-SN20250625-2751,2019-09-20,1119.25,CHF,False,True,"BMV,Nord,WV,Feramborghini,Mecentley",False,True,True,False,False,True,True,False
+Cooling & HVAC System,A/C Dryer V60,Removes moisture from refrigerant.,SLE-SN20250625-9576,2017-08-16,1823.35,CHF,True,True,"Nord,WV,Feramborghini,Mecentley,BMV",False,True,True,False,True,True,False,True
+Cooling & HVAC System,A/C Lines M66,Transport refrigerant.,SLE-SN20250625-6802,2022-11-14,114.42,CHF,True,True,Nord,True,True,False,False,True,True,False,True
+Cooling & HVAC System,Radiator W99,Dissipates heat from engine coolant.,SLE-SN20250625-9769,2022-09-07,328.25,CHF,True,True,"Nord,BMV,WV",False,True,True,True,False,False,False,False
+Cooling & HVAC System,Expansion Valve F51,Controls refrigerant flow.,SLE-SN20250625-9834,2023-02-11,454.6,CHF,False,True,"Nord,Mecentley,Feramborghini,BMV,WV",True,True,True,True,False,False,False,True
+Cooling & HVAC System,Fan Clutch U71,Engages fan as needed.,SLE-SN20250625-8907,2015-07-17,1878.81,CHF,True,True,"Feramborghini,Mecentley,Nord",True,False,False,True,True,False,True,True
+Cooling & HVAC System,Heater Core M62,Generic Heater Core,SLE-SN20250625-5848,2022-11-12,921.95,CHF,False,True,"Nord,WV",False,True,True,True,True,False,True,True
+Cooling & HVAC System,Heater Blower Motor G51,Drives air through HVAC system.,SLE-SN20250625-6518,2019-11-22,1626.34,CHF,True,True,"Feramborghini,BMV,WV",True,True,True,True,True,True,True,True
+Cooling & HVAC System,Thermostat Housing K62,Generic Thermostat Housing,SLE-SN20250625-1278,2025-07-13,1835.92,CHF,True,True,"BMV,WV,Mecentley,Nord,Feramborghini",True,False,False,True,False,False,False,False
+Cooling & HVAC System,A/C Dryer R76,Removes moisture from refrigerant.,SLE-SN20250625-2632,2019-10-12,1167.21,CHF,True,False,Mecentley,True,True,True,True,True,False,False,False
+Cooling & HVAC System,Cabin Air Filter S10,Filters air inside the car.,SLE-SN20250625-2317,2023-05-04,381.94,CHF,True,True,"BMV,WV,Feramborghini",True,False,False,False,False,True,True,True
+Cooling & HVAC System,A/C Compressor V27,Compresses refrigerant for air conditioning.,SLE-SN20250625-8212,2022-03-28,460.36,CHF,True,True,"BMV,Nord,Feramborghini,WV,Mecentley",False,True,True,False,True,False,False,True
+Cooling & HVAC System,Cooling Fan M64,Generic Cooling Fan,SLE-SN20250625-4442,2025-10-08,1151.19,CHF,True,True,"Nord,Mecentley,WV,BMV,Feramborghini",False,True,True,False,True,False,True,True
+Cooling & HVAC System,Heater Core T23,Generic Heater Core,SLE-SN20250625-8915,2019-04-17,1908.77,CHF,True,True,"Nord,WV,Mecentley",False,True,False,True,True,False,False,True
+Cooling & HVAC System,Radiator Hoses F44,Generic Radiator Hoses,SLE-SN20250625-2920,2021-05-04,569.78,CHF,True,False,"Mecentley,BMV,Nord,WV",False,True,True,True,True,False,True,True
+Cooling & HVAC System,A/C Lines Y94,Generic A/C Lines,SLE-SN20250625-3079,2017-05-18,507.85,CHF,True,True,"Nord,WV,Mecentley",False,True,False,False,True,True,False,False
+Cooling & HVAC System,Thermostat U11,Regulates engine coolant temperature.,SLE-SN20250625-5157,2018-03-24,216.67,CHF,True,True,"WV,Mecentley,Nord,Feramborghini",True,True,False,True,False,True,True,True
+Cooling & HVAC System,Radiator Cap G52,Generic Radiator Cap,SLE-SN20250625-8041,2020-03-12,559.6,CHF,True,True,"Nord,BMV,Mecentley",True,False,False,True,True,False,True,True
+Cooling & HVAC System,Radiator Hoses T9,Generic Radiator Hoses,SLE-SN20250625-4347,2018-04-09,1028.26,CHF,True,True,"Mecentley,Feramborghini,BMV,WV,Nord",True,False,True,True,False,True,True,False
+Cooling & HVAC System,Heater Core M10,Generic Heater Core,SLE-SN20250625-4985,2022-10-15,1571.92,CHF,False,True,"WV,Mecentley,Feramborghini",True,False,False,False,False,False,False,True
+Cooling & HVAC System,Thermostat B37,Regulates engine coolant temperature.,SLE-SN20250625-6245,2025-05-08,1207.69,CHF,True,False,"Nord,Feramborghini,BMV",True,True,False,False,False,True,False,False
+Cooling & HVAC System,A/C Dryer D49,Removes moisture from refrigerant.,SLE-SN20250625-6904,2016-05-14,1608.03,CHF,True,False,"BMV,Mecentley,Feramborghini",True,False,True,True,False,True,True,False
+Cooling & HVAC System,Radiator Cap P11,Seals radiator and maintains pressure.,SLE-SN20250625-1934,2020-12-20,1555.01,CHF,False,True,"Nord,Mecentley",True,True,True,True,False,False,True,True
+Cooling & HVAC System,Cabin Air Filter Q64,Generic Cabin Air Filter,SLE-SN20250625-6494,2022-12-23,1592.4,CHF,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",True,True,True,True,False,True,True,False
+Cooling & HVAC System,Fan Clutch Z53,Engages fan as needed.,SLE-SN20250625-7651,2018-02-26,1354.97,CHF,True,False,"Nord,BMV,WV",True,True,True,True,True,False,True,False
+Cooling & HVAC System,Fan Clutch S39,Engages fan as needed.,SLE-SN20250625-3612,2019-03-27,178.45,CHF,True,False,"BMV,Feramborghini,WV,Nord,Mecentley",True,False,False,False,True,False,True,True
+Cooling & HVAC System,Fan Clutch Y52,Generic Fan Clutch,SLE-SN20250625-1981,2022-11-22,778.78,CHF,False,True,"WV,BMV,Mecentley,Feramborghini,Nord",True,True,True,False,False,False,True,True
+Cooling & HVAC System,A/C Compressor V75,Compresses refrigerant for air conditioning.,SLE-SN20250625-4880,2023-02-15,702.74,CHF,True,True,"Nord,Mecentley,WV,BMV",False,True,False,False,True,False,True,True
+Cooling & HVAC System,A/C Compressor Q54,Compresses refrigerant for air conditioning.,SLE-SN20250625-8023,2025-06-06,1682.45,CHF,True,True,"Mecentley,Feramborghini,WV,Nord",False,False,True,True,False,True,False,True
+Cooling & HVAC System,Fan Clutch T24,Engages fan as needed.,SLE-SN20250625-3509,2023-09-01,1012.48,CHF,True,False,"WV,Nord",True,True,True,True,True,True,True,True
+Cooling & HVAC System,Radiator Cap H75,Seals radiator and maintains pressure.,SLE-SN20250625-4891,2025-07-18,1013.36,CHF,True,False,BMV,False,True,True,True,False,False,False,True
+Cooling & HVAC System,Heater Blower Motor V13,Generic Heater Blower Motor,SLE-SN20250625-3243,2019-12-30,1443.47,CHF,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",False,False,True,True,False,True,True,True
+Cooling & HVAC System,Cabin Air Filter J27,Generic Cabin Air Filter,SLE-SN20250625-5478,2024-03-21,933.39,CHF,True,True,WV,False,True,False,False,False,True,False,True
+Cooling & HVAC System,Expansion Valve O24,Controls refrigerant flow.,SLE-SN20250625-8144,2020-10-11,411.7,CHF,True,True,"Mecentley,Feramborghini,BMV,Nord",True,True,True,True,True,False,True,True
+Cooling & HVAC System,A/C Compressor S86,Compresses refrigerant for air conditioning.,SLE-SN20250625-7890,2020-12-01,1272.1,CHF,True,True,WV,True,False,False,False,False,True,True,True
+Cooling & HVAC System,Thermostat Housing B68,Encases the thermostat.,SLE-SN20250625-8121,2024-10-04,1201.48,CHF,True,True,"Mecentley,WV,Nord,Feramborghini",True,False,False,True,True,True,True,True
+Cooling & HVAC System,Radiator Hoses S5,Carry coolant to and from radiator.,SLE-SN20250625-7444,2017-04-28,1925.48,CHF,True,True,Feramborghini,True,False,False,True,True,True,True,False
+Cooling & HVAC System,Thermostat Housing A35,Generic Thermostat Housing,SLE-SN20250625-9853,2019-10-14,1246.35,CHF,True,False,"BMV,WV,Feramborghini",False,True,True,True,True,False,False,True
+Cooling & HVAC System,Thermostat Housing S25,Encases the thermostat.,SLE-SN20250625-9483,2019-08-01,1231.11,CHF,False,True,"WV,Feramborghini,Nord,Mecentley",True,False,False,False,False,True,False,False
+Cooling & HVAC System,A/C Lines E86,Generic A/C Lines,SLE-SN20250625-2329,2016-10-22,976.72,CHF,False,True,"BMV,Feramborghini,WV",False,True,True,False,True,True,True,True
+Cooling & HVAC System,Thermostat V35,Regulates engine coolant temperature.,SLE-SN20250625-6741,2024-02-08,404.51,CHF,True,True,"Mecentley,Feramborghini,WV,Nord,BMV",True,False,True,False,False,False,False,True
+Cooling & HVAC System,Heater Blower Motor L78,Generic Heater Blower Motor,SLE-SN20250625-5394,2024-04-21,1639.24,CHF,True,True,"Mecentley,WV",False,True,False,True,True,True,True,True
+Cooling & HVAC System,A/C Dryer G82,Removes moisture from refrigerant.,SLE-SN20250625-7855,2023-10-24,1201.63,CHF,True,True,"WV,BMV",False,True,False,False,True,True,True,True
+Cooling & HVAC System,Heater Core J76,Generic Heater Core,SLE-SN20250625-3465,2021-06-24,553.4,CHF,True,True,"Mecentley,BMV",True,False,False,True,True,True,True,True
+Cooling & HVAC System,Radiator Cap P27,Generic Radiator Cap,SLE-SN20250625-3739,2019-01-12,1095.67,CHF,True,True,"Nord,WV,Mecentley",False,False,False,True,False,False,True,True
+Cooling & HVAC System,A/C Condenser F68,Releases heat from compressed refrigerant.,SLE-SN20250625-3764,2019-06-11,140.47,CHF,True,True,"Mecentley,Nord,WV,BMV,Feramborghini",True,True,False,True,False,True,True,True
+Cooling & HVAC System,A/C Compressor O78,Compresses refrigerant for air conditioning.,SLE-SN20250625-9790,2021-05-19,1403.68,CHF,False,True,"Mecentley,Feramborghini,BMV",True,False,False,False,False,True,False,True
+Cooling & HVAC System,Radiator C42,Dissipates heat from engine coolant.,SLE-SN20250625-4381,2016-03-25,1338.37,CHF,False,True,WV,True,True,False,True,False,False,True,True
+Cooling & HVAC System,Water Pump M34,Circulates coolant through engine.,SLE-SN20250625-8352,2023-08-12,650.54,CHF,False,True,Nord,True,False,True,False,True,False,True,False
+Cooling & HVAC System,Heater Core W3,Heats cabin air using coolant.,SLE-SN20250625-4822,2016-09-21,1801.88,CHF,True,False,"Feramborghini,Nord,Mecentley,WV",True,True,False,True,True,True,False,False
+Cooling & HVAC System,Fan Clutch N85,Engages fan as needed.,SLE-SN20250625-7289,2017-11-05,1765.69,CHF,True,True,"BMV,Nord",True,False,False,True,False,True,False,True
+Cooling & HVAC System,A/C Condenser Q42,Generic A/C Condenser,SLE-SN20250625-7216,2021-03-13,1854.38,CHF,False,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,False,True,True,False,False,True,True
+Cooling & HVAC System,A/C Compressor J52,Compresses refrigerant for air conditioning.,SLE-SN20250625-8821,2018-03-02,785.64,CHF,True,True,"Feramborghini,BMV,Nord,Mecentley",False,True,True,False,False,False,False,True
+Cooling & HVAC System,Expansion Valve K64,Generic Expansion Valve,SLE-SN20250625-4178,2016-08-24,1874.05,CHF,False,False,"WV,BMV,Nord,Feramborghini,Mecentley",True,True,True,True,True,True,True,False
+Cooling & HVAC System,A/C Compressor P86,Compresses refrigerant for air conditioning.,SLE-SN20250625-1035,2021-02-14,379.17,CHF,True,True,BMV,True,True,True,False,True,True,False,False
+Cooling & HVAC System,Fan Clutch U36,Engages fan as needed.,SLE-SN20250625-8683,2022-12-03,1992.62,CHF,True,True,"Nord,Feramborghini,Mecentley",False,True,True,False,True,False,True,True
+Cooling & HVAC System,Water Pump A57,Circulates coolant through engine.,SLE-SN20250625-8830,2024-08-19,603.09,CHF,False,True,WV,False,True,False,True,False,True,False,True
+Cooling & HVAC System,A/C Condenser Z58,Releases heat from compressed refrigerant.,SLE-SN20250625-6108,2024-06-04,1207.8,CHF,True,False,"Feramborghini,BMV,WV,Mecentley",True,True,True,True,True,True,False,True
+Cooling & HVAC System,Fan Clutch T82,Engages fan as needed.,SLE-SN20250625-9951,2015-05-01,1313.12,CHF,True,True,"BMV,Mecentley",False,False,True,True,False,True,True,False
+Cooling & HVAC System,Thermostat A34,Regulates engine coolant temperature.,SLE-SN20250625-4130,2023-12-13,970.86,CHF,True,True,"Nord,BMV,WV",True,True,False,True,True,False,True,True
+Cooling & HVAC System,Water Pump L45,Circulates coolant through engine.,SLE-SN20250625-1070,2025-06-01,462.67,CHF,True,True,Feramborghini,True,False,True,True,False,True,True,True
+Cooling & HVAC System,A/C Lines X98,Generic A/C Lines,SLE-SN20250625-5479,2021-06-03,535.12,CHF,False,True,"Nord,Mecentley,BMV,WV,Feramborghini",True,True,False,True,False,True,True,False
+Cooling & HVAC System,A/C Dryer Y94,Removes moisture from refrigerant.,SLE-SN20250625-5733,2025-08-01,1267.73,CHF,False,True,"BMV,Feramborghini,WV,Mecentley,Nord",True,False,True,True,True,False,True,True
+Cooling & HVAC System,Expansion Valve C33,Generic Expansion Valve,SLE-SN20250625-4608,2018-08-21,1730.77,CHF,False,True,"Feramborghini,BMV,Mecentley,WV,Nord",True,True,True,True,False,True,True,True
+Cooling & HVAC System,Expansion Valve T12,Generic Expansion Valve,SLE-SN20250625-9794,2018-11-01,1918.66,CHF,True,True,"Feramborghini,WV,BMV,Mecentley",False,True,False,False,True,False,True,True
+Cooling & HVAC System,Radiator Cap M36,Seals radiator and maintains pressure.,SLE-SN20250625-6655,2024-10-23,44.64,CHF,True,True,"Nord,Feramborghini,WV,Mecentley",True,False,True,False,True,False,False,True
+Cooling & HVAC System,Radiator U15,Generic Radiator,SLE-SN20250625-7984,2023-01-23,1061.58,CHF,True,False,"Mecentley,Feramborghini,WV,BMV",True,False,True,True,False,False,False,False
+Cooling & HVAC System,A/C Condenser R48,Releases heat from compressed refrigerant.,SLE-SN20250625-5661,2022-01-07,1036.29,CHF,True,True,Feramborghini,False,True,True,False,False,False,True,True
+Cooling & HVAC System,Radiator R76,Dissipates heat from engine coolant.,SLE-SN20250625-9037,2021-09-11,134.37,CHF,True,True,"Feramborghini,Mecentley,WV",True,True,True,True,True,False,False,True
+Cooling & HVAC System,Cooling Fan V82,Assists in radiator cooling.,SLE-SN20250625-7794,2015-04-22,1182.43,CHF,True,True,"WV,Feramborghini,BMV,Nord",True,False,True,False,False,True,True,False
+Cooling & HVAC System,Cooling Fan D80,Assists in radiator cooling.,SLE-SN20250625-4197,2023-05-12,1141.72,CHF,True,True,"Nord,BMV,WV,Mecentley,Feramborghini",True,False,True,True,False,True,False,True
+Cooling & HVAC System,A/C Condenser J57,Generic A/C Condenser,SLE-SN20250625-2918,2022-02-17,1117.55,CHF,True,True,"Nord,Feramborghini,WV",True,True,True,False,False,True,True,False
+Cooling & HVAC System,Fan Clutch R17,Engages fan as needed.,SLE-SN20250625-7331,2018-11-05,362.96,CHF,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",False,False,False,False,False,True,True,False
+Cooling & HVAC System,Cabin Air Filter W83,Generic Cabin Air Filter,SLE-SN20250625-1265,2016-07-02,444.46,CHF,True,True,"Mecentley,BMV",True,True,True,False,True,False,False,False
+Cooling & HVAC System,A/C Condenser K72,Generic A/C Condenser,SLE-SN20250625-4996,2024-01-23,1909.4,CHF,True,False,BMV,False,False,True,False,False,True,True,False
+Cooling & HVAC System,A/C Compressor Q94,Generic A/C Compressor,SLE-SN20250625-1573,2024-09-30,1587.89,CHF,True,True,"BMV,Feramborghini,Mecentley",False,True,True,True,True,True,True,True
+Cooling & HVAC System,A/C Compressor M98,Generic A/C Compressor,SLE-SN20250625-5151,2025-10-11,1597.26,CHF,False,True,"Mecentley,BMV,WV,Nord,Feramborghini",True,True,True,True,True,True,False,True
+Cooling & HVAC System,Heater Core A72,Heats cabin air using engine coolant.,SLE-SN20250625-4132,2019-01-16,178.91,CHF,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",False,False,True,False,False,True,True,True
+Cooling & HVAC System,Thermostat K5,Generic Thermostat,SLE-SN20250625-5158,2016-01-24,1273.21,CHF,True,False,"Nord,WV,BMV",True,True,False,False,False,True,False,True
+Cooling & HVAC System,A/C Dryer F64,Removes moisture from refrigerant.,SLE-SN20250625-9069,2022-08-23,1377.38,CHF,True,True,"Nord,Mecentley,BMV,WV,Feramborghini",False,True,True,False,True,True,False,False
+Cooling & HVAC System,A/C Condenser N57,Generic A/C Condenser,SLE-SN20250625-6668,2024-12-26,1901.61,CHF,True,True,"Feramborghini,BMV,Mecentley,WV,Nord",True,True,False,False,False,True,True,True
+Cooling & HVAC System,Cabin Air Filter W57,Filters air inside the car.,SLE-SN20250625-6354,2023-05-06,754.2,CHF,True,True,Mecentley,False,True,True,True,False,True,True,True
+Cooling & HVAC System,Fan Clutch Q25,Engages fan as needed.,SLE-SN20250625-1142,2022-01-09,1112.73,CHF,False,True,"WV,BMV,Nord,Feramborghini,Mecentley",False,False,True,True,False,True,True,False
+Cooling & HVAC System,Heater Core O50,Heats cabin air using engine coolant.,SLE-SN20250625-9463,2015-02-10,1555.98,CHF,False,False,"Feramborghini,BMV,Nord",False,False,True,True,True,True,True,False
+Cooling & HVAC System,Thermostat Housing F33,Generic Thermostat Housing,SLE-SN20250625-9865,2023-10-24,1391.32,CHF,True,True,"Feramborghini,Nord,BMV,Mecentley",True,True,True,True,False,True,False,True
+Cooling & HVAC System,Thermostat S49,Generic Thermostat,SLE-SN20250625-3121,2022-01-22,1205.26,CHF,True,True,Mecentley,True,True,False,False,False,False,True,False
+Cooling & HVAC System,Cooling Fan U43,Generic Cooling Fan,SLE-SN20250625-7056,2023-12-04,199.99,CHF,True,False,"Nord,WV,Mecentley,BMV",True,True,True,True,True,True,True,False
+Cooling & HVAC System,Radiator Cap U75,Generic Radiator Cap,SLE-SN20250625-4229,2020-08-13,80.03,CHF,True,True,"WV,Mecentley,Feramborghini",True,True,True,True,True,True,True,False
+Cooling & HVAC System,Radiator Hoses P22,Carry coolant to and from radiator.,SLE-SN20250625-7067,2021-01-24,1511.28,CHF,True,False,"Mecentley,BMV,Feramborghini,Nord",False,True,False,False,True,False,False,False
+Cooling & HVAC System,Expansion Valve U35,Generic Expansion Valve,SLE-SN20250625-4426,2025-12-14,458.72,CHF,True,True,"WV,Feramborghini,Nord,Mecentley",True,True,False,True,True,True,True,False
+Cooling & HVAC System,Thermostat J92,Regulates engine coolant temperature.,SLE-SN20250625-3580,2021-04-17,1059.45,CHF,True,True,"BMV,WV,Feramborghini",False,True,True,True,True,False,True,True
+Cooling & HVAC System,Thermostat Housing X42,Generic Thermostat Housing,SLE-SN20250625-7743,2017-06-06,601.02,CHF,True,True,"Mecentley,Nord",True,False,False,False,True,True,False,True
+Cooling & HVAC System,A/C Dryer C31,Removes moisture from refrigerant.,SLE-SN20250625-5616,2019-01-11,279.25,CHF,True,False,"WV,Feramborghini,Nord,Mecentley",True,True,True,False,False,False,True,True
+Cooling & HVAC System,Radiator E61,Dissipates heat from engine coolant.,SLE-SN20250625-2724,2024-03-25,1760.36,CHF,True,True,"Feramborghini,WV,Nord",True,False,True,True,True,True,True,True
+Cooling & HVAC System,Fan Clutch A81,Generic Fan Clutch,SLE-SN20250625-3231,2016-03-21,774.48,CHF,True,True,"BMV,WV,Mecentley,Feramborghini",False,False,True,True,False,False,True,False
+Cooling & HVAC System,Fan Clutch C66,Engages fan as needed.,SLE-SN20250625-6292,2016-09-26,727.38,CHF,False,True,"Mecentley,Feramborghini,WV",False,False,True,True,False,False,True,True
+Cooling & HVAC System,A/C Condenser B29,Releases heat from compressed refrigerant.,SLE-SN20250625-5177,2023-12-14,24.87,CHF,True,True,"Mecentley,Nord",True,True,True,True,True,False,False,True
+Cooling & HVAC System,A/C Compressor N98,Compresses refrigerant for air conditioning.,SLE-SN20250625-2348,2025-04-19,351.3,CHF,True,True,"Mecentley,WV,Nord,BMV",True,True,True,True,False,False,True,False
+Cooling & HVAC System,Thermostat Housing B79,Encases the thermostat.,SLE-SN20250625-2157,2020-09-30,1083.54,CHF,False,True,"Feramborghini,Nord,Mecentley,WV,BMV",True,False,True,True,False,True,True,True
+Cooling & HVAC System,Heater Core R76,Heats cabin air using coolant.,SLE-SN20250625-5790,2022-10-01,1526.68,CHF,True,True,"Mecentley,BMV,Nord,Feramborghini",False,False,True,True,False,False,True,False
+Cooling & HVAC System,Thermostat Housing X43,Generic Thermostat Housing,SLE-SN20250625-9024,2023-08-28,885.29,CHF,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",False,True,False,True,False,True,False,True
+Cooling & HVAC System,Thermostat N49,Generic Thermostat,SLE-SN20250625-4033,2022-06-13,1396.04,CHF,True,True,Nord,True,False,True,False,False,True,False,True
+Cooling & HVAC System,Radiator Hoses Y83,Carry coolant to and from radiator.,SLE-SN20250625-9782,2022-09-20,1120.14,CHF,True,False,"BMV,Nord,WV",False,False,True,False,True,False,True,False
+Cooling & HVAC System,Radiator Cap C15,Generic Radiator Cap,SLE-SN20250625-1699,2015-08-11,622.41,CHF,True,True,"Feramborghini,WV",False,True,True,True,True,False,True,True
+Cooling & HVAC System,Cooling Fan O29,Generic Cooling Fan,SLE-SN20250625-3534,2020-05-14,1916.51,CHF,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,True,True,True,False,True,False,False
+Cooling & HVAC System,Expansion Valve O26,Generic Expansion Valve,SLE-SN20250625-4877,2025-08-02,296.34,CHF,False,False,"BMV,WV",True,True,True,False,False,False,True,False
+Cooling & HVAC System,Heater Blower Motor R98,Drives air through HVAC system.,SLE-SN20250625-3914,2018-10-10,1263.6,CHF,True,True,"Nord,Mecentley",True,False,False,True,False,False,False,True
+Cooling & HVAC System,Heater Core F37,Generic Heater Core,SLE-SN20250625-8618,2020-01-26,1336.86,CHF,True,True,"BMV,Feramborghini,WV,Mecentley",False,True,False,False,False,True,True,True
+Cooling & HVAC System,Heater Core W24,Generic Heater Core,SLE-SN20250625-1263,2021-01-27,1924.3,CHF,True,False,"BMV,Feramborghini,Mecentley,Nord,WV",True,True,False,True,False,True,False,True
+Cooling & HVAC System,Cabin Air Filter M66,Filters air inside the car.,SLE-SN20250625-1538,2019-04-18,1033.08,CHF,True,True,Nord,True,True,False,False,True,True,False,False
+Cooling & HVAC System,Cabin Air Filter G65,Filters air inside the car.,SLE-SN20250625-1102,2020-01-02,1502.93,CHF,False,True,"Feramborghini,BMV",True,True,True,False,True,True,False,True
+Cooling & HVAC System,A/C Lines A13,Generic A/C Lines,SLE-SN20250625-8441,2019-08-16,1707.72,CHF,True,True,Feramborghini,True,True,True,True,True,False,True,True
+Cooling & HVAC System,Heater Core T93,Heats cabin air using coolant.,SLE-SN20250625-1338,2016-11-18,133.27,CHF,True,True,"Feramborghini,Mecentley",False,True,True,True,True,True,False,False
+Cooling & HVAC System,Fan Clutch F71,Generic Fan Clutch,SLE-SN20250625-9057,2015-05-14,558.67,CHF,True,True,Nord,False,True,True,False,False,True,True,False
+Cooling & HVAC System,Radiator Hoses X56,Carry coolant to and from radiator.,SLE-SN20250625-1786,2023-12-27,561.5,CHF,True,True,"Mecentley,Nord",True,True,True,True,True,False,True,True
+Cooling & HVAC System,A/C Compressor Q43,Compresses refrigerant for air conditioning.,SLE-SN20250625-1659,2018-01-01,244.43,CHF,True,True,"BMV,Feramborghini,Mecentley,Nord",False,True,False,False,False,True,True,False
+Cooling & HVAC System,Cooling Fan O96,Assists in radiator cooling.,SLE-SN20250625-6695,2017-01-24,1573.8,CHF,False,True,"WV,Feramborghini",True,True,False,True,True,True,True,True
+Cooling & HVAC System,Heater Core Y76,Generic Heater Core,SLE-SN20250625-6413,2020-05-14,967.67,CHF,True,True,"Mecentley,WV",True,False,True,False,False,True,False,True
+Cooling & HVAC System,A/C Dryer R36,Removes moisture from refrigerant.,SLE-SN20250625-6727,2023-01-23,1826.73,CHF,True,True,"Mecentley,Nord,Feramborghini,BMV",False,False,False,True,True,True,True,False
+Cooling & HVAC System,Fan Clutch C97,Engages fan as needed.,SLE-SN20250625-7297,2021-06-10,140.68,CHF,False,True,"BMV,Feramborghini,WV,Nord,Mecentley",False,False,True,True,True,True,False,True
+Cooling & HVAC System,Radiator Y33,Dissipates heat from engine coolant.,SLE-SN20250625-2947,2024-12-29,733.68,CHF,True,False,Feramborghini,True,False,False,False,False,False,True,True
+Cooling & HVAC System,Thermostat V55,Regulates engine coolant temperature.,SLE-SN20250625-2256,2016-01-09,1299.57,CHF,False,True,"Nord,WV",True,True,True,True,True,True,True,False
+Cooling & HVAC System,A/C Compressor B71,Generic A/C Compressor,SLE-SN20250625-7691,2024-06-14,32.17,CHF,True,True,BMV,True,False,True,False,True,True,True,False
+Cooling & HVAC System,Radiator Hoses I45,Carry coolant to and from radiator.,SLE-SN20250625-5396,2017-11-10,1516.87,CHF,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,False,True,True,False,False,False,True

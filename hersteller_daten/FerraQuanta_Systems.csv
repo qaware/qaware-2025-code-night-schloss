@@ -1,0 +1,571 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,digitallyTracked,obsolete,customFabricated,limitedEdition,safetyCritical,ecoFriendly,hazardousMaterial,recalled
+Cooling & HVAC System,A/C Compressor 095,Compresses refrigerant for air conditioning.,FQS-C5B5-A7DE-BC72,2017-07-19,1350.84,GBP,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,True,True,True,True,False,True,True
+Cooling & HVAC System,Radiator Cap 742,Generic Radiator Cap,FQS-9E92-C584-D473,2019-06-11,1980.55,GBP,True,True,"Mecentley,BMV,WV,Nord",True,False,False,False,True,False,True,True
+Cooling & HVAC System,Thermostat Housing 309,Encases the thermostat.,FQS-D6F7-1C00-8907,2019-02-08,775.94,GBP,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",True,True,True,True,False,False,False,True
+Cooling & HVAC System,Thermostat 521,Regulates engine coolant temperature.,FQS-4D0C-C898-F79B,2016-06-28,1681.36,GBP,False,False,"Feramborghini,BMV,Mecentley,Nord",True,True,True,True,False,True,False,True
+Cooling & HVAC System,A/C Lines 810,Generic A/C Lines,FQS-3DA8-0AE3-3C4C,2019-12-16,137.57,GBP,False,True,"WV,Nord,Feramborghini,Mecentley",True,True,True,False,False,False,False,True
+Cooling & HVAC System,Radiator Hoses 759,Generic Radiator Hoses,FQS-2530-5A2C-73F9,2019-03-15,345.76,GBP,True,True,"Mecentley,BMV,Nord,Feramborghini,WV",False,True,False,False,False,False,False,False
+Cooling & HVAC System,Cooling Fan 074,Generic Cooling Fan,FQS-67EB-BC0C-A3E1,2015-05-31,1799.4,GBP,True,False,BMV,True,False,False,False,True,True,False,True
+Cooling & HVAC System,Expansion Valve 623,Generic Expansion Valve,FQS-63F5-B4BE-5DD3,2015-03-25,846.92,GBP,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",False,True,False,True,True,False,True,True
+Cooling & HVAC System,A/C Dryer 678,Removes moisture from refrigerant.,FQS-E716-2633-5579,2015-11-16,815.86,GBP,True,True,"Mecentley,WV,Feramborghini,BMV",True,True,False,True,True,True,True,True
+Cooling & HVAC System,Cooling Fan 740,Generic Cooling Fan,FQS-1931-E670-3B75,2024-06-25,1041.86,GBP,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,True,True,True,True,True,False,True
+Cooling & HVAC System,A/C Condenser 943,Generic A/C Condenser,FQS-017E-86B2-A8C1,2018-02-13,935.73,GBP,False,True,"BMV,WV,Nord,Mecentley,Feramborghini",True,True,False,True,True,True,True,False
+Cooling & HVAC System,A/C Lines 310,Generic A/C Lines,FQS-0652-1A8A-63AF,2015-03-12,1069.98,GBP,False,True,Feramborghini,False,False,True,True,True,True,True,True
+Cooling & HVAC System,Heater Core 867,Heats cabin air using engine coolant.,FQS-0B0C-CEF4-FCAE,2017-04-03,1191.92,GBP,True,True,"Nord,Feramborghini,WV,Mecentley,BMV",False,True,False,True,False,False,False,False
+Cooling & HVAC System,A/C Compressor 738,Compresses refrigerant for air conditioning.,FQS-40E6-252E-F525,2020-10-16,819.43,GBP,True,True,"WV,BMV",True,False,False,True,True,False,False,True
+Cooling & HVAC System,A/C Compressor 719,Compresses refrigerant for air conditioning.,FQS-822A-8866-6458,2019-04-10,886.56,GBP,True,False,BMV,True,False,False,False,True,False,True,False
+Cooling & HVAC System,A/C Lines 783,Transport refrigerant.,FQS-61AF-CA0F-CD6B,2020-04-21,195.49,GBP,True,True,"Mecentley,Feramborghini,Nord,WV",True,False,True,False,True,False,True,False
+Cooling & HVAC System,Heater Core 402,Generic Heater Core,FQS-C7FC-315C-DEB9,2021-03-02,1928.52,GBP,False,True,"BMV,WV,Nord,Mecentley",False,True,True,False,False,True,False,True
+Cooling & HVAC System,A/C Lines 865,Generic A/C Lines,FQS-84BA-747D-ABA7,2025-05-20,1367.27,GBP,True,True,BMV,False,False,True,False,False,True,True,True
+Cooling & HVAC System,Expansion Valve 625,Controls refrigerant flow.,FQS-31A1-6C28-E1FC,2024-02-17,1437.49,GBP,True,True,"Feramborghini,BMV,WV",True,True,False,False,True,False,False,False
+Cooling & HVAC System,Radiator Cap 040,Seals radiator and maintains pressure.,FQS-E59E-38A0-2FCF,2019-03-01,764.39,GBP,True,False,Nord,False,False,True,True,True,False,False,True
+Cooling & HVAC System,Thermostat 739,Regulates engine coolant temperature.,FQS-E360-AA66-F531,2020-05-02,1473.56,GBP,True,False,BMV,True,False,True,True,False,False,True,True
+Cooling & HVAC System,Water Pump 386,Circulates coolant through engine.,FQS-7076-C365-493C,2021-07-17,565.51,GBP,True,True,"WV,Nord,Feramborghini,Mecentley",True,False,False,True,False,True,True,True
+Cooling & HVAC System,Radiator 923,Generic Radiator,FQS-CCCD-11F6-F094,2018-01-06,430.16,GBP,False,True,"WV,Feramborghini,Nord",True,True,True,True,False,False,True,True
+Cooling & HVAC System,Heater Blower Motor 461,Generic Heater Blower Motor,FQS-E0C1-AE8C-94D9,2021-07-26,709.83,GBP,False,True,"Feramborghini,BMV",True,True,False,False,False,False,True,True
+Cooling & HVAC System,Expansion Valve 353,Generic Expansion Valve,FQS-C675-F9E8-C286,2025-05-08,1055.96,GBP,True,True,"BMV,Mecentley,WV",True,False,True,True,True,True,False,False
+Cooling & HVAC System,Radiator Cap 951,Seals radiator and maintains pressure.,FQS-684B-B21E-E000,2020-01-08,566.17,GBP,True,True,"WV,BMV,Nord,Feramborghini",True,True,True,False,True,False,True,False
+Cooling & HVAC System,A/C Compressor 596,Compresses refrigerant for air conditioning.,FQS-3D7E-BE29-5198,2018-05-03,1377.04,GBP,True,True,"WV,BMV,Feramborghini",True,True,False,True,True,False,False,False
+Cooling & HVAC System,Radiator 550,Dissipates heat from engine coolant.,FQS-D6D0-9D58-BAEB,2020-06-24,1097.47,GBP,True,False,Nord,False,True,True,False,True,True,True,False
+Cooling & HVAC System,Heater Blower Motor 787,Generic Heater Blower Motor,FQS-9222-53AA-E776,2022-06-02,1716.55,GBP,True,True,"Nord,WV",True,True,False,True,False,True,True,True
+Cooling & HVAC System,Radiator 508,Dissipates heat from engine coolant.,FQS-EBED-9D6C-5D5E,2019-12-31,258.6,GBP,True,True,BMV,True,False,True,False,True,True,True,False
+Cooling & HVAC System,Radiator Hoses 205,Generic Radiator Hoses,FQS-D277-96A8-9367,2021-01-07,500.42,GBP,True,True,"Feramborghini,BMV,Nord,Mecentley",True,True,True,True,True,False,True,True
+Cooling & HVAC System,A/C Condenser 858,Generic A/C Condenser,FQS-AE8E-6007-E053,2018-03-10,1205.67,GBP,True,True,WV,False,False,True,True,False,True,False,False
+Cooling & HVAC System,Radiator Hoses 950,Carry coolant to and from radiator.,FQS-B2C6-1F2E-21B5,2019-03-12,1463.94,GBP,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",False,True,False,False,True,True,False,True
+Cooling & HVAC System,Thermostat Housing 454,Generic Thermostat Housing,FQS-3E85-C79F-39A6,2025-10-08,1576.47,GBP,True,True,BMV,True,True,False,True,True,True,True,True
+Cooling & HVAC System,Radiator Cap 028,Seals radiator and maintains pressure.,FQS-3F74-D094-51FC,2016-11-05,491.65,GBP,True,True,"Nord,Feramborghini,BMV,Mecentley",True,True,True,True,True,True,True,True
+Cooling & HVAC System,Thermostat Housing 118,Encases the thermostat.,FQS-4426-6122-A050,2019-11-16,159.53,GBP,False,True,"BMV,Nord",True,True,True,False,True,False,True,False
+Cooling & HVAC System,Heater Blower Motor 321,Generic Heater Blower Motor,FQS-AF8E-F9A7-D799,2024-05-18,1194.27,GBP,True,False,"Feramborghini,WV,Mecentley",False,True,False,True,False,True,False,True
+Cooling & HVAC System,Radiator Cap 640,Generic Radiator Cap,FQS-8AD3-FAAA-33A3,2023-04-23,191.96,GBP,True,True,BMV,False,True,True,True,False,True,True,True
+Cooling & HVAC System,A/C Compressor 469,Compresses refrigerant for air conditioning.,FQS-6790-030C-7F17,2021-11-28,224.87,GBP,True,True,Mecentley,False,True,False,True,False,True,True,False
+Cooling & HVAC System,Heater Core 243,Generic Heater Core,FQS-6781-2B63-24DE,2020-12-18,1869.97,GBP,True,True,BMV,True,True,True,False,False,False,False,True
+Cooling & HVAC System,Heater Core 950,Heats cabin air using coolant.,FQS-C42B-2E6A-37F8,2016-05-20,297.51,GBP,False,True,"Feramborghini,BMV,Nord,Mecentley",False,True,True,False,True,True,True,True
+Cooling & HVAC System,Thermostat 123,Generic Thermostat,FQS-5602-8E8D-1019,2023-11-09,1985.46,GBP,True,True,"Feramborghini,WV",False,True,True,False,False,False,False,True
+Cooling & HVAC System,Thermostat 315,Regulates engine coolant temperature.,FQS-6D3F-2787-A2FA,2020-06-13,718.42,GBP,True,True,"BMV,Mecentley,WV",True,True,True,True,False,True,True,True
+Cooling & HVAC System,Cooling Fan 090,Assists in radiator cooling.,FQS-DAD0-6F73-8BD5,2020-03-10,1873.41,GBP,True,True,"BMV,WV,Nord,Mecentley",True,False,True,True,True,False,False,True
+Cooling & HVAC System,Radiator 321,Dissipates heat from engine coolant.,FQS-9914-C94A-5274,2025-07-30,1851.62,GBP,True,True,"Nord,Feramborghini,BMV,Mecentley",False,False,True,True,True,True,True,True
+Cooling & HVAC System,Cooling Fan 630,Generic Cooling Fan,FQS-EEC4-FE1A-171A,2021-12-28,696.54,GBP,True,True,"BMV,WV,Nord",False,True,True,False,True,True,True,True
+Cooling & HVAC System,Radiator 656,Generic Radiator,FQS-06B2-8C9B-E32A,2018-09-29,1827.06,GBP,True,False,Mecentley,True,False,True,False,False,True,False,False
+Cooling & HVAC System,A/C Compressor 182,Compresses refrigerant for air conditioning.,FQS-D4A4-DA35-CC20,2019-07-08,288.14,GBP,True,True,WV,True,False,True,True,True,True,False,False
+Cooling & HVAC System,A/C Compressor 213,Generic A/C Compressor,FQS-3873-AE75-AA08,2023-10-25,465.85,GBP,True,True,"Nord,Mecentley,BMV",False,False,False,True,False,False,True,False
+Cooling & HVAC System,A/C Dryer 999,Removes moisture from refrigerant.,FQS-6CFA-380C-9456,2015-10-21,795.85,GBP,True,False,"Mecentley,Nord",False,True,False,False,False,True,True,True
+Cooling & HVAC System,Thermostat 419,Generic Thermostat,FQS-282C-D2E5-B263,2022-05-06,67.19,GBP,True,True,BMV,True,True,True,True,True,False,True,True
+Cooling & HVAC System,Radiator Cap 493,Seals radiator and maintains pressure.,FQS-A535-2DD4-C2AF,2017-03-11,1540.69,GBP,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",False,False,True,True,True,False,True,False
+Cooling & HVAC System,Water Pump 659,Generic Water Pump,FQS-8698-F8B9-FBD0,2016-03-15,152.59,GBP,True,False,"WV,Mecentley,BMV,Nord,Feramborghini",False,True,True,True,True,True,True,False
+Cooling & HVAC System,Heater Core 468,Generic Heater Core,FQS-AE61-1B4B-96C4,2018-04-28,1010.26,GBP,True,False,"Feramborghini,Nord,Mecentley,BMV",False,False,False,False,True,False,True,True
+Cooling & HVAC System,Thermostat Housing 000,Generic Thermostat Housing,FQS-3D15-9A0E-3B05,2021-11-04,1939.49,GBP,True,True,WV,True,True,True,False,False,True,False,True
+Cooling & HVAC System,Heater Core 094,Heats cabin air using engine coolant.,FQS-3269-C683-B120,2020-12-25,1235.0,GBP,True,True,"Nord,Feramborghini,WV",False,False,True,True,False,True,False,True
+Cooling & HVAC System,Thermostat 209,Generic Thermostat,FQS-F699-1525-86EE,2018-07-03,971.78,GBP,True,True,"Mecentley,BMV",False,False,True,False,True,False,False,True
+Cooling & HVAC System,A/C Dryer 155,Removes moisture from refrigerant.,FQS-EA00-F238-8893,2015-05-08,874.38,GBP,False,True,"Nord,BMV",True,False,True,False,True,False,False,False
+Cooling & HVAC System,A/C Lines 802,Generic A/C Lines,FQS-AEAA-FDB8-70CC,2023-08-15,358.7,GBP,True,False,"BMV,WV,Nord,Mecentley",True,False,True,True,True,True,False,False
+Cooling & HVAC System,A/C Compressor 434,Generic A/C Compressor,FQS-61BD-A9AB-E40D,2023-09-18,1217.71,GBP,True,True,"Feramborghini,Nord",False,False,False,False,False,True,True,True
+Cooling & HVAC System,Radiator Cap 494,Seals radiator and maintains pressure.,FQS-115E-6299-A13A,2019-04-03,525.67,GBP,True,True,"BMV,Feramborghini,WV,Nord,Mecentley",True,False,True,True,True,True,False,False
+Cooling & HVAC System,Radiator Hoses 171,Carry coolant to and from radiator.,FQS-1224-13F1-5496,2023-04-16,1627.72,GBP,True,False,"Mecentley,Feramborghini",True,False,True,False,False,True,True,True
+Cooling & HVAC System,A/C Condenser 775,Generic A/C Condenser,FQS-9BAF-E7E5-1BD2,2025-09-24,1449.15,GBP,True,True,"Feramborghini,Nord,WV",False,True,True,False,True,True,False,False
+Cooling & HVAC System,Radiator 377,Dissipates heat from engine coolant.,FQS-085D-31AD-3B84,2019-04-17,1325.5,GBP,True,True,Mecentley,True,True,True,True,True,True,True,True
+Cooling & HVAC System,Thermostat 594,Regulates engine coolant temperature.,FQS-3E82-A417-C2C6,2020-10-10,1228.39,GBP,False,True,"Mecentley,Nord",True,True,True,False,True,True,True,True
+Cooling & HVAC System,Radiator Cap 994,Generic Radiator Cap,FQS-B2FD-88A7-365F,2021-12-30,1137.45,GBP,True,True,Nord,False,True,True,False,False,True,True,False
+Cooling & HVAC System,Thermostat 486,Regulates engine coolant temperature.,FQS-3B0A-73F0-85D8,2023-10-16,868.02,GBP,True,False,"Feramborghini,Nord,Mecentley,WV,BMV",True,True,True,False,True,True,True,True
+Cooling & HVAC System,Expansion Valve 499,Generic Expansion Valve,FQS-2ECA-4628-731C,2015-11-11,1556.41,GBP,True,True,"WV,BMV,Feramborghini,Nord,Mecentley",False,False,True,True,True,True,True,False
+Cooling & HVAC System,A/C Lines 775,Transport refrigerant.,FQS-05F6-587A-D0B6,2015-06-14,233.66,GBP,True,False,"Mecentley,BMV,Nord",True,True,False,True,True,True,False,True
+Cooling & HVAC System,Cooling Fan 235,Generic Cooling Fan,FQS-79B8-3D8F-A0D7,2021-05-27,1980.24,GBP,True,True,Feramborghini,True,True,True,True,False,False,False,True
+Cooling & HVAC System,Fan Clutch 875,Engages fan as needed.,FQS-6347-744D-3FB3,2016-01-03,75.11,GBP,True,True,"Nord,BMV,Mecentley,Feramborghini,WV",False,True,True,False,True,False,True,True
+Cooling & HVAC System,Radiator Hoses 045,Generic Radiator Hoses,FQS-2095-7BCA-C3D7,2021-04-07,1344.87,GBP,True,False,"Nord,BMV,Mecentley",False,True,True,True,True,False,False,False
+Cooling & HVAC System,Thermostat 050,Generic Thermostat,FQS-FFFC-1CDA-02CF,2015-02-03,455.1,GBP,True,True,"WV,Feramborghini,BMV",False,True,True,False,True,True,True,True
+Cooling & HVAC System,Heater Core 634,Generic Heater Core,FQS-F47C-DD60-1CA3,2017-09-15,249.35,GBP,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",False,True,True,False,False,True,True,True
+Cooling & HVAC System,A/C Compressor 752,Generic A/C Compressor,FQS-CA43-05DB-206B,2025-12-06,266.3,GBP,False,True,BMV,False,False,True,True,False,True,False,False
+Cooling & HVAC System,Expansion Valve 576,Generic Expansion Valve,FQS-E2AD-A4D9-DF91,2017-10-07,1211.01,GBP,True,False,"Nord,Mecentley,BMV",True,True,False,True,True,True,False,True
+Cooling & HVAC System,Thermostat Housing 857,Encases the thermostat.,FQS-2513-8BAF-A4D5,2015-07-27,1370.4,GBP,True,False,BMV,True,True,True,True,True,False,True,False
+Cooling & HVAC System,Cabin Air Filter 157,Generic Cabin Air Filter,FQS-64F6-C37A-DECB,2024-09-28,1314.1,GBP,True,True,"Mecentley,BMV",False,True,True,False,False,True,False,True
+Cooling & HVAC System,A/C Condenser 631,Generic A/C Condenser,FQS-59F0-2828-3337,2017-10-11,1940.07,GBP,True,True,"Mecentley,BMV,Nord,WV,Feramborghini",False,True,False,False,True,True,False,False
+Cooling & HVAC System,Fan Clutch 380,Engages fan as needed.,FQS-138B-815F-66FB,2018-10-18,112.98,GBP,True,True,Feramborghini,True,False,False,False,True,True,False,False
+Cooling & HVAC System,Thermostat 187,Regulates engine coolant temperature.,FQS-8099-8D7D-4B48,2017-05-07,476.67,GBP,False,True,"Feramborghini,BMV,WV",False,True,True,False,True,False,False,True
+Cooling & HVAC System,Radiator Cap 958,Seals radiator and maintains pressure.,FQS-6BC9-A114-E6FB,2017-03-05,432.83,GBP,True,False,"Feramborghini,BMV,Mecentley",True,False,False,True,False,True,True,True
+Cooling & HVAC System,Thermostat 615,Regulates engine coolant temperature.,FQS-F667-14BF-EB0B,2023-08-05,554.97,GBP,True,True,Nord,False,False,True,True,False,True,True,True
+Cooling & HVAC System,Thermostat Housing 549,Generic Thermostat Housing,FQS-0F5E-99F9-2053,2016-03-20,1558.25,GBP,True,True,"BMV,Mecentley",True,True,True,False,False,True,False,False
+Cooling & HVAC System,Radiator Hoses 998,Generic Radiator Hoses,FQS-939C-4F96-6F4B,2019-06-28,557.58,GBP,False,True,"BMV,Nord",True,False,False,True,True,False,True,False
+Cooling & HVAC System,Heater Core 313,Heats cabin air using engine coolant.,FQS-C13E-8984-A4F2,2018-11-04,836.23,GBP,True,True,"Nord,BMV,WV",False,False,False,True,True,False,True,False
+Cooling & HVAC System,Radiator 789,Dissipates heat from engine coolant.,FQS-3452-A7BF-C4DF,2019-12-24,1949.77,GBP,True,True,"Feramborghini,WV",False,True,False,False,True,True,True,False
+Cooling & HVAC System,A/C Compressor 792,Compresses refrigerant for air conditioning.,FQS-E735-84F4-D157,2021-07-15,450.71,GBP,False,True,"BMV,Feramborghini",False,False,False,True,False,True,False,True
+Cooling & HVAC System,Thermostat Housing 971,Encases the thermostat.,FQS-64D0-2E4C-3E92,2021-01-04,1040.22,GBP,True,True,Mecentley,True,False,False,True,True,False,False,False
+Cooling & HVAC System,Heater Core 760,Heats cabin air using engine coolant.,FQS-BE19-EBF2-D413,2017-04-15,548.13,GBP,True,True,"BMV,Feramborghini,WV",True,False,True,False,True,True,True,True
+Cooling & HVAC System,A/C Dryer 122,Removes moisture from refrigerant.,FQS-6DFC-70F8-F861,2018-09-07,1036.49,GBP,True,True,"Feramborghini,BMV",True,True,True,True,True,False,False,True
+Cooling & HVAC System,A/C Compressor 062,Generic A/C Compressor,FQS-BE6F-E11F-736B,2025-06-11,1468.84,GBP,False,False,"Nord,Mecentley,WV,BMV,Feramborghini",True,False,True,True,False,False,True,True
+Cooling & HVAC System,Water Pump 984,Circulates coolant through engine.,FQS-08CA-C5E6-6CD8,2025-12-20,738.19,GBP,False,True,"BMV,WV,Mecentley",True,True,True,True,False,True,True,True
+Cooling & HVAC System,Radiator Cap 407,Generic Radiator Cap,FQS-0A2C-B18B-46C8,2015-06-15,1731.26,GBP,False,True,"WV,Feramborghini,BMV",True,True,False,False,True,True,False,False
+Cooling & HVAC System,Radiator Hoses 403,Generic Radiator Hoses,FQS-DD1A-35C8-A7C9,2020-12-07,729.19,GBP,True,False,Feramborghini,True,True,True,True,True,True,False,False
+Cooling & HVAC System,A/C Dryer 074,Removes moisture from refrigerant.,FQS-104C-CD10-CC1C,2022-01-16,832.06,GBP,True,True,"Mecentley,WV,Feramborghini,Nord,BMV",False,True,False,True,True,False,True,False
+Cooling & HVAC System,Thermostat Housing 179,Encases the thermostat.,FQS-B982-6390-3D42,2017-09-13,1825.08,GBP,True,True,"BMV,WV,Nord",True,True,False,True,True,False,True,True
+Cooling & HVAC System,Thermostat 578,Regulates engine coolant temperature.,FQS-550D-4412-585C,2021-09-24,1067.67,GBP,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True,False,False,False,True,False,False
+Cooling & HVAC System,Heater Core 370,Heats cabin air using coolant.,FQS-BF47-2F0B-FDAB,2016-04-17,1345.7,GBP,True,True,"Mecentley,BMV",False,True,False,True,True,True,True,True
+Cooling & HVAC System,Thermostat 785,Regulates engine coolant temperature.,FQS-DF85-815A-4EE6,2024-12-08,81.69,GBP,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,False,False,True,False,False,False
+Cooling & HVAC System,Thermostat Housing 374,Encases the thermostat.,FQS-A5CC-9172-B27D,2024-10-23,1831.82,GBP,True,True,"Mecentley,BMV,WV,Nord",True,True,True,True,False,False,True,False
+Cooling & HVAC System,Radiator Cap 616,Generic Radiator Cap,FQS-7AF2-FE9F-E5B2,2024-04-10,1989.81,GBP,True,False,"WV,Nord",True,True,True,False,True,True,True,False
+Cooling & HVAC System,Radiator Cap 097,Seals radiator and maintains pressure.,FQS-A65D-0555-F959,2021-02-22,487.7,GBP,True,True,"Mecentley,BMV",True,True,True,False,True,True,True,True
+Cooling & HVAC System,Cabin Air Filter 095,Generic Cabin Air Filter,FQS-67C3-36A1-941B,2015-11-11,967.4,GBP,True,False,"Feramborghini,Nord,BMV,Mecentley",True,True,True,False,False,True,True,True
+Cooling & HVAC System,A/C Lines 064,Transport refrigerant.,FQS-96FA-6C55-7196,2016-06-16,180.45,GBP,True,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,True,True,True,False,False,False,True
+Cooling & HVAC System,Heater Core 522,Heats cabin air using coolant.,FQS-B6B6-8229-C06E,2020-01-10,717.11,GBP,False,True,"BMV,Mecentley,Nord,WV",False,False,True,True,False,False,False,False
+Cooling & HVAC System,A/C Condenser 379,Generic A/C Condenser,FQS-7642-6B54-8F96,2015-04-07,382.48,GBP,False,True,"Nord,WV",True,False,False,False,True,True,True,False
+Cooling & HVAC System,Expansion Valve 254,Generic Expansion Valve,FQS-E35D-8CAF-CAF0,2017-04-20,1824.9,GBP,True,True,"Feramborghini,Mecentley,WV",True,False,False,True,True,False,False,False
+Cooling & HVAC System,Radiator Hoses 149,Generic Radiator Hoses,FQS-E597-B704-87AD,2021-10-20,901.52,GBP,True,True,"Nord,Mecentley,Feramborghini",False,True,True,True,False,True,False,True
+Cooling & HVAC System,Radiator Hoses 695,Generic Radiator Hoses,FQS-220A-B470-A41A,2017-03-20,483.9,GBP,False,True,"BMV,Feramborghini,Mecentley",True,True,False,False,False,True,False,True
+Cooling & HVAC System,Water Pump 080,Generic Water Pump,FQS-C5F7-7A98-2267,2025-06-16,798.01,GBP,True,True,"Mecentley,BMV,Feramborghini",False,False,True,False,True,False,False,False
+Cooling & HVAC System,Heater Blower Motor 898,Drives air through HVAC system.,FQS-76C6-592E-C1D6,2021-06-05,1809.17,GBP,False,False,"Feramborghini,BMV,Nord,Mecentley,WV",True,True,True,False,True,True,True,False
+Cooling & HVAC System,Thermostat Housing 437,Generic Thermostat Housing,FQS-30D2-0FD9-20FB,2015-08-18,605.47,GBP,False,True,"Mecentley,WV",True,True,True,False,True,False,False,False
+Cooling & HVAC System,Heater Core 387,Heats cabin air using engine coolant.,FQS-6724-073F-22F3,2017-07-06,576.21,GBP,False,True,"WV,BMV",True,True,True,True,True,False,True,False
+Cooling & HVAC System,Heater Blower Motor 490,Generic Heater Blower Motor,FQS-F0C1-4A36-9034,2020-11-01,1064.46,GBP,True,True,"Nord,WV",True,True,True,False,True,False,False,True
+Cooling & HVAC System,Thermostat 617,Regulates engine coolant temperature.,FQS-E6B4-1A62-5561,2018-03-23,483.7,GBP,False,True,"BMV,Feramborghini",False,True,True,False,False,True,True,True
+Cooling & HVAC System,A/C Lines 038,Generic A/C Lines,FQS-EE8D-7B0E-541C,2020-02-18,1191.1,GBP,True,True,Feramborghini,True,True,True,True,False,True,False,True
+Cooling & HVAC System,Heater Core 856,Heats cabin air using engine coolant.,FQS-C65E-EB02-D52E,2025-11-23,1367.26,GBP,False,True,"Nord,BMV,Mecentley,WV",True,True,True,True,False,False,True,True
+Cooling & HVAC System,A/C Lines 752,Transport refrigerant.,FQS-1E29-FCA6-E04C,2017-05-28,1308.26,GBP,False,True,"Feramborghini,Mecentley,BMV",True,False,True,True,False,True,False,False
+Cooling & HVAC System,Thermostat 284,Regulates engine coolant temperature.,FQS-19E5-2894-C20C,2024-04-05,329.82,GBP,True,True,"Mecentley,WV",False,False,True,True,False,True,True,True
+Cooling & HVAC System,Radiator Cap 100,Generic Radiator Cap,FQS-059B-381B-E9A6,2018-10-31,297.04,GBP,False,True,"BMV,Feramborghini",False,False,False,False,True,False,True,True
+Cooling & HVAC System,Thermostat 345,Regulates engine coolant temperature.,FQS-F494-E5D2-BBD1,2021-06-01,70.48,GBP,True,True,"WV,Nord,BMV,Mecentley,Feramborghini",True,True,False,False,False,False,False,False
+Cooling & HVAC System,Water Pump 837,Circulates coolant through engine.,FQS-FA9E-BE5F-7F38,2023-12-13,683.96,GBP,True,True,"WV,Feramborghini",True,False,True,True,True,True,False,False
+Cooling & HVAC System,Water Pump 171,Generic Water Pump,FQS-B918-1747-9069,2024-05-08,1465.04,GBP,False,True,"Mecentley,Nord,WV,BMV",False,False,True,False,True,True,False,False
+Cooling & HVAC System,A/C Compressor 780,Generic A/C Compressor,FQS-259E-474F-0991,2024-08-22,1161.36,GBP,True,True,Feramborghini,False,False,True,True,True,True,True,False
+Cooling & HVAC System,Radiator Cap 551,Seals radiator and maintains pressure.,FQS-C4B3-0632-17E5,2018-07-10,1206.72,GBP,False,True,Nord,True,True,True,True,True,True,True,False
+Cooling & HVAC System,Heater Core 192,Heats cabin air using engine coolant.,FQS-04D2-532C-6CF9,2024-05-30,1830.99,GBP,True,True,"Nord,Mecentley,WV",True,False,False,True,True,True,True,True
+Cooling & HVAC System,Thermostat 748,Regulates engine coolant temperature.,FQS-5E2A-DFB1-AAAD,2025-07-08,1526.18,GBP,True,False,"Mecentley,Feramborghini,Nord,WV,BMV",False,False,True,True,False,False,False,False
+Cooling & HVAC System,A/C Dryer 605,Generic A/C Dryer,FQS-4A1B-A8EE-F775,2025-04-30,484.16,GBP,True,False,"WV,BMV,Nord",False,True,True,False,False,True,True,True
+Cooling & HVAC System,A/C Lines 708,Generic A/C Lines,FQS-AD1D-5517-EB99,2019-02-02,1921.88,GBP,True,True,"WV,BMV,Nord,Feramborghini",True,False,True,True,True,True,True,True
+Cooling & HVAC System,A/C Dryer 548,Generic A/C Dryer,FQS-AA39-693D-97D3,2024-12-01,1310.12,GBP,True,False,"WV,Feramborghini,Mecentley,BMV,Nord",True,True,True,True,False,True,False,True
+Cooling & HVAC System,Cooling Fan 013,Assists in radiator cooling.,FQS-28E3-8677-29C1,2016-10-29,1024.91,GBP,False,True,"Nord,Mecentley",False,True,False,True,False,True,False,True
+Cooling & HVAC System,A/C Compressor 429,Compresses refrigerant for air conditioning.,FQS-1B12-D801-55A0,2023-04-16,1874.56,GBP,True,True,"Mecentley,Feramborghini,WV,BMV,Nord",False,False,True,False,True,True,True,True
+Cooling & HVAC System,Water Pump 264,Circulates coolant through engine.,FQS-1E3A-9182-ABCA,2021-07-18,1316.67,GBP,True,True,"Mecentley,BMV",False,True,False,False,True,False,False,False
+Cooling & HVAC System,Radiator Cap 925,Generic Radiator Cap,FQS-E82B-5FC4-1481,2019-03-07,1283.83,GBP,True,True,Feramborghini,True,False,True,True,False,False,True,True
+Cooling & HVAC System,Heater Core 086,Heats cabin air using engine coolant.,FQS-0641-124C-3306,2023-05-28,1732.96,GBP,True,True,BMV,True,False,True,True,False,True,True,False
+Cooling & HVAC System,Heater Blower Motor 489,Generic Heater Blower Motor,FQS-A57E-4618-D6A8,2018-11-18,1048.9,GBP,False,True,Feramborghini,True,True,True,True,True,False,True,False
+Cooling & HVAC System,Fan Clutch 505,Generic Fan Clutch,FQS-957A-0A60-AF7C,2020-04-06,961.8,GBP,False,True,"Nord,WV,Mecentley,Feramborghini,BMV",False,True,True,False,True,True,True,True
+Cooling & HVAC System,Expansion Valve 115,Generic Expansion Valve,FQS-BD6D-B99B-9BE2,2018-09-01,1583.55,GBP,False,True,Mecentley,True,True,False,False,False,False,True,True
+Cooling & HVAC System,A/C Compressor 349,Compresses refrigerant for air conditioning.,FQS-3F80-01F4-3497,2024-07-11,504.28,GBP,True,True,BMV,True,False,True,False,True,False,True,False
+Cooling & HVAC System,Fan Clutch 903,Engages fan as needed.,FQS-1D6D-DE9C-0A04,2019-06-19,1514.21,GBP,True,True,"Nord,BMV,Feramborghini,WV",True,True,True,True,False,False,True,True
+Cooling & HVAC System,A/C Dryer 082,Generic A/C Dryer,FQS-6DC5-F46B-76A4,2016-12-19,1077.22,GBP,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,True,True,True,False,True,True,False
+Cooling & HVAC System,Expansion Valve 600,Controls refrigerant flow.,FQS-EEFE-4B27-4770,2017-11-28,26.58,GBP,True,True,Feramborghini,False,False,True,True,False,True,False,False
+Cooling & HVAC System,Thermostat 066,Regulates engine coolant temperature.,FQS-2D2A-87EC-2707,2021-06-12,879.5,GBP,True,True,"WV,Mecentley,BMV",False,True,False,False,False,False,False,False
+Cooling & HVAC System,Thermostat Housing 928,Encases the thermostat.,FQS-943E-A3CD-ABEA,2019-01-01,524.05,GBP,True,True,"BMV,WV",True,False,True,True,True,True,True,False
+Cooling & HVAC System,Expansion Valve 259,Controls refrigerant flow.,FQS-EF69-04F4-4E33,2018-10-19,1541.82,GBP,True,False,"Nord,Feramborghini,BMV,WV",True,True,True,False,False,False,True,True
+Cooling & HVAC System,Thermostat Housing 054,Generic Thermostat Housing,FQS-D170-ECCD-38F2,2017-08-02,1516.48,GBP,False,False,"WV,BMV,Feramborghini,Nord,Mecentley",True,True,True,True,False,False,True,False
+Cooling & HVAC System,A/C Lines 515,Transport refrigerant.,FQS-F415-8CFE-26E4,2024-10-13,1948.07,GBP,True,True,"Mecentley,WV,Feramborghini",True,True,False,True,True,True,False,False
+Cooling & HVAC System,A/C Dryer 515,Generic A/C Dryer,FQS-3B97-B94D-C53C,2019-06-04,459.7,GBP,True,True,"Feramborghini,Mecentley,Nord",True,True,True,False,True,True,True,False
+Cooling & HVAC System,Water Pump 983,Circulates coolant through engine.,FQS-6740-C86B-2249,2025-11-18,1975.51,GBP,True,True,BMV,False,False,False,True,True,True,True,True
+Cooling & HVAC System,A/C Condenser 100,Generic A/C Condenser,FQS-D07E-A3BF-8791,2017-01-12,1122.29,GBP,True,True,"Feramborghini,Nord,WV",True,True,True,True,True,True,False,True
+Cooling & HVAC System,Cooling Fan 055,Assists in radiator cooling.,FQS-1D14-165D-48E3,2024-04-21,1963.62,GBP,True,True,BMV,False,True,False,True,True,True,False,True
+Cooling & HVAC System,Radiator Cap 168,Seals radiator and maintains pressure.,FQS-68EE-9570-0D37,2025-02-22,1124.85,GBP,True,True,BMV,True,True,True,False,False,False,False,False
+Cooling & HVAC System,Thermostat Housing 922,Encases the thermostat.,FQS-1EA3-4C20-1D47,2022-08-05,1473.79,GBP,False,False,"WV,Feramborghini,Mecentley,BMV",True,False,False,False,False,False,False,True
+Cooling & HVAC System,A/C Compressor 313,Compresses refrigerant for air conditioning.,FQS-43EC-659A-8CF2,2020-11-17,1787.41,GBP,True,True,"Nord,WV,Mecentley,BMV",True,True,True,True,True,True,False,False
+Cooling & HVAC System,A/C Dryer 099,Removes moisture from refrigerant.,FQS-2AEB-42A9-994A,2022-12-23,507.53,GBP,True,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,False,True,False,True,True,True,True
+Cooling & HVAC System,Radiator Cap 587,Generic Radiator Cap,FQS-8157-C4DE-19E5,2019-01-16,1294.92,GBP,True,True,"Nord,WV",True,False,True,True,True,True,False,False
+Cooling & HVAC System,A/C Lines 754,Transport refrigerant.,FQS-496B-EF99-45CD,2023-04-15,1875.31,GBP,True,True,Feramborghini,False,True,True,True,False,True,False,False
+Cooling & HVAC System,Radiator 140,Dissipates heat from engine coolant.,FQS-74E4-8F21-718F,2017-07-04,232.88,GBP,True,True,"Nord,BMV,Mecentley,Feramborghini,WV",False,True,True,True,False,True,False,False
+Cooling & HVAC System,Fan Clutch 819,Generic Fan Clutch,FQS-72B3-62C1-F876,2025-08-20,1011.94,GBP,False,True,"Mecentley,BMV,WV,Nord",True,True,True,False,True,True,False,True
+Cooling & HVAC System,Thermostat 244,Regulates engine coolant temperature.,FQS-9BED-57F4-D53C,2015-07-30,1319.17,GBP,True,True,"WV,Feramborghini,BMV,Nord,Mecentley",True,False,True,True,True,False,False,False
+Cooling & HVAC System,Water Pump 087,Circulates coolant through engine.,FQS-05EA-0CC3-355B,2019-03-11,1034.65,GBP,True,True,Mecentley,True,True,True,False,True,False,True,True
+Cooling & HVAC System,Cooling Fan 119,Generic Cooling Fan,FQS-FC8D-E644-B715,2019-05-28,1062.59,GBP,False,True,"Nord,Feramborghini,WV,Mecentley",True,True,True,False,False,True,True,True
+Cooling & HVAC System,Cooling Fan 540,Generic Cooling Fan,FQS-9A8B-C415-3E3E,2015-06-04,1209.92,GBP,True,True,"Nord,Feramborghini,Mecentley,BMV",False,True,True,True,False,True,False,False
+Cooling & HVAC System,Cooling Fan 072,Generic Cooling Fan,FQS-6D57-63DF-B475,2024-12-15,1646.63,GBP,False,False,"Mecentley,BMV,WV,Nord,Feramborghini",True,True,False,True,True,False,False,False
+Cooling & HVAC System,Thermostat 026,Generic Thermostat,FQS-1A67-3656-0A46,2017-10-11,119.11,GBP,True,True,"Mecentley,WV",True,True,True,True,False,True,True,False
+Cooling & HVAC System,Expansion Valve 814,Generic Expansion Valve,FQS-E75A-1CA4-1F10,2015-03-21,1350.41,GBP,True,True,"Mecentley,BMV",True,True,False,False,True,True,False,False
+Cooling & HVAC System,Heater Blower Motor 699,Generic Heater Blower Motor,FQS-5861-BAD9-880B,2020-12-03,1358.91,GBP,False,True,"BMV,Feramborghini",True,True,True,True,False,False,False,False
+Cooling & HVAC System,Radiator Cap 064,Generic Radiator Cap,FQS-5D5D-BFCD-AA18,2021-10-31,537.15,GBP,True,True,BMV,True,True,False,False,True,True,True,True
+Cooling & HVAC System,A/C Lines 326,Transport refrigerant.,FQS-F207-CC47-76B2,2018-10-21,1418.79,GBP,False,False,"BMV,Mecentley",False,True,True,True,True,True,False,True
+Cooling & HVAC System,Radiator Cap 080,Generic Radiator Cap,FQS-AAE7-72BB-7965,2021-11-26,1290.32,GBP,True,True,"Feramborghini,Mecentley,WV,BMV,Nord",False,True,True,True,True,True,True,False
+Cooling & HVAC System,Thermostat Housing 186,Encases the thermostat.,FQS-8E8E-D071-9F14,2020-03-28,1541.81,GBP,False,False,Feramborghini,False,False,False,True,True,True,True,False
+Cooling & HVAC System,A/C Compressor 208,Compresses refrigerant for air conditioning.,FQS-20B6-EEA9-78AB,2017-12-31,29.11,GBP,True,True,"Nord,Mecentley,Feramborghini,WV,BMV",False,False,False,True,True,True,False,True
+Cooling & HVAC System,Radiator 506,Dissipates heat from engine coolant.,FQS-B9A9-F7A3-4A60,2021-07-07,821.23,GBP,True,True,"Nord,BMV,Mecentley",False,True,False,True,True,True,False,False
+Interior Components,Seatbelts 841,Generic Seatbelts,FQS-C91F-4BD9-6178,2020-07-15,37.56,GBP,False,True,WV,True,True,False,True,False,False,True,False
+Interior Components,Seats 654,Generic Seats,FQS-A8A0-5409-6E72,2024-10-23,1668.55,GBP,True,True,BMV,False,False,True,True,True,False,False,False
+Interior Components,Floor Mats 930,Generic Floor Mats,FQS-436A-8FFF-20F7,2018-12-10,1253.41,GBP,True,True,Mecentley,True,False,True,True,False,False,True,True
+Interior Components,Rearview Mirror 724,Generic Rearview Mirror,FQS-EF5F-D71F-B75F,2018-08-16,427.64,GBP,True,True,Feramborghini,False,False,True,False,True,True,True,True
+Interior Components,Headliner 762,Generic Headliner,FQS-DB97-3660-0197,2022-08-05,635.83,GBP,False,True,Mecentley,True,True,True,True,False,True,True,True
+Interior Components,Seat Motors 718,Generic Seat Motors,FQS-CCC1-96E5-CFBC,2021-07-10,528.54,GBP,True,True,"Feramborghini,Nord,WV,BMV",True,True,True,True,False,True,False,True
+Interior Components,Sun Visors 717,Generic Sun Visors,FQS-64FB-5B33-CE66,2021-10-10,850.49,GBP,True,True,"Nord,Mecentley,Feramborghini,WV",False,True,True,True,True,True,True,False
+Interior Components,Floor Mats 929,Generic Floor Mats,FQS-A324-8319-588D,2023-01-11,1374.18,GBP,True,True,"Nord,Mecentley,Feramborghini,BMV",True,False,False,False,False,True,True,False
+Interior Components,Glove Box 288,Generic Glove Box,FQS-E107-3D64-46BC,2024-10-06,1938.48,GBP,False,True,"WV,Nord,Feramborghini,BMV,Mecentley",False,True,True,True,False,False,True,False
+Interior Components,Glove Box 588,Compartment for storing small items.,FQS-F731-2A25-196C,2017-06-28,402.84,GBP,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,False,True,True,False,True,False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 192","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",FQS-92BD-647B-9513,2016-12-09,1383.41,GBP,True,True,BMV,False,False,True,False,True,True,False,True
+Interior Components,Rearview Mirror 539,Generic Rearview Mirror,FQS-0AF4-A727-F2A6,2019-10-30,303.52,GBP,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",True,False,True,False,False,False,True,False
+Interior Components,Glove Box 927,Compartment for storing small items.,FQS-9E2F-0EBF-3337,2017-01-23,598.3,GBP,True,True,"Feramborghini,Mecentley,BMV,Nord",True,False,False,True,True,True,True,True
+Interior Components,Seat Motors 155,Generic Seat Motors,FQS-AA10-20C7-D261,2020-08-01,526.29,GBP,True,False,Mecentley,False,False,False,True,False,True,False,False
+Interior Components,Seat Motors 371,Generic Seat Motors,FQS-B89C-4901-6EAB,2020-05-30,1840.7,GBP,True,True,"Mecentley,Nord",False,False,False,True,True,True,False,False
+Interior Components,Center Console 852,Generic Center Console,FQS-7893-19FA-6937,2023-07-21,798.62,GBP,True,False,"Mecentley,Feramborghini,WV,BMV",False,True,True,True,True,False,True,True
+Interior Components,Handbrake Lever 149,Generic Handbrake Lever,FQS-85A6-AB2A-6C0F,2024-06-10,990.15,GBP,True,False,"BMV,Nord",True,True,False,True,True,True,True,True
+Interior Components,Glove Box 939,Generic Glove Box,FQS-98BB-84E0-A236,2024-04-01,74.19,GBP,True,True,"BMV,Feramborghini,WV",True,False,False,True,True,True,False,True
+Interior Components,Floor Mats 086,Generic Floor Mats,FQS-01BC-8815-02F7,2025-05-19,725.09,GBP,True,True,"Mecentley,WV,Feramborghini",True,True,True,True,True,True,False,True
+Interior Components,Seatbelts 018,Generic Seatbelts,FQS-34DD-E60A-290D,2021-10-01,776.7,GBP,True,True,"BMV,Mecentley,WV,Nord,Feramborghini",True,False,False,False,True,False,False,False
+Interior Components,Headliner 274,Generic Headliner,FQS-2FFD-9C95-BE98,2018-05-03,1573.0,GBP,True,True,"WV,Feramborghini,Nord,Mecentley,BMV",True,True,False,False,False,False,False,False
+Interior Components,Handbrake Lever 207,Generic Handbrake Lever,FQS-9783-CE0E-06DD,2020-06-17,1597.24,GBP,True,True,"WV,Mecentley",True,True,False,False,True,True,True,False
+Interior Components,Floor Mats 206,Generic Floor Mats,FQS-955D-FA16-6748,2020-08-31,18.73,GBP,True,True,Nord,True,True,True,True,False,False,True,True
+Interior Components,Handbrake Lever 147,Generic Handbrake Lever,FQS-348F-EA21-0BD2,2020-08-26,698.08,GBP,True,True,WV,False,True,True,True,True,True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 040","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",FQS-833A-79FF-0C07,2020-02-23,1576.87,GBP,True,True,BMV,True,True,True,False,True,True,True,True
+Interior Components,Interior Trim Panels 054,Generic Interior Trim Panels,FQS-8653-2D92-C92B,2021-10-30,1862.35,GBP,True,False,"Feramborghini,BMV,Mecentley",False,True,False,False,False,False,False,False
+Interior Components,Seatbelts 714,Generic Seatbelts,FQS-E103-C902-BBAA,2017-05-07,118.26,GBP,True,True,"BMV,Feramborghini",False,True,False,False,True,True,False,True
+Interior Components,Glove Box 515,Generic Glove Box,FQS-1D87-1A32-9691,2018-12-30,1196.08,GBP,True,True,"WV,BMV,Mecentley,Feramborghini",False,False,False,True,False,False,True,True
+Interior Components,Glove Box 396,Compartment for storing small items.,FQS-97BA-B490-BC62,2015-09-15,1022.4,GBP,True,True,"BMV,Mecentley",False,True,True,True,True,False,True,False
+Interior Components,Glove Box 790,Generic Glove Box,FQS-9D70-FB67-A656,2017-07-05,132.14,GBP,False,True,"Mecentley,Nord",True,True,True,True,True,True,True,True
+Interior Components,Seatbelts 970,Generic Seatbelts,FQS-A24D-16D0-9E94,2020-03-08,264.22,GBP,True,True,"Mecentley,Feramborghini,WV,BMV",True,False,False,True,True,True,False,True
+Interior Components,Seatbelts 901,Secure passengers to reduce injury risk.,FQS-4507-4EDF-7994,2017-07-13,607.2,GBP,True,True,"BMV,Mecentley,WV",False,True,False,False,True,False,True,True
+Interior Components,Dashboard 790,Houses instruments and controls in front of driver.,FQS-F765-9CA4-200C,2016-02-17,219.96,GBP,True,False,"WV,Mecentley,BMV",True,True,True,True,True,True,False,True
+Interior Components,Dashboard 637,Houses instruments and controls in front of driver.,FQS-B534-DF32-D87C,2022-12-20,886.86,GBP,True,True,"Mecentley,Nord,BMV,WV,Feramborghini",False,False,True,True,False,True,True,True
+Interior Components,Seats 153,Provide seating for vehicle occupants.,FQS-9B3F-4743-2798,2022-04-15,802.95,GBP,False,True,"BMV,Feramborghini,WV,Mecentley,Nord",False,False,True,False,False,True,True,True
+Interior Components,Floor Mats 586,Generic Floor Mats,FQS-8C20-A3B5-A509,2023-11-26,1625.37,GBP,True,True,"BMV,WV,Mecentley,Feramborghini,Nord",False,True,False,False,True,False,False,False
+Interior Components,Carpet 391,Generic Carpet,FQS-673A-C8FC-956C,2016-10-10,955.96,GBP,True,True,"WV,Feramborghini",True,False,True,False,True,True,True,True
+Body and Exterior,Bumpers 303,Protects car front and rear from impacts.,FQS-087E-DC8B-C3B7,2015-10-20,1286.14,GBP,True,False,"Mecentley,BMV",True,True,False,True,False,True,True,False
+Body and Exterior,Window Seals 191,Generic Window Seals,FQS-AA4B-EE82-2DB2,2015-09-27,1556.01,GBP,True,False,"WV,Feramborghini,Nord,BMV",True,False,True,False,True,True,True,True
+Body and Exterior,Window Seals 570,Generic Window Seals,FQS-1A79-C89C-6C3C,2020-05-13,1521.45,GBP,False,True,Mecentley,False,True,True,False,True,True,True,True
+Body and Exterior,"Bumpers (Front, Rear) 649","Generic Bumpers (Front, Rear)",FQS-BABB-B663-6D0D,2015-08-03,234.72,GBP,True,True,"Mecentley,Feramborghini",False,False,True,True,True,False,False,False
+Body and Exterior,Side Mirrors 678,Generic Side Mirrors,FQS-2463-2527-87CF,2024-08-15,76.27,GBP,False,True,"Nord,BMV,WV,Feramborghini",False,True,True,True,False,False,False,True
+Body and Exterior,Doors 515,Generic Doors,FQS-18D1-1FD0-6C61,2024-07-19,1430.91,GBP,True,False,WV,True,True,True,True,False,True,True,False
+Body and Exterior,Antenna 577,Generic Antenna,FQS-95EC-9B00-21EC,2017-04-26,554.33,GBP,True,True,"Feramborghini,BMV,WV,Mecentley",False,True,False,True,True,False,True,True
+Body and Exterior,Roof Rack 044,Generic Roof Rack,FQS-C2F9-972E-A00F,2023-01-04,712.93,GBP,True,True,"BMV,Nord",True,False,True,True,True,False,False,False
+Body and Exterior,Fenders 424,Generic Fenders,FQS-4CEB-F9E8-019C,2018-12-29,575.19,GBP,False,False,"BMV,Feramborghini,WV,Mecentley,Nord",True,False,True,True,False,True,True,False
+Body and Exterior,Side Mirrors 821,Generic Side Mirrors,FQS-AB23-845E-844D,2020-08-28,1105.19,GBP,True,True,"BMV,Mecentley,Feramborghini,Nord,WV",False,True,True,True,True,True,True,False
+Body and Exterior,Windshield 446,Generic Windshield,FQS-11CD-DEFB-490A,2025-01-17,1078.4,GBP,True,False,"Mecentley,WV",False,True,False,True,True,False,True,True
+Body and Exterior,Trunk 711,Storage compartment at rear of vehicle.,FQS-9F75-2FBF-8E27,2020-09-10,1064.05,GBP,True,True,WV,True,True,True,False,False,False,True,True
+Body and Exterior,Grille 706,Generic Grille,FQS-4FC9-D525-AA3C,2022-05-25,1017.72,GBP,False,True,"BMV,Mecentley",False,True,True,False,False,True,True,False
+Body and Exterior,Trunk / Boot 294,Generic Trunk / Boot,FQS-99AB-AAB7-17A9,2020-05-08,1986.29,GBP,True,True,"Nord,WV,Mecentley,Feramborghini",False,False,False,False,False,False,True,True
+Body and Exterior,License Plate Holder 769,Generic License Plate Holder,FQS-8B73-503F-C3CC,2022-11-18,1426.93,GBP,True,True,WV,True,True,False,True,True,True,False,True
+Body and Exterior,Grille 766,Generic Grille,FQS-C2BD-16DE-3ABE,2022-04-20,1935.65,GBP,False,True,Feramborghini,True,False,True,False,True,True,True,False
+Body and Exterior,Rear Window 394,Generic Rear Window,FQS-F467-A2A5-86A9,2025-05-31,1090.35,GBP,True,True,"WV,BMV,Nord",False,True,False,False,True,False,True,True
+Body and Exterior,Rear Window 106,Generic Rear Window,FQS-B5BE-2D40-E879,2024-03-13,21.64,GBP,True,True,"Mecentley,WV",True,False,True,False,False,True,False,True
+Body and Exterior,Side Mirrors 984,Allow driver to view rear/side traffic.,FQS-B42C-29EB-CE56,2024-04-02,1709.44,GBP,True,False,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,True,False,True,True,True,False
+Body and Exterior,Hood / Bonnet 417,Generic Hood / Bonnet,FQS-4402-C9AA-B03C,2015-04-15,1509.88,GBP,True,True,"Nord,WV",False,False,True,True,True,True,True,True
+Body and Exterior,Hood 721,Covers the engine compartment.,FQS-471F-B3D8-5D90,2018-09-04,401.43,GBP,False,True,"WV,BMV,Nord,Feramborghini,Mecentley",True,True,True,False,False,False,True,False
+Body and Exterior,Hood 565,Covers the engine compartment.,FQS-FC54-4449-E1E3,2017-05-16,1847.14,GBP,False,True,"Feramborghini,Nord,WV,BMV,Mecentley",True,False,True,True,False,True,True,False
+Body and Exterior,Antenna 303,Generic Antenna,FQS-359C-B020-08E7,2015-08-16,1518.23,GBP,True,False,"WV,BMV,Feramborghini",False,True,True,False,False,True,False,False
+Body and Exterior,Side Mirrors 009,Allow driver to view rear/side traffic.,FQS-E872-1758-CD1D,2016-07-26,296.51,GBP,True,True,WV,True,True,False,False,True,False,False,True
+Body and Exterior,Hood 891,Covers the engine compartment.,FQS-7BFB-DA25-3AB8,2021-05-23,648.22,GBP,False,True,WV,True,True,False,True,True,False,True,True
+Body and Exterior,Wiper Arms 847,Generic Wiper Arms,FQS-8DB1-5211-CBBC,2021-08-03,824.67,GBP,False,True,"Nord,WV,BMV",False,True,True,True,True,True,True,True
+Body and Exterior,Window Seals 414,Generic Window Seals,FQS-F833-0F77-C0A9,2019-03-18,1206.73,GBP,True,True,"Mecentley,Nord,BMV,Feramborghini,WV",True,False,True,True,True,False,True,False
+Body and Exterior,Wiper Arms 638,Generic Wiper Arms,FQS-3E8D-7B38-F83D,2023-08-26,1467.12,GBP,False,True,"Nord,Mecentley,BMV",True,True,True,False,True,False,False,True
+Body and Exterior,Trunk / Boot 568,Generic Trunk / Boot,FQS-3359-4F81-FF35,2016-04-17,1100.1,GBP,True,True,Feramborghini,True,True,True,True,False,False,True,False
+Body and Exterior,"Bumpers (Front, Rear) 813","Generic Bumpers (Front, Rear)",FQS-92F9-9CE8-213E,2025-05-17,1820.17,GBP,False,True,"BMV,Feramborghini,Mecentley",False,False,False,True,False,True,True,True
+Body and Exterior,Hood 274,Covers the engine compartment.,FQS-6B7D-F713-DC3E,2024-11-23,290.97,GBP,False,True,"BMV,Mecentley,Nord,WV,Feramborghini",False,False,True,False,True,True,True,True
+Body and Exterior,Fenders 069,Generic Fenders,FQS-71D5-574D-5B06,2020-06-10,472.31,GBP,True,False,"WV,Feramborghini",False,False,True,True,True,False,True,True
+Body and Exterior,Fenders 528,Generic Fenders,FQS-FF9F-708B-CCDC,2018-05-23,1073.57,GBP,False,False,"Feramborghini,WV,BMV,Mecentley",True,False,True,False,False,False,False,True
+Body and Exterior,Side Mirrors 414,Generic Side Mirrors,FQS-4798-2531-6ABB,2024-03-12,651.18,GBP,True,True,Mecentley,True,True,False,False,True,False,True,True
+Body and Exterior,Emblems / Badges 943,Generic Emblems / Badges,FQS-A1AB-158A-FEFB,2025-04-07,299.38,GBP,True,True,"Mecentley,Feramborghini",True,False,True,True,True,True,False,True
+Body and Exterior,Wiper Arms 871,Generic Wiper Arms,FQS-0D83-CB93-2EF8,2022-06-11,860.0,GBP,True,True,"Mecentley,Nord,BMV,WV",False,True,True,True,True,True,False,False
+Body and Exterior,Doors 466,Generic Doors,FQS-7C76-39CC-AC95,2017-12-14,1867.7,GBP,True,True,BMV,False,False,True,False,False,False,True,True
+Body and Exterior,Grille 734,Generic Grille,FQS-0947-FDB0-91DA,2019-08-30,170.84,GBP,False,True,"BMV,WV,Feramborghini,Nord,Mecentley",True,False,True,False,False,True,True,True
+Body and Exterior,Trunk / Boot 058,Generic Trunk / Boot,FQS-0D33-DDE6-9B02,2020-12-10,1509.5,GBP,True,True,Mecentley,True,False,False,True,True,True,True,True
+Body and Exterior,"Bumpers (Front, Rear) 144","Generic Bumpers (Front, Rear)",FQS-593E-C8E9-F62D,2016-02-29,1534.85,GBP,True,True,"BMV,Nord,Feramborghini",False,True,True,True,False,False,True,False
+Body and Exterior,Windshield 802,Generic Windshield,FQS-0B18-057C-D134,2022-02-20,1524.08,GBP,False,True,"Mecentley,Nord,BMV",True,True,False,False,False,True,True,True
+Body and Exterior,Windshield 815,Generic Windshield,FQS-3A57-55A0-CC01,2025-10-03,1386.33,GBP,True,True,Feramborghini,True,False,True,False,True,False,False,True
+Body and Exterior,Wiper Arms 935,Generic Wiper Arms,FQS-CC48-B4F8-2B6A,2017-05-08,726.06,GBP,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",True,False,False,False,False,False,True,False
+Body and Exterior,Doors 376,Generic Doors,FQS-9B3F-7CDE-E119,2020-01-23,864.84,GBP,False,True,"Nord,WV,Mecentley",True,False,False,True,True,False,True,False
+Body and Exterior,"Bumpers (Front, Rear) 620","Generic Bumpers (Front, Rear)",FQS-108C-132E-A830,2019-03-26,451.95,GBP,True,True,"WV,Mecentley,Feramborghini",True,False,True,False,True,True,True,False
+Body and Exterior,"Bumpers (Front, Rear) 037","Generic Bumpers (Front, Rear)",FQS-C382-6FF6-7418,2019-06-16,1337.95,GBP,False,True,"Feramborghini,Nord,Mecentley",True,True,True,False,False,False,True,False
+Body and Exterior,Trunk 043,Storage compartment at rear of vehicle.,FQS-73D3-A97F-3DBD,2021-02-16,1433.12,GBP,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,True,False,True,False,False,False,False
+Body and Exterior,Windshield 062,Generic Windshield,FQS-A181-2E0B-A360,2017-08-04,1939.11,GBP,True,True,"BMV,Feramborghini,Nord,WV",False,True,True,False,True,True,True,True
+Body and Exterior,Trunk 812,Storage compartment at rear of vehicle.,FQS-BBCD-6712-CF90,2017-03-30,1728.66,GBP,True,False,Nord,True,False,False,False,False,True,True,True
+Body and Exterior,Fenders 701,Generic Fenders,FQS-C833-38C3-D937,2024-08-12,1238.29,GBP,False,True,"BMV,Mecentley,Nord,Feramborghini,WV",True,True,True,True,True,True,True,True
+Body and Exterior,Side Windows 182,Generic Side Windows,FQS-F5F4-D3EA-55C4,2023-05-10,275.01,GBP,True,False,BMV,False,False,True,True,True,True,False,True
+Body and Exterior,Wiper Blades 542,Generic Wiper Blades,FQS-9A74-69AD-5651,2022-11-04,641.63,GBP,True,True,Mecentley,True,False,False,False,True,True,True,True
+Body and Exterior,Trunk / Boot 411,Generic Trunk / Boot,FQS-D48F-583C-ABBA,2015-08-01,588.97,GBP,True,True,"Nord,BMV",True,False,True,False,False,False,True,True
+Body and Exterior,Grille 232,Generic Grille,FQS-CD7E-9F4E-87CB,2022-04-28,86.29,GBP,False,False,"Nord,Feramborghini,Mecentley,BMV,WV",True,False,False,True,False,True,False,True
+Body and Exterior,Side Windows 331,Generic Side Windows,FQS-5006-0FDC-3358,2018-11-19,1303.92,GBP,True,True,"Mecentley,WV,BMV,Feramborghini",False,True,True,False,False,True,False,True
+Body and Exterior,Window Seals 515,Generic Window Seals,FQS-BCDA-1384-9BB9,2022-06-26,1204.66,GBP,False,True,"BMV,Nord",True,True,True,True,False,True,False,False
+Body and Exterior,License Plate Holder 120,Generic License Plate Holder,FQS-C42A-101C-ECA7,2019-08-04,576.12,GBP,False,True,"WV,Feramborghini,Nord,Mecentley,BMV",False,False,True,False,True,False,False,False
+Body and Exterior,Trunk / Boot 209,Generic Trunk / Boot,FQS-5023-96B1-6BA5,2018-02-28,573.91,GBP,True,True,"Feramborghini,WV,Nord,Mecentley",False,False,True,False,True,False,False,True
+Body and Exterior,Bumpers 578,Protects car front and rear from impacts.,FQS-BCA3-9AAA-1C7F,2020-12-30,1249.78,GBP,True,True,"BMV,Mecentley,Nord",True,True,False,True,False,True,False,True
+Body and Exterior,Hood 150,Covers the engine compartment.,FQS-D3AB-CB49-6860,2018-05-10,1637.35,GBP,True,True,Nord,False,True,False,False,True,True,True,True
+Body and Exterior,Windshield 158,Generic Windshield,FQS-288A-E422-0861,2020-12-25,1656.16,GBP,True,True,"WV,BMV,Mecentley,Feramborghini",True,False,True,False,False,True,False,True
+Body and Exterior,Wiper Arms 532,Generic Wiper Arms,FQS-B6FA-3611-BF24,2020-10-17,114.11,GBP,True,False,"BMV,Nord",False,False,True,True,True,True,False,True
+Body and Exterior,Trunk 763,Storage compartment at rear of vehicle.,FQS-E3A2-D494-B252,2018-12-08,1037.68,GBP,True,True,"WV,Feramborghini",True,False,False,True,True,False,True,True
+Body and Exterior,Spoiler 330,Generic Spoiler,FQS-0B69-4E84-83BF,2018-10-28,1005.6,GBP,True,True,"WV,BMV,Mecentley",True,True,True,False,True,True,True,False
+Body and Exterior,License Plate Holder 434,Generic License Plate Holder,FQS-D374-00E2-FD71,2018-08-09,174.41,GBP,True,True,"WV,BMV,Mecentley,Feramborghini",False,True,True,False,False,False,True,False
+Body and Exterior,Bumpers 561,Protects car front and rear from impacts.,FQS-E743-A120-ECAC,2019-02-19,253.06,GBP,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",False,False,False,True,True,True,True,True
+Body and Exterior,License Plate Holder 932,Generic License Plate Holder,FQS-41DE-0FF5-ECEA,2023-02-13,517.94,GBP,True,True,"Mecentley,Feramborghini,BMV,Nord,WV",True,True,False,True,False,True,False,True
+Body and Exterior,Side Mirrors 053,Allow driver to view rear/side traffic.,FQS-7452-E68A-D7F2,2016-02-02,1962.18,GBP,False,True,"Nord,Mecentley,BMV,Feramborghini",False,False,False,True,False,True,False,True
+Body and Exterior,Fenders 829,Generic Fenders,FQS-B0E0-99A4-D11F,2025-02-17,1252.45,GBP,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",False,False,True,True,True,False,True,False
+Body and Exterior,License Plate Holder 331,Generic License Plate Holder,FQS-D1DA-0895-8115,2018-04-06,1087.42,GBP,False,True,"BMV,Mecentley",False,True,True,True,True,False,False,True
+Body and Exterior,Fenders 870,Generic Fenders,FQS-4A48-0179-BEFD,2019-07-15,1206.26,GBP,True,True,"WV,Mecentley,Feramborghini",True,False,True,True,False,False,True,True
+Body and Exterior,Window Seals 287,Generic Window Seals,FQS-3F98-0446-8509,2016-09-29,1416.46,GBP,False,True,"BMV,Feramborghini",False,False,True,True,True,False,True,False
+Body and Exterior,Windshield 994,Front glass panel for visibility and protection.,FQS-1B21-FBF2-0167,2022-07-23,1795.58,GBP,True,True,"BMV,Mecentley,Feramborghini",True,False,True,True,False,False,True,False
+Body and Exterior,Spoiler 993,Generic Spoiler,FQS-4405-5AA2-9081,2017-01-27,1488.81,GBP,False,True,Nord,True,True,False,True,True,False,True,False
+Body and Exterior,Wiper Blades 012,Generic Wiper Blades,FQS-0FEB-1FF5-FB0B,2021-05-12,1791.69,GBP,True,False,"Mecentley,Feramborghini,Nord,WV,BMV",False,True,True,False,True,True,True,False
+Body and Exterior,"Bumpers (Front, Rear) 674","Generic Bumpers (Front, Rear)",FQS-D7E3-5B5F-3829,2025-12-19,1058.66,GBP,True,True,"Mecentley,WV,BMV",True,True,True,True,True,False,True,True
+Body and Exterior,Trunk 058,Storage compartment at rear of vehicle.,FQS-BDFD-E9A1-AB18,2019-09-03,1451.93,GBP,False,True,BMV,True,False,True,True,False,True,False,False
+Body and Exterior,Antenna 625,Generic Antenna,FQS-DE70-5DC2-C16F,2023-01-27,787.95,GBP,False,True,BMV,False,True,False,False,True,False,False,True
+Body and Exterior,Hood 210,Covers the engine compartment.,FQS-0D90-8968-177E,2023-09-11,954.88,GBP,False,True,"Nord,BMV,Feramborghini",False,True,False,False,True,False,True,False
+Body and Exterior,Doors 214,Allow entry and exit from the vehicle.,FQS-BC72-C7B8-E2A1,2016-09-04,1536.96,GBP,False,True,"Nord,Mecentley",True,False,True,False,True,True,True,False
+Body and Exterior,Antenna 297,Generic Antenna,FQS-9ECD-D22B-03EB,2021-10-17,1323.44,GBP,True,True,"BMV,WV,Nord,Mecentley",True,True,True,False,True,False,True,True
+Body and Exterior,Side Mirrors 933,Allow driver to view rear/side traffic.,FQS-8637-78AB-62C7,2018-05-18,1556.62,GBP,True,True,"Feramborghini,Nord",False,True,True,False,False,True,True,False
+Body and Exterior,Windshield 144,Generic Windshield,FQS-8B14-5E4E-B0B3,2021-06-22,1112.0,GBP,False,True,"BMV,Nord,WV",False,True,False,False,True,False,False,False
+Body and Exterior,Hood 130,Covers the engine compartment.,FQS-C333-A8B5-8742,2015-07-26,1661.95,GBP,True,True,"Mecentley,Feramborghini",True,False,False,True,False,True,False,True
+Body and Exterior,"Bumpers (Front, Rear) 319","Generic Bumpers (Front, Rear)",FQS-F71A-A68B-9429,2018-09-19,1021.9,GBP,True,True,"WV,Nord,BMV,Feramborghini,Mecentley",True,True,False,True,True,False,False,True
+Body and Exterior,Hood 611,Covers the engine compartment.,FQS-4FD8-3BD1-B62A,2020-02-24,1120.69,GBP,False,False,"Nord,Feramborghini,WV,Mecentley",False,False,False,True,True,False,True,False
+Body and Exterior,Side Windows 880,Generic Side Windows,FQS-A54D-9CC5-9226,2024-05-14,732.34,GBP,True,True,"Feramborghini,Mecentley,Nord,BMV",False,False,True,True,False,True,True,False
+Body and Exterior,Windshield Washer Pump 062,Generic Windshield Washer Pump,FQS-E99F-FB29-AA7B,2019-01-11,1534.0,GBP,True,True,WV,False,True,True,False,False,False,False,True
+Body and Exterior,Wiper Arms 678,Generic Wiper Arms,FQS-0D29-EF08-62FB,2017-03-08,1942.76,GBP,True,False,"Mecentley,Feramborghini,Nord,BMV",True,True,True,True,True,False,False,True
+Body and Exterior,Grille 742,Generic Grille,FQS-AB3B-E9DD-0A11,2019-04-08,1903.31,GBP,True,True,"WV,Mecentley,Nord,Feramborghini,BMV",True,True,False,True,True,True,False,True
+Body and Exterior,Trunk 611,Storage compartment at rear of vehicle.,FQS-BC1E-6467-3A53,2019-05-19,1347.66,GBP,True,True,WV,False,True,True,False,True,False,True,True
+Body and Exterior,Roof Rack 651,Generic Roof Rack,FQS-1459-DC1D-7AF2,2024-04-14,556.35,GBP,True,True,"Nord,Mecentley,WV",False,True,True,False,True,True,True,True
+Body and Exterior,License Plate Holder 358,Generic License Plate Holder,FQS-E88A-B4D9-7C04,2015-10-14,731.52,GBP,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,True,True,True,False,True,True,False
+Body and Exterior,License Plate Holder 885,Generic License Plate Holder,FQS-2E01-80E6-B9A7,2024-11-29,1841.82,GBP,True,True,Mecentley,False,True,False,False,False,False,False,True
+Body and Exterior,Grille 989,Generic Grille,FQS-8CE9-34A7-E642,2024-07-02,891.18,GBP,True,True,"Feramborghini,BMV,WV,Mecentley",True,True,False,True,False,True,True,True
+Body and Exterior,Antenna 002,Generic Antenna,FQS-7D9B-5532-F7ED,2025-01-27,1776.46,GBP,False,True,"Feramborghini,WV,BMV,Mecentley",True,False,True,True,True,True,True,True
+Body and Exterior,Wiper Blades 817,Generic Wiper Blades,FQS-1627-25D0-D048,2019-06-29,1490.79,GBP,True,True,Mecentley,False,True,False,True,True,True,True,False
+Body and Exterior,Hood / Bonnet 935,Generic Hood / Bonnet,FQS-82A1-61C0-84DD,2020-12-29,576.47,GBP,True,False,"Nord,WV,Mecentley,Feramborghini",True,True,False,True,False,True,True,True
+Body and Exterior,Windshield 340,Front glass panel for visibility and protection.,FQS-C792-C225-ED72,2017-11-23,1469.28,GBP,False,False,"BMV,WV,Feramborghini,Mecentley,Nord",True,True,True,True,False,True,True,True
+Body and Exterior,Antenna 992,Generic Antenna,FQS-0A4E-4ECF-998B,2018-02-07,1619.91,GBP,True,True,BMV,True,True,True,True,False,True,True,False
+Body and Exterior,Windshield Washer Pump 390,Generic Windshield Washer Pump,FQS-B447-19FF-168B,2016-06-27,177.15,GBP,False,True,"Mecentley,Nord,BMV,Feramborghini,WV",True,True,False,True,True,True,True,True
+Body and Exterior,Emblems / Badges 261,Generic Emblems / Badges,FQS-377F-6730-2485,2015-08-31,1648.38,GBP,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",False,True,True,False,False,True,False,False
+Body and Exterior,License Plate Holder 287,Generic License Plate Holder,FQS-EB11-088F-0788,2016-07-10,1302.18,GBP,True,True,WV,False,True,False,True,True,True,False,False
+Body and Exterior,Doors 592,Allow entry and exit from the vehicle.,FQS-BCAF-261E-EF1E,2021-04-22,1371.4,GBP,False,True,"BMV,Nord,WV",True,False,True,False,True,True,True,False
+Body and Exterior,Side Windows 478,Generic Side Windows,FQS-9771-2048-6061,2024-07-23,1736.6,GBP,True,True,BMV,True,False,True,False,True,True,True,False
+Body and Exterior,Wiper Arms 030,Generic Wiper Arms,FQS-D66B-8870-6C32,2023-01-20,1183.21,GBP,True,True,Nord,True,False,False,False,True,False,False,False
+Body and Exterior,"Bumpers (Front, Rear) 840","Generic Bumpers (Front, Rear)",FQS-08BA-8620-02BC,2016-10-04,136.23,GBP,False,True,"Mecentley,BMV,WV",False,False,True,True,False,True,False,True
+Body and Exterior,Trunk / Boot 407,Generic Trunk / Boot,FQS-D95B-5343-A55E,2020-11-21,1229.76,GBP,False,True,"Nord,BMV",True,False,False,True,False,False,True,True
+Body and Exterior,Roof Rack 029,Generic Roof Rack,FQS-5074-58FA-2446,2019-12-08,1067.18,GBP,True,True,"Feramborghini,Mecentley,Nord",True,True,True,False,True,True,False,True
+Body and Exterior,Roof Rack 259,Generic Roof Rack,FQS-9276-FF53-6ED7,2022-09-12,1003.26,GBP,True,False,"WV,Feramborghini,Nord",False,True,False,False,False,True,True,True
+Body and Exterior,Trunk 730,Storage compartment at rear of vehicle.,FQS-4F21-E33A-D36E,2024-10-02,661.04,GBP,True,False,"Nord,BMV,Feramborghini,WV,Mecentley",True,True,False,True,False,True,True,False
+Body and Exterior,Emblems / Badges 211,Generic Emblems / Badges,FQS-7D22-F51F-A179,2015-09-18,1803.48,GBP,True,False,"BMV,Nord,Feramborghini",True,True,True,False,False,False,False,True
+Body and Exterior,Fenders 463,Generic Fenders,FQS-8251-5A70-5777,2019-09-20,81.9,GBP,False,False,"WV,BMV,Feramborghini,Mecentley",True,False,False,True,True,False,False,False
+Body and Exterior,Windshield 465,Generic Windshield,FQS-37BE-1338-FC40,2015-04-12,461.12,GBP,True,True,"Nord,Mecentley,WV,BMV",True,True,True,True,False,False,False,True
+Body and Exterior,Roof Rack 136,Generic Roof Rack,FQS-62BB-E3A3-FD21,2016-08-28,1818.98,GBP,False,False,BMV,False,True,False,False,True,False,False,False
+Body and Exterior,Emblems / Badges 046,Generic Emblems / Badges,FQS-DAAF-6F1C-B1DA,2021-02-07,1639.18,GBP,True,True,"WV,Mecentley,Nord,BMV",True,False,True,True,True,True,True,True
+Body and Exterior,Grille 475,Generic Grille,FQS-E7E9-116F-6DB5,2021-04-30,1566.57,GBP,True,True,BMV,False,True,True,True,True,True,False,True
+Body and Exterior,Window Seals 513,Generic Window Seals,FQS-BB1A-483D-EEE0,2025-08-08,346.1,GBP,True,True,"Mecentley,WV,Feramborghini",True,True,False,True,True,True,True,False
+Body and Exterior,Trunk 543,Storage compartment at rear of vehicle.,FQS-40B7-E714-0E4A,2016-05-11,1619.84,GBP,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,True,False,True,False,True,False,False
+Body and Exterior,Rear Window 816,Generic Rear Window,FQS-9653-FE0C-41A3,2016-12-24,141.46,GBP,True,True,Nord,True,False,True,False,True,False,False,True
+Body and Exterior,Trunk 358,Storage compartment at rear of vehicle.,FQS-450D-B291-28C2,2016-06-15,1508.2,GBP,True,True,"BMV,Nord,Feramborghini",True,False,True,False,True,True,True,False
+Transmission System,Clutch Slave Cylinder 284,Generic Clutch Slave Cylinder,FQS-AFF6-8824-86A1,2022-02-22,1612.79,GBP,False,False,"BMV,WV,Mecentley,Nord",True,True,False,True,False,False,False,True
+Transmission System,Transmission 800,Transfers power from engine to wheels.,FQS-542E-CA94-76EE,2024-04-27,1970.68,GBP,False,True,"Mecentley,Feramborghini,Nord,BMV,WV",True,True,False,True,False,True,False,False
+Transmission System,Clutch Slave Cylinder 899,Generic Clutch Slave Cylinder,FQS-D285-DCFB-9CB0,2024-09-04,182.65,GBP,True,True,"Mecentley,BMV,Feramborghini",False,False,True,False,False,False,False,True
+Transmission System,Differential 790,Distributes engine torque to drive wheels.,FQS-D685-B614-456D,2017-04-25,1552.88,GBP,True,True,"Nord,Feramborghini",False,False,True,True,False,False,True,False
+Transmission System,Transmission (Manual / Automatic) 847,Generic Transmission (Manual / Automatic),FQS-15C9-3F5D-2496,2021-07-18,1254.04,GBP,True,True,"Feramborghini,Mecentley",True,False,False,False,True,True,False,False
+Transmission System,Gearbox 444,Generic Gearbox,FQS-8057-658C-F332,2019-08-22,1803.33,GBP,True,False,"WV,Mecentley,Feramborghini,Nord,BMV",True,False,True,True,False,False,True,True
+Transmission System,Transmission Mount 556,Generic Transmission Mount,FQS-BE0C-35AB-4376,2016-05-25,1672.99,GBP,True,True,"Nord,Mecentley",True,False,True,True,False,True,True,True
+Transmission System,Transmission Mount 952,Generic Transmission Mount,FQS-7E26-F3D8-7789,2023-08-25,1686.42,GBP,True,True,"Nord,BMV,WV",True,True,False,True,True,False,True,True
+Transmission System,Transmission 198,Transfers power from engine to wheels.,FQS-B668-A33D-BBE8,2024-10-05,667.72,GBP,True,True,"Nord,Mecentley",True,True,True,False,True,True,True,True
+Transmission System,Torque Converter 634,Generic Torque Converter,FQS-31E3-D704-1871,2020-12-16,64.07,GBP,False,True,"Nord,Mecentley",False,True,True,True,True,True,False,False
+Transmission System,Axles 768,Generic Axles,FQS-4BEB-C341-960C,2016-08-12,480.25,GBP,True,True,"Feramborghini,WV,BMV,Nord",False,False,True,True,False,True,False,False
+Transmission System,Clutch Plate 728,Engages and disengages power to transmission.,FQS-C36A-D3FD-E111,2017-08-10,1862.6,GBP,True,False,"BMV,WV,Mecentley,Feramborghini",False,True,True,False,True,True,True,False
+Transmission System,Transmission (Manual / Automatic) 912,Generic Transmission (Manual / Automatic),FQS-56A1-8432-AAAC,2025-07-30,1512.89,GBP,True,True,"Feramborghini,BMV,Nord,Mecentley,WV",True,True,False,True,False,True,True,False
+Transmission System,Clutch Plate 541,Generic Clutch Plate,FQS-E8EF-6898-7661,2023-05-25,1638.0,GBP,True,False,"Mecentley,BMV,Nord,WV",True,True,True,True,True,True,False,True
+Transmission System,Clutch Plate 095,Generic Clutch Plate,FQS-611F-C082-5DB5,2025-05-25,1067.97,GBP,True,False,"WV,Nord,BMV,Mecentley",False,False,True,True,True,False,False,True
+Transmission System,Transmission 116,Transfers power from engine to wheels.,FQS-9080-275A-FCC5,2021-04-27,1105.75,GBP,True,True,BMV,True,True,False,True,False,True,True,True
+Transmission System,Differential 432,Distributes engine torque to drive wheels.,FQS-9189-A8B6-29D0,2020-01-28,201.2,GBP,True,True,"BMV,Mecentley,Feramborghini",False,True,True,False,True,False,False,True
+Transmission System,Gearbox 418,Changes vehicle speed and torque.,FQS-A22D-34B2-CEF9,2025-01-17,509.47,GBP,True,False,"Nord,BMV",False,True,False,False,False,False,False,True
+Transmission System,Clutch Master Cylinder 419,Generic Clutch Master Cylinder,FQS-3355-ED4D-CAF2,2025-03-22,1076.44,GBP,True,True,"BMV,Feramborghini",True,False,True,False,True,True,True,False
+Transmission System,Drive Shaft 242,Generic Drive Shaft,FQS-0326-FE58-48B1,2016-08-05,588.71,GBP,True,True,"Mecentley,BMV,WV,Feramborghini",False,True,True,False,True,True,True,False
+Transmission System,Transmission (Manual / Automatic) 449,Generic Transmission (Manual / Automatic),FQS-60E2-7120-1C76,2017-03-31,257.28,GBP,False,False,"Mecentley,BMV,WV,Feramborghini,Nord",True,False,False,False,False,True,True,True
+Transmission System,Clutch Slave Cylinder 722,Generic Clutch Slave Cylinder,FQS-4B3E-C06A-0456,2025-12-27,680.74,GBP,True,True,"WV,BMV,Nord",False,True,True,False,False,False,False,True
+Transmission System,Transmission 059,Transfers power from engine to wheels.,FQS-685F-013F-4BAD,2022-09-11,1625.21,GBP,True,False,WV,True,False,True,True,False,True,False,False
+Transmission System,Transmission Mount 655,Generic Transmission Mount,FQS-B544-9680-FDE8,2017-01-08,1023.39,GBP,True,True,"WV,BMV",True,True,True,False,True,False,True,True
+Transmission System,Clutch Slave Cylinder 338,Generic Clutch Slave Cylinder,FQS-89A8-EF6E-0206,2023-04-23,642.1,GBP,True,False,"WV,BMV,Feramborghini,Mecentley",True,False,False,True,False,True,True,False
+Transmission System,Differential 289,Generic Differential,FQS-22C0-7EE7-89C4,2018-05-10,303.12,GBP,True,False,"BMV,Nord,Feramborghini,WV",True,True,True,False,False,False,False,True
+Transmission System,Clutch Slave Cylinder 233,Generic Clutch Slave Cylinder,FQS-7B86-714E-8231,2015-02-28,511.74,GBP,False,True,"BMV,WV,Feramborghini,Nord,Mecentley",False,True,True,False,True,True,True,False
+Transmission System,Axles 773,Generic Axles,FQS-6AB8-4114-2548,2022-09-13,79.69,GBP,True,False,"Nord,Feramborghini",False,True,False,True,True,True,True,False
+Transmission System,Clutch Slave Cylinder 927,Generic Clutch Slave Cylinder,FQS-2E6E-1308-AC07,2023-05-27,1784.88,GBP,True,True,Nord,True,True,True,False,False,False,True,False
+Transmission System,Clutch Plate 225,Engages and disengages power to transmission.,FQS-8D0E-0643-A657,2025-08-19,1227.39,GBP,True,False,"Nord,Feramborghini,Mecentley,BMV",True,False,True,True,True,False,False,True
+Transmission System,Drive Shaft 175,Generic Drive Shaft,FQS-690E-DAA2-DB9B,2017-10-01,1765.63,GBP,True,True,Nord,False,False,True,True,True,True,False,False
+Transmission System,Differential 416,Generic Differential,FQS-B3DA-B347-829E,2023-04-06,1019.62,GBP,True,False,"WV,BMV,Nord,Feramborghini",True,False,True,True,True,True,False,False
+Transmission System,Clutch Master Cylinder 485,Generic Clutch Master Cylinder,FQS-7723-F236-521B,2016-07-23,1207.34,GBP,True,True,"BMV,Mecentley",True,True,False,True,True,False,False,True
+Transmission System,Synchromesh Gears 437,Generic Synchromesh Gears,FQS-6E67-17C2-4991,2017-07-28,677.53,GBP,True,True,WV,False,True,True,False,False,False,True,True
+Transmission System,Clutch Plate 584,Engages and disengages power to transmission.,FQS-C6AB-A849-5411,2016-06-23,1505.06,GBP,True,True,Nord,False,True,False,True,True,True,True,True
+Transmission System,Clutch Master Cylinder 681,Generic Clutch Master Cylinder,FQS-2F6D-788D-CBEF,2025-02-04,1497.98,GBP,True,True,Nord,True,False,True,True,True,False,False,True
+Transmission System,Differential 917,Generic Differential,FQS-D488-6DC1-8DF2,2025-01-20,307.52,GBP,False,True,"Mecentley,WV,Feramborghini",True,True,True,False,True,True,True,False
+Transmission System,Flywheel 402,Generic Flywheel,FQS-FD78-BC59-D5E7,2019-09-30,237.02,GBP,True,True,"Feramborghini,BMV,Nord,WV",True,True,False,False,True,False,False,True
+Transmission System,CV Joints 329,Generic CV Joints,FQS-96F5-4713-FA53,2023-10-24,1913.19,GBP,True,False,"Nord,Feramborghini,BMV,Mecentley",False,True,True,True,True,False,True,False
+Transmission System,Drive Shaft 969,Generic Drive Shaft,FQS-552C-B735-2F12,2019-12-28,440.04,GBP,True,False,"BMV,Nord",True,True,True,False,False,False,True,False
+Transmission System,Transmission Cooler 057,Generic Transmission Cooler,FQS-7067-5EE7-F085,2015-11-20,93.86,GBP,True,True,"Feramborghini,Nord,BMV,WV",True,False,True,True,True,False,False,False
+Transmission System,Pressure Plate 799,Generic Pressure Plate,FQS-45E8-CBCB-0B6D,2021-08-01,302.82,GBP,False,True,"Nord,Feramborghini,Mecentley",True,False,False,True,False,True,True,False
+Transmission System,Pressure Plate 600,Generic Pressure Plate,FQS-7836-A6F9-E55B,2022-04-12,1208.34,GBP,True,True,"Mecentley,WV",True,True,True,False,True,False,False,True
+Transmission System,Transmission (Manual / Automatic) 418,Generic Transmission (Manual / Automatic),FQS-3C31-2E96-F643,2022-01-08,1426.6,GBP,True,False,Feramborghini,True,False,True,True,True,False,False,False
+Transmission System,Transmission (Manual / Automatic) 205,Generic Transmission (Manual / Automatic),FQS-4456-8A06-B66F,2019-12-08,709.19,GBP,True,True,"WV,Feramborghini,Nord,BMV,Mecentley",True,True,True,False,True,True,False,False
+Transmission System,Differential 606,Distributes engine torque to drive wheels.,FQS-1607-D348-9554,2020-09-21,1252.05,GBP,True,True,"WV,Nord",True,True,True,True,True,True,False,True
+Transmission System,Clutch Plate 696,Generic Clutch Plate,FQS-3953-0C97-8CFE,2015-08-23,1597.16,GBP,True,True,WV,False,False,True,False,True,True,True,False
+Transmission System,Drive Shaft 574,Generic Drive Shaft,FQS-6351-7D6D-A3ED,2016-05-27,1561.24,GBP,True,True,"Feramborghini,WV,Nord,Mecentley",True,False,False,False,True,True,False,True
+Transmission System,Shift Linkage 346,Generic Shift Linkage,FQS-F6E4-BEEA-5E46,2016-09-24,484.49,GBP,True,False,Nord,True,False,True,True,False,False,True,True
+Transmission System,Clutch Plate 583,Generic Clutch Plate,FQS-3956-62AE-529A,2021-12-24,915.79,GBP,False,True,"Mecentley,Feramborghini,WV,Nord",True,True,False,True,False,True,True,True
+Transmission System,Transmission (Manual / Automatic) 118,Generic Transmission (Manual / Automatic),FQS-6C9E-C03E-ED5E,2018-06-30,1112.66,GBP,True,True,"Feramborghini,Mecentley,Nord",True,True,True,True,False,False,False,True
+Transmission System,Pressure Plate 289,Generic Pressure Plate,FQS-6634-DA71-AA7A,2018-07-24,145.9,GBP,True,True,"WV,Nord,Feramborghini",True,True,False,True,False,False,False,False
+Transmission System,Clutch Plate 326,Engages and disengages power to transmission.,FQS-BE66-F3CD-53DF,2016-02-25,1360.19,GBP,True,True,"Nord,Mecentley",True,True,False,True,False,False,True,False
+Transmission System,Clutch Plate 450,Engages and disengages power to transmission.,FQS-B0B4-2F2A-0A0A,2021-04-07,421.1,GBP,True,True,"BMV,Mecentley,Feramborghini,Nord,WV",False,True,True,False,True,True,True,True
+Transmission System,Gearbox 607,Generic Gearbox,FQS-F3B1-2A31-472D,2019-02-11,1858.07,GBP,False,True,"Mecentley,Feramborghini,BMV,Nord",False,False,True,True,True,True,True,True
+Transmission System,Synchromesh Gears 155,Generic Synchromesh Gears,FQS-FB46-9A13-1BD5,2025-10-05,1024.77,GBP,False,True,"WV,Mecentley,BMV",True,True,True,True,False,False,True,True
+Transmission System,Transmission Cooler 605,Generic Transmission Cooler,FQS-B896-D6F0-3DD3,2018-07-28,1585.52,GBP,True,True,Feramborghini,False,True,True,False,False,False,False,True
+Transmission System,Axles 120,Generic Axles,FQS-A5A4-2326-7561,2024-06-07,1952.72,GBP,True,True,Feramborghini,True,True,True,True,True,True,True,True
+Transmission System,Gearbox 129,Changes vehicle speed and torque.,FQS-715D-EACA-615F,2022-07-18,40.42,GBP,False,False,Feramborghini,True,True,True,False,True,True,True,True
+Wheels and Tires,Tires 740,Generic Tires,FQS-2186-E690-7768,2017-11-24,1793.24,GBP,True,True,"Nord,WV,BMV",False,True,True,True,True,True,True,True
+Wheels and Tires,Hubcaps 387,Generic Hubcaps,FQS-02C7-EFFF-EC14,2025-02-23,660.28,GBP,True,True,"WV,BMV,Nord",True,True,False,True,True,True,True,True
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 597,Generic Tire Pressure Monitoring Sensors (TPMS),FQS-9179-7867-1413,2018-07-28,236.3,GBP,True,True,"Mecentley,BMV,Feramborghini",True,False,False,True,True,False,True,False
+Wheels and Tires,Hubcaps 785,Generic Hubcaps,FQS-15A8-32CA-2A03,2018-05-24,721.98,GBP,True,True,"WV,BMV",False,True,False,False,True,False,True,True
+Wheels and Tires,Wheel Bolts / Lug Nuts 697,Generic Wheel Bolts / Lug Nuts,FQS-EC43-490D-FB3A,2017-05-11,1168.88,GBP,True,True,"BMV,Mecentley",True,True,True,False,True,False,False,False
+Wheels and Tires,Wheel Bolts / Lug Nuts 994,Generic Wheel Bolts / Lug Nuts,FQS-2917-F9F9-3177,2021-01-28,302.83,GBP,False,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,True,True,True,False,False,True,True
+Wheels and Tires,Rims / Wheels 734,Generic Rims / Wheels,FQS-F66B-6447-35B5,2017-02-26,1470.35,GBP,False,True,"Nord,BMV,Mecentley",True,True,False,True,True,True,True,True
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 493,Generic Tire Pressure Monitoring Sensors (TPMS),FQS-E61F-B923-24B8,2015-11-14,1462.32,GBP,True,True,Feramborghini,False,False,True,False,True,True,True,True
+Wheels and Tires,Hubcaps 586,Generic Hubcaps,FQS-C7F4-B007-0F0C,2015-08-09,339.05,GBP,True,True,"WV,Mecentley,Nord,Feramborghini",True,True,True,True,True,False,True,False
+Wheels and Tires,Rims / Wheels 050,Generic Rims / Wheels,FQS-CBD3-C529-12E6,2021-08-18,1410.46,GBP,False,False,"Nord,Feramborghini,Mecentley",True,False,True,False,True,True,True,True
+Wheels and Tires,Rims / Wheels 002,Generic Rims / Wheels,FQS-25FE-9D5F-2013,2017-05-15,426.72,GBP,True,False,"Nord,Mecentley",True,True,False,True,True,False,False,False
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 297,Generic Tire Pressure Monitoring Sensors (TPMS),FQS-FBEA-C86B-4EE6,2020-06-01,1391.31,GBP,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",False,True,False,True,False,False,True,True
+Wheels and Tires,Rims / Wheels 713,Generic Rims / Wheels,FQS-17A8-BC0D-C5E0,2017-06-01,701.53,GBP,True,True,Nord,True,False,True,True,False,True,True,False
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 127,Generic Tire Pressure Monitoring Sensors (TPMS),FQS-CA12-5544-EBB8,2019-05-04,1778.52,GBP,True,True,"Mecentley,Feramborghini",True,True,False,True,False,True,True,False
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) 652,Generic Tire Pressure Monitoring Sensors (TPMS),FQS-6FD7-3163-3440,2019-12-31,440.13,GBP,True,True,Feramborghini,True,False,True,True,False,True,True,True
+Wheels and Tires,Wheel Bolts / Lug Nuts 932,Generic Wheel Bolts / Lug Nuts,FQS-B8AB-3049-77FB,2024-05-25,366.88,GBP,True,True,"Feramborghini,Nord,Mecentley",True,False,True,True,True,True,False,True
+Wheels and Tires,Rims / Wheels 414,Generic Rims / Wheels,FQS-6643-0381-08B1,2022-08-20,1145.48,GBP,True,False,Feramborghini,False,True,True,True,True,True,False,True
+Safety Systems,Crumple Zones 191,Generic Crumple Zones,FQS-C403-8708-8E52,2023-05-03,1636.11,GBP,False,True,"Nord,Feramborghini,Mecentley",False,True,False,True,True,True,True,True
+Safety Systems,Roll Cage (in racing cars) 818,Generic Roll Cage (in racing cars),FQS-4E7D-9041-B1DB,2023-12-19,1772.02,GBP,False,True,"Mecentley,BMV",True,True,True,True,True,True,False,False
+Safety Systems,Crumple Zones 344,Generic Crumple Zones,FQS-C5D8-5F3B-A7E3,2024-11-14,793.47,GBP,True,True,"Mecentley,WV",False,True,True,True,True,True,True,True
+Suspension,Strut Tower Brace 572,Improves chassis rigidity and cornering.,FQS-D8B9-80A5-46A0,2022-02-26,1187.46,GBP,True,True,"BMV,Feramborghini,WV,Nord",False,True,True,True,True,False,True,True
+Suspension,Adjustable Coilovers 830,Allow height and damping adjustment.,FQS-3506-B015-BA1F,2020-08-01,121.15,GBP,True,True,"Nord,Feramborghini",False,True,True,False,True,True,True,False
+Suspension,Lowering Springs 964,Lowers ride height and improves handling.,FQS-D421-755B-1D4C,2022-08-20,691.46,GBP,True,False,BMV,True,False,True,False,False,False,False,True
+Suspension,Adjustable Coilovers 012,Allow height and damping adjustment.,FQS-B78E-F381-91EB,2016-01-22,1020.67,GBP,False,True,"BMV,Mecentley,Nord",True,False,True,False,True,False,False,True
+Suspension,Adjustable Coilovers 929,Allow height and damping adjustment.,FQS-5DA2-32FD-AAE7,2023-05-25,1397.79,GBP,True,True,"Feramborghini,Nord,BMV,WV",True,False,True,False,True,True,True,False
+Suspension,Lowering Springs 195,Lowers ride height and improves handling.,FQS-4DF5-9758-8A90,2022-03-13,1663.33,GBP,True,True,BMV,True,True,True,False,True,False,True,True
+Suspension,Lowering Springs 024,Lowers ride height and improves handling.,FQS-E939-3727-C216,2023-08-05,872.71,GBP,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,True,True,True,False,True,True,True
+Braking System,Brake Lines 144,Generic Brake Lines,FQS-7CD8-F6C7-C638,2016-02-01,1854.79,GBP,True,False,"Nord,Mecentley,BMV",False,True,True,False,True,True,True,True
+Braking System,Proportioning Valve 427,Generic Proportioning Valve,FQS-F13D-FAD9-6F94,2016-10-23,1910.43,GBP,False,True,"Nord,Mecentley,WV",True,False,False,False,True,True,True,True
+Braking System,ABS Sensors 945,Generic ABS Sensors,FQS-C2D4-9E3E-FDFD,2015-06-05,1447.31,GBP,True,True,"Nord,BMV,Feramborghini,Mecentley",False,False,False,True,True,False,True,False
+Braking System,Brake Pedal 855,Generic Brake Pedal,FQS-A8C6-895F-07AA,2020-09-01,487.44,GBP,True,True,"Feramborghini,BMV",False,False,True,False,True,False,True,True
+Braking System,Brake Shoes 608,Generic Brake Shoes,FQS-A6AD-423E-E40A,2018-06-22,1221.7,GBP,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",True,True,False,True,True,True,True,True
+Braking System,Brake Calipers 214,Houses the brake pads and pistons.,FQS-E0D2-E6FC-30D2,2016-08-07,46.14,GBP,True,True,"Nord,BMV,Feramborghini,Mecentley",True,True,False,False,True,True,True,True
+Braking System,Big Brake Kit 570,Larger brakes for better stopping power.,FQS-41E6-2829-4E3D,2024-09-11,497.01,GBP,False,False,"BMV,WV,Feramborghini",True,True,False,True,True,True,False,True
+Braking System,Brake Shoes 006,Generic Brake Shoes,FQS-46A3-AFBB-CBD5,2025-07-09,781.37,GBP,False,True,"Mecentley,BMV,Nord,Feramborghini,WV",True,False,False,True,False,True,False,True
+Braking System,Proportioning Valve 292,Generic Proportioning Valve,FQS-A91A-6D09-84C7,2024-03-02,65.6,GBP,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,True,False,False,True,False,True,False
+Braking System,Brake Calipers 290,Houses the brake pads and pistons.,FQS-2943-7D72-7792,2023-02-17,1920.49,GBP,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",False,False,False,False,True,False,True,True
+Braking System,ABS Sensors 347,Generic ABS Sensors,FQS-C06E-98EE-28A9,2016-03-19,696.69,GBP,True,False,"Nord,Feramborghini,BMV,WV,Mecentley",True,True,False,True,True,False,True,True
+Braking System,Brake Drums 891,Generic Brake Drums,FQS-E6FE-194E-7C45,2025-08-25,878.19,GBP,True,False,"WV,BMV,Nord,Feramborghini,Mecentley",True,True,True,False,False,True,False,False
+Braking System,Brake Booster 221,Generic Brake Booster,FQS-A7F0-298C-9A9A,2024-07-19,1277.73,GBP,False,True,"Nord,WV",True,True,True,False,False,True,True,False
+Braking System,Brake Pads 485,Press against rotors to slow down the vehicle.,FQS-AEE1-3DDF-F430,2015-04-03,368.28,GBP,True,True,"Nord,BMV",True,True,False,False,True,False,False,True
+Braking System,Brake Calipers 337,Houses the brake pads and pistons.,FQS-7DA2-27CA-7F27,2024-03-24,452.36,GBP,True,True,Nord,True,True,False,True,False,True,True,True
+Braking System,Brake Fluid Reservoir 035,Generic Brake Fluid Reservoir,FQS-7346-37ED-E9E8,2021-06-03,1213.54,GBP,True,True,"BMV,Nord,Feramborghini,Mecentley",False,True,True,False,False,True,False,False
+Braking System,Brake Shoes 454,Generic Brake Shoes,FQS-20EF-5EAB-D098,2022-01-27,575.35,GBP,False,True,"Nord,Mecentley",True,False,False,True,True,True,False,True
+Braking System,Slotted Brake Rotors 921,Improves heat dissipation under hard braking.,FQS-A501-192C-1B94,2015-03-15,234.21,GBP,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",True,True,False,True,True,False,False,True
+Braking System,ABS Sensors 145,Generic ABS Sensors,FQS-E5BD-7BEF-2F87,2017-04-18,481.94,GBP,True,False,"Mecentley,BMV",False,True,True,True,True,True,True,True
+Braking System,Brake Lines 340,Generic Brake Lines,FQS-8BAC-D6B5-700B,2019-07-14,785.36,GBP,False,False,"Feramborghini,Mecentley,WV",True,True,True,True,True,False,False,False
+Braking System,Brake Lines 249,Carry brake fluid to braking components.,FQS-655C-70B8-7DF0,2018-08-19,431.9,GBP,True,True,"BMV,WV,Feramborghini,Mecentley",True,True,False,True,True,True,True,True
+Braking System,Brake Pedal 693,Generic Brake Pedal,FQS-037C-3F4F-77C9,2022-11-25,1553.0,GBP,True,True,"WV,BMV,Mecentley,Feramborghini,Nord",True,False,False,True,False,True,False,True
+Braking System,Brake Master Cylinder 110,Generic Brake Master Cylinder,FQS-2DD6-AEDF-1C50,2022-07-19,1363.03,GBP,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,False,True,False,False,True,False,True
+Braking System,Brake Shoes 814,Generic Brake Shoes,FQS-BB42-41C8-D4DF,2022-12-18,1776.12,GBP,True,True,"Mecentley,WV",True,True,True,True,True,False,True,False
+Braking System,Brake Booster 297,Generic Brake Booster,FQS-A0E9-2455-C52F,2018-03-05,1432.6,GBP,True,True,"WV,Feramborghini,Mecentley",True,False,True,True,False,False,True,True
+Braking System,Brake Master Cylinder 960,Generic Brake Master Cylinder,FQS-9D65-A75C-EB48,2023-03-22,815.85,GBP,True,True,BMV,True,False,False,False,True,False,False,True
+Braking System,Brake Pads 551,Generic Brake Pads,FQS-E1A0-4070-3E82,2020-02-03,959.47,GBP,True,True,"BMV,Mecentley,Feramborghini,Nord",True,True,False,True,True,True,True,True
+Braking System,Brake Drums 655,Generic Brake Drums,FQS-E007-4698-224D,2019-10-05,563.57,GBP,True,True,"WV,Feramborghini,BMV,Mecentley",True,False,True,False,True,False,True,False
+Braking System,Brake Pads 534,Press against rotors to slow down the vehicle.,FQS-618F-891C-053F,2020-05-26,883.1,GBP,True,True,"Mecentley,Nord,BMV,Feramborghini",True,True,True,False,False,True,True,False
+Cooling System,Performance Radiator 442,Increased cooling capacity for high performance.,FQS-83B0-462E-EA29,2023-05-04,972.87,GBP,True,False,"WV,Feramborghini,Mecentley",False,True,False,False,False,False,True,True
+Cooling System,Performance Radiator 144,Increased cooling capacity for high performance.,FQS-D31E-FC85-105A,2021-04-23,1250.99,GBP,True,True,Nord,True,True,False,False,False,True,False,True
+Cooling System,Performance Radiator 988,Increased cooling capacity for high performance.,FQS-DC50-E0BC-4B3F,2020-04-14,928.19,GBP,True,True,Feramborghini,True,True,True,True,True,True,False,True
+Cooling System,Performance Radiator 026,Increased cooling capacity for high performance.,FQS-C8CE-1ABB-B940,2021-05-14,33.49,GBP,True,True,"Mecentley,Nord,Feramborghini",True,True,True,True,False,False,True,True
+Engine Care,Oil Catch Can 601,Traps oil vapor and prevents intake fouling.,FQS-3381-3D71-64B8,2022-09-25,401.96,GBP,True,True,BMV,True,False,True,True,True,True,True,True
+Engine Care,Oil Catch Can 873,Traps oil vapor and prevents intake fouling.,FQS-98B3-C467-B46F,2023-06-11,174.77,GBP,False,True,"Nord,WV",False,False,True,False,False,False,False,False
+Engine Care,Oil Catch Can 214,Traps oil vapor and prevents intake fouling.,FQS-500E-B7A9-B4FB,2015-11-22,1363.7,GBP,True,False,"WV,BMV,Feramborghini,Mecentley,Nord",False,True,True,True,False,False,False,True
+Engine Care,Oil Catch Can 518,Traps oil vapor and prevents intake fouling.,FQS-2ABD-2A78-FE75,2016-07-07,1732.06,GBP,True,False,"Feramborghini,Mecentley,WV,Nord,BMV",True,False,True,False,False,True,True,False
+Transmission,Short Throw Shifter 959,Reduces shift distance for quicker gear changes.,FQS-1155-163C-B65E,2017-04-19,1273.75,GBP,False,True,BMV,False,True,True,True,False,True,False,True
+Transmission,Short Throw Shifter 246,Reduces shift distance for quicker gear changes.,FQS-9D9A-E601-DF73,2024-01-22,1298.69,GBP,True,True,"WV,Nord,Mecentley,Feramborghini",False,True,False,False,False,True,False,False
+Transmission,Short Throw Shifter 789,Reduces shift distance for quicker gear changes.,FQS-CC35-01F0-8CBA,2016-01-23,300.97,GBP,False,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,True,False,False,True,False,True,True
+Transmission,Short Throw Shifter 299,Reduces shift distance for quicker gear changes.,FQS-EDCD-8B46-241F,2025-02-27,634.27,GBP,False,True,"WV,BMV,Nord,Mecentley",True,True,True,True,False,True,False,True
+Transmission,Short Throw Shifter 634,Reduces shift distance for quicker gear changes.,FQS-A0B3-04E7-39EC,2023-09-20,1604.89,GBP,True,True,Feramborghini,True,True,True,True,True,False,True,True
+Wheels & Tires,Lightweight Wheels 785,Reduce unsprung mass for quicker acceleration.,FQS-89C6-BD7C-80C0,2022-04-29,1085.31,GBP,True,True,Feramborghini,False,True,True,True,False,False,False,True
+Wheels & Tires,Lightweight Wheels 774,Reduce unsprung mass for quicker acceleration.,FQS-29EE-2691-1C09,2016-09-09,1922.24,GBP,True,True,"Feramborghini,Mecentley,WV,Nord",True,False,True,True,False,False,True,False
+Wheels & Tires,Low Profile Tires 560,Better grip and handling performance.,FQS-B72F-20A0-735B,2018-10-06,586.81,GBP,True,True,WV,True,True,False,True,True,True,True,True
+Wheels & Tires,Low Profile Tires 882,Better grip and handling performance.,FQS-8544-377E-917B,2016-01-19,1256.72,GBP,False,False,"Mecentley,BMV,Feramborghini,Nord,WV",True,True,True,False,True,True,True,True
+Wheels & Tires,Lightweight Wheels 431,Reduce unsprung mass for quicker acceleration.,FQS-CD10-6891-FDD2,2024-07-12,985.74,GBP,True,False,"Mecentley,Nord,Feramborghini,BMV",True,True,False,True,False,False,True,True
+Wheels & Tires,Low Profile Tires 343,Better grip and handling performance.,FQS-957A-570D-8B9F,2023-11-10,613.57,GBP,True,False,"Feramborghini,BMV",False,False,False,True,False,True,True,True
+Wheels & Tires,Lightweight Wheels 708,Reduce unsprung mass for quicker acceleration.,FQS-EAED-12D1-C401,2017-03-29,1963.25,GBP,True,False,BMV,False,False,False,False,False,True,True,True
+Fuel System,Fuel Injectors 710,Spray fuel into the engine's cylinders.,FQS-695A-09C8-B78D,2024-06-17,620.93,GBP,True,True,"WV,Mecentley,BMV",True,True,True,False,True,True,True,False
+Fuel System,Fuel Injectors 531,Generic Fuel Injectors,FQS-73B6-4DFF-4E0D,2024-02-16,1681.97,GBP,True,True,WV,True,True,False,True,False,False,True,True
+Fuel System,Fuel Lines 039,Carry fuel to the engine.,FQS-356D-4FC8-DA3F,2022-09-16,1157.53,GBP,False,True,Feramborghini,True,True,True,True,False,True,False,False
+Fuel System,Performance Fuel Pump 434,Increased fuel delivery rate for tuned engines.,FQS-141A-B57E-6163,2020-08-13,495.98,GBP,True,True,BMV,False,True,True,True,True,False,True,True
+Fuel System,Fuel Lines 959,Generic Fuel Lines,FQS-9D7F-D7D6-19F4,2021-11-03,841.79,GBP,True,True,"Feramborghini,Nord,BMV",True,True,True,True,True,False,False,True
+Fuel System,Fuel Filter 907,Generic Fuel Filter,FQS-5B0A-597B-522E,2018-01-30,820.98,GBP,True,True,"Mecentley,Nord,BMV",False,True,True,False,True,False,False,True
+Fuel System,Fuel Tank 931,Stores fuel used by the vehicle.,FQS-7FE3-FF88-DC04,2021-04-24,357.44,GBP,True,True,"Feramborghini,Mecentley,Nord,BMV",True,False,False,False,False,True,True,False
+Fuel System,Fuel Injectors 834,Spray fuel into the engine's cylinders.,FQS-278D-8314-8384,2018-07-26,967.91,GBP,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",False,True,False,True,False,False,False,True
+Fuel System,Fuel Injectors 041,Spray fuel into the engine's cylinders.,FQS-0E6F-4AFD-3933,2019-01-13,534.58,GBP,True,True,"BMV,Nord",True,False,True,True,False,False,False,True
+Fuel System,Fuel Tank 752,Generic Fuel Tank,FQS-30BA-A55C-3B91,2019-11-25,411.2,GBP,False,True,"WV,Mecentley,BMV",True,False,True,True,True,True,False,True
+Fuel System,Fuel Pressure Regulator 698,Maintains correct fuel pressure.,FQS-F074-C495-0BD5,2019-08-20,1053.53,GBP,True,False,Feramborghini,True,False,False,False,False,True,False,False
+Fuel System,Upgraded Fuel Injectors 010,Deliver more fuel for high-performance engines.,FQS-0837-73B3-7559,2024-05-28,991.39,GBP,True,True,"WV,BMV,Mecentley,Feramborghini,Nord",False,False,True,False,True,True,False,True
+Fuel System,Fuel Rail 067,Generic Fuel Rail,FQS-6EEA-2839-72C3,2022-05-08,1038.52,GBP,True,False,"Mecentley,Feramborghini,WV",False,True,False,True,False,True,True,False
+Control and Comfort Features,Backup Camera 911,Generic Backup Camera,FQS-E72D-3295-3866,2018-10-14,603.87,GBP,True,True,"Feramborghini,Nord",True,True,True,True,False,False,True,True
+Control and Comfort Features,Lane Assist System 502,Generic Lane Assist System,FQS-467A-C977-10A3,2017-05-06,678.36,GBP,True,True,Feramborghini,False,True,True,True,True,False,True,True
+Control and Comfort Features,Power Windows Switches 854,Generic Power Windows Switches,FQS-7822-9470-B435,2019-07-15,1298.55,GBP,True,True,Nord,True,True,False,True,True,True,False,False
+Control and Comfort Features,Adaptive Cruise Control 219,Generic Adaptive Cruise Control,FQS-2326-193C-5865,2024-03-10,1857.88,GBP,True,False,"Feramborghini,Mecentley,Nord,WV,BMV",True,False,False,True,True,False,True,True
+Control and Comfort Features,Speakers 076,Output sound for entertainment or alerts.,FQS-C5BC-E13C-A786,2019-08-31,552.62,GBP,True,True,Feramborghini,True,True,True,True,True,True,True,True
+Control and Comfort Features,Navigation System (GPS) 411,Generic Navigation System (GPS),FQS-E3FF-ED6F-44AE,2024-03-18,589.43,GBP,True,True,Mecentley,False,True,True,True,True,True,False,True
+Control and Comfort Features,Infotainment System 762,"Central interface for audio, navigation, etc.",FQS-D2B8-9E73-18A2,2022-08-05,469.0,GBP,False,True,"Mecentley,BMV,Nord,WV,Feramborghini",False,False,False,True,True,False,True,True
+Control and Comfort Features,Infotainment System 807,Generic Infotainment System,FQS-3801-90F1-7C43,2018-09-16,1219.15,GBP,True,True,"BMV,Nord,Feramborghini",True,False,True,True,False,False,False,False
+Control and Comfort Features,Lane Assist System 517,Generic Lane Assist System,FQS-3CE4-4957-1069,2019-07-11,1622.98,GBP,True,True,BMV,True,False,True,True,True,True,False,False
+Control and Comfort Features,Speakers 520,Generic Speakers,FQS-4148-683F-6339,2021-01-05,216.01,GBP,True,False,WV,True,True,False,False,True,True,True,False
+Control and Comfort Features,Infotainment System 308,Generic Infotainment System,FQS-DC26-A2A8-91C3,2018-05-05,1161.37,GBP,True,True,"Mecentley,Feramborghini",False,True,False,True,False,True,False,False
+Control and Comfort Features,Electronic Stability Control 177,Generic Electronic Stability Control,FQS-F6A3-8189-C7F7,2022-03-21,1300.05,GBP,True,False,"Nord,Feramborghini",False,False,False,True,True,False,True,True
+Control and Comfort Features,Backup Camera 959,Generic Backup Camera,FQS-BD96-902C-F00E,2021-06-23,180.23,GBP,True,True,"Mecentley,BMV,Feramborghini,WV",True,True,False,False,True,True,False,False
+Control and Comfort Features,Navigation System (GPS) 607,Generic Navigation System (GPS),FQS-6381-644F-6895,2017-03-26,1344.83,GBP,True,True,Feramborghini,True,False,False,False,True,False,True,False
+Control and Comfort Features,Lane Assist System 774,Generic Lane Assist System,FQS-1215-D664-8F98,2023-10-25,794.63,GBP,True,True,WV,True,False,False,False,True,False,False,True
+Control and Comfort Features,Speakers 525,Generic Speakers,FQS-A850-2863-0F13,2024-09-15,1793.92,GBP,False,True,"Mecentley,Feramborghini",False,False,False,False,True,False,False,False
+Control and Comfort Features,Adaptive Cruise Control 616,Generic Adaptive Cruise Control,FQS-6D31-C18D-5849,2015-12-19,1212.02,GBP,True,True,"Nord,Feramborghini,Mecentley,WV",True,True,True,False,True,True,True,True
+Control and Comfort Features,Backup Camera 754,Generic Backup Camera,FQS-79F7-427C-1870,2018-04-07,1606.07,GBP,False,False,"Feramborghini,Mecentley,Nord",True,False,False,False,False,True,True,True
+Control and Comfort Features,Speakers 225,Output sound for entertainment or alerts.,FQS-4C30-02F3-843D,2021-01-31,183.71,GBP,True,True,"Mecentley,BMV,Nord,Feramborghini",False,True,True,True,False,True,True,True
+Control and Comfort Features,Mirror Adjustment Switches 604,Generic Mirror Adjustment Switches,FQS-AFC4-4D8C-C5AF,2015-07-01,1201.67,GBP,True,True,"Feramborghini,Mecentley,Nord,BMV,WV",True,False,True,False,True,False,True,False
+Control and Comfort Features,Cruise Control System 531,Generic Cruise Control System,FQS-D717-89B7-5FEE,2015-05-31,108.79,GBP,True,True,"Feramborghini,Mecentley,WV,Nord",True,True,False,True,False,True,False,True
+Control and Comfort Features,Cruise Control System 688,Generic Cruise Control System,FQS-03DC-D8BD-4EF1,2019-07-23,1298.12,GBP,True,True,"Feramborghini,WV,BMV,Nord",True,True,False,False,False,False,True,False
+Control and Comfort Features,Parking Sensors 112,Generic Parking Sensors,FQS-F592-ACD8-6BD0,2024-05-11,909.08,GBP,False,True,"Mecentley,Nord",True,True,False,True,False,True,True,True
+Control and Comfort Features,Adaptive Cruise Control 800,Generic Adaptive Cruise Control,FQS-D970-C1CE-4737,2021-05-04,689.05,GBP,True,True,"BMV,Mecentley,Nord,Feramborghini",False,False,True,False,True,False,False,True
+Control and Comfort Features,Electronic Stability Control 835,Generic Electronic Stability Control,FQS-996C-E339-C792,2025-08-21,1401.73,GBP,True,True,"BMV,Mecentley,Feramborghini",False,False,True,False,False,False,True,False
+Control and Comfort Features,Speakers 120,Generic Speakers,FQS-0303-1D55-D29F,2019-08-15,414.66,GBP,True,False,"Mecentley,BMV",False,False,True,True,True,True,False,True
+Control and Comfort Features,Mirror Adjustment Switches 424,Generic Mirror Adjustment Switches,FQS-E452-D49B-5F83,2021-02-07,887.58,GBP,False,True,Nord,True,False,True,True,True,True,False,False
+Control and Comfort Features,Heated Seats 195,Generic Heated Seats,FQS-ED07-B413-1BCD,2025-10-24,795.83,GBP,True,True,"WV,Feramborghini,Mecentley",True,True,True,True,False,True,False,True
+Control and Comfort Features,Heated Seats 351,Generic Heated Seats,FQS-AB06-343F-BBD0,2023-06-24,727.69,GBP,True,True,"WV,Feramborghini,Mecentley,BMV",False,True,True,True,False,False,True,False
+Control and Comfort Features,Navigation System (GPS) 991,Generic Navigation System (GPS),FQS-8607-8DB3-F11C,2024-10-19,580.32,GBP,True,False,"BMV,Nord,WV,Mecentley",True,False,False,False,True,False,True,True
+Control and Comfort Features,Lane Assist System 921,Generic Lane Assist System,FQS-B165-8AE9-80F9,2019-11-13,945.68,GBP,False,True,"WV,BMV,Nord,Feramborghini,Mecentley",True,True,False,False,False,False,True,True
+Control and Comfort Features,Cruise Control System 693,Generic Cruise Control System,FQS-8DA3-A70B-40B8,2022-03-13,102.85,GBP,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",False,True,False,True,False,False,False,False
+Control and Comfort Features,Blind Spot Monitor 378,Generic Blind Spot Monitor,FQS-4052-EDB1-A5EA,2023-03-19,612.53,GBP,True,True,"Nord,BMV,Mecentley,WV",False,False,False,True,True,True,True,True
+Control and Comfort Features,Blind Spot Monitor 071,Generic Blind Spot Monitor,FQS-79E0-0E67-D400,2020-04-14,585.79,GBP,True,True,"Mecentley,BMV",True,False,True,False,False,False,False,False
+Control and Comfort Features,Climate Control Unit 948,Generic Climate Control Unit,FQS-BDB6-120C-380C,2025-10-06,230.05,GBP,True,True,"BMV,Nord,WV,Feramborghini",False,True,False,True,True,True,True,True
+Control and Comfort Features,Parking Sensors 858,Generic Parking Sensors,FQS-B696-7A0F-58CC,2024-11-23,1691.61,GBP,True,False,Mecentley,True,True,False,True,True,False,False,True
+Control and Comfort Features,Blind Spot Monitor 258,Generic Blind Spot Monitor,FQS-B7DF-C090-39B7,2015-09-28,610.05,GBP,True,True,"Nord,Mecentley,WV,Feramborghini,BMV",False,True,True,True,True,False,True,True
+Control and Comfort Features,Power Windows Switches 524,Generic Power Windows Switches,FQS-380D-B589-8BA7,2020-02-23,1576.72,GBP,True,True,"Mecentley,Feramborghini",True,False,True,False,False,True,True,False
+Control and Comfort Features,Backup Camera 897,Generic Backup Camera,FQS-301F-257A-A114,2021-09-24,1363.29,GBP,True,True,Feramborghini,True,True,False,False,True,True,True,False
+Control and Comfort Features,Mirror Adjustment Switches 946,Generic Mirror Adjustment Switches,FQS-EDD6-0395-7A30,2022-10-06,19.16,GBP,True,False,Nord,True,True,True,True,True,False,False,True
+Control and Comfort Features,Power Windows Switches 681,Generic Power Windows Switches,FQS-E75E-24DF-B72C,2018-01-06,1703.1,GBP,True,True,"Nord,WV,BMV",False,False,True,True,True,False,False,False
+Control and Comfort Features,Lane Assist System 563,Generic Lane Assist System,FQS-5576-99DA-0C6C,2025-11-18,217.06,GBP,False,True,BMV,False,True,True,True,False,True,True,False
+Control and Comfort Features,Infotainment System 040,Generic Infotainment System,FQS-2E5B-A8FD-C937,2019-11-09,1050.14,GBP,False,True,"Feramborghini,WV,Nord,Mecentley,BMV",False,True,True,False,True,True,True,True
+Control and Comfort Features,Parking Sensors 416,Generic Parking Sensors,FQS-CC7D-F6CF-927F,2016-09-18,1438.02,GBP,True,False,"Nord,Feramborghini",True,False,False,True,True,True,True,False
+Control and Comfort Features,Cruise Control System 760,Generic Cruise Control System,FQS-02AE-91C0-4617,2022-08-08,157.23,GBP,True,True,WV,True,False,True,True,True,True,True,True
+Control and Comfort Features,Navigation System (GPS) 534,Generic Navigation System (GPS),FQS-4D82-B187-6072,2025-02-03,1403.31,GBP,True,True,"Nord,WV",True,False,True,False,True,False,True,True
+Control and Comfort Features,Backup Camera 590,Generic Backup Camera,FQS-7E51-D691-F8E2,2020-06-01,1510.98,GBP,True,False,"WV,Nord,BMV,Feramborghini",True,True,True,True,False,False,False,True
+Control and Comfort Features,Power Windows Switches 868,Generic Power Windows Switches,FQS-4834-5FDD-EDC8,2017-01-02,27.7,GBP,True,True,"Nord,BMV,Feramborghini,WV",True,False,True,True,False,False,False,True
+Control and Comfort Features,Climate Control Unit 855,Generic Climate Control Unit,FQS-EF6C-9414-B1E2,2019-03-02,1361.54,GBP,False,True,"Feramborghini,BMV,Nord",True,True,False,True,True,True,True,True
+Control and Comfort Features,Navigation System (GPS) 083,Generic Navigation System (GPS),FQS-8A42-94B5-7F47,2016-03-27,635.3,GBP,True,True,"Feramborghini,Nord,Mecentley,WV",True,False,True,True,True,False,True,True
+Control and Comfort Features,Cruise Control System 170,Generic Cruise Control System,FQS-98B9-A671-D29B,2025-07-24,265.12,GBP,True,False,"Feramborghini,WV,Mecentley",True,True,False,False,True,True,True,True
+Control and Comfort Features,Cruise Control System 719,Maintains a constant vehicle speed.,FQS-87B9-1761-0904,2018-04-20,1525.76,GBP,False,True,"Nord,WV",True,False,False,False,True,False,True,False
+Control and Comfort Features,Mirror Adjustment Switches 971,Generic Mirror Adjustment Switches,FQS-3681-2002-3136,2018-08-11,1597.11,GBP,True,True,WV,True,False,True,True,False,False,False,True
+Control and Comfort Features,Blind Spot Monitor 573,Generic Blind Spot Monitor,FQS-934A-E8ED-0A7B,2024-08-05,1001.08,GBP,True,True,Mecentley,True,True,False,True,True,False,True,True
+Control and Comfort Features,Lane Assist System 136,Generic Lane Assist System,FQS-FE3A-8801-518F,2025-10-09,1067.97,GBP,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",False,False,False,False,False,False,False,True
+Control and Comfort Features,Mirror Adjustment Switches 649,Generic Mirror Adjustment Switches,FQS-A73F-2966-5047,2016-05-04,1077.35,GBP,True,True,"Feramborghini,WV,Nord",False,False,False,False,True,False,True,False
+Interior,Digital Gauges 551,"Monitor boost, oil pressure, and air/fuel ratio.",FQS-2E3B-F2CE-17A8,2018-06-28,1644.06,GBP,True,False,"Nord,Mecentley,WV,Feramborghini,BMV",False,True,False,False,False,False,False,False
+Interior,Quick Release Steering Wheel 292,Allows faster entry/exit and theft prevention.,FQS-F9D4-B4D3-5DCE,2022-02-13,1611.01,GBP,True,True,"WV,BMV,Feramborghini,Mecentley",False,True,False,True,True,True,True,True
+Interior,Digital Gauges 016,"Monitor boost, oil pressure, and air/fuel ratio.",FQS-2308-EBBA-C608,2024-09-26,1350.17,GBP,True,True,"WV,Nord",True,True,False,True,True,False,False,False
+Electronics,Launch Control Module 903,Optimizes power delivery off the line.,FQS-C9F3-3855-02A9,2022-10-25,1714.28,GBP,True,False,"Nord,BMV,Mecentley,Feramborghini,WV",True,False,False,True,True,True,True,False
+Electronics,Launch Control Module 055,Optimizes power delivery off the line.,FQS-F38D-1393-2536,2019-06-08,1149.35,GBP,True,False,"Mecentley,BMV,Feramborghini",True,False,True,True,True,False,True,True
+Suspension and Steering,Coil Springs 053,Support vehicle weight and absorb shocks.,FQS-884E-BE49-5F3B,2022-12-28,1178.66,GBP,True,True,"Feramborghini,BMV,Nord",False,True,True,True,True,False,True,True
+Suspension and Steering,Leaf Springs 325,Generic Leaf Springs,FQS-FE68-CE2C-615F,2015-03-08,330.75,GBP,False,False,"BMV,WV,Mecentley,Feramborghini",True,False,True,False,True,False,False,False
+Suspension and Steering,Shock Absorbers / Struts 436,Generic Shock Absorbers / Struts,FQS-8B03-7CC5-11C4,2020-06-10,1383.61,GBP,False,True,"Feramborghini,Mecentley,Nord,BMV",False,False,False,True,True,False,False,False
+Suspension and Steering,Leaf Springs 532,Generic Leaf Springs,FQS-DA1E-8315-66B6,2015-04-03,1749.92,GBP,False,False,"WV,Feramborghini,Nord,Mecentley",False,False,True,True,False,True,True,True
+Suspension and Steering,Sway Bar / Anti-roll Bar 676,Generic Sway Bar / Anti-roll Bar,FQS-0BE9-2256-4A01,2020-12-29,1017.22,GBP,False,True,"Mecentley,BMV,Nord",True,False,False,False,False,False,True,True
+Suspension and Steering,Steering Column 734,Generic Steering Column,FQS-B310-5255-0214,2025-08-21,1535.0,GBP,False,True,"Mecentley,BMV,Feramborghini",False,False,False,False,False,False,True,True
+Suspension and Steering,Steering Rack 944,Generic Steering Rack,FQS-CDDC-2E49-0887,2017-11-11,1445.34,GBP,True,True,"WV,Mecentley,Nord",True,True,False,True,True,True,True,False
+Suspension and Steering,Steering Column 146,Generic Steering Column,FQS-61F7-5663-044A,2021-07-24,1463.65,GBP,True,True,"WV,BMV,Feramborghini,Mecentley",False,True,True,False,True,False,False,True
+Suspension and Steering,Tie Rods 847,Transmit steering input to wheels.,FQS-DA21-B232-06BB,2019-07-10,1577.81,GBP,True,True,"Mecentley,Nord,Feramborghini",True,True,False,False,False,True,True,True
+Suspension and Steering,Shock Absorbers / Struts 445,Generic Shock Absorbers / Struts,FQS-ECC2-7DC1-47D8,2019-06-23,1662.32,GBP,True,True,"BMV,Mecentley,WV",True,True,True,True,True,True,True,False
+Suspension and Steering,Control Arms 823,Generic Control Arms,FQS-CF82-D912-9460,2018-01-01,1008.28,GBP,False,True,"Feramborghini,Mecentley,BMV",True,False,True,True,True,False,False,False
+Suspension and Steering,Tie Rods 820,Generic Tie Rods,FQS-9D6A-ECAB-2879,2021-05-07,149.86,GBP,False,True,"Mecentley,WV,BMV,Nord,Feramborghini",False,False,True,True,False,True,True,True
+Suspension and Steering,Control Arms 376,Connect wheel hub to vehicle frame.,FQS-E7BE-97A1-FD2C,2023-03-27,933.25,GBP,True,False,"Feramborghini,Nord,WV",True,True,True,False,True,True,True,True
+Suspension and Steering,Alignment Shims 891,Generic Alignment Shims,FQS-6732-50DF-528C,2021-01-04,105.63,GBP,True,True,Feramborghini,True,False,True,True,False,True,False,False
+Suspension and Steering,Steering Wheel 954,Allows driver to steer the vehicle.,FQS-BF45-95F4-1DC0,2024-01-20,1364.27,GBP,False,True,"Feramborghini,Nord,WV,Mecentley,BMV",False,True,True,True,True,True,False,True
+Suspension and Steering,Torsion Bar 204,Generic Torsion Bar,FQS-231F-CBC0-3BE9,2022-02-08,677.14,GBP,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,False,False,False,True,True,False,True
+Suspension and Steering,Steering Wheel 569,Allows driver to steer the vehicle.,FQS-C6CF-E205-6E78,2020-05-22,1106.92,GBP,True,False,"Feramborghini,Nord",True,False,False,True,True,True,True,True
+Suspension and Steering,Steering Column 998,Generic Steering Column,FQS-010E-A0D7-72E9,2016-05-18,847.94,GBP,True,True,"Nord,Feramborghini",True,False,False,True,True,False,True,True
+Suspension and Steering,Control Arms 811,Generic Control Arms,FQS-3DC8-814D-8D22,2018-11-19,1158.36,GBP,False,True,"WV,BMV,Feramborghini,Mecentley",True,True,True,False,False,True,True,True
+Suspension and Steering,Coil Springs 218,Generic Coil Springs,FQS-6DD3-B30E-7AF3,2019-06-14,399.2,GBP,True,False,"Mecentley,BMV,Nord,Feramborghini,WV",False,False,True,False,True,False,True,False
+Suspension and Steering,Steering Column 144,Generic Steering Column,FQS-6E8C-FE5B-3306,2023-03-02,893.03,GBP,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,False,True,True,True,True,True,False
+Suspension and Steering,Wheel Hub 303,Generic Wheel Hub,FQS-DC86-5878-F8A0,2016-05-12,767.29,GBP,True,True,Mecentley,False,True,False,False,True,True,True,True
+Suspension and Steering,Steering Wheel 762,Allows driver to steer the vehicle.,FQS-75AE-3A58-5B68,2023-06-02,457.72,GBP,False,True,"WV,Feramborghini,Mecentley",True,True,True,False,False,True,True,True
+Suspension and Steering,Coil Springs 924,Support vehicle weight and absorb shocks.,FQS-78D7-A92E-270D,2023-05-23,164.07,GBP,False,False,"Nord,Feramborghini,WV,Mecentley,BMV",True,True,True,True,False,False,True,False
+Suspension and Steering,Steering Wheel 958,Allows driver to steer the vehicle.,FQS-52E1-5D73-BD2A,2017-08-10,1920.62,GBP,False,True,Nord,True,True,True,True,True,True,True,True
+Suspension and Steering,Wheel Bearings 898,Generic Wheel Bearings,FQS-4681-74AC-16B3,2016-10-16,1724.52,GBP,False,False,"WV,Nord,Feramborghini",True,True,False,True,False,False,False,False
+Suspension and Steering,Steering Wheel 483,Allows driver to steer the vehicle.,FQS-5690-B45F-4C2B,2019-03-10,1641.23,GBP,False,True,"Feramborghini,WV,Mecentley",True,True,False,True,True,True,False,False
+Suspension and Steering,Wheel Bearings 914,Generic Wheel Bearings,FQS-DB03-8D4F-E5A6,2023-01-01,983.98,GBP,True,True,"Feramborghini,Mecentley",False,True,True,True,False,False,False,True
+Suspension and Steering,Wheel Hub 779,Generic Wheel Hub,FQS-37FE-C917-0603,2015-09-16,935.41,GBP,True,True,"Feramborghini,Nord",False,False,True,False,True,False,True,True

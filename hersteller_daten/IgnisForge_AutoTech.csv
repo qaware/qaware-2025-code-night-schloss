@@ -1,0 +1,816 @@
+category,name,description,serial,productionDate,price,currency,authorised,inStock,compatibleBrands,limitedEdition,safetyCritical,hazardousMaterial
+Transmission System,Gearbox RIH,Changes vehicle speed and torque.,IFAT-34AC-737C-FF79,2023-09-22,1232.86,EUR,True,True,"WV,BMV",False,False,False
+Transmission System,Differential BT3,Distributes engine torque to drive wheels.,IFAT-C9FD-7ED8-20A6,2024-03-13,629.98,EUR,True,True,Mecentley,True,False,True
+Transmission System,Drive Shaft 4M7,Generic Drive Shaft,IFAT-61F7-FF68-8F28,2022-02-10,944.6,EUR,False,True,"BMV,WV,Mecentley,Feramborghini",True,True,False
+Transmission System,Pressure Plate XE9,Generic Pressure Plate,IFAT-33D5-AAB8-3782,2025-08-28,310.17,EUR,False,False,"Nord,Feramborghini,WV,BMV",False,False,True
+Transmission System,Clutch Slave Cylinder PAB,Generic Clutch Slave Cylinder,IFAT-4339-781D-A10B,2016-06-21,1113.16,EUR,True,False,"WV,BMV,Feramborghini,Nord",True,True,False
+Transmission System,Transmission Mount FM0,Generic Transmission Mount,IFAT-F3D7-FFFD-A116,2017-02-18,1776.17,EUR,True,True,"BMV,Nord,WV",True,True,False
+Transmission System,Flywheel 3NV,Generic Flywheel,IFAT-479D-C4E5-CCC7,2024-05-27,858.74,EUR,True,True,"WV,Feramborghini,Mecentley",True,False,False
+Transmission System,Synchromesh Gears WEX,Generic Synchromesh Gears,IFAT-311D-0B21-9BBD,2018-06-13,1813.86,EUR,True,True,BMV,True,True,False
+Transmission System,Drive Shaft W38,Transfers torque from transmission to wheels.,IFAT-F609-E13A-EFE3,2015-02-25,111.91,EUR,True,True,"Nord,Feramborghini",True,False,False
+Transmission System,Drive Shaft JDJ,Transfers torque from transmission to wheels.,IFAT-77B4-4BB9-5DEE,2023-01-06,1795.15,EUR,True,True,Feramborghini,True,True,False
+Transmission System,Shift Linkage 5DQ,Generic Shift Linkage,IFAT-84D1-1439-A5A3,2020-03-24,514.65,EUR,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",True,True,True
+Transmission System,Transmission Cooler RBU,Generic Transmission Cooler,IFAT-E151-2A20-8612,2023-07-30,1690.15,EUR,True,False,WV,True,True,True
+Transmission System,Transmission 800,Transfers power from engine to wheels.,IFAT-B427-0812-FDD9,2021-06-05,1160.06,EUR,True,True,"WV,Mecentley",True,False,False
+Transmission System,Clutch Plate MAH,Engages and disengages power to transmission.,IFAT-A63E-7FCA-00E6,2016-03-16,88.18,EUR,True,True,BMV,False,True,True
+Transmission System,Gearbox ACC,Changes vehicle speed and torque.,IFAT-8D5D-8896-32D8,2017-05-20,290.03,EUR,True,True,Mecentley,False,False,False
+Transmission System,Gearbox 2RW,Generic Gearbox,IFAT-EBD7-CD7F-9433,2023-11-05,151.33,EUR,True,False,"BMV,Feramborghini",True,True,True
+Transmission System,Gearbox JC4,Generic Gearbox,IFAT-F595-1EA3-32EF,2020-08-22,255.94,EUR,False,True,"Nord,WV,Feramborghini,Mecentley",True,True,True
+Transmission System,Clutch Slave Cylinder KMI,Generic Clutch Slave Cylinder,IFAT-6EE8-4937-556A,2016-12-01,309.02,EUR,False,True,"WV,Nord",False,False,False
+Transmission System,Drive Shaft IHJ,Generic Drive Shaft,IFAT-130F-86C6-C0C1,2016-05-02,1579.95,EUR,True,False,"Feramborghini,WV,Mecentley",True,False,True
+Transmission System,Flywheel KN6,Generic Flywheel,IFAT-15A4-4A4C-D7C5,2017-08-24,769.64,EUR,True,True,"Mecentley,WV,Feramborghini,BMV,Nord",True,True,False
+Transmission System,Transmission TU9,Transfers power from engine to wheels.,IFAT-27E0-8490-11B0,2023-09-23,896.77,EUR,True,True,"WV,Feramborghini,Nord,BMV",True,False,False
+Transmission System,Gearbox AJ5,Changes vehicle speed and torque.,IFAT-42AD-1699-C007,2021-02-23,1837.9,EUR,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",False,True,True
+Transmission System,Clutch Plate FDN,Generic Clutch Plate,IFAT-2322-DDE5-A344,2022-02-28,948.42,EUR,True,True,Feramborghini,True,False,False
+Transmission System,CV Joints 92I,Generic CV Joints,IFAT-4105-7CE2-9AC3,2020-05-13,1995.26,EUR,True,True,"Feramborghini,BMV,Mecentley",True,True,True
+Transmission System,Clutch Master Cylinder F05,Generic Clutch Master Cylinder,IFAT-0940-6F63-B041,2022-03-28,1483.24,EUR,True,True,"Nord,BMV,Mecentley,Feramborghini",True,True,False
+Transmission System,Clutch Plate DFY,Generic Clutch Plate,IFAT-A73B-D64A-D405,2021-10-20,1552.41,EUR,True,True,Mecentley,True,True,False
+Transmission System,Clutch Plate UDD,Engages and disengages power to transmission.,IFAT-40F1-7161-5868,2020-07-19,1177.61,EUR,True,True,"BMV,Nord",False,False,False
+Transmission System,Clutch Slave Cylinder D31,Generic Clutch Slave Cylinder,IFAT-2BF7-CBC8-2D84,2017-08-18,681.57,EUR,True,True,"WV,Mecentley",False,True,False
+Transmission System,Differential ORC,Generic Differential,IFAT-96C7-C624-F236,2021-04-02,25.4,EUR,True,True,"Feramborghini,Mecentley,Nord,BMV,WV",True,False,True
+Transmission System,CV Joints PMQ,Generic CV Joints,IFAT-0752-6441-5DD7,2015-10-18,1580.0,EUR,False,True,"Mecentley,Feramborghini",False,False,False
+Transmission System,Transmission Cooler WWX,Generic Transmission Cooler,IFAT-C3C0-6B07-68E8,2024-09-16,1130.66,EUR,True,True,"Mecentley,Feramborghini",True,False,True
+Transmission System,Torque Converter C3B,Generic Torque Converter,IFAT-0840-5BE5-D879,2015-12-28,715.05,EUR,True,True,"WV,Feramborghini,Nord,Mecentley,BMV",True,False,False
+Transmission System,Pressure Plate VUN,Generic Pressure Plate,IFAT-996E-7DF4-42FD,2020-10-04,333.77,EUR,False,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,False,False
+Transmission System,Drive Shaft MGP,Transfers torque from transmission to wheels.,IFAT-009D-4BF4-20D5,2022-11-25,1173.8,EUR,False,True,Mecentley,True,True,True
+Transmission System,Transmission Mount N2T,Generic Transmission Mount,IFAT-6E65-7B9E-B7BE,2018-04-29,593.7,EUR,True,True,Mecentley,True,True,True
+Transmission System,Torque Converter AD7,Generic Torque Converter,IFAT-9F05-9CFA-6EF3,2018-11-29,586.62,EUR,False,False,"Feramborghini,BMV,Nord",False,False,True
+Transmission System,Gearbox 1HN,Generic Gearbox,IFAT-DEA7-4405-934C,2024-03-16,1339.27,EUR,False,True,"Mecentley,Feramborghini,BMV,Nord,WV",True,True,False
+Engine System,Tappets H2G,Link camshaft with pushrods.,IFAT-C944-6095-ECF5,2020-05-11,1822.09,EUR,True,True,"Feramborghini,WV,BMV,Nord,Mecentley",True,True,True
+Engine System,Fuel Injectors 0HO,Generic Fuel Injectors,IFAT-7FD9-C251-1414,2020-07-29,1150.86,EUR,True,True,Feramborghini,False,True,True
+Engine System,Exhaust Manifold UJ8,Generic Exhaust Manifold,IFAT-57C2-247D-B32F,2018-02-03,1172.23,EUR,True,False,"WV,Mecentley,Nord",False,False,False
+Engine System,Camshaft 5FI,Operates the engine’s valves via lobes.,IFAT-6FBF-7514-77EC,2017-03-28,1142.53,EUR,False,True,"BMV,Feramborghini,Nord,WV,Mecentley",False,True,False
+Engine System,Intercooler V13,Generic Intercooler,IFAT-4EAD-61ED-CEE6,2022-01-04,1470.56,EUR,True,True,"Nord,Feramborghini,BMV,Mecentley",False,True,False
+Engine System,Air Filter ER1,Generic Air Filter,IFAT-A535-30B8-A5F7,2021-04-24,252.18,EUR,True,False,"BMV,Feramborghini,Nord,Mecentley,WV",False,False,True
+Engine System,Engine Mounts L7S,Secure engine to frame and absorb vibration.,IFAT-7345-880C-51F7,2018-02-18,1777.31,EUR,True,True,Mecentley,False,False,True
+Engine System,Intercooler ZMG,Generic Intercooler,IFAT-B6B4-ED0D-1974,2023-05-22,899.12,EUR,True,True,"BMV,Mecentley,Feramborghini,Nord",True,True,False
+Engine System,Supercharger HMD,Boosts engine power via air compression.,IFAT-5292-75FE-F521,2022-11-29,1663.88,EUR,True,False,Nord,False,False,False
+Engine System,Valve Springs M9A,Generic Valve Springs,IFAT-903E-8E38-E497,2017-11-13,1436.4,EUR,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",True,True,True
+Engine System,Drive Belt M4T,"Drives alternator, AC compressor, etc.",IFAT-E95F-AC84-9E1F,2015-05-11,316.94,EUR,True,True,Nord,False,True,True
+Engine System,Tappets / Lifters A1U,Generic Tappets / Lifters,IFAT-BA37-D46F-AE89,2017-10-20,1077.94,EUR,True,True,Mecentley,False,True,True
+Engine System,Supercharger DVY,Boosts engine power via air compression.,IFAT-C5E2-A142-C70A,2022-12-04,105.02,EUR,True,False,Nord,True,False,True
+Engine System,Cylinder Head 84B,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-32CA-1B93-238B,2016-11-26,602.74,EUR,True,True,"Nord,BMV,Feramborghini,WV,Mecentley",False,False,True
+Engine System,Crankshaft 66O,Converts piston movement into rotational motion.,IFAT-5236-ACC6-5456,2022-05-01,471.1,EUR,False,True,"BMV,WV,Feramborghini",False,True,True
+Engine System,Pistons MLF,Move up and down in cylinders to compress and combust fuel.,IFAT-BBF4-595F-D89B,2016-10-23,849.18,EUR,True,True,"BMV,Mecentley,Nord",False,True,False
+Engine System,Oil Filter 9OL,Removes contaminants from engine oil.,IFAT-96AC-24E8-4A4E,2016-12-25,1150.66,EUR,True,True,"Nord,WV,Feramborghini,Mecentley,BMV",False,False,False
+Engine System,Lifters TOT,Transmit camshaft motion to valves.,IFAT-3B2A-03B1-C429,2018-02-21,1241.72,EUR,True,True,Mecentley,True,True,True
+Engine System,Oil Cooler 5LP,Generic Oil Cooler,IFAT-B51A-6C94-6ED5,2024-02-08,1315.47,EUR,True,True,"Feramborghini,Nord",True,False,True
+Engine System,Pushrods MNY,Generic Pushrods,IFAT-E9C5-A892-3C86,2025-08-19,633.11,EUR,True,True,Nord,True,False,False
+Engine System,Oil Pump 8N3,Circulates oil through the engine.,IFAT-F680-1FB4-B5EC,2017-05-04,1769.18,EUR,True,True,"Nord,BMV,Mecentley",True,False,True
+Engine System,Timing Belt GZH,Synchronizes rotation of the crankshaft and camshaft.,IFAT-BFF1-AFA5-FD6D,2025-06-13,1554.18,EUR,True,True,"Nord,Feramborghini,WV,BMV",True,False,True
+Engine System,Engine Block 215,Main structure housing cylinders and other components.,IFAT-9239-4B56-C15E,2016-08-02,1305.09,EUR,True,False,"Nord,Feramborghini",False,False,True
+Engine System,Oil Cooler HL8,Generic Oil Cooler,IFAT-F9CD-C927-8365,2023-12-06,1480.48,EUR,True,True,"Mecentley,BMV",True,True,True
+Engine System,Air Filter IV8,Filters air before it enters the engine.,IFAT-5C03-49A3-2440,2022-01-12,1913.13,EUR,True,False,"BMV,Nord,WV",False,False,True
+Engine System,Turbocharger / Supercharger 1RW,Generic Turbocharger / Supercharger,IFAT-5C26-EAA4-C330,2024-09-24,284.24,EUR,True,True,"Feramborghini,Mecentley,WV,Nord",True,False,False
+Engine System,Cylinder Head 5PK,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-B56F-F191-B185,2025-09-07,443.65,EUR,True,True,"WV,Nord,BMV,Feramborghini",True,True,False
+Engine System,Dipstick OP2,Measures oil level.,IFAT-1DDE-03BD-2D32,2018-05-29,1792.48,EUR,True,True,"WV,BMV,Feramborghini,Nord",True,True,False
+Engine System,Supercharger JPP,Boosts engine power via air compression.,IFAT-CDEB-437B-B6B4,2018-11-07,791.61,EUR,True,True,"BMV,Feramborghini,Nord,WV,Mecentley",True,True,False
+Engine System,Distributor 38X,Distributes spark to the correct cylinder.,IFAT-5ED4-BCE9-AD57,2019-08-09,900.71,EUR,True,True,"Mecentley,BMV",False,True,True
+Engine System,Rocker Arms XT1,Generic Rocker Arms,IFAT-C3F4-2246-1F84,2021-09-29,78.44,EUR,False,True,"Mecentley,BMV,Feramborghini",True,True,False
+Engine System,Valve Springs NUU,Generic Valve Springs,IFAT-F3E6-BE9D-6ACF,2021-05-26,150.22,EUR,True,True,"Feramborghini,WV,Mecentley",True,True,False
+Engine System,Valve Springs QOR,Generic Valve Springs,IFAT-D3FC-3E1B-205E,2025-12-14,881.34,EUR,True,True,"Mecentley,BMV",False,True,True
+Engine System,Tappets / Lifters V8W,Generic Tappets / Lifters,IFAT-501A-9B1F-780A,2016-02-15,1922.28,EUR,True,True,"BMV,WV,Mecentley,Nord,Feramborghini",True,True,False
+Engine System,Drive Belt AYF,Generic Drive Belt,IFAT-50CD-C279-F2E2,2020-03-06,744.26,EUR,True,False,"Mecentley,WV,Nord,Feramborghini,BMV",True,True,False
+Engine System,Oil Pan 74B,Generic Oil Pan,IFAT-D873-66BB-7EE6,2024-03-17,1763.46,EUR,True,True,"BMV,Mecentley,Nord",True,False,True
+Engine System,Camshaft EWM,Generic Camshaft,IFAT-24CB-DD3E-1346,2025-03-16,247.46,EUR,True,True,"WV,Feramborghini,Mecentley",False,False,True
+Engine System,"Valves (Intake, Exhaust) KR1","Generic Valves (Intake, Exhaust)",IFAT-8854-97E1-021F,2020-06-09,24.35,EUR,True,True,"Feramborghini,Mecentley",True,True,False
+Engine System,Engine Block ZCQ,Main structure housing cylinders and other components.,IFAT-130E-7EC6-4EBE,2025-06-05,1585.2,EUR,True,True,"Mecentley,WV,Feramborghini",False,True,True
+Engine System,Harmonic Balancer FAX,Generic Harmonic Balancer,IFAT-EAF4-8134-0B85,2021-07-02,1222.27,EUR,True,True,"BMV,WV,Nord",False,True,True
+Engine System,Oil Cooler RCL,Cools the engine oil.,IFAT-35BC-C2DD-73E7,2016-07-19,485.42,EUR,True,True,WV,True,True,False
+Engine System,Intake Manifold Z6P,Distributes air to the engine cylinders.,IFAT-87EB-ED83-6B7F,2016-08-22,1558.04,EUR,True,True,WV,True,True,False
+Engine System,Lifters STK,Transmit camshaft motion to valves.,IFAT-2CE8-A25B-CC32,2019-05-04,665.07,EUR,True,True,"WV,BMV,Mecentley,Feramborghini",False,False,False
+Engine System,Cylinder Head MD5,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-7ADD-3067-4F5E,2019-10-11,1129.26,EUR,True,True,"WV,Mecentley,BMV",True,True,True
+Engine System,Harmonic Balancer 2CZ,Generic Harmonic Balancer,IFAT-67BE-417B-27C0,2020-03-25,861.24,EUR,False,True,"Nord,Mecentley,Feramborghini",True,True,True
+Engine System,Glow Plugs C3R,Preheat air in diesel engines.,IFAT-786B-FAB4-00FF,2016-10-21,1910.0,EUR,True,True,"Nord,WV,Feramborghini",False,True,False
+Engine System,Engine Block 52D,Main structure housing cylinders and other components.,IFAT-7040-410A-8198,2020-03-12,1417.73,EUR,True,False,"Mecentley,Feramborghini,WV,Nord,BMV",False,True,False
+Engine System,Intake Manifold D8H,Generic Intake Manifold,IFAT-EC2F-6287-F8DA,2025-03-21,1941.44,EUR,True,True,"Mecentley,WV",False,False,False
+Engine System,Oil Pump 6VQ,Circulates oil through the engine.,IFAT-09EB-D4BE-F725,2022-12-01,1916.06,EUR,True,True,"WV,Mecentley,BMV",True,False,False
+Engine System,Spark Plugs XWM,Ignite air/fuel mixture in combustion chamber.,IFAT-F73A-0200-14EB,2025-05-05,422.69,EUR,True,True,Mecentley,True,False,True
+Engine System,Carburetor (older models) Z6Y,Generic Carburetor (older models),IFAT-687D-FC98-FFE2,2025-08-27,1269.13,EUR,True,False,"Mecentley,BMV,Feramborghini",True,True,False
+Engine System,Exhaust Manifold T47,Generic Exhaust Manifold,IFAT-A6F4-3F9D-0CE4,2022-08-01,1780.45,EUR,False,True,"WV,BMV",False,True,True
+Engine System,Cylinder Head 3VW,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-0F1A-731C-1926,2022-01-03,412.59,EUR,True,True,Nord,True,False,True
+Engine System,Timing Belt / Chain G4P,Generic Timing Belt / Chain,IFAT-6133-D250-F6A7,2017-06-01,1450.83,EUR,True,False,Feramborghini,True,True,True
+Engine System,Timing Belt / Chain F9X,Generic Timing Belt / Chain,IFAT-AA0F-FF31-4202,2023-05-04,196.24,EUR,True,True,"Nord,WV,Mecentley",False,True,True
+Engine System,Engine Block A3B,Main structure housing cylinders and other components.,IFAT-9961-934A-47B8,2015-06-09,20.17,EUR,False,True,Nord,True,True,False
+Engine System,Exhaust Manifold QJQ,Collects exhaust gases from cylinders.,IFAT-F03E-748E-BADD,2025-11-11,1014.69,EUR,True,False,"Feramborghini,Nord",True,False,False
+Engine System,Crankshaft ZMW,Converts piston movement into rotational motion.,IFAT-1C7F-3A7C-9FC3,2025-03-25,732.17,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",False,True,True
+Engine System,Throttle Body YJI,Generic Throttle Body,IFAT-7B4F-D6E8-392B,2022-10-21,220.25,EUR,True,True,"Mecentley,Nord,BMV,WV,Feramborghini",True,True,True
+Engine System,Ignition Coils 2CI,Generic Ignition Coils,IFAT-827C-D985-3FE6,2018-09-23,79.76,EUR,True,True,"WV,Mecentley,BMV,Feramborghini,Nord",True,True,True
+Engine System,Pistons SWP,Move up and down in cylinders to compress and combust fuel.,IFAT-1217-4056-9687,2023-06-09,1197.98,EUR,False,True,"BMV,WV",True,False,False
+Engine System,Intake Manifold 8PD,Distributes air to the engine cylinders.,IFAT-8B71-4F73-9232,2020-11-27,203.65,EUR,True,True,"WV,Feramborghini",False,True,False
+Engine System,Lifters YV0,Transmit camshaft motion to valves.,IFAT-01EC-0C68-3EE7,2017-02-27,700.45,EUR,False,True,BMV,False,True,True
+Engine System,Engine Mounts BDU,Generic Engine Mounts,IFAT-BD62-9086-19A2,2022-09-07,1797.31,EUR,True,True,"BMV,Mecentley,Feramborghini,Nord,WV",False,True,False
+Engine System,Ignition Coils UZ9,Generate high voltage for spark plugs.,IFAT-F513-344A-26D0,2023-05-16,422.19,EUR,True,True,"BMV,Mecentley,Feramborghini,WV",True,True,False
+Engine System,Oil Pump TWK,Generic Oil Pump,IFAT-E203-BA35-5A06,2025-03-14,1773.51,EUR,True,True,"Mecentley,Nord,Feramborghini,WV",True,False,True
+Engine System,Cylinder Head 8KT,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-C92E-06E1-4FD0,2019-07-22,284.59,EUR,True,True,"Feramborghini,Nord,BMV,Mecentley,WV",True,False,True
+Engine System,Spark Plugs HNH,Ignite air/fuel mixture in combustion chamber.,IFAT-0AF9-035D-55CC,2020-03-27,1542.34,EUR,True,True,Nord,True,False,False
+Engine System,Crankshaft RZE,Generic Crankshaft,IFAT-2F6A-CD5B-1401,2025-04-12,1783.88,EUR,True,True,WV,True,True,False
+Engine System,Fuel Injectors PCI,Spray fuel into the engine's cylinders.,IFAT-FC7D-7615-05C5,2025-11-03,252.91,EUR,True,True,"Feramborghini,WV,BMV,Nord",False,True,True
+Engine System,Engine Control Unit (ECU) S92,Generic Engine Control Unit (ECU),IFAT-2160-2FCA-F701,2024-04-27,763.35,EUR,True,False,"BMV,Mecentley,Feramborghini,Nord",False,True,False
+Engine System,Crankshaft 5GY,Generic Crankshaft,IFAT-D571-A140-46FC,2022-11-11,1377.05,EUR,True,True,"WV,Feramborghini",True,True,True
+Engine System,Tappets / Lifters OA6,Generic Tappets / Lifters,IFAT-1069-0A3E-D1C7,2021-10-16,1688.23,EUR,True,True,"WV,BMV",True,False,False
+Engine System,Valve Springs Y62,Ensure valves close properly.,IFAT-FA49-AA4E-2924,2015-04-17,1673.55,EUR,True,True,"Mecentley,WV",False,True,False
+Engine System,Air Filter BP3,Filters air before it enters the engine.,IFAT-DA8E-0345-5CD4,2020-12-20,1029.49,EUR,True,True,"Nord,Mecentley",False,True,False
+Engine System,Turbocharger N1D,Forces more air into the engine.,IFAT-227E-949E-7CA9,2017-06-06,93.92,EUR,True,True,"BMV,WV,Mecentley",True,False,False
+Engine System,Tappets 8OW,Link camshaft with pushrods.,IFAT-0A6B-5BFD-4A3D,2019-10-20,211.57,EUR,True,True,"BMV,Nord,Feramborghini",True,True,False
+Engine System,Camshaft KEI,Generic Camshaft,IFAT-1172-DC40-3768,2023-02-21,47.4,EUR,True,False,BMV,True,True,False
+Engine System,Tappets / Lifters AK2,Generic Tappets / Lifters,IFAT-B197-8CE2-9049,2023-02-01,714.54,EUR,True,False,BMV,True,True,True
+Engine System,Oil Pump VK2,Circulates oil through the engine.,IFAT-AB20-C94F-01E3,2021-01-01,1950.07,EUR,True,True,"Nord,BMV",False,True,True
+Engine System,Harmonic Balancer 8DE,Generic Harmonic Balancer,IFAT-B357-4926-C3AB,2019-07-04,1861.36,EUR,True,True,Feramborghini,False,True,True
+Engine System,Timing Belt / Chain GQ2,Synchronizes rotation of the crankshaft and camshaft.,IFAT-2D0D-8A94-C4F7,2022-12-08,1229.91,EUR,True,True,Mecentley,False,False,False
+Engine System,"Valves (Intake, Exhaust) 6LJ","Generic Valves (Intake, Exhaust)",IFAT-CE05-F173-5309,2016-09-16,223.93,EUR,True,False,BMV,True,True,True
+Engine System,Camshaft 9FF,Operates the engine’s valves via lobes.,IFAT-FE0C-0505-D7A0,2024-09-13,504.41,EUR,False,False,"Mecentley,WV,Feramborghini",True,False,False
+Engine System,Rocker Arms EI7,Generic Rocker Arms,IFAT-C28A-9644-32B9,2016-05-28,640.36,EUR,True,True,"Feramborghini,WV,BMV",True,False,False
+Engine System,Engine Mounts BQI,Secure engine to frame and absorb vibration.,IFAT-406A-0040-4225,2019-02-02,1526.06,EUR,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",False,True,True
+Engine System,Serpentine Belt ZUP,Generic Serpentine Belt,IFAT-69EA-5E20-8C44,2022-03-09,821.0,EUR,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",True,False,True
+Engine System,Engine Mounts XQW,Generic Engine Mounts,IFAT-F4CE-A7DC-B2F2,2018-07-19,487.47,EUR,True,True,BMV,True,True,False
+Engine System,Oil Cooler T5A,Cools the engine oil.,IFAT-D21F-9D64-EACF,2019-01-18,238.35,EUR,True,False,"WV,BMV,Nord",False,True,False
+Engine System,Turbocharger 2Q7,Forces more air into the engine.,IFAT-5107-C6FA-F44A,2020-07-02,1577.29,EUR,False,True,BMV,True,True,True
+Engine System,Cylinder Head YXJ,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-78B7-B6D0-F750,2024-02-22,825.46,EUR,False,True,"Nord,BMV,Mecentley",False,True,True
+Engine System,Distributor FLW,Distributes spark to the correct cylinder.,IFAT-7ACA-A258-75BC,2018-03-27,1039.35,EUR,True,True,Feramborghini,False,False,False
+Engine System,Dipstick JBD,Measures oil level.,IFAT-2B7E-B716-7AE9,2024-05-10,305.44,EUR,False,False,"Mecentley,WV",True,False,False
+Engine System,Crankshaft 0OS,Generic Crankshaft,IFAT-C5B0-F76C-849F,2015-05-25,486.26,EUR,True,True,"BMV,WV",False,False,True
+Engine System,Distributor P0D,Generic Distributor,IFAT-F19B-D956-E2B0,2016-10-30,859.65,EUR,True,True,"BMV,WV,Feramborghini",True,True,True
+Engine System,Throttle Body PCB,Controls airflow into the engine.,IFAT-E656-E718-A4BF,2017-03-27,1808.25,EUR,True,True,"Nord,WV,Mecentley,Feramborghini,BMV",True,True,True
+Engine System,Glow Plugs 7RD,Preheat air in diesel engines.,IFAT-DB03-D46F-668C,2017-05-28,1255.51,EUR,True,True,"WV,Feramborghini,BMV,Nord,Mecentley",True,True,False
+Engine System,Timing Cover 4WO,Generic Timing Cover,IFAT-0EE1-89C9-5FD5,2025-05-28,971.94,EUR,True,True,"Feramborghini,BMV",False,True,True
+Engine System,Distributor AGW,Generic Distributor,IFAT-867C-6462-B2B6,2025-12-03,358.29,EUR,True,True,"WV,Feramborghini,Nord,Mecentley",True,True,True
+Engine System,Valve Springs 3YS,Ensure valves close properly.,IFAT-A600-8884-2C8F,2025-06-23,176.61,EUR,True,True,"Nord,Feramborghini",True,True,False
+Engine System,Harmonic Balancer L5Z,Generic Harmonic Balancer,IFAT-84D0-70C0-1070,2015-12-21,1395.56,EUR,False,True,"WV,Nord,Feramborghini,BMV,Mecentley",True,True,True
+Engine System,Oil Pan YKJ,Holds engine oil.,IFAT-4345-3913-57BF,2018-08-29,1081.03,EUR,False,False,"Feramborghini,WV",True,False,False
+Engine System,Throttle Body HND,Generic Throttle Body,IFAT-A7EB-E3F1-E1DD,2016-08-02,1271.44,EUR,True,False,"WV,Nord,BMV,Feramborghini,Mecentley",True,True,False
+Engine System,Oil Filter QZJ,Generic Oil Filter,IFAT-F0F7-D038-4F10,2019-01-10,26.95,EUR,True,False,"Mecentley,WV,Nord",True,True,False
+Engine System,Ignition Coils HPA,Generate high voltage for spark plugs.,IFAT-000D-1C12-4404,2025-10-17,1863.62,EUR,True,True,Mecentley,True,True,True
+Engine System,Serpentine Belt 20P,Generic Serpentine Belt,IFAT-F36B-5EE6-C5E3,2021-11-08,1210.61,EUR,False,False,"WV,Feramborghini,BMV",True,True,True
+Engine System,Exhaust Manifold 8YC,Collects exhaust gases from cylinders.,IFAT-9954-5248-7E5E,2020-12-23,149.06,EUR,True,True,Mecentley,True,True,True
+Engine System,Harmonic Balancer OA7,Reduces engine vibration.,IFAT-4217-6D2A-EC08,2018-05-30,656.42,EUR,True,True,"Mecentley,BMV,WV,Nord",True,False,True
+Engine System,Pistons TM7,Generic Pistons,IFAT-7F82-53AB-E782,2020-09-03,1240.14,EUR,True,True,"WV,Nord,BMV",False,True,True
+Engine System,Crankshaft 2SH,Converts piston movement into rotational motion.,IFAT-25EA-98FF-F2AD,2018-02-18,1948.51,EUR,False,False,"BMV,WV,Nord",False,False,True
+Engine System,Timing Belt / Chain BOS,Generic Timing Belt / Chain,IFAT-A20A-A1A6-0932,2025-03-21,1358.14,EUR,True,True,"WV,BMV",False,True,True
+Engine System,Timing Cover K97,Protects the timing belt or chain.,IFAT-A67E-1BA9-E17B,2020-03-28,1330.32,EUR,True,True,"Feramborghini,WV,Mecentley",True,False,False
+Engine System,Camshaft WOM,Generic Camshaft,IFAT-D7AF-3971-D3D6,2020-03-26,1576.38,EUR,True,False,"WV,Nord",True,False,False
+Engine System,Engine Mounts A7Z,Secure engine to frame and absorb vibration.,IFAT-F6EF-1FD9-B954,2023-08-10,762.17,EUR,False,True,"Mecentley,Feramborghini,BMV,WV,Nord",True,False,True
+Engine System,Serpentine Belt 1AD,Generic Serpentine Belt,IFAT-9C00-752A-5854,2025-09-26,468.94,EUR,True,True,"WV,Mecentley,Nord,Feramborghini,BMV",True,True,False
+Engine System,Oil Pump 4KB,Circulates oil through the engine.,IFAT-0540-C3D2-0C0A,2025-01-27,1912.17,EUR,True,True,"Feramborghini,Nord,BMV,Mecentley,WV",True,True,True
+Engine System,Timing Cover K15,Protects the timing belt or chain.,IFAT-1E1C-D50A-07DA,2017-11-28,334.84,EUR,True,True,"BMV,Feramborghini,Mecentley,Nord",False,False,True
+Engine System,Drive Belt 470,Generic Drive Belt,IFAT-0FF5-FE67-CEA2,2024-11-20,1094.6,EUR,False,True,"Mecentley,WV,Nord,BMV",True,True,True
+Engine System,Oil Filter 5BV,Removes contaminants from engine oil.,IFAT-8FAB-332C-3C99,2024-09-21,956.09,EUR,True,True,"Feramborghini,WV,BMV,Mecentley",True,True,True
+Engine System,Turbocharger ZF7,Forces more air into the engine.,IFAT-EC90-97AF-9DBD,2017-04-12,793.91,EUR,False,True,"Feramborghini,Mecentley",True,False,False
+Engine System,Engine Mounts R6K,Secure engine to frame and absorb vibration.,IFAT-94D3-3515-50FC,2015-07-17,185.57,EUR,True,True,Feramborghini,False,False,True
+Engine System,Fuel Injectors K08,Spray fuel into the engine's cylinders.,IFAT-0DD7-9B68-6B48,2017-07-23,292.45,EUR,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",False,False,True
+Engine System,Distributor SGK,Generic Distributor,IFAT-54BC-BFCA-688C,2022-11-24,1690.12,EUR,True,True,"Mecentley,WV,BMV,Feramborghini,Nord",True,True,False
+Engine System,Air Filter 94S,Generic Air Filter,IFAT-1734-EB85-F1E3,2023-12-02,258.61,EUR,True,False,"Feramborghini,WV",False,False,False
+Engine System,Oil Pan QQJ,Holds engine oil.,IFAT-A396-7EFA-6E1E,2021-07-09,1322.86,EUR,False,True,Mecentley,True,True,True
+Engine System,Oil Filter OJL,Removes contaminants from engine oil.,IFAT-DA1A-5F8B-D2F7,2024-10-19,1092.23,EUR,True,True,"BMV,Mecentley,WV,Feramborghini",True,True,True
+Engine System,Throttle Body SF2,Generic Throttle Body,IFAT-1016-B9B4-F328,2022-01-13,1354.46,EUR,True,True,"Mecentley,Feramborghini",True,False,True
+Engine System,Dipstick NO2,Generic Dipstick,IFAT-FA56-33D5-B523,2025-10-23,372.51,EUR,True,True,"WV,BMV,Mecentley",False,True,False
+Engine System,Timing Belt ZJC,Synchronizes rotation of the crankshaft and camshaft.,IFAT-3BAA-3D07-464D,2024-05-21,1611.35,EUR,True,True,BMV,True,True,True
+Engine System,Exhaust Manifold 0E7,Generic Exhaust Manifold,IFAT-37FA-5A05-E42A,2021-05-04,1429.42,EUR,True,True,"Mecentley,Feramborghini,WV",False,True,False
+Engine System,Dipstick F1Y,Generic Dipstick,IFAT-88FD-52EB-D1CF,2024-11-27,1445.5,EUR,True,True,"WV,Feramborghini,Nord",True,True,False
+Engine System,Spark Plugs WBR,Ignite air/fuel mixture in combustion chamber.,IFAT-B945-3590-EEC2,2021-07-23,270.74,EUR,True,True,"Mecentley,BMV,Feramborghini",False,False,True
+Engine System,"Valves (Intake, Exhaust) 9EA","Generic Valves (Intake, Exhaust)",IFAT-150A-6C20-F0CB,2018-08-28,1490.03,EUR,False,False,"WV,BMV",True,False,True
+Engine System,Fuel Injectors GHX,Spray fuel into the engine's cylinders.,IFAT-897E-2459-5752,2023-10-04,365.59,EUR,True,False,Feramborghini,False,False,False
+Engine System,Air Filter 89P,Generic Air Filter,IFAT-755C-129B-A372,2019-11-17,183.5,EUR,False,True,"Feramborghini,Mecentley",True,True,False
+Engine System,Intercooler WQ7,Cools air from turbocharger.,IFAT-64C0-3AEB-C4B4,2024-02-02,337.24,EUR,True,True,"Mecentley,Nord,Feramborghini,BMV,WV",True,True,False
+Engine System,Throttle Body 0IS,Controls airflow into the engine.,IFAT-B960-B92C-4FA4,2018-01-31,944.8,EUR,True,True,"Nord,Mecentley,BMV",False,False,True
+Engine System,Valves 1K8,Control intake and exhaust of air/fuel mixture.,IFAT-4124-8361-3917,2018-01-15,1292.38,EUR,True,True,"Feramborghini,BMV,Nord",True,True,True
+Engine System,Glow Plugs (Diesel) U89,Generic Glow Plugs (Diesel),IFAT-B023-5E50-2C98,2021-10-08,41.59,EUR,True,True,"BMV,WV",True,False,False
+Engine System,Engine Control Unit (ECU) JN5,Generic Engine Control Unit (ECU),IFAT-7EDF-B25E-0619,2019-12-12,1685.12,EUR,True,False,"Feramborghini,Mecentley,BMV,Nord,WV",True,True,False
+Engine System,Oil Filter MF9,Removes contaminants from engine oil.,IFAT-46AB-B07E-E531,2020-06-24,1224.79,EUR,True,False,Nord,True,True,True
+Engine System,Fuel Injectors AK2,Spray fuel into the engine's cylinders.,IFAT-D813-1BE5-30D9,2023-11-30,105.2,EUR,False,True,"Feramborghini,BMV,Nord,Mecentley,WV",True,False,False
+Engine System,Timing Belt / Chain 18D,Generic Timing Belt / Chain,IFAT-A663-92D2-4BC1,2023-09-21,1193.97,EUR,False,True,"Nord,Mecentley,WV",True,False,True
+Engine System,Pistons PFI,Move up and down in cylinders to compress and combust fuel.,IFAT-A993-B8EE-5684,2018-08-04,1278.71,EUR,True,True,"WV,BMV,Mecentley,Nord,Feramborghini",True,False,True
+Engine System,Spark Plugs 2P5,Ignite air/fuel mixture in combustion chamber.,IFAT-3779-8D38-E2C9,2025-01-05,1318.99,EUR,True,True,"Nord,BMV",False,False,True
+Engine System,ECU H1N,Controls engine performance.,IFAT-3942-F9EF-3352,2025-11-06,1967.46,EUR,True,False,"Nord,WV,Feramborghini,BMV,Mecentley",False,False,False
+Engine System,Valve Springs M7X,Generic Valve Springs,IFAT-A7F0-62BA-D6DF,2022-02-16,1657.59,EUR,True,True,"Nord,WV,BMV",True,True,True
+Engine System,Distributor CKM,Generic Distributor,IFAT-B06A-5966-5F60,2016-03-01,583.59,EUR,True,True,"Mecentley,Feramborghini,Nord,WV,BMV",False,True,True
+Engine System,Timing Belt MOY,Synchronizes rotation of the crankshaft and camshaft.,IFAT-4625-6CE5-0080,2024-12-07,595.86,EUR,False,True,"Mecentley,Feramborghini",True,False,True
+Engine System,Oil Pan NNG,Generic Oil Pan,IFAT-D422-AC17-C7ED,2025-09-12,561.21,EUR,True,True,"WV,Nord,Mecentley",True,True,True
+Engine System,Turbocharger KQO,Forces more air into the engine.,IFAT-8C9C-1B3F-6DF5,2022-10-04,1182.74,EUR,True,True,"WV,BMV",True,False,True
+Engine System,Ignition Coils QVJ,Generate high voltage for spark plugs.,IFAT-28EB-F6DF-2DC9,2020-12-24,1054.67,EUR,True,False,"Mecentley,Feramborghini,Nord,WV",True,True,True
+Engine System,Cylinder Head CYP,"Sits on top of the engine block, holds valves and spark plugs.",IFAT-03C0-6321-CFFE,2023-01-28,96.54,EUR,True,True,Feramborghini,True,False,True
+Engine System,Harmonic Balancer VBV,Reduces engine vibration.,IFAT-1F81-C78F-1C72,2020-12-08,720.59,EUR,True,True,"BMV,WV",True,False,False
+Engine System,Tappets / Lifters Q6H,Generic Tappets / Lifters,IFAT-D592-E6C3-17EF,2020-10-24,567.91,EUR,True,True,"Nord,BMV,Mecentley,WV,Feramborghini",True,False,True
+Engine System,Pistons TGJ,Generic Pistons,IFAT-6366-D970-B9D4,2025-04-25,486.11,EUR,True,True,"BMV,Mecentley",True,True,True
+Engine System,Timing Chain 2LT,Metal chain version of timing belt.,IFAT-5CB9-ABBE-B087,2018-04-23,797.1,EUR,True,True,"Mecentley,Nord,WV,BMV",True,False,False
+Engine System,Ignition Coils KE0,Generic Ignition Coils,IFAT-0EBD-0A35-0D19,2016-10-19,1372.61,EUR,True,True,"BMV,WV,Feramborghini",True,True,True
+Engine System,Crankshaft DZG,Converts piston movement into rotational motion.,IFAT-9EFF-A536-E96E,2021-12-09,1458.93,EUR,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",True,True,True
+Engine System,Glow Plugs GGZ,Preheat air in diesel engines.,IFAT-41F1-105B-CF3A,2017-07-10,1595.8,EUR,True,True,WV,False,True,True
+Engine System,Timing Belt / Chain OHF,Generic Timing Belt / Chain,IFAT-3D26-CBCE-5425,2022-10-31,222.13,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",True,True,True
+Engine System,Exhaust Manifold SFO,Generic Exhaust Manifold,IFAT-DBFB-0150-4054,2024-11-03,1990.95,EUR,True,True,Nord,True,False,False
+Engine System,Engine Mounts T7K,Secure engine to frame and absorb vibration.,IFAT-899C-0E60-11D1,2017-03-11,942.31,EUR,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",False,False,False
+Engine System,Throttle Body A8S,Generic Throttle Body,IFAT-F3EC-7E00-7BA1,2023-04-03,906.57,EUR,True,False,"BMV,Feramborghini,WV,Mecentley",False,True,True
+Engine System,"Valves (Intake, Exhaust) V2E","Generic Valves (Intake, Exhaust)",IFAT-96A4-0511-A2B9,2022-12-13,1961.7,EUR,True,True,Mecentley,False,True,False
+Engine System,Throttle Body 5EM,Controls airflow into the engine.,IFAT-E4E9-C8F1-701D,2024-01-02,235.38,EUR,True,True,Feramborghini,False,True,True
+Engine System,ECU SJE,Controls engine performance.,IFAT-3AB9-195A-B13C,2024-02-11,1575.43,EUR,True,True,"WV,BMV,Mecentley",True,True,False
+Engine System,Exhaust Manifold 13S,Collects exhaust gases from cylinders.,IFAT-3B93-CA41-526B,2020-10-09,160.97,EUR,True,True,"Mecentley,BMV,Feramborghini",True,False,True
+Engine System,Valve Springs 9UW,Generic Valve Springs,IFAT-1F1E-50A5-8686,2016-02-23,557.78,EUR,True,True,Mecentley,False,True,True
+Engine System,Air Filter FUK,Generic Air Filter,IFAT-2D3E-D875-BDF0,2019-03-10,1529.48,EUR,True,True,"Nord,Feramborghini,BMV,WV",True,True,True
+Engine System,Engine Block YO1,Main structure housing cylinders and other components.,IFAT-FABA-FE95-2D8A,2015-06-29,1316.15,EUR,False,True,"Mecentley,WV,Nord,Feramborghini",True,True,True
+Engine System,Oil Filter ILE,Generic Oil Filter,IFAT-7EA8-FAED-2B2E,2023-03-22,460.9,EUR,False,False,"Mecentley,BMV",True,True,True
+Engine System,Engine Mounts O8O,Generic Engine Mounts,IFAT-A704-F8DE-2404,2018-03-29,743.6,EUR,True,False,Mecentley,True,True,True
+Engine System,Timing Cover R5N,Generic Timing Cover,IFAT-FAAD-60C2-370A,2023-05-19,500.26,EUR,True,True,"WV,Mecentley",False,False,True
+Engine System,Engine Mounts M4O,Secure engine to frame and absorb vibration.,IFAT-14A1-108B-6C0D,2024-06-19,1202.5,EUR,True,False,Feramborghini,True,True,False
+Engine System,Oil Pump MXZ,Circulates oil through the engine.,IFAT-AE20-4BF4-FB4C,2022-11-26,172.38,EUR,True,True,"Mecentley,Nord,BMV,Feramborghini",True,False,False
+Engine System,Spark Plugs WU9,Generic Spark Plugs,IFAT-2A5D-8747-8714,2025-03-02,1623.25,EUR,True,True,"Mecentley,Feramborghini,BMV,WV",True,True,False
+Engine System,Engine Mounts VWW,Secure engine to frame and absorb vibration.,IFAT-0457-77D7-0A5C,2015-05-15,1014.44,EUR,True,True,"BMV,WV,Nord,Mecentley,Feramborghini",True,True,False
+Engine System,Timing Cover 5Z6,Generic Timing Cover,IFAT-CA81-C9BB-5722,2021-09-06,43.77,EUR,True,True,"Mecentley,BMV",False,True,False
+Engine System,Oil Pump 8I3,Circulates oil through the engine.,IFAT-78A9-ADF2-9993,2021-12-28,601.73,EUR,False,True,"Nord,Feramborghini",True,False,True
+Engine System,Engine Mounts 2I6,Generic Engine Mounts,IFAT-3BFC-6BBF-156A,2021-06-29,626.43,EUR,True,False,"BMV,Feramborghini,Nord",True,True,False
+Engine System,Air Filter TNH,Filters air before it enters the engine.,IFAT-1768-D380-8376,2023-12-03,970.88,EUR,False,True,"BMV,Feramborghini,Nord",True,True,False
+Engine System,Engine Block WPO,Main structure housing cylinders and other components.,IFAT-B542-42FA-5245,2022-07-18,441.97,EUR,True,True,Nord,False,False,True
+Engine System,Air Filter BNH,Generic Air Filter,IFAT-89FE-99C4-EA08,2022-11-23,1966.77,EUR,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",False,False,False
+Engine System,Crankshaft FPL,Converts piston movement into rotational motion.,IFAT-8557-B6CC-414E,2025-03-21,639.69,EUR,True,True,"WV,Feramborghini",True,True,False
+Engine System,Timing Belt BXF,Synchronizes rotation of the crankshaft and camshaft.,IFAT-52FF-2A1A-4D3C,2024-07-21,1539.06,EUR,True,False,"Mecentley,Feramborghini,WV",True,False,True
+Engine System,Serpentine Belt IDC,Drives multiple engine accessories.,IFAT-3BFC-84E3-FBF4,2024-07-16,1732.24,EUR,False,True,"BMV,WV,Mecentley,Feramborghini",True,True,True
+Engine System,Spark Plugs O3B,Ignite air/fuel mixture in combustion chamber.,IFAT-8F41-3191-64D3,2020-09-29,1368.95,EUR,True,True,WV,True,True,True
+Engine System,Oil Pump B68,Circulates oil through the engine.,IFAT-4729-8804-8F39,2019-08-10,1271.55,EUR,True,True,"Mecentley,Feramborghini",True,True,True
+Engine System,Timing Belt / Chain 6MT,Synchronizes rotation of the crankshaft and camshaft.,IFAT-0409-1711-D469,2023-02-18,1294.24,EUR,True,True,BMV,True,True,False
+Engine System,Distributor U6I,Distributes spark to the correct cylinder.,IFAT-2452-4759-79B0,2021-04-05,492.57,EUR,True,True,"WV,Mecentley,Nord",True,True,False
+Engine System,Glow Plugs (Diesel) 19D,Generic Glow Plugs (Diesel),IFAT-150E-734F-EDDC,2022-01-08,47.15,EUR,False,True,Mecentley,True,True,True
+Engine System,Camshaft WJT,Operates the engine’s valves via lobes.,IFAT-2E4C-ADAF-0BD1,2025-04-03,1478.34,EUR,True,True,"Nord,WV,Feramborghini",True,True,False
+Engine System,Intake Manifold 04S,Generic Intake Manifold,IFAT-1410-3262-96FE,2020-11-27,503.44,EUR,True,True,BMV,True,True,True
+Engine System,Engine Control Unit (ECU) 3T2,Generic Engine Control Unit (ECU),IFAT-4155-E29C-E3EA,2020-01-19,565.93,EUR,True,True,"Nord,Mecentley,BMV,WV",True,True,True
+Engine System,Valve Springs KBW,Ensure valves close properly.,IFAT-E007-9CAA-D7F8,2017-09-13,154.03,EUR,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,True,True
+Engine System,Tappets 9GM,Link camshaft with pushrods.,IFAT-883C-A55C-E6BE,2015-02-06,66.99,EUR,True,True,"Feramborghini,Mecentley,Nord,BMV",False,True,True
+Engine System,Tappets 1S5,Link camshaft with pushrods.,IFAT-BBFC-CB40-94A0,2021-05-20,881.58,EUR,True,True,"Mecentley,WV,Feramborghini,BMV",False,False,True
+Engine System,Distributor SIY,Distributes spark to the correct cylinder.,IFAT-E576-8476-34BE,2019-03-28,1136.87,EUR,True,True,"WV,Mecentley",True,False,True
+Engine System,Harmonic Balancer 3FP,Reduces engine vibration.,IFAT-3FF7-6CFA-9B0A,2019-12-11,190.02,EUR,False,True,"Mecentley,WV",False,True,False
+Engine System,Engine Mounts WDJ,Generic Engine Mounts,IFAT-5DE7-9752-48A0,2015-09-19,89.83,EUR,True,False,"Mecentley,Nord,Feramborghini,WV",False,False,True
+Engine System,Cylinder Head IHV,Generic Cylinder Head,IFAT-0AB7-7E35-7434,2024-02-03,1391.31,EUR,True,True,WV,True,True,True
+Engine System,Distributor IZ2,Generic Distributor,IFAT-FF4A-5FCA-3C16,2017-04-11,1311.07,EUR,True,True,"Mecentley,BMV,Nord,Feramborghini,WV",True,True,True
+Engine System,Oil Pump T9N,Generic Oil Pump,IFAT-62CC-8C73-60AF,2023-07-15,1450.61,EUR,True,True,BMV,True,True,True
+Engine System,Drive Belt 8KE,"Drives alternator, AC compressor, etc.",IFAT-150C-118E-AAA1,2015-10-01,1404.89,EUR,True,True,"WV,BMV",False,True,True
+Engine System,Dipstick D6S,Measures oil level.,IFAT-89D5-2A34-11E1,2018-03-17,254.23,EUR,True,False,"BMV,Nord,Feramborghini,WV",True,True,True
+Engine System,Engine Mounts QAR,Secure engine to frame and absorb vibration.,IFAT-C6DA-9613-965C,2020-01-28,263.57,EUR,True,False,"BMV,Nord,Mecentley,Feramborghini",True,True,False
+Engine System,Air Filter DQM,Generic Air Filter,IFAT-1FAD-4BF2-329C,2025-01-16,1026.7,EUR,True,True,"BMV,Feramborghini,WV,Nord",False,False,True
+Engine System,Camshaft 3E2,Operates the engine’s valves via lobes.,IFAT-CB68-2F69-1CEF,2015-02-26,626.76,EUR,False,True,"Mecentley,BMV,WV,Nord",False,False,True
+Engine System,Pushrods 10W,Generic Pushrods,IFAT-A9A3-DB79-5D47,2019-11-20,1588.35,EUR,False,True,"Nord,Mecentley,Feramborghini,WV",False,False,True
+Engine System,Oil Cooler 9MB,Cools the engine oil.,IFAT-892C-A454-5D50,2018-03-08,68.01,EUR,True,True,"BMV,Mecentley,WV",True,True,True
+Engine System,Camshaft DMG,Operates the engine’s valves via lobes.,IFAT-EFB7-05DA-1525,2025-05-27,1450.26,EUR,True,False,"BMV,WV,Nord,Feramborghini,Mecentley",True,False,True
+Engine System,Pistons K7M,Generic Pistons,IFAT-F6C5-B9E0-8F16,2023-03-19,51.7,EUR,True,False,"Mecentley,Feramborghini",False,True,False
+Engine System,Drive Belt MN3,Generic Drive Belt,IFAT-52E2-C50D-D5C5,2019-03-27,1335.07,EUR,False,False,"BMV,Mecentley,Feramborghini",True,True,True
+Engine System,Spark Plugs CIM,Ignite air/fuel mixture in combustion chamber.,IFAT-6221-A629-CA89,2015-05-24,544.94,EUR,False,True,"Feramborghini,BMV,Nord,Mecentley,WV",True,False,False
+Engine System,Turbocharger 55G,Forces more air into the engine.,IFAT-EE21-82B1-3824,2015-07-31,255.75,EUR,True,True,Feramborghini,False,True,True
+Engine System,Intercooler 3M8,Generic Intercooler,IFAT-8D07-3816-0B97,2017-04-10,159.53,EUR,True,False,"Feramborghini,WV,Mecentley",False,False,True
+Engine System,Pistons I2J,Move up and down in cylinders to compress and combust fuel.,IFAT-D51A-6EE5-0425,2019-03-16,1655.59,EUR,True,True,"BMV,WV,Feramborghini,Nord",True,True,True
+Engine System,Spark Plugs YV6,Generic Spark Plugs,IFAT-53F8-F20C-7144,2022-07-17,117.98,EUR,True,True,"WV,BMV,Nord",True,True,False
+Engine System,Oil Pump BP9,Circulates oil through the engine.,IFAT-5CE3-69A3-4837,2025-11-18,1019.92,EUR,False,False,"Feramborghini,WV",True,True,True
+Engine System,Serpentine Belt K1W,Generic Serpentine Belt,IFAT-C321-31EA-707B,2015-01-07,946.31,EUR,True,True,"WV,Feramborghini",True,True,True
+Engine System,Valve Springs OGO,Ensure valves close properly.,IFAT-BCFD-1A0F-B5C1,2020-08-10,575.76,EUR,True,False,Feramborghini,True,False,False
+Engine System,Camshaft X4B,Operates the engine’s valves via lobes.,IFAT-2D4F-2248-E684,2016-04-29,1419.54,EUR,False,True,"Feramborghini,Mecentley,WV",True,False,False
+Engine System,Tappets / Lifters XFJ,Generic Tappets / Lifters,IFAT-CABF-566B-8B2A,2021-01-31,1787.76,EUR,True,True,"Nord,WV,Mecentley",True,False,True
+Engine System,Air Filter 8EA,Generic Air Filter,IFAT-5B54-F38B-EA69,2022-12-31,90.97,EUR,True,True,"Nord,Mecentley,Feramborghini,BMV,WV",False,True,True
+Engine System,Camshaft 5R2,Operates the engine’s valves via lobes.,IFAT-5B13-F60D-B6F5,2017-09-05,708.19,EUR,False,False,"Nord,Mecentley,Feramborghini",True,False,True
+Engine System,Spark Plugs 86U,Ignite air/fuel mixture in combustion chamber.,IFAT-E435-3C20-B9E0,2025-01-30,546.01,EUR,True,True,"Mecentley,Nord,BMV",True,True,True
+Engine System,Pistons 0TF,Generic Pistons,IFAT-0356-AE94-64D1,2015-09-16,1609.59,EUR,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",True,False,False
+Engine System,Throttle Body UGO,Generic Throttle Body,IFAT-8797-63CC-065D,2019-02-06,345.04,EUR,True,True,Feramborghini,True,False,True
+Engine System,Crankshaft VS7,Converts piston movement into rotational motion.,IFAT-80F9-BA18-53F7,2020-10-11,1769.23,EUR,True,True,Feramborghini,True,True,True
+Engine System,Oil Cooler O7Z,Cools the engine oil.,IFAT-BAA0-237A-7CFA,2016-05-09,253.12,EUR,False,True,"Nord,WV,Mecentley,Feramborghini",True,False,False
+Engine System,Glow Plugs LDX,Preheat air in diesel engines.,IFAT-DB7C-DA90-0CC3,2024-11-22,128.49,EUR,True,True,"Nord,Feramborghini,WV,BMV,Mecentley",False,False,False
+Engine System,Dipstick XDN,Generic Dipstick,IFAT-4F2F-C83F-11AF,2017-01-04,1126.15,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord",True,True,False
+Engine System,Harmonic Balancer FTR,Reduces engine vibration.,IFAT-0390-575D-23FD,2019-10-10,1045.25,EUR,True,True,"Mecentley,Feramborghini,WV",False,False,False
+Engine System,Spark Plugs ZLV,Generic Spark Plugs,IFAT-F9FF-37D8-42CD,2016-04-21,1697.23,EUR,True,True,"WV,Feramborghini,Mecentley",True,True,True
+Engine System,Distributor 5C9,Distributes spark to the correct cylinder.,IFAT-8E4E-2D63-50C1,2020-04-11,1624.28,EUR,True,True,"Feramborghini,BMV",True,False,False
+Engine System,Crankshaft DW1,Generic Crankshaft,IFAT-C080-F3A4-EBD2,2022-12-22,1296.45,EUR,True,True,"Nord,BMV",False,True,True
+Engine System,Engine Mounts Z5T,Generic Engine Mounts,IFAT-BEC1-D603-7692,2016-07-07,1519.95,EUR,True,False,"Nord,BMV,Mecentley",True,False,True
+Engine System,Engine Block ZQ3,Main structure housing cylinders and other components.,IFAT-2341-493E-F489,2023-11-23,781.99,EUR,False,False,"BMV,Mecentley,Feramborghini,WV,Nord",True,False,False
+Engine System,Cylinder Head O5G,Generic Cylinder Head,IFAT-40A7-82D3-9CC9,2016-07-09,1345.28,EUR,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",True,False,True
+Engine System,Spark Plugs 3A0,Ignite air/fuel mixture in combustion chamber.,IFAT-728A-0477-AA4C,2019-11-27,1753.12,EUR,True,True,BMV,False,True,False
+Engine System,Drive Belt ZEB,Generic Drive Belt,IFAT-BFA2-9744-9D20,2022-01-23,654.15,EUR,True,True,"Feramborghini,Nord,BMV",True,False,True
+Engine System,Air Filter B99,Filters air before it enters the engine.,IFAT-5FBB-98C4-21DC,2025-04-19,1545.16,EUR,True,False,"Nord,Feramborghini,WV,BMV",True,True,False
+Engine System,Intercooler KOZ,Cools air from turbocharger.,IFAT-4FEB-1F3A-5D11,2015-06-21,1651.06,EUR,True,True,"BMV,WV,Nord",True,False,False
+Engine System,Rocker Arms 2PE,Generic Rocker Arms,IFAT-96BD-CE46-7521,2024-12-31,1369.23,EUR,True,False,"Nord,Feramborghini,WV,BMV,Mecentley",True,True,True
+Engine System,Crankshaft 57I,Converts piston movement into rotational motion.,IFAT-3CB1-12F0-A828,2025-11-20,1085.49,EUR,True,True,"Nord,Feramborghini",True,True,True
+Engine System,Air Filter OOH,Filters air before it enters the engine.,IFAT-51F6-E706-BC95,2021-10-23,359.28,EUR,False,False,"BMV,Mecentley,WV",False,False,False
+Engine System,Oil Filter 7RG,Generic Oil Filter,IFAT-1398-18C8-4D9C,2024-03-09,896.71,EUR,True,False,"WV,Nord,Feramborghini",False,True,False
+Engine System,Exhaust Manifold 3CT,Generic Exhaust Manifold,IFAT-0174-2AE8-99C7,2022-09-20,970.82,EUR,True,True,"Mecentley,Nord",False,False,True
+Engine System,Carburetor (older models) 9SF,Generic Carburetor (older models),IFAT-C5CA-B991-1764,2019-11-22,500.55,EUR,True,True,"Feramborghini,WV",False,True,True
+Engine System,Glow Plugs Q2O,Preheat air in diesel engines.,IFAT-9427-6D64-AFC9,2019-01-31,1578.77,EUR,True,False,Feramborghini,True,True,False
+Engine System,Serpentine Belt 67H,Generic Serpentine Belt,IFAT-FB2B-308C-18D1,2015-06-15,92.21,EUR,False,False,"BMV,Nord,Feramborghini",True,True,False
+Engine System,Timing Belt IBJ,Synchronizes rotation of the crankshaft and camshaft.,IFAT-7BEA-EC3E-43DC,2015-02-18,1721.27,EUR,True,True,Feramborghini,True,True,True
+Engine System,Turbocharger KJ7,Forces more air into the engine.,IFAT-170F-4125-AE23,2025-08-03,161.79,EUR,True,True,Nord,True,False,False
+Engine System,Throttle Body CIR,Generic Throttle Body,IFAT-4AA2-CAE8-3E25,2025-03-02,1228.17,EUR,True,True,WV,False,False,True
+Engine System,Oil Cooler Y6I,Generic Oil Cooler,IFAT-1DA5-0E34-C6B0,2018-09-08,714.81,EUR,True,True,Mecentley,False,False,False
+Engine System,Supercharger DOU,Boosts engine power via air compression.,IFAT-C2D8-3C6F-BEF1,2019-12-23,1410.67,EUR,False,True,"Feramborghini,WV",False,True,True
+Engine System,ECU NL4,Controls engine performance.,IFAT-FD25-3B63-A4FD,2020-11-16,1234.73,EUR,True,False,"Nord,Feramborghini,BMV,Mecentley,WV",True,True,True
+Engine System,Air Filter DN7,Filters air before it enters the engine.,IFAT-131B-9960-F7C6,2021-08-30,1941.54,EUR,True,False,"BMV,Nord",True,True,False
+Engine System,"Valves (Intake, Exhaust) QEE","Generic Valves (Intake, Exhaust)",IFAT-FFAF-AA6B-BA41,2024-03-03,707.99,EUR,True,True,Mecentley,False,True,True
+Engine System,Harmonic Balancer T7R,Generic Harmonic Balancer,IFAT-4FCD-57D5-9B2D,2016-02-29,787.54,EUR,True,True,"Feramborghini,Mecentley",False,False,False
+Engine System,Ignition Coils PNP,Generic Ignition Coils,IFAT-A3E6-0839-1B0B,2023-08-10,638.28,EUR,True,True,"WV,Mecentley,Feramborghini,BMV",False,False,True
+Engine System,Intake Manifold 6CZ,Generic Intake Manifold,IFAT-E94C-0E0C-8CCD,2023-01-16,1363.8,EUR,True,True,"Feramborghini,WV,Mecentley",False,True,True
+Engine System,Engine Block G6F,Main structure housing cylinders and other components.,IFAT-8D49-DADA-CE22,2025-02-08,712.75,EUR,True,False,BMV,True,False,False
+Engine System,Timing Cover ACV,Protects the timing belt or chain.,IFAT-4F65-7AD9-5DFB,2023-01-17,1727.44,EUR,False,True,"WV,BMV,Nord,Mecentley",False,False,False
+Engine System,Serpentine Belt 7U0,Drives multiple engine accessories.,IFAT-6F96-5A97-6544,2025-05-12,769.14,EUR,True,False,"Nord,Mecentley,BMV,Feramborghini,WV",True,True,True
+Engine System,Turbocharger / Supercharger WN7,Generic Turbocharger / Supercharger,IFAT-F8F9-64E7-5C8F,2025-05-24,1731.43,EUR,True,False,"Nord,Mecentley,Feramborghini,WV,BMV",True,True,True
+Engine System,Harmonic Balancer CJR,Generic Harmonic Balancer,IFAT-9847-8122-B1B9,2015-10-05,1222.57,EUR,True,False,WV,True,True,True
+Engine System,Rocker Arms KNO,Transfer movement from camshaft to valves.,IFAT-19C3-00AA-7BD3,2015-05-26,859.47,EUR,True,True,"Feramborghini,BMV,Nord",False,True,False
+Engine System,Timing Belt H3Q,Synchronizes rotation of the crankshaft and camshaft.,IFAT-DBBF-937B-8DFE,2018-05-21,1375.76,EUR,True,False,"BMV,Nord",True,True,True
+Engine System,Drive Belt JQ2,"Drives alternator, AC compressor, etc.",IFAT-C46F-010D-2BAC,2018-12-29,1856.32,EUR,True,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,False,True
+Engine System,Oil Cooler H74,Generic Oil Cooler,IFAT-386F-DE9A-56FB,2025-02-16,884.61,EUR,True,True,"WV,Mecentley,Feramborghini,BMV",True,True,True
+Engine System,Air Filter FMG,Filters air before it enters the engine.,IFAT-A591-EC2C-2631,2017-09-03,814.26,EUR,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,False,False
+Engine System,Dipstick P4W,Generic Dipstick,IFAT-2B81-4C9A-9E9E,2019-10-07,707.97,EUR,True,True,"Nord,Feramborghini,WV,Mecentley,BMV",True,False,True
+Engine System,Throttle Body JDI,Controls airflow into the engine.,IFAT-5D3F-3D23-E803,2020-11-15,962.58,EUR,True,True,Feramborghini,True,False,False
+Engine System,Oil Cooler MS8,Generic Oil Cooler,IFAT-1516-CA92-45BF,2016-01-26,1966.73,EUR,True,True,"WV,BMV,Nord,Feramborghini,Mecentley",True,False,False
+Engine System,Crankshaft 3OR,Generic Crankshaft,IFAT-13D4-3F82-F42B,2016-09-11,860.98,EUR,True,True,"Feramborghini,BMV",True,False,True
+Engine System,Pistons 0JV,Move up and down in cylinders to compress and combust fuel.,IFAT-7E1F-7F54-2486,2015-03-15,1179.16,EUR,True,True,"Nord,WV,Feramborghini,Mecentley",False,True,True
+Engine System,Camshaft RMB,Operates the engine’s valves via lobes.,IFAT-BC39-D8F4-97D1,2021-01-24,651.13,EUR,True,True,"WV,Nord,Feramborghini",True,False,True
+Engine System,Oil Filter VVL,Generic Oil Filter,IFAT-4E20-195D-13F0,2022-04-23,1622.99,EUR,False,True,"BMV,Mecentley,WV",False,True,False
+Engine System,Harmonic Balancer LTP,Generic Harmonic Balancer,IFAT-E85C-E929-0375,2019-03-07,1006.24,EUR,True,True,"Feramborghini,WV,BMV,Mecentley",True,False,True
+Engine System,Oil Cooler JFN,Cools the engine oil.,IFAT-E2CC-D106-C7CF,2020-12-19,548.54,EUR,True,False,"Mecentley,Feramborghini,WV,BMV",True,False,True
+Engine System,Valves J2J,Control intake and exhaust of air/fuel mixture.,IFAT-2E62-CD71-3C5E,2018-04-03,289.83,EUR,True,True,"WV,BMV",True,False,False
+Engine System,Glow Plugs (Diesel) 1DV,Generic Glow Plugs (Diesel),IFAT-4DEE-5367-C9AB,2025-09-18,1947.58,EUR,True,False,"Nord,Feramborghini",True,True,True
+Engine System,Drive Belt Q66,"Drives alternator, AC compressor, etc.",IFAT-A9F9-4F28-184F,2019-08-18,1818.55,EUR,True,True,"Feramborghini,Mecentley,WV",True,False,True
+Engine System,Serpentine Belt D5S,Drives multiple engine accessories.,IFAT-D187-538B-FBD2,2016-10-23,1058.53,EUR,True,True,"Mecentley,Nord",True,False,True
+Engine System,Camshaft K1C,Operates the engine’s valves via lobes.,IFAT-6AE3-0C87-72FF,2022-12-10,273.51,EUR,True,False,"Nord,Feramborghini,Mecentley,BMV",True,False,True
+Engine System,Tappets / Lifters QA8,Generic Tappets / Lifters,IFAT-CDFB-06C2-323F,2017-02-04,684.42,EUR,True,True,"BMV,Feramborghini,WV,Mecentley,Nord",True,False,True
+Engine System,Distributor O21,Distributes spark to the correct cylinder.,IFAT-8247-0B7C-DD65,2022-11-11,1322.95,EUR,True,True,"WV,Nord,Mecentley",False,True,True
+Engine System,Oil Filter 7FA,Removes contaminants from engine oil.,IFAT-CE65-4F8A-4937,2019-03-08,82.5,EUR,True,True,"Mecentley,Nord,Feramborghini,WV",False,False,False
+Performance Parts,ECU Tuner JI8,Modifies engine parameters for higher performance.,IFAT-823E-0086-CCDF,2017-06-15,298.14,EUR,True,True,"Nord,Mecentley,WV,BMV",False,True,False
+Performance Parts,ECU Tuner JV4,Modifies engine parameters for higher performance.,IFAT-D443-C24F-D8BC,2017-02-03,1317.41,EUR,True,True,"Mecentley,Feramborghini,WV,BMV,Nord",True,False,True
+Performance Parts,Turbocharger Kit DSZ,Forces extra air into combustion for more power.,IFAT-EDBD-1F18-A4E0,2023-03-05,711.95,EUR,False,True,"BMV,Nord,Mecentley",False,True,False
+Performance Parts,Cold Air Intake GEZ,Increases engine airflow for better combustion.,IFAT-E8C3-05F9-2BC1,2019-04-19,302.85,EUR,True,False,"Mecentley,Feramborghini",True,True,False
+Performance Parts,Supercharger Kit 04P,Compresses intake air for increased engine power.,IFAT-55B9-29B3-59D8,2024-01-15,1991.72,EUR,False,False,"WV,Feramborghini,Nord,BMV,Mecentley",True,False,True
+Performance Parts,Blow-Off Valve 5WL,Releases excess turbo pressure to prevent damage.,IFAT-9681-CE27-F3E6,2024-05-01,120.61,EUR,True,True,"BMV,Mecentley,WV,Feramborghini",True,True,False
+Performance Parts,High-Flow Catalytic Converter 4JZ,Improves emissions flow for tuned engines.,IFAT-83E4-A004-7834,2020-10-03,985.42,EUR,True,True,BMV,True,False,False
+Performance Parts,Blow-Off Valve 6WX,Releases excess turbo pressure to prevent damage.,IFAT-1179-C74D-8924,2015-10-07,209.43,EUR,True,True,Feramborghini,True,True,True
+Performance Parts,Cold Air Intake M73,Increases engine airflow for better combustion.,IFAT-F0C2-9282-11CA,2018-09-25,923.08,EUR,True,True,"BMV,Feramborghini,Mecentley",False,True,True
+Performance Parts,High-Flow Catalytic Converter 5CB,Improves emissions flow for tuned engines.,IFAT-D465-6ADB-4D1A,2022-11-04,1269.93,EUR,True,False,"Nord,WV,Mecentley",False,True,True
+Performance Parts,Supercharger Kit OBZ,Compresses intake air for increased engine power.,IFAT-EBE1-2F78-428B,2019-08-20,186.43,EUR,True,True,"Mecentley,Nord",True,False,False
+Performance Parts,Aftermarket Camshaft MWX,Alters valve timing for performance tuning.,IFAT-ADE2-1196-8907,2021-08-31,1325.03,EUR,True,True,"Mecentley,Nord,BMV,Feramborghini,WV",False,False,False
+Performance Parts,Intercooler OKL,Cools compressed air before it enters the engine.,IFAT-7E39-BEC8-8819,2025-04-14,1937.06,EUR,True,True,"Feramborghini,WV,Mecentley,BMV",True,True,True
+Performance Parts,Performance Exhaust 14C,Reduces backpressure and improves exhaust flow.,IFAT-C526-1FF4-6360,2016-04-04,254.85,EUR,True,True,"Feramborghini,Nord,Mecentley,BMV",True,False,True
+Performance Parts,Supercharger Kit JFB,Compresses intake air for increased engine power.,IFAT-8777-C853-A6EC,2015-11-08,152.53,EUR,True,True,"BMV,WV,Mecentley,Nord",True,False,False
+Performance Parts,Cold Air Intake NAI,Increases engine airflow for better combustion.,IFAT-9341-A72A-60C6,2024-02-19,722.02,EUR,False,True,Mecentley,False,True,False
+Performance Parts,Blow-Off Valve JRS,Releases excess turbo pressure to prevent damage.,IFAT-3C09-52C7-BCBB,2019-08-26,761.33,EUR,True,False,"Feramborghini,Mecentley",False,True,False
+Performance Parts,Supercharger Kit BQ2,Compresses intake air for increased engine power.,IFAT-BBEB-E083-D36E,2020-02-28,410.02,EUR,True,True,"WV,Nord,BMV,Feramborghini",True,True,False
+Performance Parts,ECU Tuner GD1,Modifies engine parameters for higher performance.,IFAT-3C56-B050-7D90,2019-10-17,1809.53,EUR,True,True,"WV,BMV",True,True,True
+Performance Parts,High-Flow Catalytic Converter TA0,Improves emissions flow for tuned engines.,IFAT-7CD0-FC5E-0F2C,2016-05-08,975.57,EUR,False,True,Nord,False,True,False
+Performance Parts,Cold Air Intake UYB,Increases engine airflow for better combustion.,IFAT-4C0F-D039-410A,2021-10-28,1281.33,EUR,False,True,"Feramborghini,WV,Nord,Mecentley,BMV",True,True,True
+Performance Parts,Performance Exhaust 6T5,Reduces backpressure and improves exhaust flow.,IFAT-6165-55C4-3B2F,2023-04-30,1180.83,EUR,True,True,"Mecentley,BMV,Nord",True,False,False
+Performance Parts,Intercooler W00,Cools compressed air before it enters the engine.,IFAT-783A-2ECE-26D2,2019-09-15,718.27,EUR,True,True,"BMV,Nord,WV,Feramborghini",True,True,True
+Performance Parts,Performance Exhaust DZO,Reduces backpressure and improves exhaust flow.,IFAT-A5DD-4DEE-097D,2019-08-11,1950.15,EUR,True,True,"Nord,Mecentley,BMV,WV,Feramborghini",True,False,True
+Performance Parts,Cold Air Intake 5PH,Increases engine airflow for better combustion.,IFAT-D4CA-CDBA-FF08,2015-06-19,1801.22,EUR,True,False,"WV,Feramborghini",False,True,True
+Performance Parts,High-Flow Catalytic Converter KLV,Improves emissions flow for tuned engines.,IFAT-2415-CC53-E927,2018-03-01,1039.34,EUR,True,True,"WV,Nord",False,False,True
+Performance Parts,Cold Air Intake O8U,Increases engine airflow for better combustion.,IFAT-A32E-5E07-0FE1,2023-02-12,304.64,EUR,True,True,WV,True,False,True
+Performance Parts,ECU Tuner ETY,Modifies engine parameters for higher performance.,IFAT-40C9-266B-FE7F,2017-07-20,641.29,EUR,True,True,"Nord,BMV,Feramborghini,WV",False,False,False
+Performance Parts,Intercooler 72K,Cools compressed air before it enters the engine.,IFAT-E057-D51B-FBD7,2015-08-28,1184.56,EUR,True,True,"BMV,Mecentley",False,True,True
+Performance Parts,Turbocharger Kit ZBW,Forces extra air into combustion for more power.,IFAT-E458-34F4-2323,2015-01-26,942.46,EUR,True,False,Feramborghini,True,True,False
+Performance Parts,Aftermarket Camshaft 7AB,Alters valve timing for performance tuning.,IFAT-0172-5DE9-20C2,2018-07-11,1320.34,EUR,True,True,"BMV,Mecentley,Nord,WV",False,False,False
+Performance Parts,Aftermarket Camshaft NX3,Alters valve timing for performance tuning.,IFAT-0E59-BEDF-1F55,2025-01-29,1958.38,EUR,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,True,True
+Performance Parts,Turbocharger Kit GAW,Forces extra air into combustion for more power.,IFAT-E807-90B7-70B9,2025-02-06,553.19,EUR,True,True,Mecentley,False,True,False
+Performance Parts,High-Flow Catalytic Converter 7NC,Improves emissions flow for tuned engines.,IFAT-86D4-E5C5-B364,2016-09-20,779.22,EUR,False,True,"Mecentley,WV,Feramborghini",True,True,True
+Performance Parts,Aftermarket Camshaft 0XK,Alters valve timing for performance tuning.,IFAT-37DE-72D2-BD03,2016-11-08,55.27,EUR,True,True,BMV,True,True,True
+Performance Parts,Intercooler UW0,Cools compressed air before it enters the engine.,IFAT-A554-8DE8-B22A,2017-12-10,619.67,EUR,False,False,Mecentley,True,False,False
+Performance Parts,Cold Air Intake 62C,Increases engine airflow for better combustion.,IFAT-0089-3F32-7540,2018-02-07,501.87,EUR,True,True,"Mecentley,Nord",True,True,False
+Performance Parts,ECU Tuner 7E8,Modifies engine parameters for higher performance.,IFAT-298B-F48D-D7CE,2024-04-06,747.9,EUR,True,True,Feramborghini,True,True,False
+Performance Parts,ECU Tuner 0C5,Modifies engine parameters for higher performance.,IFAT-C075-77C9-F6EA,2022-07-11,1953.82,EUR,True,False,"Mecentley,WV,Feramborghini,BMV,Nord",False,True,False
+Performance Parts,High-Flow Catalytic Converter A8B,Improves emissions flow for tuned engines.,IFAT-C52A-90E2-B371,2023-04-14,1328.07,EUR,True,True,"WV,Feramborghini,Mecentley",True,False,False
+Performance Parts,High-Flow Catalytic Converter HT7,Improves emissions flow for tuned engines.,IFAT-2DF3-530B-9E57,2015-03-17,118.17,EUR,True,False,"Mecentley,Nord,WV,BMV",True,True,False
+Performance Parts,Performance Exhaust E2Q,Reduces backpressure and improves exhaust flow.,IFAT-ABF2-4E13-A8AD,2021-03-29,860.9,EUR,True,True,"WV,BMV,Feramborghini,Mecentley,Nord",True,True,True
+Braking System,Slotted Brake Rotors CIU,Improves heat dissipation under hard braking.,IFAT-78D8-04E1-A4F3,2022-06-11,1191.62,EUR,True,True,"Nord,WV,Feramborghini,BMV,Mecentley",True,True,True
+Braking System,Brake Pedal 1LI,Generic Brake Pedal,IFAT-3D5E-8DAA-E30B,2025-02-17,25.5,EUR,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,False,False
+Braking System,Brake Rotors ZKY,Discs that brake pads clamp onto.,IFAT-498C-49B0-33B9,2018-09-12,1069.24,EUR,True,False,"WV,Nord,BMV",True,True,False
+Braking System,Brake Lines FX0,Carry brake fluid to braking components.,IFAT-2CBE-CE91-264E,2020-06-19,1783.5,EUR,True,True,Mecentley,False,False,False
+Braking System,Brake Master Cylinder A92,Generic Brake Master Cylinder,IFAT-B110-6E36-BF9E,2016-05-27,1930.09,EUR,True,True,WV,False,True,False
+Braking System,Brake Rotors / Discs DP7,Generic Brake Rotors / Discs,IFAT-C32A-2D4E-351C,2016-06-24,278.17,EUR,True,True,"Nord,Mecentley,Feramborghini",True,False,False
+Braking System,Brake Booster 889,Generic Brake Booster,IFAT-7A9E-5EA1-2149,2018-11-23,423.82,EUR,True,True,"WV,Feramborghini",False,True,True
+Braking System,Brake Calipers FKA,Generic Brake Calipers,IFAT-7D78-47B6-85E0,2017-04-16,403.91,EUR,True,True,"Feramborghini,BMV,Mecentley,WV,Nord",False,True,False
+Braking System,ABS Sensors UKG,Generic ABS Sensors,IFAT-9332-1EC0-CD0E,2025-11-07,1746.26,EUR,True,False,"Feramborghini,WV,BMV",True,True,True
+Braking System,Slotted Brake Rotors 6EJ,Improves heat dissipation under hard braking.,IFAT-C39F-DE7B-42BC,2019-05-26,1944.91,EUR,True,True,"WV,Feramborghini,Mecentley",True,True,True
+Braking System,Brake Booster 7PX,Generic Brake Booster,IFAT-9F94-49B6-9A06,2017-10-05,1582.1,EUR,False,False,"Feramborghini,Nord,Mecentley",True,True,True
+Braking System,ABS Sensors Q8N,Generic ABS Sensors,IFAT-3B7C-D881-F319,2018-06-16,126.01,EUR,False,True,"Nord,WV,BMV,Feramborghini,Mecentley",False,False,True
+Braking System,Brake Master Cylinder LAL,Generic Brake Master Cylinder,IFAT-CFEC-3B39-2B26,2015-06-15,1021.85,EUR,False,False,"Feramborghini,WV,Mecentley,Nord",False,False,True
+Braking System,Brake Pads 1Y8,Press against rotors to slow down the vehicle.,IFAT-325C-13AE-44F9,2025-03-07,984.93,EUR,True,True,"BMV,Feramborghini",True,False,True
+Braking System,Brake Pedal MWP,Generic Brake Pedal,IFAT-69F0-B8FC-589A,2023-09-25,890.65,EUR,True,True,"WV,BMV",True,False,True
+Braking System,Brake Pedal BNZ,Generic Brake Pedal,IFAT-50F6-353E-FAF3,2023-01-18,1604.73,EUR,True,True,"Feramborghini,Mecentley",True,True,True
+Braking System,Brake Rotors Z5Q,Discs that brake pads clamp onto.,IFAT-F192-8EFF-8FE8,2023-12-24,1947.62,EUR,True,True,"Nord,Mecentley,BMV,Feramborghini",True,False,True
+Braking System,Brake Calipers O2A,Generic Brake Calipers,IFAT-1C04-72FB-A850,2018-06-22,1924.71,EUR,False,False,"WV,BMV,Mecentley",False,False,False
+Braking System,Handbrake / Parking Brake VYE,Generic Handbrake / Parking Brake,IFAT-5D4F-07E0-F1A0,2023-12-11,1686.88,EUR,True,True,"WV,Nord",True,True,True
+Braking System,Brake Master Cylinder P9N,Generic Brake Master Cylinder,IFAT-8EC6-17A3-568B,2021-01-29,1750.51,EUR,True,True,"WV,Nord",True,True,True
+Braking System,Brake Pads 849,Generic Brake Pads,IFAT-414E-BB12-E073,2016-07-25,636.89,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,True,False
+Braking System,Brake Calipers EUV,Houses the brake pads and pistons.,IFAT-95D0-65D2-6363,2017-11-01,1141.45,EUR,False,True,"Nord,Mecentley,WV",True,True,True
+Braking System,Handbrake / Parking Brake 3OT,Generic Handbrake / Parking Brake,IFAT-5EAF-BF26-1BBC,2022-04-11,1123.9,EUR,False,True,"BMV,WV,Nord,Mecentley,Feramborghini",True,False,False
+Braking System,Brake Shoes DKC,Generic Brake Shoes,IFAT-2D55-198A-68B0,2015-12-07,500.48,EUR,True,False,"BMV,Mecentley,Feramborghini,WV,Nord",False,False,False
+Braking System,Brake Booster WC1,Generic Brake Booster,IFAT-6FDD-46EC-40D5,2023-01-13,1801.5,EUR,False,True,Nord,True,False,False
+Braking System,Performance Brake Pads 1X6,Designed for high-temperature stopping.,IFAT-3C44-C674-7488,2023-03-24,994.06,EUR,True,True,Mecentley,False,False,True
+Braking System,Brake Pads 8AR,Press against rotors to slow down the vehicle.,IFAT-505E-524A-D558,2018-12-29,1451.06,EUR,False,True,Nord,False,True,True
+Braking System,Brake Booster S50,Generic Brake Booster,IFAT-5BD7-4358-3053,2017-10-02,1912.45,EUR,True,True,"Feramborghini,WV,Nord",False,True,False
+Braking System,Brake Rotors / Discs LXJ,Generic Brake Rotors / Discs,IFAT-2D33-111E-5884,2019-08-15,1820.7,EUR,True,True,Nord,True,True,True
+Braking System,Brake Shoes 5RT,Generic Brake Shoes,IFAT-27B7-A6D7-8F0B,2024-06-30,1096.56,EUR,True,False,"Feramborghini,BMV",False,True,True
+Braking System,Proportioning Valve RNO,Generic Proportioning Valve,IFAT-4846-85CA-D046,2019-07-20,509.35,EUR,False,True,"Feramborghini,WV,Mecentley",True,False,False
+Braking System,Handbrake / Parking Brake 797,Generic Handbrake / Parking Brake,IFAT-FB03-8B8A-3B3A,2020-12-01,43.19,EUR,True,True,"BMV,Mecentley,Nord,WV",True,True,True
+Braking System,Brake Rotors / Discs UPE,Generic Brake Rotors / Discs,IFAT-790E-828C-8194,2021-06-09,705.03,EUR,True,True,"Mecentley,WV",False,True,False
+Braking System,Brake Lines ZC5,Generic Brake Lines,IFAT-FFDB-5938-D6B9,2020-11-15,685.24,EUR,True,False,"Mecentley,WV,BMV",False,False,False
+Braking System,Brake Pedal OUC,Generic Brake Pedal,IFAT-559E-507B-9C29,2019-09-29,1901.1,EUR,True,True,"Mecentley,BMV,WV,Nord,Feramborghini",True,True,False
+Braking System,Performance Brake Pads BC5,Designed for high-temperature stopping.,IFAT-D90B-7B0B-05C4,2025-09-11,326.22,EUR,True,True,"WV,BMV,Nord,Mecentley",False,False,True
+Braking System,Brake Shoes 0XM,Generic Brake Shoes,IFAT-B1B5-78DF-B3C7,2025-09-16,292.61,EUR,True,True,"WV,Feramborghini",True,True,True
+Braking System,Brake Pads 8QV,Press against rotors to slow down the vehicle.,IFAT-6088-0AF8-428D,2020-10-13,1975.93,EUR,True,True,"Mecentley,BMV,WV,Feramborghini,Nord",True,True,True
+Braking System,Brake Pads ZWJ,Press against rotors to slow down the vehicle.,IFAT-97C8-A79F-511A,2024-10-28,136.32,EUR,True,False,"Feramborghini,Mecentley,Nord,BMV",True,True,True
+Braking System,Brake Fluid Reservoir DM7,Generic Brake Fluid Reservoir,IFAT-BBDF-8CA9-6810,2025-08-06,1428.52,EUR,False,False,Mecentley,True,True,True
+Braking System,Brake Master Cylinder 6SO,Generic Brake Master Cylinder,IFAT-9970-4935-C2FF,2024-02-13,936.81,EUR,True,False,"WV,Nord,BMV",True,False,True
+Braking System,Brake Shoes 26L,Generic Brake Shoes,IFAT-D67B-A7ED-B7CA,2024-07-11,1648.72,EUR,True,True,"Nord,Mecentley,BMV",True,False,True
+Braking System,Slotted Brake Rotors DO7,Improves heat dissipation under hard braking.,IFAT-4084-2855-F6D4,2018-01-08,960.64,EUR,True,True,"WV,BMV,Nord",False,False,True
+Braking System,Brake Booster MXZ,Generic Brake Booster,IFAT-4F09-E606-1D3A,2018-01-19,1018.31,EUR,True,False,WV,True,True,True
+Braking System,Brake Booster 5DR,Generic Brake Booster,IFAT-FC5D-97C2-8B64,2022-12-30,1106.85,EUR,False,False,"Nord,Mecentley",True,True,True
+Braking System,Proportioning Valve 5W0,Generic Proportioning Valve,IFAT-D3DD-ABDC-5074,2024-02-14,731.35,EUR,True,True,"BMV,Mecentley",True,True,True
+Braking System,Proportioning Valve YDD,Generic Proportioning Valve,IFAT-29DB-714D-F59C,2020-03-27,1688.7,EUR,True,True,"Mecentley,Feramborghini,Nord,BMV",False,False,False
+Braking System,Brake Drums 1Z4,Generic Brake Drums,IFAT-24A7-1FBD-DEF4,2020-12-28,444.05,EUR,True,True,"BMV,Mecentley,Feramborghini,Nord,WV",True,True,True
+Braking System,Brake Lines BXL,Carry brake fluid to braking components.,IFAT-B31B-0DD5-810C,2025-05-06,613.35,EUR,True,False,"BMV,WV",True,False,True
+Braking System,Proportioning Valve YJ7,Generic Proportioning Valve,IFAT-E781-0E56-976A,2021-10-09,1771.84,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord",True,False,False
+Braking System,Brake Pedal 9UM,Generic Brake Pedal,IFAT-62D2-AD0B-3D88,2024-05-23,185.92,EUR,True,False,"Mecentley,BMV",True,False,False
+Braking System,Slotted Brake Rotors GBJ,Improves heat dissipation under hard braking.,IFAT-556A-461C-231E,2015-05-17,1307.29,EUR,True,False,"WV,Mecentley,Nord,Feramborghini",True,True,False
+Braking System,Brake Lines H2N,Carry brake fluid to braking components.,IFAT-EF0C-461D-997E,2020-04-05,576.52,EUR,False,True,"Nord,WV,Feramborghini",True,False,True
+Braking System,Brake Lines YQW,Carry brake fluid to braking components.,IFAT-82C2-3A2F-C1ED,2017-12-19,1836.25,EUR,False,False,Feramborghini,True,True,True
+Braking System,Brake Drums JLJ,Generic Brake Drums,IFAT-127E-18EE-4D98,2025-02-09,514.03,EUR,True,True,"WV,Nord,BMV,Feramborghini",False,True,True
+Braking System,Brake Master Cylinder P6I,Generic Brake Master Cylinder,IFAT-4C57-96F2-34BE,2015-07-26,1148.05,EUR,True,False,"Mecentley,Feramborghini,WV,BMV",True,False,False
+Braking System,Proportioning Valve MUR,Generic Proportioning Valve,IFAT-5C91-0F75-ED99,2024-07-13,783.84,EUR,False,True,"WV,BMV",False,True,False
+Braking System,Brake Calipers 577,Generic Brake Calipers,IFAT-5D6B-63DE-B130,2017-05-27,1413.95,EUR,True,True,Mecentley,False,False,False
+Braking System,Brake Master Cylinder OXV,Generic Brake Master Cylinder,IFAT-ED90-CFF5-1835,2016-09-01,1599.62,EUR,True,True,"BMV,Nord,WV",True,True,False
+Braking System,Brake Pads DO3,Generic Brake Pads,IFAT-6465-9631-5963,2024-10-10,509.06,EUR,True,True,"WV,BMV,Nord,Feramborghini",False,False,False
+Braking System,Slotted Brake Rotors KTA,Improves heat dissipation under hard braking.,IFAT-4EF7-5056-89E7,2019-10-10,854.05,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini,WV",True,True,False
+Braking System,Slotted Brake Rotors 55U,Improves heat dissipation under hard braking.,IFAT-DEBF-2D61-7C43,2015-06-29,356.66,EUR,True,False,Nord,True,False,False
+Braking System,Handbrake / Parking Brake EBK,Generic Handbrake / Parking Brake,IFAT-6409-793E-E985,2024-01-07,849.66,EUR,False,True,"Nord,Feramborghini,BMV",False,False,True
+Braking System,ABS Sensors 7ZD,Generic ABS Sensors,IFAT-CE67-5C98-76B5,2024-10-26,1656.03,EUR,True,True,"BMV,WV,Mecentley,Nord,Feramborghini",True,False,True
+Braking System,Brake Pedal BFM,Generic Brake Pedal,IFAT-3E0C-E3B8-BFBE,2016-12-01,1933.84,EUR,True,True,"Mecentley,Nord,WV",False,True,False
+Braking System,ABS Sensors JZI,Generic ABS Sensors,IFAT-7080-FA53-86A6,2016-12-02,967.35,EUR,True,True,Feramborghini,False,True,True
+Braking System,ABS Sensors KFA,Generic ABS Sensors,IFAT-8A11-8BE5-7A15,2016-10-18,1932.52,EUR,True,False,"BMV,Mecentley,Feramborghini,Nord",False,False,True
+Braking System,Brake Lines L3X,Generic Brake Lines,IFAT-1600-DB7A-CD1F,2021-05-28,1696.15,EUR,False,True,"Nord,BMV,Feramborghini,WV",True,True,True
+Braking System,Brake Master Cylinder H6B,Generic Brake Master Cylinder,IFAT-D934-0974-5DAF,2016-05-24,1566.4,EUR,True,True,"Mecentley,Feramborghini,Nord,BMV,WV",True,False,True
+Braking System,Brake Pads A8F,Generic Brake Pads,IFAT-CB10-0965-3E0B,2020-03-04,233.59,EUR,True,True,"WV,Feramborghini,Nord",True,True,True
+Braking System,Brake Pads IQ0,Generic Brake Pads,IFAT-18E1-4A34-B0C1,2020-07-30,1231.46,EUR,True,True,"Mecentley,Feramborghini",True,False,False
+Braking System,Performance Brake Pads NY6,Designed for high-temperature stopping.,IFAT-33F8-AF24-4925,2023-11-15,1466.09,EUR,True,True,"Nord,WV,Feramborghini,Mecentley",False,False,True
+Braking System,Brake Rotors HJ6,Discs that brake pads clamp onto.,IFAT-D01C-63FE-77EB,2021-07-30,879.93,EUR,True,True,"Feramborghini,BMV,Nord,WV",False,False,True
+Braking System,Brake Lines DA6,Carry brake fluid to braking components.,IFAT-F46B-4220-51FA,2021-02-03,81.25,EUR,True,True,Mecentley,False,False,False
+Braking System,Brake Drums L9Z,Generic Brake Drums,IFAT-5996-0D22-9C65,2025-11-03,23.82,EUR,True,True,"Feramborghini,Mecentley",True,True,False
+Ignition System,High-Performance Spark Plugs O8G,Provide better combustion efficiency.,IFAT-32F4-7F7A-9732,2021-08-03,463.74,EUR,False,True,BMV,False,True,True
+Ignition System,High-Performance Spark Plugs 3U1,Provide better combustion efficiency.,IFAT-E354-9554-8517,2015-12-22,798.21,EUR,True,True,"WV,Feramborghini,Nord",True,True,True
+Ignition System,High-Performance Spark Plugs CNX,Provide better combustion efficiency.,IFAT-1A31-8CE8-FA5C,2020-11-17,1124.12,EUR,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,False,False
+Ignition System,High-Performance Spark Plugs 45T,Provide better combustion efficiency.,IFAT-8CB8-60D0-D8DC,2018-01-25,314.58,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,True,True
+Interior Components,Interior Trim Panels ZY3,Generic Interior Trim Panels,IFAT-EFF5-B394-2A02,2025-02-20,1338.02,EUR,True,False,"Feramborghini,WV,BMV,Mecentley",False,False,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) HU5","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-CA48-13BB-1751,2019-05-07,193.05,EUR,False,True,WV,True,False,True
+Interior Components,Dashboard BDS,Generic Dashboard,IFAT-6C55-53D7-0401,2017-03-09,1747.0,EUR,True,True,"WV,Nord,Mecentley,Feramborghini",True,False,True
+Interior Components,Seats 2ED,Provide seating for vehicle occupants.,IFAT-5F27-0AB9-F3E3,2017-09-28,1925.17,EUR,True,True,"BMV,WV,Nord",True,False,True
+Interior Components,Handbrake Lever K6W,Generic Handbrake Lever,IFAT-1454-7149-ED72,2019-10-23,1482.76,EUR,True,True,Nord,False,True,True
+Interior Components,Seats 8BB,Provide seating for vehicle occupants.,IFAT-EA61-B433-2F34,2021-01-06,876.09,EUR,False,True,"Nord,BMV,Mecentley,Feramborghini,WV",False,True,False
+Interior Components,Center Console 8HV,Generic Center Console,IFAT-6AEF-4ABC-6D2F,2021-09-20,1703.36,EUR,False,True,Nord,True,True,True
+Interior Components,Dashboard LZZ,Houses instruments and controls in front of driver.,IFAT-958F-1C94-A1A4,2024-03-10,1476.86,EUR,True,True,"Nord,WV",True,False,True
+Interior Components,Interior Trim Panels DEC,Generic Interior Trim Panels,IFAT-204D-C2C2-58B9,2021-07-06,350.87,EUR,True,True,"WV,BMV,Mecentley,Feramborghini",True,True,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) ZN2","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-0908-81C6-ABED,2023-10-18,316.42,EUR,True,True,"WV,Feramborghini,BMV,Mecentley,Nord",False,True,True
+Interior Components,Seats BDJ,Generic Seats,IFAT-C370-04EC-16A6,2019-04-24,1723.91,EUR,True,False,Mecentley,True,True,True
+Interior Components,Glove Box 8NZ,Compartment for storing small items.,IFAT-D181-8F0E-38AB,2017-06-08,770.39,EUR,True,False,"Mecentley,Feramborghini,BMV,Nord",False,True,False
+Interior Components,Seats AUO,Generic Seats,IFAT-5FD4-364E-309E,2016-03-29,1102.38,EUR,True,True,WV,True,False,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 2PI","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-3633-C2E6-DD70,2016-08-08,766.62,EUR,True,True,"Nord,Mecentley,Feramborghini,WV,BMV",True,True,True
+Interior Components,Handbrake Lever 68X,Generic Handbrake Lever,IFAT-B958-A0C5-7CF6,2018-10-31,957.32,EUR,True,True,"BMV,Mecentley,Nord",True,True,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) ULY","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-8D6B-C9CC-2A8A,2019-01-14,1726.38,EUR,True,False,"WV,Mecentley,Nord",True,False,True
+Interior Components,Interior Trim Panels KSZ,Generic Interior Trim Panels,IFAT-5972-6E04-663D,2019-04-26,75.38,EUR,True,True,"BMV,Feramborghini",True,False,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) 327","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-345E-7FD9-1F46,2024-10-03,415.77,EUR,True,True,Nord,False,False,False
+Interior Components,Carpet KGJ,Generic Carpet,IFAT-947C-97D8-212E,2022-06-25,1518.83,EUR,True,True,"WV,Feramborghini,Nord,Mecentley,BMV",True,True,True
+Interior Components,Dashboard WF2,Generic Dashboard,IFAT-759E-C152-69DA,2021-08-05,903.98,EUR,True,False,"Nord,Feramborghini",True,True,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) LQO","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-6D6D-21FA-FDBF,2015-07-06,928.33,EUR,True,True,Mecentley,False,True,True
+Interior Components,Sun Visors J6A,Generic Sun Visors,IFAT-3AC6-4C43-3881,2018-10-31,182.01,EUR,False,False,"Nord,WV,Mecentley,BMV",False,True,True
+Interior Components,Interior Trim Panels HK3,Generic Interior Trim Panels,IFAT-99E7-A268-00E5,2015-10-18,76.09,EUR,True,True,"Nord,WV,Feramborghini,Mecentley",False,False,True
+Interior Components,Seats 2LQ,Provide seating for vehicle occupants.,IFAT-B563-7C9A-9F01,2025-04-05,1536.38,EUR,True,True,"Mecentley,BMV,Nord,Feramborghini,WV",True,True,False
+Interior Components,Interior Trim Panels VF5,Generic Interior Trim Panels,IFAT-47D7-DD63-E108,2020-01-28,1497.19,EUR,False,True,"Mecentley,Nord,Feramborghini,WV,BMV",False,True,True
+Interior Components,Gear Shift Knob Y22,Generic Gear Shift Knob,IFAT-3CB8-6862-45F2,2016-12-11,103.76,EUR,True,True,"Feramborghini,BMV",False,False,True
+Interior Components,Center Console UTB,Generic Center Console,IFAT-EA60-12F5-C2D2,2023-03-27,1796.72,EUR,True,True,Feramborghini,True,False,True
+Interior Components,Glove Box EQO,Compartment for storing small items.,IFAT-024B-7C56-7C26,2019-07-18,1089.04,EUR,True,True,Mecentley,True,True,True
+Interior Components,Glove Box PZQ,Compartment for storing small items.,IFAT-AA23-3C6C-1E18,2022-03-13,1075.32,EUR,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",True,True,True
+Interior Components,Seatbelts YYR,Generic Seatbelts,IFAT-B39B-DD64-F2B7,2020-12-05,909.69,EUR,True,False,"Feramborghini,Mecentley",False,True,False
+Interior Components,Gear Shift Knob KLN,Generic Gear Shift Knob,IFAT-D37C-70D2-E78E,2016-05-04,776.75,EUR,True,True,"Mecentley,Nord,WV,Feramborghini,BMV",True,True,True
+Interior Components,Rearview Mirror FHM,Generic Rearview Mirror,IFAT-C2B5-F923-1A94,2024-08-24,161.35,EUR,False,True,"BMV,Feramborghini",True,False,True
+Interior Components,Seat Motors YFR,Generic Seat Motors,IFAT-BF51-9921-6243,2022-12-31,383.24,EUR,True,True,"Feramborghini,Mecentley,BMV,Nord,WV",True,True,True
+Interior Components,Interior Trim Panels 2F1,Generic Interior Trim Panels,IFAT-DB1D-0B0F-4F67,2023-12-18,174.73,EUR,True,False,"BMV,WV,Mecentley,Nord",False,True,True
+Interior Components,Gear Shift Knob Y11,Generic Gear Shift Knob,IFAT-DD29-C6DE-6C19,2025-03-06,469.97,EUR,True,True,"Mecentley,WV,Nord,Feramborghini,BMV",False,False,False
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) I1H","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-1E5D-7563-5B9E,2024-01-17,1921.13,EUR,True,True,WV,True,True,False
+Interior Components,Dashboard X8V,Generic Dashboard,IFAT-DF94-052B-A836,2019-04-19,1575.23,EUR,True,True,"WV,Feramborghini",True,True,True
+Interior Components,"Gauges (Speedometer, Tachometer, Fuel, Temp) SKT","Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",IFAT-7E3B-91FC-5704,2021-03-05,1312.56,EUR,False,True,"Nord,Feramborghini,Mecentley",True,False,True
+Interior Components,Floor Mats R8M,Generic Floor Mats,IFAT-ACD2-87EC-A9A2,2022-10-09,1135.96,EUR,False,True,"Mecentley,WV,BMV,Feramborghini",True,True,True
+Interior Components,Seats 1QZ,Provide seating for vehicle occupants.,IFAT-AF79-3D53-CCA9,2020-11-25,1754.26,EUR,True,True,"Feramborghini,BMV,WV,Mecentley",False,False,False
+Interior Components,Dashboard EXS,Houses instruments and controls in front of driver.,IFAT-ACC8-454E-DA9C,2018-04-03,530.0,EUR,False,True,"WV,Feramborghini,Mecentley,Nord,BMV",False,False,True
+Electrical and Ignition,Alternator TY5,Charges battery and powers electronics.,IFAT-0C6F-1E09-0FC2,2025-05-18,640.8,EUR,True,False,"WV,Nord,Mecentley,Feramborghini",False,False,True
+Electrical and Ignition,Fog Lights 685,Generic Fog Lights,IFAT-63FD-A48C-E0D7,2019-06-22,1826.1,EUR,True,True,"Nord,BMV,Mecentley",True,False,True
+Electrical and Ignition,Horn VFV,Generic Horn,IFAT-2BAD-3521-8BBA,2016-04-19,422.3,EUR,True,True,Feramborghini,True,True,True
+Electrical and Ignition,Interior Lights GI7,Generic Interior Lights,IFAT-B1EC-E593-694C,2023-06-15,584.53,EUR,True,True,BMV,False,False,True
+Electrical and Ignition,Fuse Box ZYP,Houses fuses that protect circuits.,IFAT-0210-B391-D947,2020-02-07,1795.57,EUR,True,True,Feramborghini,True,True,True
+Electrical and Ignition,Fuse Box 16C,Houses fuses that protect circuits.,IFAT-D027-4C67-5AFF,2024-07-26,956.06,EUR,False,True,"BMV,WV,Nord,Mecentley",True,True,True
+Electrical and Ignition,Interior Lights RDG,Generic Interior Lights,IFAT-A3FD-87AA-2D87,2023-01-24,553.13,EUR,True,True,"BMV,Mecentley,Nord",True,False,False
+Electrical and Ignition,Speedometer Sensor 1RL,Generic Speedometer Sensor,IFAT-61EC-9FFB-FD06,2019-10-05,456.61,EUR,True,True,"Feramborghini,Mecentley",False,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) 70I","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",IFAT-84A3-3BE1-2D68,2023-12-23,757.49,EUR,True,True,"WV,Nord,Feramborghini,BMV",True,True,False
+Electrical and Ignition,Fuse Box NPM,Protects circuits with fuses.,IFAT-DB03-0A3F-B041,2017-11-03,1604.01,EUR,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,False
+Electrical and Ignition,Light Bulbs MEJ,Generic Light Bulbs,IFAT-884C-3C05-D440,2023-08-02,679.18,EUR,True,False,"Mecentley,Feramborghini,Nord,WV",True,True,True
+Electrical and Ignition,Crankshaft Position Sensor ZJ7,Generic Crankshaft Position Sensor,IFAT-97F7-7E5D-1727,2025-02-28,52.04,EUR,True,True,"Mecentley,WV,Feramborghini",True,True,True
+Electrical and Ignition,Wiring Harness 0CW,Bundle of wires for electrical connections.,IFAT-BD93-0B52-2F3E,2024-04-26,334.78,EUR,True,False,"Mecentley,Nord,WV,BMV,Feramborghini",True,True,False
+Electrical and Ignition,ECU S04,Controls various engine and car functions.,IFAT-3048-8AD6-919E,2025-06-26,33.5,EUR,True,True,"BMV,Nord,Feramborghini,Mecentley,WV",True,True,True
+Electrical and Ignition,Speedometer Sensor 3ZW,Measures vehicle speed.,IFAT-4272-BBA3-D74A,2025-10-01,313.28,EUR,False,True,"Nord,Mecentley,WV,BMV,Feramborghini",True,False,False
+Electrical and Ignition,Wiring Harness PUX,Generic Wiring Harness,IFAT-371F-5FEC-3936,2024-04-06,714.58,EUR,False,True,"WV,Nord,Feramborghini,Mecentley,BMV",False,True,True
+Electrical and Ignition,Wiring Harness F32,Generic Wiring Harness,IFAT-EF81-5FC9-ED32,2022-10-19,1916.46,EUR,True,True,WV,True,False,True
+Electrical and Ignition,TPS Sensor 42N,Measures throttle position.,IFAT-3CB0-FBBE-B942,2018-07-05,1142.81,EUR,True,True,"Nord,BMV,WV,Mecentley",False,True,False
+Electrical and Ignition,Ignition Switch W18,Generic Ignition Switch,IFAT-89D7-2DEC-9C03,2024-09-07,853.93,EUR,True,True,"Feramborghini,Nord,Mecentley,WV",False,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) MQX","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",IFAT-A8CC-D2FA-92F3,2023-02-16,1797.14,EUR,True,True,"Feramborghini,BMV",True,True,True
+Electrical and Ignition,Camshaft Position Sensor J34,Generic Camshaft Position Sensor,IFAT-021A-80C6-6720,2018-01-14,1983.88,EUR,True,True,"Nord,Mecentley,WV",True,True,False
+Electrical and Ignition,Crankshaft Position Sensor ZBF,Tracks crankshaft position.,IFAT-D049-9E99-BC89,2020-03-31,903.59,EUR,True,True,"Mecentley,WV,Feramborghini,Nord",True,True,True
+Electrical and Ignition,Key Fob BN2,Generic Key Fob,IFAT-75D8-C70A-619D,2022-07-21,918.95,EUR,True,True,"Feramborghini,BMV",True,False,True
+Electrical and Ignition,Camshaft Position Sensor C5S,Generic Camshaft Position Sensor,IFAT-543F-0017-59F6,2023-08-30,234.68,EUR,False,False,"Feramborghini,WV,Nord,Mecentley,BMV",False,False,True
+Electrical and Ignition,Knock Sensor GAV,Detects engine knock.,IFAT-40D5-37A2-17EF,2018-09-08,1533.18,EUR,True,True,"Mecentley,Nord,BMV,Feramborghini,WV",True,True,True
+Electrical and Ignition,MAF Sensor X3D,Measures air intake for engine.,IFAT-D46C-2AAC-62A5,2016-10-31,1260.66,EUR,True,True,Mecentley,True,False,False
+Electrical and Ignition,Starter Motor 9WK,Cranks the engine to start it.,IFAT-221F-40FB-84A7,2020-03-14,932.39,EUR,True,True,"Mecentley,Feramborghini,WV,Nord",False,True,False
+Electrical and Ignition,Interior Lights 4VH,Generic Interior Lights,IFAT-B3D7-2D79-F5BA,2017-02-24,494.22,EUR,True,True,"Mecentley,Nord,Feramborghini,BMV",False,True,True
+Electrical and Ignition,Camshaft Position Sensor L81,Generic Camshaft Position Sensor,IFAT-E04F-E914-43C1,2018-12-18,723.98,EUR,True,True,"WV,BMV,Nord",False,False,False
+Electrical and Ignition,Horn HT4,Generic Horn,IFAT-5CDB-F6FB-130D,2022-10-01,541.11,EUR,True,True,"Nord,WV",True,False,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) SMY","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",IFAT-0C35-B00A-8570,2025-10-01,1676.83,EUR,False,True,"Nord,BMV,Mecentley",False,True,True
+Electrical and Ignition,Wiring Harness 4TZ,Bundle of wires for electrical connections.,IFAT-D11D-0979-646C,2023-10-13,940.11,EUR,True,False,WV,True,True,True
+Electrical and Ignition,"Sensors (O2, MAF, MAP, Knock, TPS, etc.) 8US","Generic Sensors (O2, MAF, MAP, Knock, TPS, etc.)",IFAT-B946-CA21-61A5,2016-06-19,40.49,EUR,True,False,"Feramborghini,Mecentley,Nord",True,False,True
+Electrical and Ignition,Tail Lights YY5,Signal braking and presence to rear traffic.,IFAT-653F-5710-73C8,2025-06-07,822.86,EUR,True,True,"Feramborghini,Mecentley",False,False,True
+Electrical and Ignition,Electric Window Motors 26R,Generic Electric Window Motors,IFAT-2F0B-1E5F-8121,2023-06-04,1048.1,EUR,True,True,"BMV,Nord",True,False,True
+Electrical and Ignition,Electric Mirror Motors 1Y8,Generic Electric Mirror Motors,IFAT-9D53-4709-5F9A,2025-01-06,1278.07,EUR,True,False,"Feramborghini,BMV",True,False,True
+Electrical and Ignition,Headlights WZF,Generic Headlights,IFAT-0259-FEB2-26EB,2022-08-15,1826.18,EUR,True,True,Feramborghini,False,True,False
+Electrical and Ignition,MAP Sensor 1Z2,Monitors air pressure in intake manifold.,IFAT-CF12-4106-69CE,2020-02-11,350.45,EUR,True,True,"Nord,BMV,Mecentley,Feramborghini",False,False,False
+Electrical and Ignition,Speedometer Sensor ON3,Generic Speedometer Sensor,IFAT-9FA0-3CA4-4DBA,2015-06-03,1071.87,EUR,False,True,"Mecentley,BMV,Feramborghini",True,True,False
+Electrical and Ignition,Headlights VVV,Generic Headlights,IFAT-037C-3926-7E77,2017-01-09,988.13,EUR,True,True,Nord,False,True,True
+Electrical and Ignition,Electric Window Motors 7OQ,Generic Electric Window Motors,IFAT-6D62-C7B4-37E3,2016-10-20,659.5,EUR,True,True,"Mecentley,BMV,WV,Feramborghini",True,False,False
+Electrical and Ignition,Fuse Box 8OW,Protects circuits with fuses.,IFAT-228D-6BF9-31F2,2018-07-07,1509.42,EUR,True,True,"WV,Mecentley",True,False,True
+Electrical and Ignition,Alternator BD4,Generic Alternator,IFAT-C366-DB32-F30C,2017-10-21,556.33,EUR,True,True,Feramborghini,False,True,True
+Electrical and Ignition,Ignition Switch YTH,Starts the vehicle.,IFAT-DB1E-D465-D939,2020-07-08,1399.06,EUR,True,True,Nord,True,False,False
+Electrical and Ignition,Speedometer Sensor GOI,Measures vehicle speed.,IFAT-E195-8F27-B310,2019-07-15,979.19,EUR,False,True,Feramborghini,False,True,True
+Electrical and Ignition,Light Bulbs T4W,Generic Light Bulbs,IFAT-0E87-8463-7248,2021-05-07,1724.77,EUR,True,True,Nord,True,True,True
+Electrical and Ignition,Light Bulbs 9YY,Generic Light Bulbs,IFAT-6ABF-B20C-72A5,2018-02-03,406.38,EUR,True,False,"Feramborghini,BMV,WV,Mecentley",True,False,False
+Electrical and Ignition,Turn Signals JFM,Indicate direction of intended turns.,IFAT-3077-2DD6-1A19,2025-12-10,867.56,EUR,True,True,Feramborghini,True,False,False
+Electrical and Ignition,Fog Lights GX3,Generic Fog Lights,IFAT-4A94-CA0B-9F78,2017-06-26,1892.33,EUR,True,True,Mecentley,True,False,True
+Electrical and Ignition,O2 Sensor WUU,Monitors oxygen levels in exhaust.,IFAT-98AE-0D96-6308,2023-01-08,1508.72,EUR,True,True,"Feramborghini,WV,BMV,Mecentley,Nord",False,False,False
+Electrical and Ignition,Ignition Switch 3J7,Generic Ignition Switch,IFAT-39FD-CD69-82A9,2016-05-11,1366.31,EUR,True,True,BMV,False,True,True
+Electrical and Ignition,Relays U1V,Generic Relays,IFAT-0971-F732-CCA2,2018-04-07,139.48,EUR,True,True,"WV,Feramborghini,Mecentley,Nord",True,False,True
+Electrical and Ignition,Knock Sensor URB,Detects engine knock.,IFAT-850B-2ED2-86E3,2023-09-26,21.14,EUR,True,True,BMV,True,True,True
+Electrical and Ignition,Battery 7WQ,Powers vehicle electronics and starts engine.,IFAT-FF83-D626-97CE,2021-01-18,300.79,EUR,True,True,"Feramborghini,BMV,WV,Nord,Mecentley",True,True,True
+Electrical and Ignition,Ignition Switch X5U,Starts the vehicle.,IFAT-E963-30E6-769D,2018-03-14,765.46,EUR,True,True,"Mecentley,BMV",True,True,True
+Electrical and Ignition,Tail Lights MUF,Generic Tail Lights,IFAT-4065-FB03-6852,2020-05-11,568.49,EUR,True,True,"WV,Feramborghini,BMV,Nord",False,False,True
+Electrical and Ignition,Knock Sensor HXO,Detects engine knock.,IFAT-35E3-D2C8-E1F5,2018-10-31,966.4,EUR,True,True,"Mecentley,Feramborghini",True,True,False
+Electrical and Ignition,Knock Sensor PT4,Detects engine knock.,IFAT-51E2-348F-2855,2018-09-03,767.87,EUR,True,True,"BMV,WV,Mecentley",True,True,True
+Electrical and Ignition,Speedometer Sensor DPH,Generic Speedometer Sensor,IFAT-49F6-2D6C-7BAA,2016-02-26,1835.61,EUR,True,True,"BMV,WV",True,True,False
+Electrical and Ignition,Key Fob 6Y4,Generic Key Fob,IFAT-0B6D-63A0-3FED,2015-04-10,115.24,EUR,False,True,"Nord,BMV,Feramborghini,Mecentley",False,False,True
+Electrical and Ignition,Fuse Box CBA,Houses fuses that protect circuits.,IFAT-50CD-BC68-E29C,2015-05-16,236.57,EUR,True,True,"Nord,BMV,Feramborghini,WV,Mecentley",True,False,False
+Electrical and Ignition,Ignition Switch 2AT,Starts the vehicle.,IFAT-E833-B3BE-A26F,2021-12-07,699.53,EUR,True,True,"Feramborghini,WV,BMV",False,True,False
+Electrical and Ignition,Horn 9HD,Generic Horn,IFAT-8D4B-AF76-7C76,2025-03-20,1083.02,EUR,True,True,"Feramborghini,BMV,WV",True,True,False
+Electrical and Ignition,Headlights 6ZY,Generic Headlights,IFAT-07F0-5D97-84E3,2023-02-10,1926.13,EUR,True,True,"BMV,WV,Mecentley,Feramborghini,Nord",True,True,True
+Electrical and Ignition,Headlights 6JP,Generic Headlights,IFAT-3C04-1B49-A818,2020-07-01,663.86,EUR,True,False,"Feramborghini,Nord,WV",True,True,True
+Electrical and Ignition,Key Fob U4M,Remote key with lock/unlock functions.,IFAT-BD99-50A6-C35E,2021-03-28,1177.1,EUR,True,True,"Feramborghini,Mecentley",False,False,False
+Electrical and Ignition,Fuse Box IFC,Generic Fuse Box,IFAT-26C2-D057-68D4,2018-10-27,229.25,EUR,True,True,"BMV,Nord",True,True,True
+Electrical and Ignition,Relays AM0,Electrically operated switches.,IFAT-6DA3-32A3-6D44,2020-03-24,1760.59,EUR,True,True,"Feramborghini,WV",True,True,False
+Electrical and Ignition,Horn 819,Generic Horn,IFAT-3470-A7F0-67EC,2020-02-07,1624.38,EUR,True,True,Nord,True,True,True
+Electrical and Ignition,Knock Sensor QDH,Detects engine knock.,IFAT-EBD7-3072-A42A,2018-05-09,540.94,EUR,False,True,"WV,BMV,Nord,Mecentley",True,True,False
+Electrical and Ignition,Camshaft Position Sensor ES2,Generic Camshaft Position Sensor,IFAT-23E9-D076-FEA7,2025-05-17,473.46,EUR,True,True,"Feramborghini,WV,Mecentley,BMV,Nord",False,False,False
+Electrical and Ignition,ECU / PCM / BCM E40,Generic ECU / PCM / BCM,IFAT-ACF2-F890-D488,2020-08-22,259.47,EUR,True,True,"BMV,Mecentley,WV,Feramborghini,Nord",False,False,False
+Electrical and Ignition,Crankshaft Position Sensor 10Y,Tracks crankshaft position.,IFAT-C63B-2F69-97B2,2019-07-16,1897.1,EUR,True,True,"Feramborghini,WV,Mecentley,Nord",True,True,True
+Electrical and Ignition,Alternator R7P,Generic Alternator,IFAT-EF8A-B36C-ED8F,2023-07-09,974.77,EUR,True,False,"WV,Mecentley,Nord",False,True,True
+Electrical and Ignition,Wiring Harness M1Y,Bundle of wires for electrical connections.,IFAT-84AE-39C9-12F2,2023-11-21,1438.31,EUR,True,True,"WV,BMV,Mecentley,Nord,Feramborghini",True,False,True
+Electrical and Ignition,Ignition Coils BT9,Generic Ignition Coils,IFAT-1252-725D-D8AC,2018-05-17,1107.69,EUR,True,True,"Feramborghini,Nord,Mecentley,BMV",True,False,False
+Electrical and Ignition,Relays I7S,Generic Relays,IFAT-5998-672D-4FC9,2019-12-20,1650.8,EUR,True,True,"Nord,BMV",False,True,True
+Electrical and Ignition,Starter Motor CNL,Turns engine to initiate operation.,IFAT-8A13-382E-DDBA,2015-01-21,685.89,EUR,True,True,Mecentley,True,True,True
+Electrical and Ignition,Crankshaft Position Sensor VRL,Generic Crankshaft Position Sensor,IFAT-2C7D-50FC-0CBC,2018-01-09,1709.44,EUR,True,True,BMV,True,False,True
+Electrical and Ignition,Ignition Switch 07C,Starts the vehicle.,IFAT-685A-4944-B449,2024-04-21,1705.55,EUR,True,True,"Nord,Mecentley,BMV,WV",False,True,False
+Electrical and Ignition,Turn Signals JT1,Indicate direction of intended turns.,IFAT-167D-D978-FBBF,2015-03-05,1810.56,EUR,True,True,"Feramborghini,Nord,Mecentley",False,True,False
+Electrical and Ignition,Electric Mirror Motors J70,Generic Electric Mirror Motors,IFAT-6004-317F-72E7,2017-02-01,1455.61,EUR,True,False,"BMV,WV",True,True,True
+Electrical and Ignition,Crankshaft Position Sensor YLM,Tracks crankshaft position.,IFAT-29B8-7645-0A73,2024-01-20,1506.83,EUR,True,True,"Nord,WV,Feramborghini,BMV",False,True,True
+Electrical and Ignition,Voltage Regulator 9IZ,Controls alternator output.,IFAT-A893-4CAC-736D,2020-09-12,877.75,EUR,True,True,"WV,Mecentley,BMV,Nord,Feramborghini",True,True,True
+Electrical and Ignition,Wiring Harness BAH,Generic Wiring Harness,IFAT-5801-5D03-750D,2017-05-05,1615.91,EUR,True,True,"WV,Feramborghini",True,False,True
+Electrical and Ignition,Crankshaft Position Sensor 7L6,Generic Crankshaft Position Sensor,IFAT-4372-9246-1A83,2018-07-06,611.84,EUR,True,True,"Feramborghini,BMV,Mecentley,Nord,WV",True,False,False
+Electrical and Ignition,Ignition Coils 226,Generic Ignition Coils,IFAT-5FA5-33CF-45A2,2020-09-20,1938.29,EUR,True,True,"BMV,Nord,Feramborghini,WV,Mecentley",True,False,True
+Electrical and Ignition,Tail Lights XPD,Signal braking and presence to rear traffic.,IFAT-F812-6C50-F85D,2023-01-25,67.56,EUR,True,False,"WV,Feramborghini",True,True,False
+Electrical and Ignition,Camshaft Position Sensor UDI,Tracks camshaft position.,IFAT-BC46-08B0-A806,2018-09-01,732.03,EUR,False,True,"BMV,Feramborghini,Mecentley",False,False,True
+Electrical and Ignition,Fuse Box VJZ,Protects circuits with fuses.,IFAT-44D1-6126-0E98,2021-08-15,1237.4,EUR,True,True,"BMV,WV,Mecentley",True,True,True
+Electrical and Ignition,Fuse Box 7UD,Protects circuits with fuses.,IFAT-FCE1-3A65-718B,2021-05-08,1619.51,EUR,True,True,"Mecentley,BMV",False,False,True
+Electrical and Ignition,MAF Sensor P9T,Measures air intake for engine.,IFAT-748A-9AF3-4D08,2020-06-22,1417.84,EUR,True,True,"WV,BMV",False,True,True
+Electrical and Ignition,Camshaft Position Sensor 1NU,Tracks camshaft position.,IFAT-074E-93F5-3BBE,2019-08-22,1512.6,EUR,True,True,"Feramborghini,Nord,WV,Mecentley,BMV",True,True,True
+Electrical and Ignition,Turn Signals RA6,Indicate direction of intended turns.,IFAT-2D89-6CFF-92DD,2017-01-20,1383.37,EUR,True,True,"Nord,Feramborghini,Mecentley,BMV",False,False,True
+Electrical and Ignition,Speedometer Sensor V1R,Measures vehicle speed.,IFAT-46B3-C2C7-949D,2020-04-04,637.12,EUR,True,False,Nord,False,False,True
+Electrical and Ignition,Ignition Switch 4F2,Generic Ignition Switch,IFAT-9CF2-C28D-8947,2022-12-16,1642.67,EUR,False,True,"Nord,Feramborghini,WV,BMV,Mecentley",False,False,True
+Electrical and Ignition,Voltage Regulator COW,Generic Voltage Regulator,IFAT-7844-BBC2-5D66,2024-07-29,140.83,EUR,True,True,"Feramborghini,Mecentley",False,True,True
+Electrical and Ignition,Relays WKV,Generic Relays,IFAT-45F4-39CD-D71B,2019-11-05,1574.89,EUR,True,False,"Feramborghini,Mecentley,BMV",False,True,True
+Suspension,Strut Tower Brace HM3,Improves chassis rigidity and cornering.,IFAT-2E8F-0FBA-26DC,2015-05-08,846.04,EUR,False,True,BMV,False,False,True
+Suspension,Lowering Springs 4C4,Lowers ride height and improves handling.,IFAT-B896-5ADB-3000,2023-12-18,1397.17,EUR,True,False,"BMV,WV",True,True,True
+Suspension,Sway Bars ABC,Reduces body roll in aggressive turns.,IFAT-6BAC-BFDC-1140,2024-12-15,1353.58,EUR,False,True,"WV,Mecentley,Nord,BMV",True,True,False
+Suspension,Adjustable Coilovers GYW,Allow height and damping adjustment.,IFAT-6C3E-4BB9-C297,2023-07-19,478.48,EUR,True,True,Mecentley,False,False,True
+Suspension,Lowering Springs 47T,Lowers ride height and improves handling.,IFAT-B25B-1E66-B749,2015-07-14,1737.77,EUR,True,False,Nord,True,False,True
+Suspension,Adjustable Coilovers ZUL,Allow height and damping adjustment.,IFAT-9E5C-EB67-0CCF,2020-05-01,1471.25,EUR,True,False,"Mecentley,WV,Feramborghini,BMV,Nord",False,True,False
+Suspension,Sway Bars S6M,Reduces body roll in aggressive turns.,IFAT-3C2A-BD97-20B5,2022-11-02,1055.94,EUR,True,True,"WV,Feramborghini,Nord",True,True,True
+Suspension,Strut Tower Brace W2H,Improves chassis rigidity and cornering.,IFAT-F1BC-F6ED-AB09,2017-07-26,1601.12,EUR,True,False,"Feramborghini,WV,Nord",True,True,True
+Suspension,Lowering Springs NZ3,Lowers ride height and improves handling.,IFAT-67BF-4BE9-EA27,2020-11-19,1575.16,EUR,False,True,"WV,Nord,Mecentley,BMV",True,False,False
+Suspension,Sway Bars VQI,Reduces body roll in aggressive turns.,IFAT-AFF2-C135-953D,2019-01-01,440.46,EUR,True,True,"Nord,Mecentley,WV",True,True,True
+Suspension,Lowering Springs NST,Lowers ride height and improves handling.,IFAT-F55C-E8DB-6989,2024-09-19,1334.25,EUR,True,True,"BMV,Feramborghini,Nord,Mecentley,WV",True,True,False
+Suspension,Adjustable Coilovers ETN,Allow height and damping adjustment.,IFAT-4741-DAC6-12B5,2015-10-13,633.38,EUR,True,True,BMV,False,False,False
+Suspension,Adjustable Coilovers 10C,Allow height and damping adjustment.,IFAT-D382-EB06-C67C,2025-11-20,1868.07,EUR,True,True,Feramborghini,False,False,True
+Suspension,Adjustable Coilovers LFB,Allow height and damping adjustment.,IFAT-C63D-4F7E-F142,2021-07-21,715.18,EUR,False,True,"WV,Nord,BMV,Mecentley,Feramborghini",True,False,False
+Suspension,Strut Tower Brace LCX,Improves chassis rigidity and cornering.,IFAT-5FC2-3AF9-257F,2016-10-19,619.07,EUR,True,True,Mecentley,False,False,True
+Suspension,Lowering Springs 6H9,Lowers ride height and improves handling.,IFAT-9EA9-0A8B-80B8,2019-01-11,1047.64,EUR,True,True,Mecentley,True,True,False
+Suspension,Lowering Springs X6F,Lowers ride height and improves handling.,IFAT-885D-A026-42CF,2024-06-04,442.7,EUR,True,False,WV,True,True,True
+Suspension,Adjustable Coilovers 8J5,Allow height and damping adjustment.,IFAT-73CC-0E4C-E9F1,2024-03-19,493.61,EUR,True,True,"Feramborghini,Nord,WV",True,False,False
+Suspension,Sway Bars 2TM,Reduces body roll in aggressive turns.,IFAT-CAF0-858A-4787,2015-09-20,1009.19,EUR,True,True,"Nord,Feramborghini,Mecentley,WV",False,False,True
+Electronics,Launch Control Module MES,Optimizes power delivery off the line.,IFAT-5DE3-5BCD-3342,2017-03-24,1952.34,EUR,True,True,"BMV,Nord,WV,Feramborghini",True,True,True
+Electronics,Launch Control Module QME,Optimizes power delivery off the line.,IFAT-5D2B-51C9-078B,2016-07-02,1991.02,EUR,True,False,"WV,Nord,Feramborghini,Mecentley",True,True,True
+Electronics,Launch Control Module EXY,Optimizes power delivery off the line.,IFAT-1FC6-F301-839A,2015-04-24,1806.34,EUR,True,True,WV,False,False,True
+Electronics,Launch Control Module RPO,Optimizes power delivery off the line.,IFAT-1A13-90A8-37F4,2019-12-08,969.74,EUR,True,True,"WV,BMV,Feramborghini",False,True,True
+Safety Systems,Crumple Zones NTV,Generic Crumple Zones,IFAT-8588-39F9-BFE9,2024-02-08,1877.28,EUR,True,False,"Nord,WV",True,True,False
+Safety Systems,Crash Sensors P2B,Generic Crash Sensors,IFAT-1C3D-FF75-0840,2021-10-08,1220.46,EUR,True,True,"Nord,BMV",True,False,True
+Safety Systems,Crash Sensors WUE,Generic Crash Sensors,IFAT-B5F8-9299-7EDA,2017-04-23,296.17,EUR,True,True,"Nord,BMV,WV",False,False,False
+Safety Systems,Roll Cage (in racing cars) 1T8,Generic Roll Cage (in racing cars),IFAT-7039-C03E-A92B,2016-09-02,1392.84,EUR,False,True,"Nord,BMV",False,False,True
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) ZKE","Generic Airbags (Front, Side, Curtain, Knee)",IFAT-317C-8F48-4B62,2019-10-30,1755.23,EUR,True,True,"Nord,WV,Feramborghini",False,True,True
+Safety Systems,Crumple Zones NB6,Generic Crumple Zones,IFAT-684D-D574-D697,2025-11-12,1574.69,EUR,True,True,Feramborghini,False,False,True
+Safety Systems,Seatbelt Pretensioners CU9,Generic Seatbelt Pretensioners,IFAT-0420-50A8-9400,2020-12-23,663.33,EUR,True,True,"Mecentley,Nord,Feramborghini,WV",False,True,False
+Safety Systems,Roll Cage (in racing cars) KH9,Generic Roll Cage (in racing cars),IFAT-BF9A-5D1D-9D7D,2016-12-29,854.0,EUR,True,True,Feramborghini,True,True,False
+Safety Systems,Crumple Zones 8XS,Generic Crumple Zones,IFAT-A339-A0CD-8412,2023-08-26,567.17,EUR,False,True,Mecentley,True,False,False
+Safety Systems,Seatbelt Pretensioners 9SV,Generic Seatbelt Pretensioners,IFAT-06F7-3D67-30BD,2023-12-24,869.01,EUR,True,True,"Feramborghini,WV",False,True,True
+Safety Systems,"Airbags (Front, Side, Curtain, Knee) Q8M","Generic Airbags (Front, Side, Curtain, Knee)",IFAT-2425-0355-4730,2022-09-23,1750.75,EUR,False,True,BMV,True,True,False
+Safety Systems,Roll Cage (in racing cars) 1AI,Generic Roll Cage (in racing cars),IFAT-3F8A-04CA-6EAF,2020-06-30,336.59,EUR,True,True,"Nord,BMV",True,False,True
+Safety Systems,Roll Cage (in racing cars) XUV,Generic Roll Cage (in racing cars),IFAT-2385-8180-3ADE,2025-06-26,1617.81,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley",True,True,True
+Safety Systems,Seatbelt Pretensioners QKA,Generic Seatbelt Pretensioners,IFAT-F58D-403D-6C8F,2017-03-01,1797.45,EUR,True,True,"Nord,Mecentley,WV,Feramborghini,BMV",False,True,True
+Safety Systems,Seatbelt Pretensioners 7NU,Generic Seatbelt Pretensioners,IFAT-62EE-D5F3-C314,2024-09-28,535.02,EUR,True,False,"Nord,WV,Feramborghini",False,True,False
+Cooling & HVAC System,Thermostat Housing 78P,Encases the thermostat.,IFAT-366E-5356-CA73,2021-07-03,249.26,EUR,True,True,"WV,Mecentley,Nord,BMV,Feramborghini",True,True,True
+Cooling & HVAC System,Expansion Valve ECK,Controls refrigerant flow.,IFAT-C8B1-74DF-8226,2015-10-01,477.93,EUR,True,True,"Mecentley,Feramborghini,BMV",True,True,False
+Cooling & HVAC System,Radiator Hoses KV9,Generic Radiator Hoses,IFAT-BC63-7D16-3060,2019-09-01,1660.67,EUR,True,False,"Feramborghini,Nord,Mecentley,WV",True,True,False
+Cooling & HVAC System,Heater Core LC1,Heats cabin air using engine coolant.,IFAT-7FEF-F38B-BBED,2022-06-16,1245.37,EUR,True,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,False,False
+Cooling & HVAC System,A/C Lines 3QS,Transport refrigerant.,IFAT-5154-B0BF-DA27,2015-11-29,1725.95,EUR,False,True,"Mecentley,WV,Feramborghini",True,True,False
+Cooling & HVAC System,Thermostat Housing 756,Generic Thermostat Housing,IFAT-BFE0-F9B4-CCBE,2025-10-03,1102.17,EUR,True,True,Feramborghini,True,True,False
+Cooling & HVAC System,Fan Clutch JCO,Generic Fan Clutch,IFAT-1A6C-B1C5-A93E,2024-11-03,137.98,EUR,True,True,Mecentley,False,True,True
+Cooling & HVAC System,Thermostat PTC,Regulates engine coolant temperature.,IFAT-4F11-42D5-28C0,2015-02-08,442.54,EUR,False,True,"Nord,Feramborghini,BMV,WV",True,True,True
+Cooling & HVAC System,Cabin Air Filter QOG,Generic Cabin Air Filter,IFAT-87F5-A44F-D9AE,2023-04-18,1385.74,EUR,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,True
+Cooling & HVAC System,Water Pump XAK,Generic Water Pump,IFAT-29FE-33DF-F64C,2023-06-11,159.22,EUR,True,False,"Nord,WV,BMV,Feramborghini,Mecentley",False,True,False
+Cooling & HVAC System,Radiator Hoses 48D,Carry coolant to and from radiator.,IFAT-8322-DB24-DAC1,2017-09-27,28.2,EUR,True,True,Feramborghini,False,True,True
+Cooling & HVAC System,Fan Clutch RTF,Engages fan as needed.,IFAT-E167-52AD-2A8B,2017-11-02,43.06,EUR,True,True,"BMV,WV,Mecentley,Nord,Feramborghini",True,True,True
+Cooling & HVAC System,Heater Blower Motor J4U,Generic Heater Blower Motor,IFAT-91E2-7119-A9E7,2021-11-21,758.33,EUR,False,True,"Mecentley,Nord,Feramborghini",True,True,True
+Cooling & HVAC System,Radiator X88,Generic Radiator,IFAT-FBEC-D79A-EA07,2023-05-08,1299.22,EUR,True,True,"Feramborghini,BMV",False,False,True
+Cooling & HVAC System,Water Pump OSU,Circulates coolant through engine.,IFAT-A320-F32D-1F7A,2015-08-22,1070.55,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",False,False,False
+Cooling & HVAC System,Thermostat DTJ,Generic Thermostat,IFAT-05AC-DD9F-73CC,2020-11-19,401.53,EUR,True,True,"Mecentley,Feramborghini,Nord",True,True,False
+Cooling & HVAC System,Radiator 6I7,Dissipates heat from engine coolant.,IFAT-C843-75DB-D8E5,2025-04-18,620.86,EUR,False,True,"Mecentley,BMV,Feramborghini,Nord,WV",False,False,False
+Cooling & HVAC System,Radiator Cap PJ3,Generic Radiator Cap,IFAT-1DA4-A0A4-041D,2022-06-01,1820.67,EUR,True,True,"WV,Mecentley",False,False,True
+Cooling & HVAC System,Thermostat Housing E2T,Generic Thermostat Housing,IFAT-DECE-6D05-C73F,2025-03-26,919.6,EUR,True,False,WV,False,False,True
+Cooling & HVAC System,Water Pump BSG,Generic Water Pump,IFAT-1F61-025A-C0A1,2019-08-12,569.3,EUR,True,True,"WV,Nord,Mecentley,Feramborghini",False,False,False
+Cooling & HVAC System,Cooling Fan 3IT,Generic Cooling Fan,IFAT-77E8-00DA-7E52,2016-03-16,414.31,EUR,True,True,"Feramborghini,WV,Mecentley",True,True,True
+Cooling & HVAC System,Radiator Cap FD2,Generic Radiator Cap,IFAT-5CF2-06DE-DE99,2021-03-21,1292.75,EUR,True,True,"Nord,Feramborghini",False,False,False
+Cooling & HVAC System,Water Pump JDR,Circulates coolant through engine.,IFAT-8C07-9FB7-24FC,2021-08-10,1170.77,EUR,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",True,True,True
+Cooling & HVAC System,Thermostat JC7,Regulates engine coolant temperature.,IFAT-74BA-419F-52EE,2018-01-02,650.93,EUR,True,True,WV,True,True,False
+Cooling & HVAC System,Expansion Valve S36,Controls refrigerant flow.,IFAT-D200-5F1F-930F,2017-06-05,1439.67,EUR,True,True,"Mecentley,Feramborghini",True,False,True
+Cooling & HVAC System,Cooling Fan WCD,Generic Cooling Fan,IFAT-5D28-7D4E-8B48,2018-05-23,980.58,EUR,True,True,"Feramborghini,BMV,WV",True,True,True
+Cooling & HVAC System,Radiator Hoses 455,Carry coolant to and from radiator.,IFAT-62CE-F20F-3EFA,2017-02-13,736.55,EUR,True,True,"Feramborghini,Nord",True,False,True
+Cooling & HVAC System,Radiator UXN,Generic Radiator,IFAT-88D6-7563-4B00,2020-07-25,1451.96,EUR,False,True,"Nord,Feramborghini",False,False,True
+Cooling & HVAC System,A/C Lines 9U4,Generic A/C Lines,IFAT-3BE7-D6E4-CEF5,2020-01-17,1790.18,EUR,False,True,WV,False,True,True
+Cooling & HVAC System,Heater Core RBE,Heats cabin air using engine coolant.,IFAT-356C-84E4-F05B,2016-02-06,876.23,EUR,False,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,False,True
+Cooling & HVAC System,A/C Lines SAK,Generic A/C Lines,IFAT-0B7A-13F1-E92E,2015-07-25,1655.2,EUR,True,True,"BMV,WV,Feramborghini,Nord",False,False,True
+Cooling & HVAC System,Cabin Air Filter D8K,Filters air inside the car.,IFAT-7434-D51B-C7C3,2021-02-21,433.75,EUR,False,True,"Nord,WV,Feramborghini,BMV",True,True,True
+Cooling & HVAC System,Fan Clutch TL3,Engages fan as needed.,IFAT-8653-CD9A-847E,2015-08-06,976.89,EUR,True,True,Mecentley,False,False,True
+Cooling & HVAC System,A/C Lines 2LK,Generic A/C Lines,IFAT-CAB5-0996-3155,2018-05-30,1867.55,EUR,True,True,"BMV,Mecentley,WV",True,True,True
+Cooling & HVAC System,Radiator XZD,Dissipates heat from engine coolant.,IFAT-1A8C-FFEE-83BD,2021-07-29,837.4,EUR,True,True,"BMV,Mecentley",False,True,True
+Cooling & HVAC System,A/C Condenser 05C,Releases heat from compressed refrigerant.,IFAT-71C4-D898-9677,2018-06-13,439.34,EUR,True,True,Feramborghini,False,True,True
+Cooling & HVAC System,A/C Lines WG6,Transport refrigerant.,IFAT-DE4F-45A7-315E,2016-12-29,1917.46,EUR,False,True,"Mecentley,Feramborghini,BMV,Nord",True,True,False
+Cooling & HVAC System,Thermostat Housing 1Z1,Encases the thermostat.,IFAT-21EE-87E5-51ED,2017-10-01,816.97,EUR,True,True,"Mecentley,Nord,Feramborghini,WV",True,True,False
+Cooling & HVAC System,Heater Blower Motor SJU,Generic Heater Blower Motor,IFAT-1E79-8494-73BD,2024-09-16,1258.32,EUR,True,False,"Nord,Feramborghini,BMV",True,False,False
+Cooling & HVAC System,Thermostat QXZ,Regulates engine coolant temperature.,IFAT-B8D4-A7D0-A4F8,2021-10-22,1207.08,EUR,True,True,"Nord,BMV",False,True,False
+Cooling & HVAC System,Thermostat Housing GV1,Generic Thermostat Housing,IFAT-55DA-7DF5-88EA,2020-08-31,1023.19,EUR,True,True,"Mecentley,Feramborghini,Nord",True,False,True
+Cooling & HVAC System,Fan Clutch 6CV,Engages fan as needed.,IFAT-7214-FE07-5050,2019-05-07,691.13,EUR,False,True,Feramborghini,False,True,True
+Cooling & HVAC System,Thermostat Housing GHQ,Encases the thermostat.,IFAT-179E-913E-D64D,2022-11-21,1483.09,EUR,True,True,"Nord,BMV,WV,Mecentley,Feramborghini",False,True,True
+Cooling & HVAC System,Thermostat Housing U9H,Encases the thermostat.,IFAT-C167-55D9-8DC7,2022-03-24,1916.09,EUR,True,True,"Feramborghini,Mecentley,BMV,WV",False,True,False
+Cooling & HVAC System,Water Pump 45A,Generic Water Pump,IFAT-9375-1130-8B5B,2024-11-04,1328.6,EUR,True,True,WV,True,True,False
+Cooling & HVAC System,Radiator Cap UIJ,Seals radiator and maintains pressure.,IFAT-EC94-BE15-0753,2021-11-23,1751.3,EUR,True,True,"Feramborghini,Nord",False,True,True
+Cooling & HVAC System,A/C Compressor QIL,Generic A/C Compressor,IFAT-5FB3-030E-DFD8,2021-11-23,1668.7,EUR,True,False,"BMV,Feramborghini",True,True,False
+Cooling & HVAC System,Thermostat 8N3,Generic Thermostat,IFAT-D35E-F928-1EA2,2018-10-05,786.71,EUR,True,False,"Feramborghini,BMV",False,True,True
+Cooling & HVAC System,Heater Blower Motor I7I,Generic Heater Blower Motor,IFAT-80D7-6018-4E95,2020-08-28,1040.56,EUR,True,True,WV,True,True,False
+Cooling & HVAC System,Fan Clutch 7QB,Generic Fan Clutch,IFAT-6456-66CC-A1B6,2023-03-03,1220.52,EUR,True,True,Mecentley,True,True,False
+Cooling & HVAC System,Radiator V3F,Dissipates heat from engine coolant.,IFAT-996D-05B2-3C0D,2017-10-14,105.58,EUR,False,True,"Feramborghini,BMV,Nord",True,True,False
+Cooling & HVAC System,Heater Blower Motor U33,Drives air through HVAC system.,IFAT-697B-B4E1-75A8,2024-01-24,42.07,EUR,False,False,"Feramborghini,Nord,Mecentley",True,False,False
+Cooling & HVAC System,A/C Compressor JG2,Compresses refrigerant for air conditioning.,IFAT-D0EF-4474-4769,2021-01-20,1973.66,EUR,True,True,"Feramborghini,WV,Mecentley,Nord,BMV",False,False,False
+Cooling & HVAC System,Radiator Cap F5J,Generic Radiator Cap,IFAT-B071-CFBD-F4F1,2020-03-14,1475.54,EUR,True,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,False,False
+Cooling & HVAC System,Radiator 8NZ,Dissipates heat from engine coolant.,IFAT-1EE0-A80D-4286,2022-11-29,900.42,EUR,True,True,"BMV,Nord,Mecentley,WV,Feramborghini",True,False,True
+Cooling & HVAC System,Heater Core Q7T,Heats cabin air using engine coolant.,IFAT-75AF-766D-D4BE,2020-10-04,811.03,EUR,False,True,Mecentley,True,True,True
+Cooling & HVAC System,Thermostat IIE,Regulates engine coolant temperature.,IFAT-3E08-FE91-8D61,2019-12-11,1678.96,EUR,True,True,Nord,False,True,False
+Cooling & HVAC System,Cabin Air Filter TPT,Generic Cabin Air Filter,IFAT-B052-7172-E37F,2018-01-12,313.36,EUR,True,True,Nord,False,True,False
+Cooling & HVAC System,A/C Compressor L8H,Compresses refrigerant for air conditioning.,IFAT-34E3-C0FE-D281,2023-07-25,740.75,EUR,True,True,"BMV,Mecentley,Nord,WV,Feramborghini",True,True,False
+Cooling & HVAC System,Water Pump 49N,Circulates coolant through engine.,IFAT-D33A-922F-39D8,2016-11-04,1421.88,EUR,True,True,"WV,BMV,Nord",True,True,True
+Cooling & HVAC System,Thermostat Housing D9G,Encases the thermostat.,IFAT-46B5-391C-4311,2023-08-02,1890.4,EUR,True,True,"Nord,Feramborghini,Mecentley,WV,BMV",True,True,False
+Cooling & HVAC System,Heater Blower Motor 2PM,Generic Heater Blower Motor,IFAT-CA8D-8315-E286,2015-12-27,1315.61,EUR,True,True,"Feramborghini,Mecentley,BMV,WV,Nord",True,True,True
+Cooling & HVAC System,Thermostat Housing 79Q,Encases the thermostat.,IFAT-1486-58FA-37DB,2023-03-19,1961.59,EUR,False,True,"Nord,WV,BMV",False,False,True
+Cooling & HVAC System,Radiator Hoses 21N,Carry coolant to and from radiator.,IFAT-A939-EFDC-11D4,2020-05-24,1699.72,EUR,False,True,"WV,Feramborghini",False,False,False
+Cooling & HVAC System,Cooling Fan MRH,Generic Cooling Fan,IFAT-E795-2131-B74C,2025-09-08,706.96,EUR,True,True,"WV,Nord,BMV,Mecentley,Feramborghini",True,False,False
+Cooling & HVAC System,A/C Condenser MRN,Releases heat from compressed refrigerant.,IFAT-88C8-9BD5-5FC7,2025-11-22,391.98,EUR,True,True,"Feramborghini,BMV,Mecentley",True,True,False
+Cooling & HVAC System,Cooling Fan VSH,Assists in radiator cooling.,IFAT-C0C4-F176-3052,2019-02-13,231.26,EUR,True,True,"Mecentley,WV,BMV,Feramborghini",True,True,True
+Cooling & HVAC System,Cooling Fan 9EU,Generic Cooling Fan,IFAT-2017-7259-F730,2025-04-11,662.93,EUR,True,True,"Nord,WV,BMV",True,False,False
+Cooling & HVAC System,A/C Lines 8HH,Generic A/C Lines,IFAT-7881-1614-F5F2,2025-09-09,641.62,EUR,True,True,"Mecentley,Nord,BMV,WV,Feramborghini",False,True,True
+Cooling & HVAC System,Heater Core Q8P,Heats cabin air using coolant.,IFAT-741D-BD25-1CD4,2023-08-26,409.17,EUR,True,True,BMV,True,True,False
+Cooling & HVAC System,Heater Blower Motor 8IX,Drives air through HVAC system.,IFAT-4949-0E78-BFED,2023-07-20,1057.24,EUR,True,True,"Feramborghini,WV,Mecentley",True,True,True
+Cooling & HVAC System,Radiator Cap PIJ,Seals radiator and maintains pressure.,IFAT-A851-0258-E8A9,2020-10-25,1537.83,EUR,False,True,BMV,True,True,True
+Cooling & HVAC System,A/C Condenser GEW,Releases heat from compressed refrigerant.,IFAT-CC21-58C1-A3B5,2019-03-02,51.79,EUR,True,True,"BMV,Feramborghini,Mecentley,WV",True,False,True
+Cooling & HVAC System,A/C Lines WEG,Transport refrigerant.,IFAT-A2C2-9872-36F6,2016-09-10,970.8,EUR,True,True,"Nord,Feramborghini",True,False,True
+Cooling & HVAC System,Thermostat 4XZ,Regulates engine coolant temperature.,IFAT-C8E8-A3BF-D5C1,2018-05-06,1253.11,EUR,True,True,"WV,Nord,Mecentley",True,True,True
+Cooling & HVAC System,Thermostat Housing OLM,Generic Thermostat Housing,IFAT-369C-632D-F3D0,2025-07-10,625.98,EUR,True,False,"Feramborghini,Nord,BMV",True,False,False
+Cooling & HVAC System,Radiator EES,Dissipates heat from engine coolant.,IFAT-CEC2-9388-652C,2021-04-25,1336.41,EUR,True,True,BMV,False,True,True
+Cooling & HVAC System,Heater Blower Motor L93,Drives air through HVAC system.,IFAT-5C84-B478-6A5D,2021-02-01,846.1,EUR,True,False,"Mecentley,WV,BMV,Feramborghini,Nord",True,True,True
+Cooling & HVAC System,Expansion Valve TM8,Generic Expansion Valve,IFAT-697B-0637-369F,2022-10-19,786.82,EUR,True,True,"WV,Nord,BMV",True,True,True
+Cooling & HVAC System,Fan Clutch 0RJ,Engages fan as needed.,IFAT-844C-2016-0EAD,2016-07-13,1251.0,EUR,True,True,"Nord,BMV,Feramborghini",False,False,False
+Cooling & HVAC System,Heater Core ZI7,Heats cabin air using coolant.,IFAT-A6DB-B6F9-4484,2022-07-17,1329.88,EUR,True,False,Mecentley,True,True,False
+Cooling & HVAC System,A/C Compressor W6N,Compresses refrigerant for air conditioning.,IFAT-7261-E06B-6843,2016-06-14,611.41,EUR,False,True,WV,True,True,True
+Cooling & HVAC System,A/C Dryer 3WM,Generic A/C Dryer,IFAT-05FD-3BF9-9F8A,2018-09-16,847.11,EUR,True,True,"Mecentley,Feramborghini,Nord,WV,BMV",True,True,False
+Cooling & HVAC System,A/C Dryer JCK,Generic A/C Dryer,IFAT-C857-534E-1F1D,2017-04-26,1072.13,EUR,True,True,"WV,Mecentley",False,True,True
+Cooling & HVAC System,Expansion Valve 3DM,Generic Expansion Valve,IFAT-7DD2-615A-57BC,2024-10-20,1437.4,EUR,True,True,"BMV,WV",True,True,True
+Cooling & HVAC System,Water Pump JYC,Generic Water Pump,IFAT-9F16-8A99-91F8,2020-01-23,1056.92,EUR,True,True,Nord,False,True,False
+Cooling & HVAC System,A/C Lines 21N,Transport refrigerant.,IFAT-07EB-5D69-176C,2023-04-13,742.4,EUR,True,False,Mecentley,True,True,True
+Cooling & HVAC System,A/C Compressor 6RM,Generic A/C Compressor,IFAT-5F43-0E01-3C23,2015-07-13,1399.28,EUR,False,True,"Feramborghini,Mecentley,BMV",False,False,False
+Cooling & HVAC System,Cooling Fan ZT2,Assists in radiator cooling.,IFAT-7C57-98AE-7652,2023-10-07,1808.03,EUR,True,True,"Nord,Feramborghini,BMV,WV",True,False,False
+Cooling & HVAC System,Fan Clutch JZ0,Generic Fan Clutch,IFAT-1FDB-79AF-132D,2023-07-08,275.02,EUR,True,True,"BMV,Nord,WV",True,False,True
+Cooling & HVAC System,Cooling Fan IA9,Generic Cooling Fan,IFAT-CDE4-D7AB-80AD,2016-05-05,744.98,EUR,True,True,"BMV,Mecentley,WV,Feramborghini,Nord",True,False,False
+Cooling & HVAC System,A/C Condenser 658,Generic A/C Condenser,IFAT-CD02-9E15-7A9D,2023-10-25,927.47,EUR,False,True,"BMV,Feramborghini,Mecentley,WV",True,True,True
+Cooling & HVAC System,Radiator 4EV,Dissipates heat from engine coolant.,IFAT-7F47-49C6-EF7D,2020-11-29,1142.15,EUR,True,True,"Mecentley,WV,BMV,Nord,Feramborghini",True,False,False
+Cooling & HVAC System,Thermostat Housing S8Q,Generic Thermostat Housing,IFAT-A442-9147-4560,2017-11-16,1280.87,EUR,True,False,"Feramborghini,Mecentley,BMV",True,True,True
+Cooling & HVAC System,Heater Blower Motor 4B3,Drives air through HVAC system.,IFAT-D532-6AED-3B65,2023-04-17,1657.92,EUR,True,True,"Feramborghini,WV",False,True,True
+Cooling & HVAC System,Radiator Cap XLE,Generic Radiator Cap,IFAT-C47A-E178-7640,2020-11-17,296.88,EUR,False,True,"Mecentley,Nord,BMV,Feramborghini,WV",False,True,True
+Cooling & HVAC System,Thermostat X04,Regulates engine coolant temperature.,IFAT-E804-5E97-9EFE,2020-07-12,1728.95,EUR,True,False,"WV,Nord",True,True,True
+Cooling & HVAC System,Heater Core IPT,Heats cabin air using coolant.,IFAT-C75B-4EED-1459,2022-08-02,674.12,EUR,False,True,"WV,BMV",True,False,True
+Cooling & HVAC System,A/C Dryer AKN,Generic A/C Dryer,IFAT-BD09-544F-4B57,2018-03-02,1687.48,EUR,False,True,"Mecentley,Feramborghini,Nord",True,False,True
+Cooling & HVAC System,Heater Core IYU,Heats cabin air using coolant.,IFAT-B006-D934-34E1,2018-12-19,684.72,EUR,True,True,"Feramborghini,Nord,Mecentley,BMV",True,True,False
+Cooling & HVAC System,Cooling Fan 0N0,Generic Cooling Fan,IFAT-1510-C56A-E24C,2021-08-18,714.65,EUR,True,False,"Nord,Mecentley,Feramborghini",False,True,False
+Cooling & HVAC System,Cooling Fan 715,Generic Cooling Fan,IFAT-5428-BCEF-9110,2016-10-22,202.52,EUR,True,True,"Mecentley,Nord",True,True,True
+Cooling & HVAC System,Radiator HDG,Generic Radiator,IFAT-35C3-808C-9799,2016-04-07,145.68,EUR,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",True,True,True
+Cooling & HVAC System,A/C Dryer F07,Generic A/C Dryer,IFAT-C64D-1FC0-C9D9,2017-01-15,448.86,EUR,False,True,"Mecentley,Feramborghini,WV,BMV",False,True,False
+Cooling & HVAC System,A/C Lines 304,Generic A/C Lines,IFAT-15F8-C198-0EB8,2020-03-18,194.14,EUR,True,False,"BMV,Nord,Mecentley,WV,Feramborghini",False,True,True
+Cooling & HVAC System,Fan Clutch GVK,Engages fan as needed.,IFAT-8F35-D3B2-13B4,2016-06-03,1446.28,EUR,True,True,"Mecentley,Nord",True,False,True
+Cooling & HVAC System,Heater Core DMU,Generic Heater Core,IFAT-DEEA-CA1F-8D32,2018-04-22,360.54,EUR,False,True,"Mecentley,BMV",True,True,True
+Cooling & HVAC System,Thermostat Housing AN2,Encases the thermostat.,IFAT-720E-D371-E94C,2016-12-21,1090.25,EUR,True,True,Mecentley,True,True,True
+Cooling & HVAC System,A/C Dryer 92N,Generic A/C Dryer,IFAT-2996-3485-77C5,2015-05-16,1722.06,EUR,False,True,"WV,Feramborghini,Nord,Mecentley,BMV",True,False,True
+Cooling & HVAC System,Radiator 3XX,Dissipates heat from engine coolant.,IFAT-AB06-66FC-BE89,2019-12-17,1284.62,EUR,True,True,"Nord,WV",True,True,False
+Cooling & HVAC System,Expansion Valve VWY,Controls refrigerant flow.,IFAT-B9E8-D7C1-BDEF,2021-08-13,858.83,EUR,False,True,"Mecentley,Feramborghini,WV,Nord",True,False,True
+Cooling & HVAC System,Fan Clutch YYE,Generic Fan Clutch,IFAT-DFD8-0C8E-AC45,2016-10-09,1956.09,EUR,True,True,"Nord,Feramborghini,WV",False,True,False
+Cooling & HVAC System,Radiator Hoses QJL,Generic Radiator Hoses,IFAT-AECE-0C02-1535,2024-08-08,234.53,EUR,True,True,"WV,Feramborghini,Mecentley,Nord,BMV",True,True,True
+Cooling & HVAC System,Radiator QXH,Generic Radiator,IFAT-549B-8630-C37C,2015-09-13,400.42,EUR,True,True,"Mecentley,BMV,Feramborghini,Nord",False,False,False
+Cooling & HVAC System,Cabin Air Filter EMD,Generic Cabin Air Filter,IFAT-70AE-C085-C844,2017-03-03,251.44,EUR,True,True,"WV,Feramborghini,Nord",False,False,True
+Cooling & HVAC System,Thermostat Housing 6JP,Encases the thermostat.,IFAT-C4E2-2EDB-3253,2024-09-01,1420.17,EUR,True,True,"Feramborghini,Mecentley",False,True,True
+Cooling & HVAC System,Radiator ZYT,Dissipates heat from engine coolant.,IFAT-1DFD-2063-BDA3,2018-08-26,840.87,EUR,True,True,"WV,Nord,Feramborghini",True,True,True
+Cooling & HVAC System,Cooling Fan SSO,Assists in radiator cooling.,IFAT-06F6-5B43-9171,2021-01-05,1400.38,EUR,False,True,Nord,True,False,False
+Cooling & HVAC System,Radiator Cap OLE,Generic Radiator Cap,IFAT-42CD-E7B5-B773,2015-01-02,163.34,EUR,False,False,"Mecentley,Nord,WV",True,True,True
+Cooling & HVAC System,Radiator ZQA,Dissipates heat from engine coolant.,IFAT-26D1-0311-47F2,2020-07-04,364.33,EUR,True,True,Feramborghini,True,True,False
+Cooling & HVAC System,Thermostat E7W,Regulates engine coolant temperature.,IFAT-B47D-2217-BF2C,2024-06-13,104.24,EUR,True,True,Nord,True,False,False
+Cooling & HVAC System,Fan Clutch TLV,Generic Fan Clutch,IFAT-6665-29C6-14A8,2017-10-29,1852.69,EUR,True,True,Nord,False,False,True
+Cooling & HVAC System,Radiator Cap M74,Seals radiator and maintains pressure.,IFAT-5C78-1716-1D8E,2023-12-29,1397.32,EUR,True,True,Nord,False,True,False
+Cooling & HVAC System,Expansion Valve RAN,Generic Expansion Valve,IFAT-14D8-A79E-FBB0,2022-11-11,1580.79,EUR,True,True,"Feramborghini,Nord,WV,Mecentley",True,False,True
+Cooling & HVAC System,Radiator A4L,Dissipates heat from engine coolant.,IFAT-AC85-4C79-5CFE,2019-05-14,690.61,EUR,True,True,"WV,Feramborghini,BMV",False,True,True
+Cooling & HVAC System,Fan Clutch OHI,Engages fan as needed.,IFAT-F463-6035-D148,2017-07-16,948.04,EUR,False,True,BMV,True,False,True
+Cooling & HVAC System,Radiator NWC,Dissipates heat from engine coolant.,IFAT-0C60-FBE6-8237,2016-04-25,577.99,EUR,False,True,"Nord,Mecentley,Feramborghini,BMV",False,False,True
+Cooling & HVAC System,Cabin Air Filter 61C,Filters air inside the car.,IFAT-010B-086B-06B9,2021-11-02,1056.56,EUR,True,True,"WV,Feramborghini,BMV",False,True,False
+Cooling & HVAC System,Heater Blower Motor 3QT,Generic Heater Blower Motor,IFAT-F853-E96E-5B17,2018-06-13,1976.1,EUR,True,True,"Feramborghini,WV,Mecentley",False,True,True
+Cooling & HVAC System,Radiator Cap RXA,Seals radiator and maintains pressure.,IFAT-7B06-172A-1001,2016-03-24,1927.98,EUR,True,True,Feramborghini,False,True,False
+Cooling & HVAC System,Cooling Fan UCO,Generic Cooling Fan,IFAT-92E1-0D83-3961,2019-10-03,1235.99,EUR,True,True,BMV,True,True,False
+Cooling & HVAC System,Fan Clutch CMR,Engages fan as needed.,IFAT-58A8-AE9C-5B59,2015-03-05,933.94,EUR,True,False,"Feramborghini,BMV,Mecentley",False,True,False
+Cooling & HVAC System,A/C Dryer ITH,Generic A/C Dryer,IFAT-3ACD-4A89-5BF3,2022-08-13,485.78,EUR,True,True,"Mecentley,WV,Feramborghini",True,False,True
+Cooling & HVAC System,Thermostat Housing 6SN,Encases the thermostat.,IFAT-1CD3-9E30-C44E,2016-03-19,1363.65,EUR,True,True,Mecentley,True,True,True
+Cooling & HVAC System,Radiator CSR,Dissipates heat from engine coolant.,IFAT-EBCF-F9CD-A608,2022-12-24,1291.33,EUR,True,True,Nord,True,True,False
+Cooling & HVAC System,Cabin Air Filter UOU,Filters air inside the car.,IFAT-883D-51E5-6B63,2016-11-14,140.68,EUR,True,False,"BMV,Nord,WV,Feramborghini,Mecentley",True,True,True
+Cooling & HVAC System,Radiator WHE,Generic Radiator,IFAT-59A7-41F3-DB2B,2021-06-29,1938.85,EUR,True,True,"Nord,Feramborghini,WV,BMV,Mecentley",True,True,True
+Cooling & HVAC System,A/C Dryer JTO,Generic A/C Dryer,IFAT-29D2-E3E2-8DD4,2017-07-25,1297.22,EUR,False,True,"Feramborghini,Nord",True,True,True
+Cooling & HVAC System,Water Pump 82I,Generic Water Pump,IFAT-0181-EDF5-6F7F,2025-09-23,1517.26,EUR,True,True,"Mecentley,WV,Nord,BMV",True,True,True
+Cooling & HVAC System,Expansion Valve 8N0,Generic Expansion Valve,IFAT-AE72-9857-3AC5,2019-10-01,1606.0,EUR,True,True,"Feramborghini,Nord",False,True,True
+Cooling & HVAC System,Thermostat Housing KHS,Generic Thermostat Housing,IFAT-D5EA-43D3-37F1,2016-12-02,1826.2,EUR,True,True,"Feramborghini,WV,BMV",True,False,False
+Cooling & HVAC System,A/C Lines J16,Transport refrigerant.,IFAT-501C-8F4D-67D0,2023-05-19,1369.35,EUR,False,True,"Mecentley,BMV,Nord,Feramborghini,WV",False,False,False
+Cooling & HVAC System,Radiator Hoses RV1,Carry coolant to and from radiator.,IFAT-EACA-ED86-49E5,2020-12-30,618.53,EUR,True,True,"WV,Mecentley,Nord,Feramborghini,BMV",True,True,False
+Cooling & HVAC System,Fan Clutch AAZ,Engages fan as needed.,IFAT-825F-3568-D3EE,2016-04-02,1201.45,EUR,True,True,"BMV,Feramborghini,Nord",False,False,True
+Cooling & HVAC System,Thermostat FOW,Generic Thermostat,IFAT-7194-1EF2-61E3,2020-06-11,463.96,EUR,False,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,True
+Cooling & HVAC System,A/C Lines RSC,Generic A/C Lines,IFAT-9880-8CF6-E077,2016-08-07,1443.3,EUR,False,True,"BMV,WV,Feramborghini,Mecentley",False,False,False
+Cooling & HVAC System,Cabin Air Filter X0I,Generic Cabin Air Filter,IFAT-A427-7077-826A,2021-07-21,1696.64,EUR,True,True,"Mecentley,WV",False,True,False
+Cooling & HVAC System,Cooling Fan IPM,Generic Cooling Fan,IFAT-D4B9-1D5D-6C79,2016-10-03,38.51,EUR,True,True,"Feramborghini,Mecentley,Nord",True,True,True
+Cooling & HVAC System,Radiator Hoses 3GJ,Generic Radiator Hoses,IFAT-7778-FF0D-96FF,2020-12-10,482.95,EUR,True,True,"Mecentley,Feramborghini",True,False,True
+Cooling & HVAC System,Radiator Hoses L7C,Carry coolant to and from radiator.,IFAT-F675-2E18-EE3E,2025-05-21,1718.19,EUR,True,True,"Nord,Mecentley,Feramborghini,WV,BMV",False,True,True
+Cooling & HVAC System,Cabin Air Filter 95W,Generic Cabin Air Filter,IFAT-F158-C8F7-D80D,2019-02-25,133.08,EUR,True,True,Nord,True,True,False
+Cooling & HVAC System,Radiator Cap S5D,Seals radiator and maintains pressure.,IFAT-7790-F0ED-E95C,2024-12-10,1572.5,EUR,True,False,"Feramborghini,BMV",False,True,True
+Cooling & HVAC System,Radiator Hoses 4DL,Carry coolant to and from radiator.,IFAT-715F-00BC-FD79,2023-06-14,1938.96,EUR,True,True,"Feramborghini,Mecentley,Nord,WV",False,False,False
+Exterior,Rear Diffuser OTG,Improves underbody airflow and downforce.,IFAT-7373-C7C2-1C08,2023-09-02,1836.76,EUR,True,False,BMV,False,False,True
+Exterior,Front Splitter CVO,Adds front-end downforce.,IFAT-1664-BE67-7324,2015-09-18,353.47,EUR,True,True,"Feramborghini,BMV,Mecentley",False,False,False
+Exterior,Carbon Fiber Hood 3PD,Reduces weight and improves aerodynamics.,IFAT-AAB9-7109-8601,2015-07-08,478.22,EUR,True,True,Feramborghini,True,True,True
+Exterior,Widebody Kit 0CX,Allows wider tires and improves stance.,IFAT-235E-F939-C205,2020-03-17,1180.38,EUR,True,True,"Mecentley,WV,BMV,Feramborghini,Nord",True,False,True
+Exterior,Widebody Kit YFU,Allows wider tires and improves stance.,IFAT-E121-08F3-E03F,2015-09-10,1461.8,EUR,False,True,"BMV,Nord",True,True,True
+Exterior,Widebody Kit ZXG,Allows wider tires and improves stance.,IFAT-4797-B364-5497,2025-08-02,604.72,EUR,True,False,Feramborghini,True,True,False
+Exterior,Rear Diffuser C9B,Improves underbody airflow and downforce.,IFAT-2834-67C0-D180,2024-12-25,1167.53,EUR,True,True,"BMV,Mecentley,WV,Feramborghini",True,False,False
+Exterior,Aero Canards OV7,Enhance airflow and cornering stability.,IFAT-67E2-1F1C-E70A,2016-05-05,831.93,EUR,True,True,"Feramborghini,BMV",True,True,True
+Drivetrain,Aftermarket LSD M3W,Improves grip in cornering and acceleration.,IFAT-72C6-23DC-3372,2015-10-24,246.37,EUR,False,True,"Nord,BMV",False,True,True
+Drivetrain,Limited Slip Differential 3E4,Distributes torque more efficiently to wheels.,IFAT-1FE4-7281-A7DC,2019-03-07,1963.28,EUR,False,True,"BMV,Feramborghini,Mecentley,Nord",True,False,True
+Drivetrain,Performance Clutch Kit TF5,Handles more torque from tuned engines.,IFAT-4D56-B521-5466,2015-02-08,1261.5,EUR,True,False,"Nord,BMV,WV,Feramborghini,Mecentley",True,False,True
+Drivetrain,Performance Clutch Kit 3H6,Handles more torque from tuned engines.,IFAT-DA4D-52D2-2FEA,2020-04-26,266.2,EUR,True,False,"Feramborghini,WV,Nord",True,False,True
+Drivetrain,Performance Clutch Kit 9AE,Handles more torque from tuned engines.,IFAT-5FF4-679B-610B,2016-04-19,652.88,EUR,True,False,"BMV,Feramborghini,Mecentley",True,True,True
+Drivetrain,Lightweight Flywheel 6ZW,Improves throttle response.,IFAT-D332-DC78-FD43,2025-02-01,1844.67,EUR,True,True,"Mecentley,BMV,Nord",True,True,False
+Drivetrain,Aftermarket LSD 7W3,Improves grip in cornering and acceleration.,IFAT-5A46-9FE2-C8ED,2025-09-22,1335.22,EUR,True,True,"WV,BMV",False,True,True
+Drivetrain,Performance Clutch Kit SRR,Handles more torque from tuned engines.,IFAT-1033-0C6A-85B9,2025-05-02,162.54,EUR,True,True,"Nord,Mecentley,Feramborghini,WV,BMV",False,False,False
+Drivetrain,Lightweight Flywheel TXA,Improves throttle response.,IFAT-FCEA-EAC1-A884,2016-09-12,794.89,EUR,False,True,Feramborghini,False,False,False
+Drivetrain,Limited Slip Differential NZZ,Distributes torque more efficiently to wheels.,IFAT-2523-828A-E577,2024-05-31,855.76,EUR,True,True,"Mecentley,WV",True,False,False
+Drivetrain,Aftermarket LSD PUW,Improves grip in cornering and acceleration.,IFAT-623C-59A4-FD28,2023-06-13,1263.41,EUR,True,True,WV,True,True,False
+Drivetrain,Lightweight Flywheel XBK,Improves throttle response.,IFAT-A5ED-3CC1-722B,2021-05-22,728.2,EUR,False,True,"BMV,WV,Nord,Mecentley,Feramborghini",False,True,False
+Drivetrain,Performance Clutch Kit 6ST,Handles more torque from tuned engines.,IFAT-F550-CD8B-20D0,2024-12-23,1923.46,EUR,True,True,"Mecentley,Nord,Feramborghini",True,False,True
+Drivetrain,Lightweight Flywheel ML4,Improves throttle response.,IFAT-67B5-F01B-D7A6,2016-07-15,1879.23,EUR,True,True,"Nord,BMV,Mecentley,Feramborghini",False,False,True
+Drivetrain,Lightweight Flywheel NSG,Improves throttle response.,IFAT-78C9-06EE-5421,2021-09-26,1087.25,EUR,True,True,"WV,Mecentley,Nord,Feramborghini,BMV",True,True,True
+Drivetrain,Lightweight Flywheel VG5,Improves throttle response.,IFAT-4451-A9F4-0A22,2024-02-05,1007.32,EUR,True,True,"BMV,Mecentley,WV",False,False,False
+Drivetrain,Lightweight Flywheel D9H,Improves throttle response.,IFAT-42B3-5967-207C,2020-11-03,1553.09,EUR,True,False,"Feramborghini,WV,Nord",False,True,True
+Drivetrain,Aftermarket LSD NZV,Improves grip in cornering and acceleration.,IFAT-2B68-4A4E-22C5,2022-03-24,1122.98,EUR,True,True,"Feramborghini,WV,Mecentley",True,False,True
+Cooling System,Performance Radiator 4YF,Increased cooling capacity for high performance.,IFAT-C746-CB55-DA9A,2015-05-03,521.92,EUR,True,True,"BMV,WV",False,False,False
+Cooling System,Performance Radiator ND8,Increased cooling capacity for high performance.,IFAT-921E-9CA3-9342,2018-06-12,1268.31,EUR,True,True,"BMV,Nord,WV",False,True,True
+Cooling System,Performance Radiator NG8,Increased cooling capacity for high performance.,IFAT-2D97-44E2-6330,2020-09-10,1581.51,EUR,False,True,"Feramborghini,Nord",True,True,True
+Wheels & Tires,Low Profile Tires QJ3,Better grip and handling performance.,IFAT-18EF-4AC7-C9F8,2021-10-13,1129.62,EUR,True,False,"BMV,WV",True,False,True
+Wheels & Tires,Low Profile Tires TXP,Better grip and handling performance.,IFAT-617A-AF8C-BB12,2017-02-17,1471.28,EUR,True,True,"Nord,Feramborghini,WV",True,True,True
+Wheels & Tires,Low Profile Tires 2K1,Better grip and handling performance.,IFAT-F737-9EF9-0850,2019-06-21,1010.24,EUR,True,True,"Feramborghini,BMV,Nord",False,False,False
+Wheels & Tires,Lightweight Wheels IA8,Reduce unsprung mass for quicker acceleration.,IFAT-7AA9-D8B4-ECF2,2019-10-16,1828.75,EUR,True,False,BMV,True,True,True
+Wheels & Tires,Low Profile Tires ZIF,Better grip and handling performance.,IFAT-2C1B-16D6-E8AF,2015-10-20,270.6,EUR,True,True,"WV,Mecentley",True,False,False
+Wheels & Tires,Low Profile Tires 6YP,Better grip and handling performance.,IFAT-CFBC-5155-BECA,2019-07-04,1765.91,EUR,True,True,"Feramborghini,Nord,WV,BMV,Mecentley",False,True,True
+Wheels & Tires,Lightweight Wheels SVU,Reduce unsprung mass for quicker acceleration.,IFAT-F7E8-A5D7-9D04,2024-09-08,514.36,EUR,True,False,"WV,Nord,Mecentley,Feramborghini,BMV",False,False,True
+Wheels & Tires,Low Profile Tires IKH,Better grip and handling performance.,IFAT-2004-ACEF-C984,2017-04-12,1910.19,EUR,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,True,False

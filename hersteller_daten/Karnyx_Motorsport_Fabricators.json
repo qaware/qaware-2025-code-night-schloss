@@ -1,0 +1,566 @@
+[
+  {
+    "category": "Interior Components",
+    "name": "Dashboard V21",
+    "description": "Generic Dashboard",
+    "serial": "KMF-SN20250625-6553",
+    "production_date": "2023-06-26",
+    "price": 1052.03,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "Feramborghini"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": false,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Seatbelts D99",
+    "description": "Secure passengers to reduce injury risk.",
+    "serial": "KMF-SN20250625-7323",
+    "production_date": "2024-07-02",
+    "price": 94.98,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord",
+      "BMV",
+      "Mecentley",
+      "WV"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Floor Mats X31",
+    "description": "Generic Floor Mats",
+    "serial": "KMF-SN20250625-9045",
+    "production_date": "2024-06-20",
+    "price": 218.94,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Handbrake Lever S15",
+    "description": "Generic Handbrake Lever",
+    "serial": "KMF-SN20250625-5499",
+    "production_date": "2024-07-15",
+    "price": 538.5,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Nord",
+      "Feramborghini",
+      "WV"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Carpet Y84",
+    "description": "Generic Carpet",
+    "serial": "KMF-SN20250625-3142",
+    "production_date": "2016-12-04",
+    "price": 645.49,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "WV",
+      "BMV"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": false,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Carpet X39",
+    "description": "Generic Carpet",
+    "serial": "KMF-SN20250625-8367",
+    "production_date": "2023-10-06",
+    "price": 1787.99,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": false,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Gear Shift Knob M93",
+    "description": "Generic Gear Shift Knob",
+    "serial": "KMF-SN20250625-8857",
+    "production_date": "2023-05-23",
+    "price": 776.91,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "BMV",
+      "Feramborghini"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Carpet B65",
+    "description": "Generic Carpet",
+    "serial": "KMF-SN20250625-3857",
+    "production_date": "2015-08-09",
+    "price": 1767.75,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Nord"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Carpet B7",
+    "description": "Generic Carpet",
+    "serial": "KMF-SN20250625-4585",
+    "production_date": "2022-04-22",
+    "price": 318.78,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Nord",
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Sun Visors T90",
+    "description": "Generic Sun Visors",
+    "serial": "KMF-SN20250625-1133",
+    "production_date": "2020-06-28",
+    "price": 1487.14,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "WV",
+      "BMV",
+      "Mecentley"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Handbrake Lever M36",
+    "description": "Generic Handbrake Lever",
+    "serial": "KMF-SN20250625-4139",
+    "production_date": "2024-05-16",
+    "price": 28.36,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "Nord",
+      "BMV",
+      "Mecentley"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Dashboard L70",
+    "description": "Houses instruments and controls in front of driver.",
+    "serial": "KMF-SN20250625-5745",
+    "production_date": "2020-07-13",
+    "price": 1674.8,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord",
+      "Feramborghini",
+      "WV",
+      "Mecentley",
+      "BMV"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": false,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Carpet W8",
+    "description": "Generic Carpet",
+    "serial": "KMF-SN20250625-2148",
+    "production_date": "2017-04-22",
+    "price": 1451.31,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Mecentley",
+      "Nord",
+      "Feramborghini"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": false,
+    "limitedEdition": false,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Seatbelts M7",
+    "description": "Generic Seatbelts",
+    "serial": "KMF-SN20250625-9895",
+    "production_date": "2015-06-25",
+    "price": 1043.0,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Nord"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Seats N49",
+    "description": "Provide seating for vehicle occupants.",
+    "serial": "KMF-SN20250625-2604",
+    "production_date": "2023-10-23",
+    "price": 531.57,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "WV"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Dashboard Q32",
+    "description": "Houses instruments and controls in front of driver.",
+    "serial": "KMF-SN20250625-2653",
+    "production_date": "2024-03-16",
+    "price": 793.97,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Feramborghini",
+      "WV",
+      "Nord"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Gear Shift Knob V41",
+    "description": "Generic Gear Shift Knob",
+    "serial": "KMF-SN20250625-7142",
+    "production_date": "2017-08-06",
+    "price": 1439.26,
+    "currency": "USD",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Nord",
+      "Feramborghini",
+      "Mecentley"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Dashboard L90",
+    "description": "Generic Dashboard",
+    "serial": "KMF-SN20250625-9924",
+    "production_date": "2015-05-26",
+    "price": 449.85,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": true,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Gauges (Speedometer, Tachometer, Fuel, Temp) A7",
+    "description": "Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",
+    "serial": "KMF-SN20250625-6522",
+    "production_date": "2017-08-10",
+    "price": 1101.82,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Mecentley",
+      "Feramborghini",
+      "Nord"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": true,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Gauges (Speedometer, Tachometer, Fuel, Temp) P17",
+    "description": "Generic Gauges (Speedometer, Tachometer, Fuel, Temp)",
+    "serial": "KMF-SN20250625-1074",
+    "production_date": "2019-10-09",
+    "price": 1927.01,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Nord",
+      "Mecentley",
+      "Feramborghini"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Glove Box Y24",
+    "description": "Compartment for storing small items.",
+    "serial": "KMF-SN20250625-7593",
+    "production_date": "2018-03-17",
+    "price": 1317.58,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "Feramborghini"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Center Console Z42",
+    "description": "Generic Center Console",
+    "serial": "KMF-SN20250625-1808",
+    "production_date": "2022-04-30",
+    "price": 1362.51,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "Feramborghini",
+      "WV",
+      "BMV"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": false,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Seatbelts P12",
+    "description": "Secure passengers to reduce injury risk.",
+    "serial": "KMF-SN20250625-3219",
+    "production_date": "2018-06-07",
+    "price": 1270.71,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Headliner I63",
+    "description": "Generic Headliner",
+    "serial": "KMF-SN20250625-8724",
+    "production_date": "2019-09-17",
+    "price": 176.24,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley",
+      "Nord",
+      "WV",
+      "BMV"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": false,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Interior Components",
+    "name": "Glove Box A34",
+    "description": "Generic Glove Box",
+    "serial": "KMF-SN20250625-4993",
+    "production_date": "2018-04-01",
+    "price": 856.94,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": false,
+    "compatible_brands": [
+      "Mecentley",
+      "WV"
+    ],
+    "ecoFriendly": false,
+    "safetyCritical": false,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Interior Components",
+    "name": "Seatbelts T43",
+    "description": "Generic Seatbelts",
+    "serial": "KMF-SN20250625-5114",
+    "production_date": "2025-06-04",
+    "price": 1221.23,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "BMV",
+      "Feramborghini"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": false
+  },
+  {
+    "category": "Engine Care",
+    "name": "Oil Catch Can I83",
+    "description": "Traps oil vapor and prevents intake fouling.",
+    "serial": "KMF-SN20250625-1551",
+    "production_date": "2015-03-11",
+    "price": 1988.67,
+    "currency": "USD",
+    "authorised": false,
+    "in_stock": true,
+    "compatible_brands": [
+      "Mecentley"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": false,
+    "limitedEdition": true,
+    "requiresCalibration": true
+  },
+  {
+    "category": "Engine Care",
+    "name": "Oil Catch Can R88",
+    "description": "Traps oil vapor and prevents intake fouling.",
+    "serial": "KMF-SN20250625-8517",
+    "production_date": "2025-09-10",
+    "price": 1042.7,
+    "currency": "USD",
+    "authorised": true,
+    "in_stock": true,
+    "compatible_brands": [
+      "WV",
+      "BMV",
+      "Mecentley",
+      "Nord",
+      "Feramborghini"
+    ],
+    "ecoFriendly": true,
+    "safetyCritical": true,
+    "limitedEdition": false,
+    "requiresCalibration": false
+  }
+]

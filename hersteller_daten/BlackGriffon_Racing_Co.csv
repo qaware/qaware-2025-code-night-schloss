@@ -1,0 +1,220 @@
+category,name,description,serial,production_date,price,currency,authorised,in_stock,compatible_brands,digitallyTracked,used,aftermarket
+Structural and Chassis,Floor Pan C78,Generic Floor Pan,BGRC-DRI-8SUI-HX0,2021-08-01,905.17,EUR,True,True,BMV,False,True,True
+Structural and Chassis,Wheel Wells X79,Generic Wheel Wells,BGRC-ELE-1QQ4-7U3,2022-10-26,1354.44,EUR,True,True,"Nord,BMV,Mecentley",True,True,False
+Structural and Chassis,Floor Pan O46,Generic Floor Pan,BGRC-PERF-VUMP-NUK,2015-06-25,1375.41,EUR,True,True,"WV,Mecentley,Feramborghini,BMV",False,False,True
+Cooling System,Performance Radiator U33,Increased cooling capacity for high performance.,BGRC-SUS-2DV8-VZV,2025-01-12,1717.37,EUR,True,True,"BMV,Feramborghini,Mecentley,WV,Nord",False,True,True
+Cooling System,Performance Radiator J88,Increased cooling capacity for high performance.,BGRC-SUS-L1KD-XMD,2017-06-07,1778.87,EUR,False,True,"WV,Nord,Feramborghini,BMV",False,False,True
+Cooling System,Performance Radiator Z74,Increased cooling capacity for high performance.,BGRC-ELE-WCTY-490,2021-06-30,1523.88,EUR,False,True,"Mecentley,Nord,BMV,WV,Feramborghini",True,True,False
+Cooling System,Performance Radiator D28,Increased cooling capacity for high performance.,BGRC-SUS-55CG-A5V,2018-01-26,648.22,EUR,False,True,WV,True,True,False
+Cooling & HVAC System,Fan Clutch O6,Generic Fan Clutch,BGRC-PERF-JV8I-ABI,2023-12-16,1783.12,EUR,True,True,"WV,BMV,Mecentley,Nord",False,False,False
+Cooling & HVAC System,Cooling Fan M20,Generic Cooling Fan,BGRC-SUS-7JHT-YAK,2022-12-05,1289.51,EUR,False,False,"Feramborghini,Mecentley",True,False,True
+Cooling & HVAC System,A/C Compressor H31,Generic A/C Compressor,BGRC-DRI-8FYI-63I,2016-08-05,916.96,EUR,True,True,Nord,True,True,False
+Cooling & HVAC System,A/C Condenser X93,Generic A/C Condenser,BGRC-PERF-108Z-C9N,2016-02-25,1733.18,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley",False,True,False
+Cooling & HVAC System,Radiator W14,Dissipates heat from engine coolant.,BGRC-COL-7018-29L,2023-10-07,580.14,EUR,True,True,"BMV,Mecentley",False,True,False
+Cooling & HVAC System,Cabin Air Filter G52,Generic Cabin Air Filter,BGRC-ELE-H99D-9AL,2019-09-25,1323.08,EUR,False,True,"WV,Nord,Mecentley",True,True,False
+Cooling & HVAC System,A/C Condenser V38,Releases heat from compressed refrigerant.,BGRC-ENG-CS26-JZ4,2019-03-29,708.76,EUR,False,True,"WV,Mecentley,Feramborghini,Nord,BMV",True,True,False
+Cooling & HVAC System,Water Pump G39,Generic Water Pump,BGRC-DRI-YNXD-L8L,2017-04-04,1995.8,EUR,True,True,"Mecentley,Nord",True,True,False
+Cooling & HVAC System,Radiator X36,Dissipates heat from engine coolant.,BGRC-PERF-90ER-2WG,2017-08-20,188.3,EUR,False,True,"Nord,BMV,WV,Feramborghini,Mecentley",True,True,True
+Cooling & HVAC System,A/C Condenser L70,Releases heat from compressed refrigerant.,BGRC-COL-874C-A9A,2017-05-19,755.65,EUR,False,True,"Nord,Feramborghini,WV",True,True,False
+Cooling & HVAC System,Heater Blower Motor V57,Generic Heater Blower Motor,BGRC-BRK-TABS-SF1,2020-07-05,1971.71,EUR,True,False,Feramborghini,True,True,False
+Cooling & HVAC System,Radiator Cap K45,Seals radiator and maintains pressure.,BGRC-ENG-Z36I-WX7,2019-02-07,828.9,EUR,True,True,"BMV,Nord,Mecentley,Feramborghini",False,True,True
+Cooling & HVAC System,Radiator Cap Y93,Seals radiator and maintains pressure.,BGRC-COL-4S1Y-KKY,2025-09-02,760.26,EUR,True,True,"Mecentley,BMV",True,False,True
+Cooling & HVAC System,Heater Core S66,Heats cabin air using coolant.,BGRC-TRN-P64N-8ED,2019-11-24,879.02,EUR,True,True,"Feramborghini,Nord,BMV",True,True,True
+Cooling & HVAC System,Heater Blower Motor K42,Drives air through HVAC system.,BGRC-ELE-I3QC-XSW,2017-11-09,257.3,EUR,True,True,"Feramborghini,WV",False,True,True
+Cooling & HVAC System,Water Pump N80,Generic Water Pump,BGRC-PERF-4IRS-0YS,2023-08-29,1620.48,EUR,True,True,"WV,Nord,Feramborghini",True,True,True
+Cooling & HVAC System,Radiator S68,Dissipates heat from engine coolant.,BGRC-BRK-M67Y-43E,2018-06-02,1250.38,EUR,True,True,"Feramborghini,BMV,WV,Mecentley",True,False,False
+Cooling & HVAC System,A/C Lines Y10,Transport refrigerant.,BGRC-ENG-0IUP-4A6,2025-11-03,1591.26,EUR,False,True,"Mecentley,BMV,Nord,Feramborghini",False,True,True
+Cooling & HVAC System,Radiator Cap P9,Generic Radiator Cap,BGRC-TRN-BM6P-GMR,2016-12-18,1441.53,EUR,True,False,"Mecentley,WV",False,True,False
+Cooling & HVAC System,Thermostat L18,Generic Thermostat,BGRC-PERF-1T25-RSC,2023-09-29,288.47,EUR,True,True,"Mecentley,BMV,Nord",False,False,False
+Cooling & HVAC System,A/C Lines A90,Generic A/C Lines,BGRC-SUS-9CB4-47A,2016-09-20,713.44,EUR,True,True,"Feramborghini,Nord",True,False,False
+Cooling & HVAC System,Thermostat R52,Generic Thermostat,BGRC-BRK-6B1B-6N5,2018-10-06,333.18,EUR,True,True,"Feramborghini,WV,BMV,Nord",True,False,True
+Cooling & HVAC System,Cooling Fan M42,Assists in radiator cooling.,BGRC-ENG-PCSP-E33,2019-12-07,377.01,EUR,False,True,Nord,False,True,True
+Cooling & HVAC System,A/C Compressor Y97,Generic A/C Compressor,BGRC-BRK-1VQQ-LJA,2024-03-17,924.16,EUR,True,True,"Nord,BMV",True,True,False
+Cooling & HVAC System,Expansion Valve I17,Controls refrigerant flow.,BGRC-SUS-FO8C-P4F,2016-01-26,353.05,EUR,True,True,"Mecentley,WV",True,True,True
+Cooling & HVAC System,Heater Core N99,Heats cabin air using coolant.,BGRC-ENG-7KOJ-LXG,2018-09-11,1069.03,EUR,True,True,"WV,BMV,Nord,Mecentley,Feramborghini",True,False,True
+Cooling & HVAC System,Thermostat Housing T86,Generic Thermostat Housing,BGRC-PERF-H4UN-80M,2020-04-30,913.13,EUR,True,True,"Feramborghini,Nord,WV",True,True,True
+Cooling & HVAC System,A/C Condenser W13,Releases heat from compressed refrigerant.,BGRC-ENG-O694-U0W,2018-05-19,1930.86,EUR,True,True,"BMV,Mecentley,Feramborghini,WV,Nord",False,False,True
+Cooling & HVAC System,Thermostat L66,Generic Thermostat,BGRC-PERF-7Z0R-0FM,2023-11-12,12.87,EUR,False,True,"Mecentley,Feramborghini,Nord",True,False,True
+Cooling & HVAC System,A/C Dryer Z82,Generic A/C Dryer,BGRC-SUS-2MNN-QNQ,2022-08-10,386.36,EUR,True,True,"Feramborghini,Nord,WV",False,True,False
+Cooling & HVAC System,A/C Condenser F86,Generic A/C Condenser,BGRC-PERF-QK6N-231,2023-06-04,666.01,EUR,True,True,"BMV,Feramborghini",False,True,True
+Cooling & HVAC System,Expansion Valve Z85,Generic Expansion Valve,BGRC-BRK-SSTZ-GOA,2016-10-10,818.47,EUR,True,True,BMV,True,False,True
+Cooling & HVAC System,Cooling Fan Y72,Generic Cooling Fan,BGRC-DRI-MSV9-0I9,2016-04-12,1825.9,EUR,True,True,"Feramborghini,Nord,WV,Mecentley,BMV",False,False,False
+Cooling & HVAC System,Water Pump D48,Circulates coolant through engine.,BGRC-COL-NJC2-SUB,2023-10-17,1588.44,EUR,False,False,"Feramborghini,WV,Mecentley,BMV,Nord",False,False,True
+Cooling & HVAC System,A/C Compressor C31,Compresses refrigerant for air conditioning.,BGRC-BRK-U9D9-91M,2018-12-26,1553.8,EUR,False,True,"Nord,Feramborghini",False,True,True
+Cooling & HVAC System,A/C Dryer D38,Removes moisture from refrigerant.,BGRC-DRI-MUJF-W1D,2020-03-11,104.89,EUR,True,False,Feramborghini,True,True,True
+Cooling & HVAC System,Heater Core S10,Heats cabin air using engine coolant.,BGRC-BRK-K0G9-NH6,2017-08-26,476.41,EUR,True,False,"BMV,Feramborghini,Nord,WV,Mecentley",False,True,True
+Cooling & HVAC System,Radiator Cap K10,Seals radiator and maintains pressure.,BGRC-TRN-7UT3-S1G,2017-09-01,85.88,EUR,True,True,"BMV,Nord,Mecentley,WV",True,True,True
+Cooling & HVAC System,A/C Condenser W80,Releases heat from compressed refrigerant.,BGRC-DRI-GNU6-98X,2017-03-13,1649.11,EUR,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",True,True,True
+Cooling & HVAC System,Heater Blower Motor Y36,Drives air through HVAC system.,BGRC-ENG-QAVN-518,2020-04-15,946.81,EUR,False,True,"Nord,Mecentley,WV,Feramborghini",True,True,True
+Cooling & HVAC System,Water Pump J56,Generic Water Pump,BGRC-SUS-CMX6-CWZ,2021-03-31,1989.69,EUR,False,False,"BMV,WV,Nord",True,True,False
+Cooling & HVAC System,Heater Blower Motor W29,Generic Heater Blower Motor,BGRC-TRN-1SXZ-14K,2022-12-22,1202.68,EUR,True,True,"Nord,Mecentley,BMV,Feramborghini,WV",False,False,True
+Cooling & HVAC System,Heater Core F40,Generic Heater Core,BGRC-COL-WGS3-BN3,2022-02-24,1130.72,EUR,True,True,"Feramborghini,Nord",True,False,False
+Cooling & HVAC System,Expansion Valve T52,Generic Expansion Valve,BGRC-DRI-5HMK-AVD,2023-09-07,222.53,EUR,True,True,"Mecentley,BMV,Feramborghini,WV",True,True,False
+Cooling & HVAC System,Thermostat F57,Generic Thermostat,BGRC-PERF-8UFS-0RG,2017-04-24,248.5,EUR,True,True,"Mecentley,Feramborghini,WV",True,True,True
+Cooling & HVAC System,Expansion Valve V86,Generic Expansion Valve,BGRC-TRN-ENER-CW0,2019-03-13,508.77,EUR,True,True,"WV,Nord,Mecentley",True,True,False
+Cooling & HVAC System,A/C Condenser J93,Releases heat from compressed refrigerant.,BGRC-ELE-I7F0-CUS,2024-05-16,1318.1,EUR,True,True,"WV,Mecentley",True,False,False
+Cooling & HVAC System,Fan Clutch R51,Generic Fan Clutch,BGRC-ELE-LSOV-S2I,2022-05-31,35.63,EUR,False,True,"WV,Mecentley,BMV,Nord",False,True,False
+Cooling & HVAC System,A/C Compressor X9,Generic A/C Compressor,BGRC-PERF-QVDK-FXH,2016-06-07,773.81,EUR,False,False,"Mecentley,WV,Nord,Feramborghini",True,False,False
+Transmission System,Flywheel T24,Generic Flywheel,BGRC-ELE-H1R2-K8X,2025-12-23,1578.68,EUR,False,True,"Nord,Feramborghini",False,False,True
+Transmission System,Clutch Slave Cylinder X13,Generic Clutch Slave Cylinder,BGRC-PERF-YTDA-SI6,2017-02-13,256.86,EUR,True,False,"BMV,Feramborghini,WV",True,False,True
+Transmission System,Axles H5,Generic Axles,BGRC-BRK-KDEC-PQ3,2017-11-04,1696.85,EUR,True,True,"Nord,Mecentley",True,False,True
+Transmission System,Transmission Cooler F11,Generic Transmission Cooler,BGRC-BRK-ZABB-2M9,2024-07-17,1950.55,EUR,True,True,"Mecentley,Nord",False,True,False
+Transmission System,CV Joints T81,Generic CV Joints,BGRC-TRN-BG89-VFV,2023-07-13,459.21,EUR,True,True,"WV,Nord,Mecentley",True,False,True
+Transmission System,Clutch Slave Cylinder Y65,Generic Clutch Slave Cylinder,BGRC-ENG-E7NM-TIY,2024-10-27,997.58,EUR,True,True,"WV,Nord,Feramborghini,Mecentley",True,False,True
+Transmission System,Drive Shaft P75,Transfers torque from transmission to wheels.,BGRC-SUS-XXY4-7MT,2025-02-11,1147.93,EUR,False,True,"Nord,Feramborghini,WV,BMV,Mecentley",True,True,True
+Transmission System,Differential V87,Distributes engine torque to drive wheels.,BGRC-BRK-BOV8-EWG,2022-07-29,116.35,EUR,True,True,"WV,BMV,Nord",True,True,True
+Transmission System,Flywheel A54,Generic Flywheel,BGRC-ENG-8GWZ-K58,2022-02-28,198.01,EUR,True,True,"Nord,Mecentley,Feramborghini,WV",False,True,True
+Transmission System,Pressure Plate P42,Generic Pressure Plate,BGRC-ELE-30DV-XE5,2022-08-20,1877.13,EUR,True,True,"Mecentley,Nord,Feramborghini,BMV,WV",True,True,False
+Transmission System,Gearbox M28,Generic Gearbox,BGRC-ELE-731X-EEO,2016-07-24,518.31,EUR,False,True,BMV,True,False,False
+Transmission System,Transmission Mount H23,Generic Transmission Mount,BGRC-ELE-IB4T-0A1,2022-05-12,1157.6,EUR,True,True,"WV,Feramborghini,Nord,Mecentley",True,False,False
+Transmission System,Transmission O12,Transfers power from engine to wheels.,BGRC-BRK-Y4R7-WIU,2018-02-24,1116.94,EUR,True,False,"Mecentley,Nord,BMV,WV",True,True,True
+Transmission System,Transmission (Manual / Automatic) Z8,Generic Transmission (Manual / Automatic),BGRC-SUS-RAL5-PDO,2021-11-09,1761.28,EUR,True,True,"Nord,Mecentley,Feramborghini",True,True,False
+Transmission System,Axles T51,Generic Axles,BGRC-SUS-50TL-8XA,2018-04-24,597.59,EUR,True,True,Mecentley,True,False,True
+Transmission System,Transmission Cooler F17,Generic Transmission Cooler,BGRC-PERF-4JK0-OJH,2021-07-14,727.14,EUR,True,True,"Feramborghini,WV,Mecentley,Nord",True,True,False
+Transmission System,Transmission Cooler I33,Generic Transmission Cooler,BGRC-TRN-UYYO-ONQ,2015-01-24,1054.74,EUR,True,True,"Feramborghini,WV,Nord,BMV,Mecentley",False,False,True
+Transmission System,Differential A56,Generic Differential,BGRC-COL-883Y-E8X,2016-02-14,1804.78,EUR,False,True,Feramborghini,True,False,True
+Transmission System,Transmission (Manual / Automatic) Q39,Generic Transmission (Manual / Automatic),BGRC-PERF-KNGE-DT6,2018-10-11,326.41,EUR,True,True,"Mecentley,WV,Feramborghini,Nord,BMV",True,True,False
+Transmission System,Drive Shaft S77,Transfers torque from transmission to wheels.,BGRC-ENG-91TO-BHM,2018-06-11,113.11,EUR,True,True,BMV,False,False,False
+Transmission System,Clutch Plate S64,Engages and disengages power to transmission.,BGRC-SUS-RV9I-HDC,2018-10-21,1619.16,EUR,True,True,"Feramborghini,Mecentley,WV",False,False,True
+Transmission System,Drive Shaft E72,Generic Drive Shaft,BGRC-COL-PMJ7-XMN,2015-08-27,1454.35,EUR,True,True,"Mecentley,Feramborghini",False,True,False
+Transmission System,Torque Converter P94,Generic Torque Converter,BGRC-DRI-27WD-IUZ,2023-08-13,653.38,EUR,False,True,"Feramborghini,Nord,WV",False,True,False
+Transmission System,Axles T97,Generic Axles,BGRC-PERF-E6ZN-QUW,2019-01-11,1181.08,EUR,True,True,BMV,True,False,True
+Transmission System,Gearbox A97,Changes vehicle speed and torque.,BGRC-DRI-BNZ5-RDA,2015-04-04,1203.48,EUR,False,True,"Feramborghini,Nord,WV,BMV,Mecentley",True,False,False
+Transmission System,Torque Converter I64,Generic Torque Converter,BGRC-TRN-MZVX-JHE,2015-11-26,376.25,EUR,True,True,"Mecentley,Feramborghini,Nord,WV",True,True,False
+Transmission System,Differential Y26,Distributes engine torque to drive wheels.,BGRC-COL-UMRV-HBK,2020-05-25,1636.11,EUR,True,True,Mecentley,False,False,True
+Transmission System,Synchromesh Gears D11,Generic Synchromesh Gears,BGRC-DRI-Z6EF-GBH,2025-08-29,1451.48,EUR,True,True,Nord,True,False,False
+Transmission System,CV Joints S55,Generic CV Joints,BGRC-TRN-FYGO-RP6,2022-05-05,367.32,EUR,True,False,"Nord,BMV,WV,Feramborghini,Mecentley",False,False,True
+Transmission System,Gearbox S67,Generic Gearbox,BGRC-TRN-KK9T-61L,2018-08-30,409.38,EUR,False,False,Nord,True,False,True
+Transmission System,Clutch Plate F5,Generic Clutch Plate,BGRC-SUS-AJQY-OFK,2022-11-25,167.91,EUR,True,True,"Mecentley,BMV",True,True,False
+Transmission System,Synchromesh Gears M76,Generic Synchromesh Gears,BGRC-BRK-PPQ9-EVZ,2017-11-21,1430.92,EUR,True,True,"Feramborghini,BMV",True,True,False
+Transmission System,Shift Linkage C8,Generic Shift Linkage,BGRC-COL-X8ZS-XHV,2025-05-26,1359.04,EUR,True,True,"Feramborghini,WV,Nord,Mecentley,BMV",False,False,True
+Transmission System,Gearbox R70,Changes vehicle speed and torque.,BGRC-BRK-6MQR-DMV,2021-11-17,766.35,EUR,True,True,Feramborghini,False,False,True
+Transmission System,Gearbox N49,Generic Gearbox,BGRC-COL-79GJ-F49,2024-11-21,625.29,EUR,True,True,"WV,Mecentley,Nord,BMV",True,True,False
+Transmission System,Clutch Plate Q79,Engages and disengages power to transmission.,BGRC-PERF-0V8Z-B32,2019-07-16,80.79,EUR,True,False,"WV,Feramborghini,Mecentley,BMV,Nord",False,False,False
+Transmission System,Clutch Plate U26,Engages and disengages power to transmission.,BGRC-ELE-PWAO-AF8,2015-02-09,1057.15,EUR,True,True,"Mecentley,Nord,BMV,WV,Feramborghini",True,True,False
+Transmission System,Shift Linkage M83,Generic Shift Linkage,BGRC-PERF-PLAZ-ANH,2016-10-09,379.83,EUR,True,True,"Feramborghini,Nord,WV",True,True,False
+Transmission System,Differential B80,Generic Differential,BGRC-ENG-YTGG-703,2015-01-13,519.9,EUR,True,True,Mecentley,True,True,False
+Transmission System,Drive Shaft O79,Transfers torque from transmission to wheels.,BGRC-ELE-6W26-ICU,2024-12-24,1450.35,EUR,True,True,Mecentley,True,True,True
+Transmission System,Differential B58,Generic Differential,BGRC-SUS-Q4S6-XB6,2021-06-20,1418.62,EUR,True,False,"BMV,Mecentley,WV",False,True,True
+Transmission System,CV Joints J14,Generic CV Joints,BGRC-COL-XGWW-2BW,2016-01-06,672.06,EUR,True,True,BMV,True,True,False
+Transmission System,Gearbox J67,Generic Gearbox,BGRC-ENG-SCIG-8T3,2019-10-04,336.65,EUR,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",True,False,True
+Transmission System,Clutch Plate L83,Generic Clutch Plate,BGRC-SUS-686H-CFO,2024-07-23,938.22,EUR,True,True,"WV,Mecentley,Feramborghini,Nord",True,False,False
+Transmission System,Drive Shaft B16,Generic Drive Shaft,BGRC-SUS-B3KK-M3W,2024-01-28,1734.5,EUR,False,True,"WV,Nord,Feramborghini,Mecentley",True,True,False
+Transmission System,Differential O86,Generic Differential,BGRC-DRI-MKH2-7RP,2021-02-25,1429.82,EUR,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",False,False,False
+Transmission System,Transmission (Manual / Automatic) F13,Generic Transmission (Manual / Automatic),BGRC-BRK-ISO5-RP9,2018-08-09,594.66,EUR,True,False,"Feramborghini,Nord",True,True,True
+Transmission System,Transmission Mount G46,Generic Transmission Mount,BGRC-TRN-95GO-IJB,2018-02-01,61.75,EUR,True,True,BMV,True,True,True
+Transmission System,Differential W34,Generic Differential,BGRC-ENG-QW9T-Y5L,2016-11-22,1770.51,EUR,True,True,"Nord,Mecentley,WV,Feramborghini",False,True,False
+Transmission System,Transmission I58,Transfers power from engine to wheels.,BGRC-DRI-MR7M-4J6,2020-04-16,691.63,EUR,False,True,"Nord,Feramborghini,WV,Mecentley",False,True,True
+Transmission System,Shift Linkage W89,Generic Shift Linkage,BGRC-SUS-65QO-A39,2019-07-19,1161.75,EUR,True,True,"BMV,Mecentley,WV,Feramborghini,Nord",False,False,True
+Transmission System,Axles F55,Generic Axles,BGRC-TRN-IMGD-L2G,2025-12-14,1353.73,EUR,True,True,"BMV,Nord",True,False,True
+Transmission System,Transmission Y27,Transfers power from engine to wheels.,BGRC-ENG-YBEA-UVD,2016-05-28,768.49,EUR,False,False,"Feramborghini,Mecentley",True,True,True
+Transmission System,Clutch Plate A11,Generic Clutch Plate,BGRC-PERF-DQBT-8VV,2016-11-09,310.95,EUR,True,True,BMV,False,False,False
+Transmission System,Drive Shaft P21,Generic Drive Shaft,BGRC-PERF-S956-OFJ,2016-02-21,1126.72,EUR,False,False,"BMV,WV,Mecentley",True,True,False
+Transmission System,Torque Converter D75,Generic Torque Converter,BGRC-PERF-ISUQ-A2W,2023-10-01,1140.26,EUR,True,False,"Mecentley,Nord,WV",False,False,True
+Transmission System,Transmission Mount Z89,Generic Transmission Mount,BGRC-COL-1UBU-XL8,2020-07-11,1976.68,EUR,False,True,"WV,BMV,Nord",True,True,True
+Transmission System,Drive Shaft B57,Transfers torque from transmission to wheels.,BGRC-PERF-WWJU-74B,2024-04-10,1177.35,EUR,True,True,"Nord,WV,BMV,Feramborghini,Mecentley",True,True,True
+Transmission System,Clutch Plate B11,Engages and disengages power to transmission.,BGRC-PERF-D5CX-J0H,2018-07-23,1575.1,EUR,True,False,"WV,Mecentley,Nord,Feramborghini",True,True,True
+Transmission System,Drive Shaft A33,Generic Drive Shaft,BGRC-BRK-FDPJ-J63,2024-09-17,1240.43,EUR,True,False,"Feramborghini,Mecentley",True,False,False
+Transmission System,Transmission (Manual / Automatic) A4,Generic Transmission (Manual / Automatic),BGRC-TRN-PRTW-5IN,2020-04-22,677.25,EUR,True,True,"Nord,Feramborghini,BMV",True,False,False
+Transmission System,Pressure Plate S67,Generic Pressure Plate,BGRC-DRI-RH0B-ZL4,2024-11-09,1827.25,EUR,True,True,Nord,False,True,True
+Transmission System,Drive Shaft G91,Generic Drive Shaft,BGRC-DRI-L2KZ-3QW,2018-12-23,920.58,EUR,True,True,"WV,Nord",True,False,True
+Transmission System,Gearbox M54,Changes vehicle speed and torque.,BGRC-SUS-G3G9-HOQ,2025-04-06,1120.23,EUR,False,True,"WV,BMV,Mecentley",False,True,False
+Transmission System,Transmission Cooler W50,Generic Transmission Cooler,BGRC-ELE-EY6A-GV7,2018-03-23,217.07,EUR,True,False,"Nord,Feramborghini,Mecentley,WV",True,True,True
+Transmission System,CV Joints G19,Generic CV Joints,BGRC-ENG-UC0Y-Q4W,2017-01-29,1322.18,EUR,True,True,"Nord,Feramborghini,WV,BMV",False,True,True
+Transmission System,Gearbox S76,Changes vehicle speed and torque.,BGRC-TRN-CN9G-8SF,2021-07-03,1280.23,EUR,True,True,"Mecentley,Feramborghini,Nord",True,True,True
+Transmission System,Differential M43,Distributes engine torque to drive wheels.,BGRC-COL-Q24S-YY5,2025-03-19,1152.24,EUR,False,False,"BMV,WV,Feramborghini,Nord",False,True,True
+Transmission System,Gearbox U75,Generic Gearbox,BGRC-COL-7P52-K2N,2018-04-16,1241.61,EUR,True,True,"Nord,Feramborghini",False,False,False
+Transmission System,Axles G42,Generic Axles,BGRC-TRN-H6SA-JCP,2023-12-07,791.42,EUR,True,True,"Nord,BMV",True,True,False
+Transmission System,Gearbox W17,Generic Gearbox,BGRC-PERF-AYFP-6NG,2016-07-12,1921.89,EUR,True,True,"Feramborghini,Nord,Mecentley,WV",False,True,True
+Transmission System,Gearbox L89,Changes vehicle speed and torque.,BGRC-DRI-55IG-P7P,2016-08-23,256.27,EUR,True,False,Feramborghini,True,True,False
+Transmission System,Gearbox S90,Changes vehicle speed and torque.,BGRC-PERF-MUKG-U1M,2018-11-29,1694.57,EUR,True,False,"Feramborghini,WV",True,False,True
+Transmission System,Transmission (Manual / Automatic) C76,Generic Transmission (Manual / Automatic),BGRC-ELE-KEZ4-6R9,2021-11-26,1842.96,EUR,False,True,Mecentley,True,False,True
+Transmission System,Shift Linkage V16,Generic Shift Linkage,BGRC-DRI-2FCD-MDP,2022-04-12,795.98,EUR,True,True,"Nord,BMV,Feramborghini,WV,Mecentley",True,True,True
+Transmission System,Drive Shaft R80,Generic Drive Shaft,BGRC-TRN-G4N1-MS1,2018-12-11,874.68,EUR,True,True,"Mecentley,BMV,Nord,Feramborghini",True,True,False
+Transmission System,Differential R66,Generic Differential,BGRC-PERF-JDZU-IGX,2020-01-20,1679.99,EUR,True,True,"Feramborghini,Nord,BMV,WV,Mecentley",False,True,True
+Transmission System,Transmission R68,Transfers power from engine to wheels.,BGRC-DRI-HCVT-CQG,2022-04-19,1963.43,EUR,True,True,"Feramborghini,BMV,Nord,Mecentley",False,False,True
+Transmission System,Gearbox A13,Changes vehicle speed and torque.,BGRC-ENG-CNLI-5YG,2022-04-25,1416.71,EUR,True,False,"BMV,WV",False,True,False
+Transmission System,Axles C91,Generic Axles,BGRC-DRI-0DKE-7SA,2025-01-08,1550.23,EUR,True,False,"WV,Feramborghini",True,True,True
+Transmission System,Torque Converter B69,Generic Torque Converter,BGRC-DRI-LVSW-L96,2016-11-04,763.75,EUR,True,True,"Mecentley,WV,Nord,BMV,Feramborghini",False,True,False
+Transmission System,Drive Shaft O9,Generic Drive Shaft,BGRC-ELE-LH05-QJC,2020-03-09,1571.58,EUR,True,True,"Feramborghini,BMV,Nord",False,False,False
+Transmission System,Gearbox X28,Changes vehicle speed and torque.,BGRC-DRI-CYMS-T5C,2017-10-16,1456.11,EUR,False,True,"WV,Nord",False,True,False
+Transmission System,Clutch Plate Y54,Generic Clutch Plate,BGRC-ENG-RVM3-LJL,2023-02-24,1743.83,EUR,False,True,"Feramborghini,BMV,Nord",False,True,True
+Transmission System,Clutch Slave Cylinder E60,Generic Clutch Slave Cylinder,BGRC-BRK-83LG-YHC,2018-03-11,1895.26,EUR,True,True,"Feramborghini,BMV,Mecentley",False,True,False
+Transmission System,Clutch Plate I53,Engages and disengages power to transmission.,BGRC-COL-C7D2-0CH,2020-03-09,1933.21,EUR,True,True,"BMV,Mecentley,WV,Nord",False,True,True
+Transmission System,Differential H58,Generic Differential,BGRC-COL-RF6D-PCT,2021-10-06,1952.23,EUR,True,True,"BMV,WV,Feramborghini,Mecentley,Nord",False,True,True
+Transmission System,Transmission Cooler S64,Generic Transmission Cooler,BGRC-DRI-65PT-8N3,2021-09-26,680.53,EUR,False,True,Nord,True,True,True
+Transmission System,Clutch Master Cylinder B92,Generic Clutch Master Cylinder,BGRC-COL-TLA8-1YE,2024-05-22,92.16,EUR,False,True,"Feramborghini,BMV,Nord,WV",True,True,True
+Transmission System,Differential B79,Generic Differential,BGRC-DRI-BMBM-I49,2018-04-01,1209.59,EUR,True,True,Mecentley,False,True,False
+Transmission System,Clutch Master Cylinder H50,Generic Clutch Master Cylinder,BGRC-BRK-NTOM-F8P,2024-01-01,1374.06,EUR,True,True,"BMV,Nord,WV,Mecentley,Feramborghini",True,False,False
+Transmission System,Transmission Mount K79,Generic Transmission Mount,BGRC-BRK-HT8Z-PJS,2015-03-14,906.84,EUR,True,True,"Mecentley,BMV,Nord,WV",True,True,True
+Transmission System,Clutch Plate C23,Engages and disengages power to transmission.,BGRC-DRI-XQ9R-ZQ9,2020-06-20,1061.42,EUR,True,True,Feramborghini,True,True,True
+Transmission System,Drive Shaft E29,Generic Drive Shaft,BGRC-BRK-WGTL-RD9,2016-07-30,939.88,EUR,True,False,"WV,BMV,Nord,Mecentley,Feramborghini",False,True,False
+Drivetrain,Performance Clutch Kit M23,Handles more torque from tuned engines.,BGRC-COL-ZMLL-H9U,2016-07-14,280.55,EUR,True,True,"WV,Nord,BMV,Feramborghini,Mecentley",True,True,True
+Body and Exterior,Windshield U91,Front glass panel for visibility and protection.,BGRC-COL-ANT2-3B2,2015-12-10,711.77,EUR,True,False,"WV,Nord,Feramborghini",True,True,True
+Body and Exterior,Window Seals A34,Generic Window Seals,BGRC-ELE-XI16-65E,2015-12-18,911.22,EUR,False,True,BMV,True,True,True
+Body and Exterior,Antenna Q38,Generic Antenna,BGRC-SUS-QIZW-2PJ,2021-09-16,1798.06,EUR,False,False,"Nord,Feramborghini,BMV",False,True,False
+Body and Exterior,Hood / Bonnet V62,Generic Hood / Bonnet,BGRC-DRI-UVLY-RLG,2017-10-16,1118.61,EUR,True,True,"Mecentley,BMV,Feramborghini,Nord,WV",True,False,True
+Body and Exterior,Windshield Washer Pump U42,Generic Windshield Washer Pump,BGRC-BRK-7D0S-WM2,2018-05-25,682.55,EUR,True,True,Feramborghini,True,False,False
+Body and Exterior,Roof Rack F8,Generic Roof Rack,BGRC-TRN-N0WR-HIU,2020-05-03,254.28,EUR,False,True,"BMV,Mecentley,Nord,Feramborghini,WV",False,False,True
+Body and Exterior,Hood / Bonnet E43,Generic Hood / Bonnet,BGRC-TRN-BQ4N-T00,2019-11-03,1868.48,EUR,False,False,"BMV,WV,Nord,Feramborghini,Mecentley",True,False,False
+Body and Exterior,Fenders I45,Generic Fenders,BGRC-DRI-J2JE-Y3L,2015-11-17,706.75,EUR,True,False,"WV,BMV,Mecentley,Nord,Feramborghini",True,False,True
+Body and Exterior,Trunk J59,Storage compartment at rear of vehicle.,BGRC-DRI-AMBU-2DG,2020-11-13,1050.63,EUR,True,True,"Nord,WV,BMV",False,True,False
+Body and Exterior,Side Windows Z33,Generic Side Windows,BGRC-ELE-KN06-LSN,2025-10-09,840.9,EUR,True,False,"WV,BMV,Nord,Mecentley,Feramborghini",True,True,False
+Body and Exterior,Antenna C20,Generic Antenna,BGRC-BRK-UDAR-0Z1,2021-04-01,210.11,EUR,False,True,"WV,Nord,Mecentley,BMV",False,False,False
+Body and Exterior,"Bumpers (Front, Rear) M12","Generic Bumpers (Front, Rear)",BGRC-TRN-YJYF-DDO,2016-01-24,245.73,EUR,False,True,WV,True,True,False
+Body and Exterior,Side Windows H47,Generic Side Windows,BGRC-ENG-OTGC-1DD,2025-12-28,1976.14,EUR,True,True,"WV,Nord,BMV,Mecentley,Feramborghini",False,True,True
+Body and Exterior,Wiper Arms Z99,Generic Wiper Arms,BGRC-SUS-7H53-C54,2018-05-01,815.02,EUR,True,True,"BMV,Mecentley,WV,Feramborghini",True,False,False
+Body and Exterior,Window Seals N17,Generic Window Seals,BGRC-ENG-7SEN-0QB,2019-06-04,470.46,EUR,True,True,"Feramborghini,Mecentley,Nord,WV,BMV",True,True,False
+Body and Exterior,Windshield L46,Generic Windshield,BGRC-ENG-C8HF-C1S,2023-07-24,1017.34,EUR,True,True,"BMV,Nord,Feramborghini,WV,Mecentley",False,False,True
+Body and Exterior,Wiper Arms O6,Generic Wiper Arms,BGRC-ENG-VSVI-BI9,2022-12-09,1644.91,EUR,True,True,"WV,Feramborghini,BMV,Nord,Mecentley",True,True,False
+Body and Exterior,Side Mirrors T24,Generic Side Mirrors,BGRC-DRI-V1QM-9NR,2019-06-24,1060.01,EUR,True,True,WV,True,True,True
+Control and Comfort Features,Lane Assist System B77,Generic Lane Assist System,BGRC-BRK-JYBC-BP0,2022-05-02,487.85,EUR,True,True,BMV,True,True,False
+Control and Comfort Features,Power Windows Switches G20,Generic Power Windows Switches,BGRC-TRN-55VV-WZ9,2019-11-24,1165.3,EUR,True,True,Mecentley,True,False,False
+Control and Comfort Features,Power Windows Switches P84,Generic Power Windows Switches,BGRC-DRI-6599-LUW,2016-01-27,797.41,EUR,True,False,"BMV,Feramborghini",True,False,True
+Control and Comfort Features,Infotainment System C50,Generic Infotainment System,BGRC-PERF-CJ8F-NDV,2025-03-12,305.95,EUR,False,True,"WV,Feramborghini,Nord,BMV",True,True,True
+Control and Comfort Features,Infotainment System C47,Generic Infotainment System,BGRC-COL-Y2FC-5N1,2018-06-28,1251.21,EUR,True,True,Feramborghini,True,True,True
+Control and Comfort Features,Mirror Adjustment Switches L18,Generic Mirror Adjustment Switches,BGRC-SUS-QX7A-FE8,2025-03-15,652.86,EUR,True,True,"Nord,WV,BMV,Mecentley",True,False,True
+Control and Comfort Features,Parking Sensors P83,Generic Parking Sensors,BGRC-ELE-XLPK-NWO,2021-01-03,1444.39,EUR,True,True,"Feramborghini,WV,Nord",True,False,True
+Control and Comfort Features,Parking Sensors O42,Generic Parking Sensors,BGRC-SUS-P1NI-AYX,2021-03-27,1243.32,EUR,True,True,"Mecentley,WV,BMV,Feramborghini,Nord",False,True,True
+Control and Comfort Features,Adaptive Cruise Control Y37,Generic Adaptive Cruise Control,BGRC-ELE-SQL9-51F,2022-05-02,1240.83,EUR,True,True,"BMV,Nord,Feramborghini",True,False,True
+Control and Comfort Features,Cruise Control System D99,Generic Cruise Control System,BGRC-ELE-Z4DX-58G,2016-12-02,1346.74,EUR,False,True,Feramborghini,True,True,True
+Control and Comfort Features,Infotainment System T97,"Central interface for audio, navigation, etc.",BGRC-PERF-H0S1-KCL,2024-05-06,1962.31,EUR,True,True,"WV,Feramborghini,Nord",False,True,False
+Control and Comfort Features,Navigation System (GPS) D25,Generic Navigation System (GPS),BGRC-ELE-R0TH-QGD,2024-07-18,1995.97,EUR,True,True,"Nord,BMV,Mecentley,Feramborghini",True,False,False
+Control and Comfort Features,Parking Sensors J83,Generic Parking Sensors,BGRC-SUS-G1TF-BSP,2019-09-12,1397.89,EUR,False,True,"WV,Feramborghini,BMV",False,False,True
+Control and Comfort Features,Electronic Stability Control T93,Generic Electronic Stability Control,BGRC-COL-COBD-SGY,2023-04-02,1776.9,EUR,True,True,Mecentley,True,True,True
+Control and Comfort Features,Navigation System (GPS) L18,Generic Navigation System (GPS),BGRC-SUS-6FWJ-A5R,2022-05-28,979.45,EUR,True,True,"Mecentley,WV,Feramborghini",False,True,True
+Control and Comfort Features,Speakers K13,Generic Speakers,BGRC-ELE-K2TI-3H1,2018-07-28,265.35,EUR,True,False,"Mecentley,Nord,Feramborghini",True,True,True
+Control and Comfort Features,Infotainment System M12,"Central interface for audio, navigation, etc.",BGRC-DRI-Q5P5-Z8A,2018-02-21,1003.08,EUR,True,True,"BMV,Mecentley,WV,Feramborghini,Nord",False,False,False
+Control and Comfort Features,Electronic Stability Control A49,Generic Electronic Stability Control,BGRC-COL-ZXMN-MOO,2017-05-19,300.19,EUR,True,False,"Mecentley,WV,Feramborghini,Nord,BMV",True,True,False
+Control and Comfort Features,Speakers B57,Generic Speakers,BGRC-ELE-QH8P-E59,2017-09-02,854.61,EUR,False,True,"BMV,Mecentley,Feramborghini",False,False,True
+Control and Comfort Features,Power Windows Switches F26,Generic Power Windows Switches,BGRC-PERF-F3D5-SVA,2015-12-21,1865.98,EUR,False,True,BMV,True,False,True
+Control and Comfort Features,Electronic Stability Control F38,Generic Electronic Stability Control,BGRC-BRK-GTQF-23M,2024-08-17,1076.97,EUR,True,True,"WV,Nord,Feramborghini,BMV,Mecentley",True,False,True
+Control and Comfort Features,Infotainment System J36,"Central interface for audio, navigation, etc.",BGRC-SUS-DJCP-HHA,2023-05-08,1669.42,EUR,True,True,"Nord,Feramborghini,WV,BMV",True,True,False
+Control and Comfort Features,Mirror Adjustment Switches C18,Generic Mirror Adjustment Switches,BGRC-COL-4Z2L-SIR,2023-07-12,1094.39,EUR,True,True,"BMV,Feramborghini",False,True,True
+Control and Comfort Features,Mirror Adjustment Switches T15,Generic Mirror Adjustment Switches,BGRC-ENG-V0YH-UH9,2022-09-01,38.15,EUR,True,True,"Feramborghini,WV,Mecentley,Nord,BMV",True,False,True
+Control and Comfort Features,Climate Control Unit S99,Generic Climate Control Unit,BGRC-COL-QK6F-BE0,2017-07-21,1431.91,EUR,False,True,"BMV,Feramborghini,Mecentley,Nord",True,True,False
+Control and Comfort Features,Infotainment System J25,"Central interface for audio, navigation, etc.",BGRC-BRK-6HZW-2E5,2020-05-31,688.74,EUR,False,True,"WV,Feramborghini,Mecentley",True,True,False
+Control and Comfort Features,Blind Spot Monitor P15,Generic Blind Spot Monitor,BGRC-DRI-BON6-HAB,2023-03-14,1262.8,EUR,True,True,"Feramborghini,Mecentley,WV",False,True,True
+Control and Comfort Features,Lane Assist System J75,Generic Lane Assist System,BGRC-TRN-D6FC-8GX,2023-08-18,1883.13,EUR,True,True,"Feramborghini,BMV",True,True,True
+Control and Comfort Features,Mirror Adjustment Switches H35,Generic Mirror Adjustment Switches,BGRC-SUS-NW41-ET2,2016-03-11,236.43,EUR,False,True,Feramborghini,True,True,True
+Control and Comfort Features,Adaptive Cruise Control B53,Generic Adaptive Cruise Control,BGRC-DRI-Q4SU-F44,2015-10-06,102.81,EUR,True,True,"Mecentley,WV,Feramborghini",True,False,False
+Control and Comfort Features,Climate Control Unit D55,Generic Climate Control Unit,BGRC-ENG-BTRX-1KD,2022-11-22,937.12,EUR,True,True,"BMV,Feramborghini,WV,Nord",False,False,False
+Control and Comfort Features,Electronic Stability Control L6,Generic Electronic Stability Control,BGRC-SUS-6DD3-4ME,2021-02-24,912.41,EUR,True,True,"Nord,BMV,Feramborghini,Mecentley,WV",False,False,False
+Wheels and Tires,Hubcaps H49,Generic Hubcaps,BGRC-ELE-LSG3-08F,2024-05-15,1381.76,EUR,True,False,"BMV,WV,Mecentley",False,False,True
+Wheels and Tires,Wheel Bolts / Lug Nuts W64,Generic Wheel Bolts / Lug Nuts,BGRC-ELE-QS26-C25,2018-02-02,252.29,EUR,True,True,"BMV,WV",True,True,True
+Wheels and Tires,Tires D21,Generic Tires,BGRC-ENG-L8TO-9EX,2017-03-17,939.59,EUR,False,True,BMV,True,False,True
+Wheels and Tires,Rims / Wheels A10,Generic Rims / Wheels,BGRC-BRK-UW6B-NJR,2018-09-03,1877.13,EUR,True,False,Mecentley,False,True,False
+Wheels and Tires,Hubcaps K13,Generic Hubcaps,BGRC-COL-Z1F3-8SE,2021-07-15,122.3,EUR,False,True,"WV,Mecentley",False,False,False
+Wheels and Tires,Rims / Wheels A21,Generic Rims / Wheels,BGRC-ELE-374X-AGO,2017-08-29,530.6,EUR,True,True,"Nord,WV,Feramborghini",True,True,True
+Wheels and Tires,Valve Stems I79,Generic Valve Stems,BGRC-PERF-J647-NYR,2022-06-17,336.81,EUR,False,True,"Feramborghini,Nord,WV",True,True,False
+Wheels and Tires,Wheel Bolts / Lug Nuts O33,Generic Wheel Bolts / Lug Nuts,BGRC-PERF-CBBY-XRY,2021-07-01,588.46,EUR,True,True,"Nord,WV",True,False,False
+Wheels and Tires,Tires C72,Generic Tires,BGRC-ENG-Q82J-ZL1,2020-02-13,153.43,EUR,True,False,"Mecentley,BMV",False,True,True
+Wheels and Tires,Wheel Bolts / Lug Nuts M98,Generic Wheel Bolts / Lug Nuts,BGRC-ENG-6QXN-16J,2022-04-14,507.81,EUR,True,True,"WV,Feramborghini,Mecentley",True,True,False
+Wheels and Tires,Tires D24,Generic Tires,BGRC-TRN-5I72-38J,2024-12-19,943.89,EUR,True,True,"WV,Nord,BMV,Feramborghini",True,True,True
+Wheels and Tires,Valve Stems Q6,Generic Valve Stems,BGRC-ELE-XYDT-IKI,2018-03-21,335.31,EUR,True,True,WV,False,False,False
+Wheels and Tires,Valve Stems G73,Generic Valve Stems,BGRC-ELE-42L5-JP9,2017-11-03,1792.61,EUR,True,True,"Feramborghini,Mecentley,WV,Nord,BMV",False,True,True
+Wheels and Tires,Tire Pressure Monitoring Sensors (TPMS) H42,Generic Tire Pressure Monitoring Sensors (TPMS),BGRC-DRI-YHV3-SXI,2015-01-13,24.51,EUR,False,False,WV,False,True,False
+Wheels and Tires,Hubcaps F4,Generic Hubcaps,BGRC-TRN-O8RW-IN5,2016-08-22,1095.16,EUR,True,False,"WV,BMV,Mecentley",False,True,True
+Wheels and Tires,Hubcaps E6,Generic Hubcaps,BGRC-COL-X5FJ-6HX,2019-05-19,1121.65,EUR,True,True,Nord,True,True,True
+Wheels and Tires,Valve Stems U75,Generic Valve Stems,BGRC-ENG-A8M4-HN3,2021-09-08,1473.25,EUR,True,False,Nord,True,False,True
+Wheels and Tires,Valve Stems S87,Generic Valve Stems,BGRC-ENG-UW23-OJN,2018-03-08,1976.91,EUR,False,False,"Nord,Feramborghini,Mecentley",False,True,True
